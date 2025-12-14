@@ -1,4 +1,3 @@
-Here’s a README for the FastAPI PDF OCR extraction wrapper:
 
 ---
 
@@ -113,11 +112,10 @@ Example response:
 To run the server, use the following command:
 
 ```bash
-uvicorn main:app --reload
+uvicorn app2:app --reload
 ```
 
 The API will be available at `http://127.0.0.1:8000`.
 
 ---
 
-Let me know if you'd like me to modify or add anything!
