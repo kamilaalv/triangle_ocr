@@ -1,0 +1,155 @@
+===== Alp-Himalay çərçivəsində Azərbaycan neft-qaz geodinamikası.pdf | Page 1/8 =====
+Xülasa
+
+Müasir Azərbaycan ərazisi Alp-Himalay müxtəhərrik qurşağının içində yerləşərək, qədim Tətils okeanının aktiv və passiv kənar hövzələrinin geodinamik təkamintini daşıyır. Bu ərazi Cənubi Xəzər, Mesopotamiya və Abşeron-Balxanyanı daxil olmaqla, geniş miqyaslı neftli-qazlı layların formalaşmasına şərait yaratmışdır. Tədqiqatlarda Eosen və Maykop dövrlərinə aid qalımlıq və litofasiyaları xüsusiyyətləri, həmçinin Mezozoy-Paleogen neft-qazəmələgəlmə hövzələrinin model rekonstruksiyaları əsasında tektonik proseslərin kollektorlarda neft və qazların toplanması və yataqların yaranmasındakı həlledici rolu göstərilmişdir. Tangi-Bəsbərmək antiklinalının mürəkkəb, bir-birindən kəskin fərqlənən qırışıqlığı, Yertlə-Ağcabədi çökəkliyinin 120 km uzunluq və 40-50 km en dərəcəsində morfostruktur parametrləri, Kürdəmir-Saatlı-Lənkəran çökəklər zonasında Mezozoy çöküntülərində kiçik amplitudlu antiklinaların üstəgəlmə və Samaxı-Qobustan çökəkliyinin litostratigrafiyası ilə bağlı qeyri-müəyyənliklər hövzədaxili müxtəlifliyi vurğulayır.  Göstrtir ki, çöküntütoplama fasiyaləri (hiatuslar), regional diskordanlar və tektonik impulsların ardıcıllığı neft-qaz yataqlarının formalaşmasında əsas faktor kimi çıxış edir. Analitik nəticələri regionun enerji və yanacaq ehtiyatlarından Azərbaycan, Türkmənistan, İran, İraq, Suriya, Birləşmiş Ərəb Əmirlikləri və Qətər kimi dövlətlərin faydalanmasını geodinamikanın zaman-məkan ritmikasına bağlayır.
+
+Açar sözlər: Alp-Himalay qurşağı, Tətils okeanı, Cənubi Xəzər, Maykop, Eosen, antiklinal, çöküntütoplama fasiyesi, Abşeron-Qobustan-Qırşkaşmaz, neft-qaz sistemi.
+
+===== Alp-Himalay çərçivəsində Azərbaycan neft-qaz geodinamikası.pdf | Page 2/8 =====
+Giriş
+
+Alp-Himalay müxtəhrrik qurşağı global miqyasında litosfer plitələrinin konvergensiyasının ən tipik zonasidir və onun qərb seqmentində yerləşən Azərbaycan ərazisi geotektonik proseslərin çoxkomponentli təsirina məruz qalmışdır. Qədim Təts okeanının aktiv kənarları boyunca subduksiya, arx-arka dərinləşmə, akresion prizma formalamaşması və passiv kənarlarda termal subsidence, karbonat platformalarının inkişafı regionun paleocoğrafi palitrasını müəyyən etmişdir. Bu mühit geoloji zaman kəsiyində karbohidrogen (KH) məhsullarının və zəngin neftli-qazlı analitlərin yaranmasını təşviq etmiş, Cənubi Xəzər hövzəsi ilə birlikdə Mesopotamiya və Abşeron-Balxanyanı kimi vilayətləri qlobal enerji xəritəsində ona çıxarmışdır.
+
+Regional geodinamik şərait və Təts irsi
+
+Təts okeanının tədrican bağlanması və kontinental toqquşmalar Alp-Himalay oragenezinin ritminti formalaşdırmışdır. Aktiv kənar hözzalarında vulkanogen-çökmə kompleksləri, passiv kənarlarda isə qalın terrigen-karbonat ardıcıllıqları toplanmışdır. Xüsusilə, Oliqosen-Miosen dövrlərində Cənubi Xəzərin sürətli subsidentşiyası, gil kütlələrinin anormall qalın miqdarının çoxalması və üst litosferdə plastiklik artımı ilə şərtlənən qırılma, overpressing rejimi və palçıq vulkanizmi kimi hadisələrin zamini olmuşdur. Bu proseslər KH-lərin generasiyası, miqrasiyası və toplanması üçün "pancere"lər açaraq regionu yüksək potensialı etmişdir.
+
+Material və metodlar
+
+Tədqiqat çərçivəsində çoxamilli seysmik kəsilişlərin interpretasiyası, qamma-log, SP və rezistivlik karotajlarının inteqrasiyası, biostratiqrafik markerlər üzrə kaskin faza sərhədlərinin korrelyasiyası və Eosen-Maykop kompleksləri üçün qalınlıq, litofasiya və net-qum paylanma xəritələrinin tərtibi həyata keçirilmişdir. 1D/2D istilik axını modelləşdirməsi, vitrin reflektansı (Ro) və piroliz göstəricilərinə əsasən orqanik maddələrin termal yetkinliyi qiymətləndirilmiş, struktur rekonstruksiyalar (balanslaşdırılmış kəsilişlər) ilə diskordans səthyyələrinin tektonik impulslarla sıxronluğu test edilmişdir. Toplanmış verilənlər “sistem traktı” yanaşması ilə şelf-slope-abissal mühitlərin ardıcıllığını ayırd etməyə imkan vermişdir.
+
+===== Alp-Himalay çərçivəsində Azərbaycan neft-qaz geodinamikası.pdf | Page 3/8 =====
+Nötcələr: Hİrəzadaxıllı struktur-tektonik mövzüka
+
+1) Cənubi Xəzər-Mesopotamiya Abşeron-Balxanyam olacağı. Regionların hidrokarbon sistemləri ortaq Tətis mənşəli olsa da, basen istilik rejimi, subsidentis sidqəti və sizarmazlıqların effektivliyi baxımından fərqlənir. Cənubi Xəzərdə qalın Maykop gilləri (yerli olaraq 1500-8000 m-ə qədər) super-tutük funksiyası daşıyır; Mesopotamiyada isə əfsanəvi evaporiit mərtəbələri diapirizm və lokallaşmış təkolər yaradır.
+
+2) Azərbaycan neft-qaz sistemləri. Mezozoy-Paleogen ardıcıllığında mənbə süxurları kimi Maykop kompleksi (TOC 2-6%, HI 150-350 mg HC/g TOC, yerli Eosen-Paleosen gilləri, bəzi zonalarda isə Yura yaşlı qara şistlər iştirak edir. Kollektorlar kimi Eosen dayaz dəniz qumları (porozluq 12-24%, keçiricilik 50-500 mD) və Maykop dövrünün transqressiv qum dilləri önə çıxır; Mezozoyik karbonat platformalarında ikincilə məsaməlilik (dissolustiya, frakturasiya) ilə məhsuldarlıq artır.
+
+3) Yarıx-Ağcabədi çökəkliyi. Uzunluğu təqribən 120 km, eni 40-80 km olan bu struktur, Kür intermontan sisteminin cənub-qərq seqmentində diferensial subsidentis sidqəti və blok tektonikasının sinxron inkişafını aks etdirir. Eosen-Oliqosen intervallar boyunca qalınlıq cənub-qərbdən şimal-şərqə artıraraq 400-1200 m arası dəyişir; Maykop paketinin maksimal qalınlıq zonası isə çökəkliyin mərkəzi hissəsinə fəaliyyət göstərir. Net qum nisbəti Eosen üçün 0,25-0,45 diapazonunda qiymətləndirilir (Şəkil 3).
+
+4) Təngi-Bəsbərmək antiklinaloriumu. Bu antiklinal bir-birindən kəskin fərqlənən, həm sinistral, həm də destral komponentli qırılmalarla dilimlanmış mürəkkəb quruluşluğa malikdir. Qatlanma amplitudaları 80-600 m arasında dəyişir, qırılma səthləri boyınca hidrokarbon yığılması üçün lokal təkolər yaradır. Strukturun periklinal uclarında litoloji sızlama və diagenetik sementasiya nəticəsində kollektor keyfiyyətində lateral variasiya müşahidə olunur.
+
+===== Alp-Himalay çərçivəsində Azərbaycan neft-qaz geodinamikası.pdf | Page 4/8 =====
+5) Kürdamir-Saatlı-Lənkəran gömülmüş qalxımlar zonası. Mezazoy çöküntülərində kiçik amplitudlu (80-120 m) antiklinalalların ardıcılliyi bu zonada xasdır. Bu antiklinalar, Maykop çökməzlikləri altında Eosen qumlarnda və Yura karbonatlarında effektiv struktur tələlər yaradır. Gömülmüş qalxımların yuxarı səthində paleorellefin qorunması stratigrafik tələlərin formalaşmasına şərait verir.
+
+6) Şamaxı-Qobustan çökəkliyi. Yaşı və tərkibi tam təsaəqlənməmiş bəzi çöküntülər paketiəri burada qeydə alınır; bu qeyri-müəyyənlik, xüsusilə, Maykop öncəsi (Eosen-Paleosen) transqressiv fazaların lateral diskordansları ilə bağlıdır. Palçıq vulkanizminin yüksək intensivliyi sızdırmazlıq ardıcıllıqlarını lokal pozaraq anomalıı fluid axın yolları yaradır.
+
+7) Qərbi Xəzər dərinlik qırılması və Abşeron-Ceyrankeçməz periklinal çökəkliyi. Regional miqyasda izah olunur ki, Qərbi Xəzər dərinlik qırılması ilə əlaqəli tektonik səthlər Abşeron-Ceyrankeçməz periklinal çökəkliyi ilə əvəzlənərək struktural zonalanmanın dəyişir. Bu periklin, şimal-cənub istiqamətli yumşaq sinklinal trendi ilə Canubi Xəzər seysimetasiya mərtəbəsinə hidrogeodinamik aləqə yaradır.
+
+8) Kür dağlararası çökəkliyi. Şimalda Böyük Qafqazdan aydın morfo-struktur sərhəd xətti ilə ayrılan bu çökəklik əsasən Mezozoy komplekslərindən ibarət olub, cənuba doğru Paleogen-Neogenin tamamlayıcı “örtük”ləri ilə kontinuitet təşkil edir. Diferensial kompaksiya nəticəsində səmtşəkilli təbəqələr, xüsusilə, fasiyal keçid zonalarında müşahidə olunur.
+
+Eosen və Maykop dövrlərində çökmətoplanma rejimi
+
+Eosen boyuna dayaz dəniz məhiti üstünlük təşkil etmiş və qırıntı-gil ardıcıllıqları formalaşmışdır. Şəlf kənarı yaxınlığında enerji yüksək, nəf-qurum faizləri 40%-dən yuxarı, slop istiqamətində isə gil fraksiyası artmışdır. Maykop dövründə (Oliqosen-aşağı Miosen) isə gil basqınlığı ilə dərinləşən basen şəraiti yaranmış, lakin transqressiv-repressiv impulslar dayaz dəniz qum dənələri və delta frontu barmaqlıqları üçün periodik pəncərə açmışdır. Qalınlığa xarakterləri (Şəkil 4-5) göstərir ki, Eosen üçün maksimumlar Yevlax-Ağcabədi markazində, Maykop üçün isə Abşeron əntlaqlarında lokallaşır.
+
+===== Alp-Himalay çərçivəsində Azərbaycan neft-qaz geodinamikası.pdf | Page 5/8 =====
+Təktonik proseslərin və fatsiyaların rolu
+
+Neft-qaz yataqlarının formalaşmasında tektonik proseslər iki paralel mexanizm 
+vasitəsilə həlledici rol oynayır: (I) struktur tələlərin yaradılması (qırışma, 
+qalxma, çökmə blokları) və (II) flüido-geodinamik rejimin tənzimlənməsi 
+(overpressinq, çatlaq şəbəkələri). Bununla yanaşı, çöküntütoplanma 
+fatsiyaları - yəni 
+sedimentasiyanın keçidlərindəki hiatuslar və regional diskordanslar - 
+tələlərin 
+effektivliyini artırır; paleoreziya səthlərində kollektorların üstünü 
+sızdırmaz 
+gillər örtərək stratigrafik və kombinason tələlər 
+formalaşdırır; həmçinin, 
+fatsiyalar 
+termal tarixdə “soyuma - isinmə” epizodlarını modulyasiya edərək mənbə 
+süxurların yetkinlik 
+pəncərəsindən çıxma vaxtını sinxronlaşdırır.
+
+Karbohidrogen generasiyası, miqrasiyası və toplanması
+
+Məhsuldar 
+qıvrımın orqanik zənginliyi və hidrogen indeksinin orta yüksək dəyərləri 
+(yəni qaz+neft+kont) generasiya potensiali ortaya qoyur. 1D termal 
+modellasdirilmə, region 
+üzrə istilik axınının 45-62 mW/m2 diapazonunda dəyişdiyini, maksimal 
+temperaturun 120-1600 C (2,5-5,0 km dərinliklərdə) intervalında 
+kulminasiya etdiyini 
+göstərir. Birincili miqrasiya gillərin mikroçat sistemləri və diagenetik 
+dehidratasiya 
+frontları ilə sinxron baş verir; ikincili miqrasiya isə qırılma zonaları, 
+antiklinal 
+yamaç tranzitləri və litoloji keçid səthləri boyunca yönəlir. 
+Overpressinq 
+şəraitində paleo vulkanizmin eksperimental olaraq “valf” funksiyası 
+daşıdığı, 
+lakin genişmiqyası izdırmazlıq 
+hətlərinə səbəb olmadığı müəyyən 
+edilir; aksizə, 
+paleo kanallar lokal boşalmalar təmin etməklə regional təzyiq 
+rejiminin 
+bərpa olunmasına səbəb olur.
+
+===== Alp-Himalay çərçivəsində Azərbaycan neft-qaz geodinamikası.pdf | Page 6/8 =====
+Struktur vahidlərinin müqayisəli təhlili
+
+- Təngi-Besbarmaq və Kürdəmir – Saatl ı-Lankəran zonalarında antiklinalların amplitudda-dalğ uzanlığı münasibəti fərqli stress tarlələrinə işarə edir: birincidə qısa dalğalı, yüksək amplitudalı qırışma; ikincidə isə uzun dalğalı, kiçik amplitudalı qatlanma. Bu, təbəqələrin yaş paylanmasına da təsir edir.
+
+- Şamaxı-Qobustanda yaş və tərkib problematikası geofiziki sirait inversiyalarında əksini tapır; yüksək sürətli bloklar ehtimalən karbonat-silisifkasiyaya uğramış qatlarla bağlıdır.
+
+- Abşeron-Ceyrankeçməz prersklinalında maykop örtüyü altında Eosen kollektorlarının lateral kontinuiteti yüksəkdir, bu da böyük ölçülü (10-80 km) kombinasion təbəqələrə imkan yaradır.
+
+Ehtiyatların qeymətləndirilməsi və risk xəritələşməsi
+
+Qalınlıq, net-qaz, porozluq və su doyması xəritələrinin çoxlaylı inteqrasiyası ilə ehtiyat konturları modelləşdirilmişdir. Eosen qumları üçün orta porozluq 18-23%, su doyması 35-55%, qaz təktarı 1,2-2,1 t. Maykop gilli ə/lərinin porozluğu 1-4% olaraq götürülmüşdür. Səizdərmazlıq riskləri asasan diskordans səthlərinin aşınma dərəcəsi ilə korrelyasiya olunur. Naticə etibarilə, Yevlax-Ağcabədi mərzində orta ölçülü, baxıma dəyər təbəqələr; Təngi-Besbarmaq antiklinal sistemində isə daha kiçik, lakin yüksək keyfiyyətli kollektorları obyektlər prioritet seçimidir.
+
+Regional enerji geostrateji və resurslardan faydalanma
+
+Formalaşmış neftli-qazlı ayabatlardan Azərbaycan, Türkmənistan, İran, İraq, Suriya, Birləşmiş Ərəb Əmirləri və Qatar kimi ölkələr geniş faydalanır. Cənubi Xəzər və Abşeron önüylüi əsasında qurulmuş transmilli infrastruktur (boru kəmərləri, LNG-loqistika modelləri) Tətis irsinin müasir iqtisadiyyat diqqətini cəlb edir.  Mesopotamiya hövzəsinin rəng karbonat süxurları ilə Cənubi Xəzərin şelf-ortüklü yüksək basenli sistemi arasında tamamlayıcı sinerji regionun enerji dayanıqlığını dəstəkləyir.
+
+===== Alp-Himalay çərçivəsində Azərbaycan neft-qaz geodinamikası.pdf | Page 7/8 =====
+Müzakirə: model interpretasiyaları
+
+- Çökməüstəplanma fasiyalari asas faktordur: hiatuslar boyunca kollcktortarda ikincil masamaliyin qorunması, istı səthlərdə gil sıxlaşmazlığının inkişafı və parasekansların qisimasi ila yaranan stratigrafik sərhədlər yataqların "klid mexanizmi"dir.
+
+- Tektonik impulsların ritmikliyi: hər bir orqen mərhələ (kompressiya-sakitlik-kompressiya) basen migisiyasının nəticəsini təyin edir; antiklinal yamaclardakı fokuslanmış axınlar “sweet spot” zonalar yaradır.
+
+- Qalxımların rolu: gömülmüş qalxımlarda termal rejimin nisbatən aşağı olması neftin qazlaşma dərəcesini azaldır və maye fazanın üstünlüyünü saxlayır; bu isə yığılmaların viskoz evolyusiyasına təsir edir.
+
+Praktiki nəticələr və axtarış strategiyası
+
+- Eosen üçün: şimal-cənub trendli deltaik qum badanlarının ucları boyunca kombinasiyon təbəqə zonaları; karotajda yüksək GR diapozon və SP anomaliyaları ilə təminir.
+
+- Maykop üçün: gil basqınlıga baxmayaraq, transgressiv qurum dillarinin alt və üst sərhədlərində akustik impedans kontrastına əsaslanan seysmik atributlarla xarakterizə olunan linza tip kollektorlar.
+
+- Mezozoy karbonatları: frakturalanmış zonaların sıxlıq fiziki modelləri ilə (azimutal anizotropiya, AVO) analizi; CO2 və H2S izotoplarının geokimyəvi indikatorlarla əvvalcədən proqnozu.
+
+===== Alp-Himalay çərçivəsində Azərbaycan neft-qaz geodinamikası.pdf | Page 8/8 =====
+Nota
+1) Azərbaycan Alp-Himalay mühitində yerləşməklə Tetis okeanının aktiv və passiv kənar 
+i̇rsi̇ni daşıyır və bu i̇rs regionda neft-qaz si̇stemlərini̇n bünyadəri̇ni̇ formalaşdi̇ri̇r.
+2) Cənubi Xəzər, Mesopotamiya və Abşeron-Balaxanı kimi böyük neft-qaz 
+ehtiyatları i̇lə zəngi̇ndi̇r və bu ehtiyatlardan Azərbaycan, Türkmənistan, İran, İraq, 
+Suriya, BƏƏ və Qətər fəl surətdə faydalanır.
+3) Tektonik proseslər KH-lərin kollektorlarda toplanması və yataqların 
+formalaşmasında birbaşa rol oynayır; struktur tələlər və flui̇d-reji̇m bu təsi̇ri̇n əsas 
+kanallarıdır.
+4) Eosen və Maykop dövrlarinə aid çöki̇ntülər çöki̇ntü 
+zəngi̇nli̇kləri̇ni̇n hövzadaxili və regional vari̇ati̇siyasını nümayi̇ş etdi̇ri̇r; Maykop dövründə dayaz 
+dəniz qumları və gilləri̇ni̇n çökməsi üçün əlverişli şərait periodi̇k olaraq 
+formalaşmışdır.
+5) Yevlax-Ağcabədi, Təngi̇-Beşbarmaq, Kürdəmi̇r-Saatlı-Lənkəran, Şamaxı-Qobustan və 
+Abşeron-Cəyrançöl kimi struktur vahidlər hövzanìn mozaik quruluşa malik olduğunu 
+təsdiqləyir.
+6) Neft-qaz yataqları̀mın formalaşmasında əsas faktor çöki̇ntülərin toplanma fasi̇yələri̇ olduqda, 
+di̇skordans səthi̇ylə əlaqədar konfi̇qurasi̇ya və strai̇tqrafi̇k təbəqələrìm yaranmasını 
+şərtlənədi̇ri̇r.
+
+Tədqi̇qatlar 
+- Eosen-Maykop sərhədi boyunca seysmik atribut anali̇tikas (Spectral decomposition, 
+sweetness) i̇lə qum l̇inzaları̀mın xari̇tələşdi̇ri̇lması̇.
+- Paleoq vulkani̇zmi ətraflı overpressing monitoringi  üçün mi̇kro-seysmi̇k səbəkələrìni̇n 
+sixlaşdırı̀lması.
+- Gömülü̈ qalxmalarda Prakti̇kalanmış karbonàtları̀n anizotropiyasını̀n 3D seysmik 
+azimutal təhlili  ilə modelləşdi̇ri̇lması.
+- Di̇skordans səthi̇ylə geoki̇myəvi̇ si̇zma i̇ndi̇katorları̀mın (C1-C5, i̇zotoplar) 
+torpaq qazı̀ sorğuları̀ ilə i̇nteqrasi̇yası.
+
+Minnətdarli̇q
+Müəl̇li̇flər regi̇on üzrə toplanmış seysmi̇k və quyu məlumatları̀mı təmi̇n etmi̇ş geoloji 
+təşki̇latlara və saha komandalarìna mi̇nnətdarli̇ğl̇ı bildiri̇r.

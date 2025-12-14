@@ -1,0 +1,123 @@
+===== Qərbi Abşeronda Pliosen–Miosen seysmo-stratigrafiyası və karbohidrogen sistemi.pdf | Page 1/7 =====
+Qərbi Abşeronda Pliosen-Miosen çöküntülərinin seysmo-stratrafik modeli, çökünə şəraitinin 
+evolyusiyası və karbohidrogen sisteminin qiymətləndirilməsi
+
+Xülasə
+
+Qərbi Abşeron bölgəsində aparılan seysmo-stratifik tədqiqatlar göstərir ki, paleogen-
+miosen dövründən başlayaraq çökünə hövzəsinin geodinamiki inkişafı, karbohidrogenlərin əmələ 
+gəlməsi və yığılması üçün əlverişli şərait yaradıb. Lökbatan, Putə-Quşxana və Körgöz-
+Qızıltəpə sahələrində seysmik və geofiziki məlumatların müqayisəli təhlili ilə Miosen və 
+Pliosen yaşlı komplekslərdə seysmik horizontlar ayrılmış, uzunmüddətli fasillər və 
+dislokasiya mərhələlərini göstərən seysmik göstəricilər dəqiqləşdirilmişdir. Quyu 
+məlumatları ilə kalibrlanmış kalinliq xarakterləri çöküntütoplanmada lokal qalxmalar və 
+depocenterlərin yer dəyişməsi kimi xüsusiyyətləri üzə çıxarır. Paleoseysmogeoloji 
+kasiliklər çökünə rejiminin danizel-deltaik-anadeltaik ardicilliqla təkamül etdiyini, 
+Miosenin sonunda baş verən dislokasiya və qısman yuyulma nəticəsində regional diskordan-
+sın formalasdigini təsdiqləyir. Karbohidrogen sisteminin komponentləri baxımından Maykop 
+sistlərinin mənbə süxur potensiali, Məhsuldar qatın qumda-alevrolit kollektorları və üst 
+səviyyələrin gil örtük layları birlikdə effektiv generasiya-migrasiya-toplanma şərtlari 
+yaradır. Nəticələr kollektor və örtük laylarının proqnozlaşdırılması, ehtiyatların 
+kəmiyyətcə qiymətləndirilməsi və risklərin diferensiasiyası üçün praktiki cəhətdən təklif 
+edir.
+
+Açar sözlər: Qərbi Abşeron, seysmo-stratigrafiya, Miosen, Pliosen, Məhsuldar qat, kalinliq 
+xarakteri, paleogeologiya, karbohidrogen sistemi.
+
+Giriş
+
+Qərbi Abşeronun neft-qaz potensialının qiymətləndirilməsi üçün çökünə hövzəsinin 
+paleogeologiyası və stratiqrafiyası, seysmo-geoloji kəsilişlərin interpretasiyası və 
+seysmik atributların analizi həlledici əhəmiyyət kəsb edir. Tədqiqatın əsas məqsədi 
+Pliosen-Miosen aralığında çöküntülərin yığılma şəraitini seysmo-stratiqrafik çərçivədə 
+rekonstruksiya etmək, uzunmüddətli fasillərin (hiatus) və diskordans səthlərinin arealını 
+müəyyənləşdirmək, həmçinin kollektor-örtük-tələ sistemlərinin proqnozunu 
+təkmilləşdirməkdir. Bu məqsədlə seysmik profillərin analizi və quyu məlumatlarının 
+inteqrasiyası aparılmış, paleoseysmogeoloji kəsilişlər əsasında çökünə rejiminin zamanca 
+dəyişimi öyrənilmişdir.
+
+===== Qərbi Abşeronda Pliosen–Miosen seysmo-stratigrafiyası və karbohidrogen sistemi.pdf | Page 2/7 =====
+Regional geoloji qurğu
+
+Abşeron yarımadasının Qərb seqmenti Xəzər hövzəsinin qərb kənarı üzrə inkişaf edən çöküntülop/anma sisteminin bir hissəsidir. Paleogen dövründə açıq dəniz-şelf mühiti hakim olmuş, miosendə isə delftəik və şelf kanarı maililiklər boyunca turbiditik axınlar intensivləşmişdir. Miosenin sonuna doğru geniş arealada tektonik dislokasiya və səviyyə dəyişmələri səbəbindən sedimentasiyanın kəsilməsi və qismən eroziyaya məruzqalma müşahidə olunmuş, Pliosendə başlanğıcında isə Məhəssuldar qat tipli qalin klastik paketlərin sürətli toplanması ilə hövzə yenidən dolmuşdur. Qərbi Abşeronda geniş yayılmış palçıq vulkanizmi (xüsusən Çökəltən) dərinlikdən gələn maye və qazların vertikal miqrasiyası üçün keçirici zonalar yaradır və seysmik görüntünün lokallaşdırılmış şəkildə pozur.
+
+Material və metodlar
+
+Tədqiqatda 2D seysmik profillər (ümumi uzunluğu ~420 km) və üç blok üzrə məhdud 3D kublarından istifadə edilmişdir. Seysmik emal minimal fazalı dekonvolyusiya, sürət analizi və T-X miqyas düzəlişləri ilə aparılmışdır. Seysmlərdə dominant tezlik 20–45 Hz, orta sürətlər 2.1–2.8 km/s aralığında dəyişir. Quyu məlumatları (elektrik karotajları, sonic, densit, VSP) 11 quyu üzrə seysmik vaxt-dərinlik çevirmələri və litologiya kalibrlanması üçün tətbiq edilmişdir. Seysmo-stratigrafik interpretasiya üçün aşağıdakı əsas horizontlar izləndi: H1 (Üst Pliosen), H2 (Aşağı Pliosen – Məhəssuldar qat), H3 (Yuxarı Miosen diskordansı), H4 (Orta Miosen), H5 (Paleogen-Maykop). Atribut analizləri (RMS amplitude, sweetness, instantan faza) kollektor bədənlərinin fəsialı ayrılması və kanallı strukturlanın vizualaşdırılması üçün istifadə olundu. Paleoseysmogeoloji kəsilişlərdə base-level Həktuasiyalari üçün MFS (maksimum fliş səviyyəsi) və SB (sekvens sərhədi) səthləri şərt olaraq işarələndi.
+
+===== Qərbi Abşeronda Pliosen–Miosen seysmo-stratigrafiyası və karbohidrogen sistemi.pdf | Page 3/7 =====
+Saysmo-stratigrafik naticalar:
+
+Horizontların ayrılması və fasiyalər: H3 səthində seysmikdə yüksək davamlılıq, müsbət polariteli, lokal olaraq dalğa kölgəsi ilə müşayiət olunan güclü reflektor kimi seçilir və geniş areal da açısal diskordans xarakteri daşıyır. Bu səth boyunca amplituda kontrastlarının artması və refleksiya davamlılığının davamsızlığı uzunmüddətli sedimentasiya fazis Sidneyini və qısman yuyulmanı göstərir. H2 səviyyəsində kanallı, proqradasiyali klinallar müşahidə edilir; proqradasiya istiqaməti əsasən cənub-şərqdən şimal-qərbə doğru olub delta önünün ritmik gerilməsini aks etdirir. H5-H4 intervalında isə laylı, yüksək davamlılıq refleksiyaları Maykop tipli şistlərin dərin dənizel yığılma şəraitini göstərir.
+
+Fasiyal və qalınlıq dəyişkənliyi: Miosen çöküntülərinin ümumi qalınlığı 400–900 m arasında dəyişir və Cökəntənin cənub-qərbində lokal depocenterlərdə 1.1-1.3 s ikiqat keçid vaxtına çatır. Fosenin Məhsuldar qatında 800-1400 m ekvivalent qalınlıqlar qeydə alınır; Puta-Quşxana blokunda şimal kənardan cənuba doğru tədrici azalmanın olması delta önünün facies geri çəkilməsi ilə izah olunur. Qalınlığın azalması, H3 üzərində daha kəskindir və çöküntü toplanmada fasiyal əlaqələndirilir. Lokal çökəkliklər Korgöz-Qıziltəpə xəttinin şimalında daha yaxşı izlənir və seysmik atributlarda yüksək RMS amplitude zonaları kimi qış edir.
+
+Seysmik atributlar və kollektor proqnozu: Sweetness atributu üzrə yüksək dəyərlər lentelar H2 daxilində qumlu kanalların mövqelərini göstərir. Instantan fazanın kəskin döngələri kanal meandrlarının dönüş nöqtələrini, koherens atributu isə bu kanalları kəsən gənc normal qırılmaları izləyir. Qırılmaların vertikal atımı adətən 10–40 m aralığındadır və tələlərin formalaşmasında ikinci dərəcəli rol oynayır; əsas tələ tipi antiklinal-kombinə (stratiqrafik sönümlənmə + lokal qırılma) kimi qiymətləndirilir.
+
+===== Qərbi Abşeronda Pliosen–Miosen seysmo-stratigrafiyası və karbohidrogen sistemi.pdf | Page 4/7 =====
+Paleoseysmogeoloji kasılıslar və gələcək şöraitinin təkamüllə
+
+Paleoseysmogeoloji kəsilişlər göstərir ki, Orta Miosendə dərin şelf kanarı şəraitində turbidit axınları ilə formalasan alevrolit-qumtaşı ritmləri üstünlük təşkil edib. Yuxarı Mio­senin sonuna doğru reqional səviyyə düşməsi və tektonik yüksəlmə nəticəsində sedimentasiya kəsilmish, dənizlənmə bazisi aşağı enmiş, bəzi sahələrdə eroziya kanalları H3 səthini kəsmishdir. Pliosenin başlanğıcında sürətli subsidence və yüksək klastik təchizat səbəb­ilə proqradasiyali deltaic ardıcıllıqlar inkişaf etmiş, transqressiv-regressiv paketlər bir-birini əvəzləmişdir. Bu ardıcıllıqda kollektor layları əsasən kanallı qum­lar, bar və distributiv lobaların qumlu badanləridir; onların lateral keçidləri gil-lilə örtülərək effektiv stratigrafik örtük yaradıb.
+
+Sahə dərə nəticələr
+
+Lökbatan: Paleoq vulkanizmi ilə əlaqəli diaxron vent zonaları seysmikdə diffuz zəiflə­mə­lər yaradır, lakin H2 daxilində 0.8-1.1 s aralığında yüksək amplitude anomaliyaları kəsər hisses­lər­də kanallı kollektorların olmasını göstərir. Quyu kalibrlənməsi (L-3, (-7)) üzrə porozluğu 18-24%, keçiriciliyi 120-450 mD dərəcəsində qiymətləndirilmişdir. Ortük layı kimi yuxarıda 40-80 m qalın­lı­qda plastli gil seqmentləri izlənir.
+
+Puta-Qıx­qana: Şimal-qərb-cənub-şərq uzanımlı antiklinal trend boyunca H2 qalın­lı­ğında mar­ha­ləli artım müşahidə edilir, antiklinalın dor­uğu üzərində incəlmə və örtük gillərinin qalın­laş­ması təlanin saxlanıc effektivliyini artırır. Spektral dekompozisiyada 30 Hz kompo­nenti­n­də kanalların saxalanması daha aydın görünür. Potensial təlalər kombina tipli olub, qırılma ilə məhdudlaşan sönümlənmə təla­tə­ri ön plana çıxar.
+
+Körgöz-Qızı­topa: Burada yerli çö­kək­liklər aydın ayrılır, H3 səviyyə­sinin kənarında açılı­ran artması diskordan­sın gücünü göstərir. Miosen tur­bi­ditləri boyunca süni təzyiq zonaları koherensdə düşük dəyər­lər­lə işarələnir, bu da qırılma sıx­lı­ğının artdığını bildirir. Qalın­lı­ğın azalması çöküntülə­rməda fasillərə uyğundur və ehtimal olunan yuyulma cənub-şərq periklinalında maksimaldır.
+
+===== Qərbi Abşeronda Pliosen–Miosen seysmo-stratigrafiyası və karbohidrogen sistemi.pdf | Page 5/7 =====
+Kalinliq xarakterlari va depoqenterlerin lokalizasiyasi
+
+Miosen ücün tertib edilmis izoxaliq xarakterlari (quyu ve seysmik TWT-derinlik çevirmaleri 
+ile) göstərir ki, esas depoqenter Qərbdən Şərqə doğru uzanır ve Ləkəbatənin cənub-qərbində 
+maksimuma çatır. H3 üzərində kalinliğin kəskin azaldığı zonalar Qəltəpənin şimalında 
+genişlənir və buna uyğun litofasiyalarda daha çox siltit-gil keçidləri izlənilir. Pliosen 
+xarakterlarinda deltaik lobların ardcıl irəliləməsi səbəbindən saxlanılmış qalınlıq 
+anomaliyaları formalaşır; bu lobların hüdudlarında yüksək kollektor göstəriciləri 
+proqnozlaşdırılır. Kalinliq xarakterlarinin korelyasiyası amplitude xarakterlari ilə orta 
+səviyyədə uyğundur (r ≈ 0.62-0.81).
+
+Karbohidrogen sistemi: generasiya, miqrasiya və təbəqələr
+
+Mənbə süxurlar: H5-H4 intervalında Maykop tipli şistlər TOC 1.5-5.0% diapazonunda 
+qiymətləndirilir; potensial H/C dəyərləri və kerogen tipinin II–III aralığında olması 
+generasiya üçün əlverişlidir. Geotermal qradientin 30–38°C/km, istilik axınının 55–70 mW/m2
+olduğu qəbul edilmiş 1D basin modellərinə görə H14 səviyyəsi Ro 0.65–0.8% 
+daxil olaraq neft-qaz generasiyasına nail olub.
+
+Kollektor-örtük: H2 daxilində orta-yüksək poroziteli (16-24%) qumlar və yüksək plastiki 
+gillərdən ibarət ərintililər effektiv kollektor-örtük paketi yaradır. Mikrofaunal 
+məlumatların çatışmaması seysmik fasiyalərin əsəs göstəricilər kimi 
+istifadəsini artırmışdır.
+
+Tələlar: Antiklinal, qırılma ilə məhdudlaşan və stratiqrafik sönümlənmə tələlarının 
+kombinasiyası üstəlik təşkil edir. Miqrasiya yolları H3 diskordansı və fraktura zonaları 
+boyunca yuxarı istiqamətli olmuş, palçıq vulkanları ilə əlaqəli bəzi zonalarda diffuz 
+süzmələr ehtimal edilir. Risk amilləri kimi lateral fasiyal heterogenlik, qırılma ilə 
+təranən pancərə effektləri və örtük laylarının lokal incəlməsi qeyd olunur.
+
+===== Qərbi Abşeronda Pliosen–Miosen seysmo-stratigrafiyası və karbohidrogen sistemi.pdf | Page 6/7 =====
+Müəllifə
+
+Qarbi Abşeronda paleogen-miosen dövründən başlayaraq seysmo-geoloji inkişaf geniş arealla baş vermiş, Miosenin sonunda sedimentasiya hövzəsinin dislokasiyasi ilə müəyənləşən regional diskordans formalaşmışdır. Bu hadisə çöküntülərin qisman yuyulmasına, H3 səviyyəsində açısal uyğunsuzluqlara və aşağıdakı elementlərin reaktivlaşmasina gətirib çıxarmışdır: qırılma sistemlərinin yenilanmasi, antiklinal qırışma zonalarının güclənməsi və deltaik depoların yerdayişmasi. Naticədə Pliosendə başlanğıcında sürətli klastik akkumulyasiya və depocenterlərin dəyişməsi Məhsuldar qatın yüksək qalınlıqlı paketlərini yaratmış, tələlərin doldurulması üçün əlverişli pancərə açılmışdır. Seysmo-stratigrafik analiz kollektor-örtuk paketlərinin areal və vertikal paylanmasini modelləşdirməyə imkan verir və kollektorların proqnozu üçün atribut əsaslı göstəricilərin (sweetness, RMS amplitude) etibarlı proksi oldugunu göstərir. Çöküntü qalınlıgının azalmaları və hiatus zonaları üzrə xəritələr geoloji riskin makansal differensiasiyası üçün əsasdır.
+
+Praktik nəticələr və tövsiyələr
+
+- H2 daxilində kanal-lob sistemlərinin kənarlarında lokal yüksək poroziteli badanlar proqnoz edilir; bu zonalarda daha sıx seysmik şəbəkə və atribut analizi tövsiyə olunur.
+
+- H3 diskordansı boyunca tələlərin saxlanc qabiliyyətinin qiymətləndirilməsi üçün sızma indikatorlarının (AVO təhlili, qaz göstəriciləri) tətbiqi məqsədəuyğundur.
+
+- Lökbatanin vət zonalarında seysmik keyfiyyətin yaxşılaşdırılması üçün xüsusi emal (çoxlu diffuzion süzmə, anizotrop NMO) həyata keçirilməlidir.
+
+- Qalınlıq xəritələri ilə amplituda xəritələrinin birgə interpretasiyasi nəticəsində antiklinal-kombina tələlərdə prioritet hədəflər seçilməlidir.
+
+- Geokimyəvi kalibrleme üçün əlavə quyu nümunələri ilə Maykop sistlarının pirit və karbonat tərkibinin, həmçinin kerogen tipinin daha dəqiq təyini tələb olunur.
+
+===== Qərbi Abşeronda Pliosen–Miosen seysmo-stratigrafiyası və karbohidrogen sistemi.pdf | Page 7/7 =====
+Nəticə
+
+Tədqiqat göstərir ki, Qərbi Abşeron bölgəsində Pliosen-Miosen çöküntülarının seysmo-stratigrafik modeli çökmütopleanma dinamikasının və uzunmüddətli fasillərin təsiri ilə formalaşmışdır. Seysmik horizontlərin ayrılması regional diskordansların, xüsusən H3 səviyyəsindəki açısal uyğunsuzluğun, paleogeoloji şərtlərin əsas indikatoru olduğunu təsdiq edir. Lökbatan, Puta-Quşxana və Korgöz-Qızıltəpə sahələri üzərə qalınlıq və atribut xarakteristikaları lokal depomərkəzlərin və potensial kollektor loblarının yerini dəqiqləşdirir. 
+
+Karbonatlı sistemi baxımından Maykop sistrotinin generasiya potensiali, Məhsuldar qatın kollektor-örtük ardıcıllığı və təbəqələrin kombina xarakteri perspektivli hədəflər formalaşdırır. Miosenin sonunda baş verən dislokasiya və qismən yuyulma isə həm risk, həm də təbəqələrin yenidən tərtibi baxımından mühüm amildir. Bu çərçivə ilə kollektor və örtük laylarının proqnozu daha dəqiq aparılacaq, qaz-neft axtarış strategiyası məkansəl risk xarakterilənməsi əsasında optimallaşdırıla bilər.

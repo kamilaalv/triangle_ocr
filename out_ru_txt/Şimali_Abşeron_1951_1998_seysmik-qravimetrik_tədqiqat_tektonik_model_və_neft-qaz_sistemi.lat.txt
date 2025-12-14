@@ -1,0 +1,321 @@
+===== Şimali Abşeron 1951–1998 seysmik-qravimetrik tədqiqat tektonik model və neft-qaz sistemi.pdf | Page 1/22 =====
+M.M.KƏLİN DƏNİRON AKBATOPLUŞENİ SEJÇMİK DƏ PRAVLENİTNİK TƏDBİRLƏTİ: 1951-1998-Cİ İLLƏRİNƏ MƏTƏRİJALLARY ƏSASYNDA TEKTONİK MODEL, NEFT-QAZ SISTEMİ DƏ AYTMAJANYŞJANYN POJAGORİKASY
+
+===== Şimali Abşeron 1951–1998 seysmik-qravimetrik tədqiqat tektonik model və neft-qaz sistemi.pdf | Page 2/22 =====
+Xülasə
+
+Bu məqalədə Şimali Abşeron akvatoriyasında 1951-1998-ci 
+illər arasında aparılmış seysmik kəşfiyyat, gravimetriya və 
+struktur xarakteristikası qazma materialları inteqrasiya 
+edilərək regionun tektonik quruluşu, litostratigrafiyası və 
+neft-qaz sistemi əsas xüsusiyyətləri rekonstruksiya 
+olunur. 1951, 1963, 1967, 1975, 1976 və 1982-ci illərin 
+seysmik xəttləri, 1961-1963 və 1967-1970-ci illərin 
+gravimetrik məlumatları, 1969-1972-ci illəriə struktur 
+xəritəalma qazmaları və 1978-1984-cü illərin seysmik 
+profildənri əsasında yeni antiklinal qırxılar aşkar edilmiş, 
+dərin qazmaya hazırlıq görülmüş, 1981-ci ildən başlayaraq 
+geoloji model yaradılmışdır. 1982-1983-cü illərdə 
+Miosen-Paleogen və Mezozoy çöküntüləri üzrə toplanmış 
+məlumatlar məhdud süxurların yetişkənliyi və mikroşiya 
+kanallarını daha dəqiq öyrənməyə imkan vermiş, 
+1984-cü ildən sonra Qarabağ yatağının tədqiqi 
+intensivləşdirilmişdir. 1991-1994-cü illərdə qazılan axtarış 
+quyuları bir sıra neftli-qazlı obyektləri təsdiq etmiş, 
+1996-1998-ci illərdə xarici şirkətlər tərəfindən icra olunan 
+3D seysmik kəşfiyyat struktur geomtriyası, qırılma şəbəkəsini və reseravuarların lateral davamlılığı 
+dəyişdirilmişdir. Tədqiqatlar qətiyyətlə göstərir ki, Şimali Abşeron 
+bölgəsinin neft-qazlılığın əsasən Alt Pliosen, 
+Paleogen-Miosen və Mezozoy yaşlı çöküntülərlə bağlıdır; 
+Abşeron arxipelağının geoloji inkişafı Cənub-Şərqi Qafqazın 
+tektonik evolyusiyası ilə sinxron olub, cənub-şərq hissədə 
+yerləşən antiklinal qalxılar açıq asimmetriya nümayiş 
+etdirir. Şimali Abşeron qalxılar zonasının cənub-şərq 
+seqmentində lay paketlərinin effektiv qalınlığı 150-220 m 
+diapazonunda dəyişir. Qırmızı və Qala lay dəstələrində və 
+onlarla əlaqədar kollektor paketinrdə neft və qaz-kondensat 
+yığmaları müşahidə olunur. Kompleks analiz nəticəsində 
+mümkün P50 səviyyəsınə ilkin yeraltı ehtiyatlarının (sto...
+
+===== Şimali Abşeron 1951–1998 seysmik-qravimetrik tədqiqat tektonik model və neft-qaz sistemi.pdf | Page 3/22 =====
+Açar sözlər: Şimali Abşeron akvatoriyası, Abşeron arxipelağı, seysmik kəşfiyyat, gravimetriya, Qarabağ yaylağı, Qırmıqı, Qalла, alt Pliosен, Paleokеn-Miosen, Mezozoj, neft-qaz sistemi, 3D seysmik, AVO; inversiya.
+
+Giriş
+
+Xəzər dənizinin mərkəzi-cənub hissəsində yerləşən şimali Abşeron akvatoriyası Azərbaycan neft-qaz sənayesinin klassik tədqiqat poliqonlarından biridir. XX əsrin ortalarından bəri burada aparılan seysmik və gravimetrik tədqiqatlar təkcə struktur xəritəçiliyi baxımından deyil, həm də kompleks neft-qaz sisteminin mərhələli öyrənilməsinə xidmət etmişdir. 1951, 1963, 1967, 1975, 1976 və 1982-ci illərin profilləri antiklinal qalxımları ilə əlaqəli olaraq seysmik səciyyələndirmə, 1961-1963-cü illərdəki gravimetriya işləri regionun dərin tektonik seçilməsini konturlaşdırmış, 1969-1972-ci illərdə struktur xəritələmə qaydası və 1978-1984-cü illərdə seysmik kəşfiyyat bu tədqiqatların qeyri-müəyyənlikləri ilə əlaqələndirilmişdir. 1981-ci ildən etibarən geoloji modelləşdirmə, 1982-1983-cü illərdə Miosen-Paleokеn və Mezozoj çöküntülərinə aid yeni məlumatların toplanması ilə mənbə süxurların yetişkənliyi və mikrosıxıcılıq şəbəkəsi daha ətraflı öyrənilməyə başlandı. 1984-cü ildən sonra Qarabağ strukturu üzrə çəkilmə elmi-tədqiqat proqramı, 1991-1994-cü illərdə axtarış quyularının qazılması və nəhayət 1996-1998-ci illərdə xarici tərəfdaşların 3D seysmik tədqiqatları regional modelin ən yeni iterasiyasına çatdırılmışdır.
+
+===== Şimali Abşeron 1951–1998 seysmik-qravimetrik tədqiqat tektonik model və neft-qaz sistemi.pdf | Page 4/22 =====
+Bu megalejin məqsədi çoxillik geofiziki məlumatlar paketinin vərid interpretasiyа çərçivəsinə salmaq, Abşeron arxipelağının geoloji inkişafını Cənub-Şərgi Qafqazın tektonik tarixi fonunda təhlil etmək, Şimali Abşeron struktur аsimmеtriyаnın səbəblərini izah etmək və əsas rezervuar paketlərində (Türkmənı və Qalа) neft-qaz potensialını risklərlə birlikdə qiymətləndirməkdir. Çalışmada klassik seysmik interpretasiyа üsulları AVO, akustik inversiyа, atribut analizləri, gravimetrik və quyu geofizikası ilə inteqrasiyа edilmiş, geostatistik və geomekanik modellərdən istifadə edilmişdir.
+
+Regional geodinamik və tektonik mühit
+Abşeron arxipelağının geoloji inkişafı Cənub-Şərgi Qafqazın tektonik tarixi ilə sıx bağlıdır. Region Alp orojeniyasının təsiri altında kompressiyа və transtensioal rejimlərinin ardıcıllığını yaşamış, Xəzər hövzəsinin diferensial çəkilməsi ilə əlaqədar lokal qalxmalar formalaşmışdır. Şimali Abşeron akvatoriyasında müşahidə olunan şm-cş (ni-se) istiqamətli antiklinal strukturlar sağ cinah kəsilmələr və eyni zamanda normal qırılmalarla mürəkkəbləşmişdir. Yuxarıda qeyd edilən аsimmеtriyа xüsusiyyəti arxipelağın cənub-şərq seqmentində ifadəlidir: şimal-qərb qanadları daha mülayim, cənub-şərq qanadları isə kəskin və qırıqcam olur, bu da kompressiyа tektonikası ilə yanaşı çökmə vulkanizmi, lil diapirləri və yuxarıdan aşağıya doğru artan anisotropiyа seysmik görüntüsünün keyfiyyətinə təsir edən mühüm amillərdir.
+
+===== Şimali Abşeron 1951–1998 seysmik-qravimetrik tədqiqat tektonik model və neft-qaz sistemi.pdf | Page 5/22 =====
+Qravimetrik anomaliyalar Abşeron arxipelağı boyu -10...+8 mKal diapazonunda dəyişər; Volqer sahəsindən lokalların  pozisiyası nisbi qalxım səviyyələrinə uyğundur, neftcilik zonaları isə qalın lil və qumlarla doldurulmuş sinklinallarla əlaqəlidir. 1961-1963-cü illərdə çəkilən qravimetrik çəkilər əsasında 1967–1970-ci illərdə keçirilən gravikəşfiyyat çəkiləri ilə səsləşdirilmiş, lokal anomaliya tipləri təsnif edilmiş və tektono-stratiqrafik modellərlə əlaqələndirilmişdir.
+
+Metodologiya və məlumat bazası
+
+===== Şimali Abşeron 1951–1998 seysmik-qravimetrik tədqiqat tektonik model və neft-qaz sistemi.pdf | Page 6/22 =====
+Seysmik kəşfiyyat ilə geofiziki mərhələlər
+- 1951, 1963, 1967: İlk profil-sistem seysmik çəkilişlər qısa offsetli analoq avadanlığı ilə aparılmış, orta tezlik diapazonu 20-60 Hs olmuşdur. Məlumatların sadə təfsiri - 1975-1976: “Xəzərneftgazkəşfiyyat” trest tərəfindən reqional qeydiyyatla, 48 kanallı daşıyıcılarda və uzadıcı korreksiyası (DMO) ilə siqnal-səs nisbəti yaxşılaşdırılmışdır.
+- 1978-1984: Regional profillərin sıxlığı artırılmış, DMO (difraksiya olmayan miqrasiya əməliyyatı korreksiyası) və sonrakı mərhələdə Kirxhofff miqrasiyası tətbiq edilmişdir. Çəkilmiş xətlər arasında 2-2,5 km məsafə saxlanılmış, bu da struktur horizontlərinin (TWT və dərinlik) etibarlılığını artırmışdır.
+- 1982: Seçmə sahələrdə VSP (quyu daxili seysmik) və quyuölçmə ölçmələri ilə sürət modelləri kalibrlənmişdir.
+- 1996-1998: Xarici şirkətlər tərəfindən 3D seysmik kəşfiyyat. Tipik parametrlər: hava təzyiqli (ayrık) həcmi 2500-3000 in3, güllə başına 2000 psi; streamer sayı 6-8, hər biri 4800-6000 m; atış xətti aralığı 25 m, qəbuledici qrup intervallığı 12.5 m; bin ölçüsü 12.5x25 m; qatlama dərəcəsi 45-60; nümunə intervalı 2 ms; tezlik bandı 4-180 Hs. Emal: adaptiv dekonvolyusiya, f-k filtrasiyası, səs dalğası supressiyası, qradient tənzimləməsi, tam dəyişənli Kirxhoff/prestack time miqrasiyası (PSTM), seçmə sahələrdə prestack depth miqrasiyası (PSDM). AVO təhlili üçün offset sektyalaması və Aki-Riçards yaxınlaşması, akustik və elasto-akustik inversiya (model əsaslı) icra edilmişdir.
+
+===== Şimali Abşeron 1951–1998 seysmik-qravimetrik tədqiqat tektonik model və neft-qaz sistemi.pdf | Page 7/22 =====
+Qravimetrija və qravikeşfiyyat
+- 1961-1963: Dəniz üzərində kəmiyyuklu qravimetrik cihazlarla profil xəttləri üzrə ölçülər; refferens nöqtələr arası bağlanma səhvi <0.8 mKal; suveziyyəti və dərinlik fərziyyəsi. Bouguer korreksiyası üçün 2.3 kq/m3 orta sıxlıq
+- 1967-1970: Lokal anomaliya tiplərinin tədqiqi və xəritələnməsi; alçaq filtrləmə 35 km, üst filtrləmə 5 km miqyaslı səthi filtrlərlə regional və lokal komponentlərin ayrılması. Parametrik spektral analizlə anomaliya mənbələrinin dərinlik qiymətləndirilməsi.
+
+Struktur xəritələmə qazması (1969-1972)
+- Səthi və dayaz struktur konutuplarının dəyişdirilməsi üçün 600-1200 m dərinliyə qədər 9 struktur quyusu qazılmış; karotaj komplekti: SP, KR, ləd, lps, sonich, qalipit ölçmələri; karotaj seçmə nisbəti və götürülməsi (15-30%) və laboratoriya analizləri (porozite, keçiricilik, qıl mineralogiyası).
+
+Axtarma və kəşf quyuları
+- 1991-1994: 7 axtarış quyusu (NAX-1...NAX-7) 2600–5200 m arasına qədər qazılmış; dinamik sınaqlar (DST), quyu içi təzyiq-temperatur (PT) qısa müddətli axın testləri; OBM (neft əsaslı) ilə WBM (su əsaslı məhlul) alt intervallarda təzyiq-temperatur (PT) qısa müddətli axın testləri; 
+- 1997-1998: Qarabağ strukturunda 2 ədəd kəşf quyusu və 1 dayaq (appraisal) quyusu qazılmış; qaz-kondensat və yüksək neft axınları qeydə alınmış.
+
+Nəticələrin məsteriallaşdırılması
+Seysmik-qravimetrik-karotaj-nüvə-geo-kimyəvi məlumatlar modelləri Petrel/Kingdom platformalarında inteqrasiya edilmiş, cərəyan modeli qeydə alınmışdır. Fluid-kontakt müəyyənlik təhlili Monte-Karlo simulyasiyası ilə aparılmışdır.
+
+===== Şimali Abşeron 1951–1998 seysmik-qravimetrik tədqiqat tektonik model və neft-qaz sistemi.pdf | Page 8/22 =====
+Litostratigrafija)а əo fasijalar
+
+Şimali Abşeron akvatoriyasında neft-qaz sisteminin əsas 
+litostratigrafik kompleksləri aşağıdakılardır:
+
+- Alt Pliosen (Türmeki lay dəstəsi): Qumdaşı-alevrolit-marş 
+ardıcılları; deltayik-prodeltaik fasijalar üstünlük təşkil 
+edir. Effektiv rezervuar qalınlığı cənub-şərq seqmentində 
+150-220 m arasında dəyişir. Porozita 18-20% (ortalama 22%), 
+keçiricilik 100-800 mD; gil miqdarı 12-22%; sementasiya 
+müəyyənində olunur. Kapiliyar təzyiq əyriləri çoxfazalı drenajda 
+orta-yüksək düzəlmə tələbini kəsir.
+
+- Paleogen-Aşağı Miosen (Talla lay dəstəsi və 
+ekvivalentləri): Yarımdağ dəniz silsilələri, turbidit 
+kanalları; qumlu interval-lar 0.5-8 m qalınlığında ardıcıl 
+lentlər şəklində; porozita 14-22%, keçiricilik 30-250 mD; 
+gil mineralları illit-smektit qarışığı üstünlük təşkil edir. 
+Damcılı tipli bitum ləkələri və cavabvericilik floresans 
+signalları laboratoriyada təsdiqlənmişdir.
+
+- Mezazoy (Üst Yura-Aşağı Təbaşir): Karbonat-silisiklastik 
+qarışığı; bank-ramp sistemləri; lokal rif-kənarı keçidlər; 
+maye daxilolmalarının mikrotermometriyası 85–105°C 
+temperatur aralığında qabarcıq kollapsarını kəsir. 
+Porozita 8–16%, çatlarcanalama keçiriciliyini nəql edici rol 
+oynayır.
+
+===== Şimali Abşeron 1951–1998 seysmik-qravimetrik tədqiqat tektonik model və neft-qaz sistemi.pdf | Page 9/22 =====
+Mənbə suxurlap Paleoken-Miosen mərləri və Uot Tebaşir-Paleosen çulaxça zəngin kil laylarıdır. TOİ 1.2-3.5% (median 2.1%), hı 50-180 mkç/x TOİ; Ro 0.7-1.2% diapazonundadır; herokei tipləri çı-hı tarpıly (Paleoken-Miosen) və Hh tip (Uot Tebaşir). Piqment markerləri və n-alkan paylanmaları qaz-kondensatlı sistemlərdə daha yüngül fraksiyalarının üstün olduğunu göstərir. Termal tarix modelləşməsi 28-32° ç/km geotermal qradiyentli ilə üst-orta Miosenin generasiya pəncərəsinə 4-6 Ma əvvəl daxil olduğu göstərir.
+
+Tektonik quruluş və sərhəddərin əsas xarakteristikası
+
+Seysmik miqrasiya kəsilmələri antiklinal keçidlərin şd-şq istiqamətində uzanmasının, cənub-şərq qanadlarında qırılma laylanma izləndiyini ortaya qoyur. Regional əsas olub, ikinci dərəcəli tektonik hətlərin rezervuarların bloklanmasını səbəb olur. Strukturların effektiv lay qalınlıqları daha çox Qırımızı kompleksinə aiddir və bu, cekuntu mənbələrinin delta ocağında fokuslanması ilə izah olunur.
+
+Qravimetriya xəritələri seysmik antiklinal oxları ilə uyğundur, Voyuyer pozitivləri struktur nüvələrinə düşür. Lokal anomaliya tipləri 1967-1970-ci illərin qravkeşfiyyatı ilə "dənvari" (izometrik), "uzunsov" (xətti) və "yan-reflektor" (amalkam) kimi təsnif edilmiş, onların seysmik geometeriyası və korrelyasiyası aparılmışdır. Anomaliyaların spektral analizində 6-8 km-lik dərinlik komponentləri Mezozoy bazisi və Proterozoy-Paleozoy metamorfik kompleksləri ilə əlaqələndirilmişdir.
+
+===== Şimali Abşeron 1951–1998 seysmik-qravimetrik tədqiqat tektonik model və neft-qaz sistemi.pdf | Page 10/22 =====
+Mud vulkanları, lil diapirləri və qazlı şamların lokal mövcudluğu dərinlik migrasijalarında sürət modelini mürəkkəbləşdirir. 1982-ci ildə keçirilən VSP-lər bu zonalarda Vp 2400-2800 m/s, Vs 1200-1500 m/s diapazonunda kəsilmish, anizotropiya göstəricisi ε 0.05-0.12 aralığında olunaaraq strukturlar təpələrin yeri ±15-25 m dəqiqliklə dəyişdirilmişdir.
+
+Seysmik atributlar, AVO və impedans nəticələri 1996-1998-ci illərin 3D seysmik həcmi üzərində :
+- Koherens və strukturlar azimut atributları qırılma hətləri 35-60° azimutlarda aydınlaşdırır; qırılma qanadlarında 0.8-1.4 km/km2, şimal-şərqdə 0.3-0.6 km/km2;
+- Svetliness və RMS amplituda atributları qırılma turbidit lentlərinin xətti-qlobal formalı paylanması göstərir;
+- AVO analizində qırma üstü günləri üzrə əsasən IV tip davraniş (müsbət qradiyentli) müşahidə olunur; bəzi kanallarda zəif II tip reaksiyalar əldə edilmişdir;
+- Akustik impedansı nəticələri qumdaş intervallarında 6.5-8.5 MRayl, alevrolit-gil daşlarında 9.0-11.5 MRayl diapazonunda dəyişdiyini göstərir; elastiki interval üçün 1.65-1.75-ə qədər düşür.
+
+Bu nəticələr Qarabağ, eləcə də Abşeron arxipelağının cənub-şərq hissəsindəki dərya antiklinal taçlarda lateral davamlılığını nə dərəcədə olmasını xəritələməyə imkan verir.
+
+Qama, paroşiklik və geos xüsusiyyətləri
+
+===== Şimali Abşeron 1951–1998 seysmik-qravimetrik tədqiqat tektonik model və neft-qaz sistemi.pdf | Page 11/22 =====
+1991-1994-cü illər
+- NAХ-1: td 3680 m; Qırmıqı alt lentlərində 32 m effektiv qum; dst-də 16/64" boğaca 420 m3/gün neft, KOR 180 m3/m3; təzyiq 36.4 mPa, temperatur 108°C; su kəsirən 12%; suyun minerallaşması 98 k/l.
+- NAХ-2: td 4120 m; Qalla lay dəstəsində 18 m effektiv qum; qaz-kondensat axını 0.52 mmcf/d, kondensat 65 bbl/mmcf; CO2 0.8%, H2S <0.05%.
+- NAХ-3: td 5025 m; Mezozoy karbonatlarında çat-keçiricikli kollektor; axın zəifdir, 40-60 bbl/g su ilə; strukturun cənub-şərq qanadında çatlardan asılı heterogenlik təsdiqlənir.
+- NAХ-4: td 2950 m; dayaq qaz zonası 1450-1580 m intervallarda; litoloji rezistivlikdə yüksək anomaliya; təzyiq pikləri, rizerless VOP ilə təhlükəsizlik təmin edilmişdir.
+- NAХ-5-NAХ-7: qarpız nəticələr; NAХ-6-da Qırmıqı yuxarı lentində 24 m effektiv qum, 560 m3/gün neft+0.24 mmcf/g qaz; NAХ-7-də sınaq uğursuz, gil şişməsi ilə dolu dayanıqsız interval.
+
+1997-1998-ci illər (Qarabağ)
+- QAR-1: td 4350 m; Qırmıqı orta lentlər 28 m net; qaz-kondensat (88-90 %CH4, H2 2.1%, CO2 0.6%); qaç 3158 m, su kontakti qeydə alınmışdır; təzyiq 49.8 mPa; rezervuar temperaturu 123°C; AÖF 12.5 mmcf/g.
+- QAR-2: td 4720 m; Qalla kompleksində 14 m net, 35-38 API yağlı neft; su kəsirən 8-10%; OVJ 3615 m; PVT analizində bubbl başa düşmüş (rezervuar şəraitlərində).
+- QAR-2A (dəyərləndirmə): struktuk təhlil yaxın; daha təmiz qum (Vsh 12-15%); ABO ilə proqnoz edilmiş yüksək keyfiyyətli lentlər təsdiqlənmişdir.
+
+===== Şimali Abşeron 1951–1998 seysmik-qravimetrik tədqiqat tektonik model və neft-qaz sistemi.pdf | Page 12/22 =====
+Karotaj interpretasiyasında КР 45-75 l.s (qumlar), 95-125 АПы (gil-mərclər) ll/d 8-35 ohm-m (qumlar), 1.5-3.5 ohm-m (gil-mərclər), səciyyəvi Dt 85-105 ms/ft diapazonlarında dəyişir.
+Nüvə analizləri məhlul sementasiyasında erkən kalsitləşmə və seçmə dolomitləşməni göstərmişdir. Qırmeqqi turbiditlərində laminallı quruluş, rip-çurrent izləri və yan keçid lobları müşahidə olunmuşdur.
+
+Neft-qaz yataqları: kənarəgətirmə, miqrasiya və yığılma
+- Mənbə süxurlar: Paleogen-Aşağı Miosen mərlaları (TOC 1.6-3.2%, HI 80-160), Üst Təbaşir-Paleosen gil-mərcil paketləri (TOC 1.2-2.6%, HI 70-140). Roуchk-Eval C2 pikləri 2.5-6.0 mk kJ/x, Tmax 430-450°C.
+- Termal yetkinlik: 1D bekrafiуon modellərində kənarəgətirmə potensiallı 3.5-5.0 km ekvivalent dərinliklərdə, 6-8 Ma əvvəl; hazırda Qırmeqi-Qalla yığılmaları üçün tədricən miqrasiya: şaquli qırılma kanalları, layların kənarlarında çatlaq zonaları və laylararası daşıyıcı məsafələr (mərlərarası qum lentləri); yağ və qaz izotop korrelyasiyası (δ13C1, δ13C2) Qarabağ qalxmalarının mənbəsinə - Paleogen mərlalarına yaxınlaşdığını göstərir.
+- Təpələr: Struktura antiklinal təpələr üstünlük təşkil edir; yan tərəfdən qırılmalarla məhdudlanmış hipojezi bloklanma müşahidə olunur; bəzi zonalarda stratigrafik təpələr - turbidit loblarının mərc və alevrolit fonda laterlal incəlməsi.
+
+Örtük süxurlar qalın mərlalar və killərdir; sızma dərəcəsi 10-4-10-6 md; qapıllar giriş təzyiqi 0.8-1.6 mPa. Regional miqyasda Qırmeqi və Qalla kompleksləri üçün sızmazlıq yetərlidir, lakin qırılma açılma fazalarında lokal sızıntılar və qaz sızması mümkündür.
+
+===== Şimali Abşeron 1951–1998 seysmik-qravimetrik tədqiqat tektonik model və neft-qaz sistemi.pdf | Page 13/22 =====
+Qırmeqi və Qalla lay dəstələri: rezervuar keyfiyyəti və nəqliyyat
+
+Qırmeqi lay dəstəsi deltaik-turbidit sistemlərinin ardıcılğıdır. 3D seysmik atributlar əsasında xəritələnmiş əsas loblar 0.6-1.2 km enində, 2.5-5.0 km uzunluğunda olub, qum təmizliyi 78-88% diapazonundadır. Net-to-kros 0.42-0.68; porizitelər (f) 18-28%; keçiricilik (k) lok-normal paylanır, median 220 md., 90-cı persentil 720 md. Kapillər təzyiq əyrilərinə görə kritik su doyumu 0.22-0.28. Qavlı intervallarda Vp/Vs 1.66-1.74.
+
+Qalla lay dəstəsi daha incə lentli və heterogendir. Net-to-kross 0.25-0.45; f 14-22%; k median 90 md; gil tərkibi 18-32%. AVO cavabı zəif-orta; akustik kontrast nisbətən aşağıdır. Rezervuar mühəndisliyi baxımından Qalla layları kommunikasiya məhduddur, relyefə bağlı drenaj planlaması tələb olunur.
+
+Abşeron arxipelağının geoloji minəfəsi və Şəxdəniz - Şərqi Qafqaza enazə
+
+Paleotektomik rekonstruksiyalar göstərir ki, Abşeron arxipelağı Cənub-Şərqi Qafqazın sinxron olaraq Miosen sonu-Pliosen əvvəllərində daha sürətli differensial çökmə mərhələsinə daxil olmuşdur. Bu mərhələdə gil aхиları və diaпиризм intensivləşmiş, antiklinal qollarının seqmentləşməsi baş vermişdir. Pliosenin əvvəllərində denudasiya-çökmə balansındakı dəyişikliklər deltaik sistemlərin sürətli proqradasiyası üçün şərait yaratmış, Qırmeqi qumlarının qalın və fasiləsiz paketlər şəklində toplanmasına səbəb olmuşdur. Alt Pliosен lay dəstələrində 150-220 m qalınlığ diapazonu məhz bu proqradasiyanın cənub-şərqi seqmentində fokuslaşması ilə izah olunur.
+
+===== Şimali Abşeron 1951–1998 seysmik-qravimetrik tədqiqat tektonik model və neft-qaz sistemi.pdf | Page 14/22 =====
+Mesozoj karbonat platformalarının təməl rekonstruksiyasının dərin seysmik reflektorlarında izlənir; Yuxarı Təbaşir dövründən başlayaraq mərhələli rift-soba (sahə) keçidləri müşahidə olunur. Bu keçidlər sonrakı dövr turbidi sistemlərinin paleoreльеfinə ilkin şərtlər yaratmışdır.
+
+Qarabağ strukturunun qeyd olunmuş nəticələri
+1984-cü ildən sonra Qarabağ strukturunun qeyd olunmuş elmi-tədqiqat işləri əsəri ilə 1991-1994-cü illərdə regionda qazılan axtarış quyularının nəticələri ilə birləşdirildikdən sonra 1997-1998-ci illərdə iki kəşf quyusunda kommersiya əhəmiyyətli axınlar alınmışdır. Qarabağ antiklinali asimmetrikdir: cənub-şərq qanadı qırılmalarla kəsilib və həm də dikdir, şimal-şərq qanadı isə mailidir. Qırma kompleksi əsasında əsas yığılma struktur təcine yaxın yərləşir; Keç Triasa 3150-3180 m aralığında stabil xəttlərlə izlənir, Qalacıq kompleksində OYÇ 3600-3620 m diapazonunda qeyd olunur. Lay təzyiqi gradienti 0.14-0.16 bar/m; anomaliyə əmsalı 1.3-1.5 (overpressur). Fluid nümunələrinin PVT analizində qazın nisbi sıxlığı 0.60-0.68, neftin APİ 35-42; QOR 150-420 m3/m3.
+
+Seysmik-inversiya xəritələrində Qarabağ təcine uyğun aşağı impedans anomaliyası 6.2-7.1 MRayl diapazonunda, koherent koridorlar boyu qırılma koridorları aydın görünür. Bu qarag struktur qalınlığında lokal içərisində mümkündür. Bununla belə, qırılmalar çoxu paleotektonik dövrlərdə bağlanıb və sızdırmazlıq qismən bərpa olunmuşdur.
+
+===== Şimali Abşeron 1951–1998 seysmik-qravimetrik tədqiqat tektonik model və neft-qaz sistemi.pdf | Page 15/22 =====
+Qravimetrik anomaliyalar və interpretasiyası
+1961-1963 və 1967-1970-ci illərin qravimetrik xəritələri seysmik interpretasiya ilə üst-üstə salınırqda:
+- Lokal pozıtiv anomaliyalar antiklinal nüvələrlə uyğunluq təstiqləyir, amplituda 3-6 mKal;
+- Neqativ depressiyalar sinklinal səthləri düşür, -4...-8 mKal;
+- Spektral dekompozisiyada 2-4 km dərinlik komponentləri Pliosen-Miosen baza səviyyələrinə uyğundur;
+- Qravimetrik qradiyentlərin kəskinləşdirici xətləri seysmikdə qırılma zonaları ilə korrelyasiya olunur.
+
+Bu uyğunluq struktur xəritələrinin dərinlik çərçivəsinin verifikasiyasıyla həddən artmışdır. Voku yer sahəsində müşahidə olunan izometrik pozitivlər "dengevari" anomaliya tipinə, uzunsov pozitivlər isə antiklinal ox boyunca uzanan "xətti" tipə aid edilmişdir.
+
+Geomekanika və quyu mühəndisliyi
+Gücü dayanaqlı modellərdə süxurların mineraloji tərkibi (illit 45-60%, smektit 20-35%, kaolinit 5-10%) ilə əlaqədar şəkildə potensiallı orta-yüksək gilləndirmək mümkün olur. Çox dərin dayanaqsızlığı xüsusilə alevrolit-gil keçidlərində, 2200-2800 m intervallarında qeyd olunur. Minimum üfüqi gərginlik qradiyenti 0.95-1.10 psi/ft; qırılma qradiyenti 1.60-1.85 psi/ft. Lamellərin reologiyası üçün KÇL-polimer sistemləri və ya qismən OBM təsirə olunur. Qaz-kondensat zonalarda H2C izomerləri minimaldır (<0.1%), lakin H2S 0.5-1.2% aralığında dəyişir; korroziyanın qarşısı üçün inhibitorlar tətbiq edilməlidir. Şallow-kas zonaları (1200-1600 m) litoloji xüsusiyyətləri ilə əvvəlcədən identifikasiya edilməli, rezervess mərhələdə real vaxt seysmik (СВД) üsulları ilə monitoring aparılmalıdır.
+
+===== Şimali Abşeron 1951–1998 seysmik-qravimetrik tədqiqat tektonik model və neft-qaz sistemi.pdf | Page 16/22 =====
+Quyularda temperatur 100-130˚C diapazonunda olduğuna görə elastomer sızdırmazlıq elementləri (paçkers, O-rinks) və sement tərkibi (silika əlavəli) bu şəraitə görə optimalaşdırılmalıdır. Sementin mikrosızdırmazlığını azaltmaq üçün səksmikdə müəyyən edilmiş qırılma zonalarında genişlənən sement məhlulları təvsiyə edilir.
+
+                                         Kəşf edilməmiş risk xarakteristikası və risk xarakterizasiyası
+Qırmağı nə Gala komplekslərinə P90-P50-P10 ehtimallı həcmi qiymətləndirmələri aşağıdakı kimi ümumiləşdirilir:
+- Qırmağı (bütün strukturlar üzrə): Nət areal 24-38 km2; orta qalınlıq 24-36 m; ф 0.22; Co 0.62; ФВФ 1.35; nəticədə st.yığ. P50 ≈ 85 mmbbl (P90-P10: 55-140 mmbbl).
+- Gala: Nət areal 12-20 km2; orta qalınlıq 12-18 m; ф 0.18; Co 0.58; ФВФ 1.30; st.yığ. P50 ≈ 28 mmbbl (P90-P10: 15-50 mmbbl).
+- Qaz-kondensat (Qırmağı qazlı qanadlar): qırmaq P50 ≈ 0.75 TçF (P90-P10: 0.45-1.20 TçF); uç.qaz 45-85 bap/mmçF.
+
+Risk faktorları:
+- Struktur riski: orta-aşağı (3D səksmik ilə tac dəqiqliyi ±15-25 m);
+- Rezervuar riski: orta (heterogenlik, material davamlılıq dəyişkəndir);
+- Sızdırmazlıq riski: lokal, qırılma koridorları boyunca artır;
+- Yetişkənlik və təchizat riski: aşağı-orta (kəmiyyət göstəricilər müsbət).
+
+Risklə çəkilmiş kəsənlərin dəyər nisbətlənməsinə ümumi uduz ehtimallı 0.34-0.48 diapazonunda qiymətləndirilir.
+Atribut-risk inteqrasiyasında sweetness və inversiya ilə xarakterizə olunan aşağı impedans zonaları "yaşıl" prioritet sahələr kimi ayrılır.
+
+===== Şimali Abşeron 1951–1998 seysmik-qravimetrik tədqiqat tektonik model və neft-qaz sistemi.pdf | Page 17/22 =====
+Ətraf mühitdə yaşayış məhəlləri
+
+Dəniz dərinlikləri 60-150 m arasında dəyişir; mövsümi dalğa hündürlüyü nə 0.6-2.5 m; külək 8-16 m/s; qış aylarında su temperaturu 6-26° aralığında. Səs-küy və dəniz canlılarının hərəkət dənizləri nəzərə alınaraq 3D səsik aтыş pəncərələri bioloji məsələlərlə razılaşdırılmışdır.
+
+Palçıq tullantıları üçün qabalı dənizə sistemləri və monitorinqi, снарядlarınıн operativ aşkarlanması (сниффер дронлар, флуоресəнс sensorları) və fövqəladə hallar üçün qabatma prosedurları işlənmişdir.
+
+===== Şimali Abşeron 1951–1998 seysmik-qravimetrik tədqiqat tektonik model və neft-qaz sistemi.pdf | Page 18/22 =====
+Neyçolelərin müallimərok
+- 1951–1982-ci illər seysmik mərhələləri: Az ofsetli, aşağı bantlı məlumatlar struktur skeletini müəyyənləşdirməyə yetərli olmuş, lakin qırılma şəbəkəsinin təfərrüatı və rezervuar fasiyalarının ayırd edilməsi üçün məhdud idi. Buna 3D torunun planlanmasında nəzarətedici rol oynamışdır.
+- 1961–1970-ci illər gravimetriyası: Dərin tektonik çərçivəni konтуруşdurmuş, seysmik interpretasiyanın dərinlik çərçivəsinin doğrulanmasına xidmət etmişdir. Lokal anomaliyaların tiplərinin təsnifatı sərfəli struktur prioritetləşdirmələr üçün baza olmuşdur.
+- 1969–1972-ci illər struktur qazması: Dayaz struktur qazmaları dəyişilmiş, qısa karotaj paketləri ilə litologiya modelləri kalibasiyası edilmişdir. Bu mərhələ dərin qazma qazıntılarına nəzarət kimi xidmət edilmişdir.
+- 1978–1984 seysmik sərmələşdirmə: Region üçün ilk vacib ÜDT modelinin etibarlılığı əhəmiyyətli dərəcədə artmışdır.
+- 1982–1983 Miosen-Paleogen və Mezozoy məlumatları: Məntəqə süxurlarının yetişkənliyi və mikrosüxurların məsaməliliyi barədə daha keçiricilik potensialını gündəmə gətirmişdir.
+- 1984 sonrası Qarabağ fokusu: Struktura dərinlik araşdırmalarının nəticəsində, 1997–1998-ci illərdə qazılan quyularda kommersiya əhəmiyyətli neft və qaz-kondensat yataqları tədqiq olunmuşdur.
+- 1996–1998 3D seysmik: AVO və inverisya əsasında rezervuarın xəritələnməsi və risk hesablanmasının yetkinləşdirilməsi, gələcək qazma planlaması üçün yüksək dəqiqlikli geoloji modeli yaradılmışdır.
+
+===== Şimali Abşeron 1951–1998 seysmik-qravimetrik tədqiqat tektonik model və neft-qaz sistemi.pdf | Page 19/22 =====
+Asimmetriyanın səbəbləri: cənub-şərq qanadlarda daha dik geometriya kompres­siv rejiminin ənumulu təsiri, çöküntü yükünün qeyri-bərabər paylanması və cill dairələri ilə əlaqədar mexaniki zəiflə­mə zonaları ilə izah edilir. Qalınlığının 150-220 m diapazonunda dəyişməsi Qırme­ki deposenional mərkəzlərinin cənub-şərqdə fokuslaşmasını göstərir.
+
+Qırme­ki və Qalla lay dəstələ­rindəki neft-qaz yığmaları: Qırme­ki daha yüksək məhsuldarlıq potensia­lı göstərir; Qalla isə əlavə imkanlar təd­dim etsə də, heterogenlik və sızdır­ma­lıq hətlərinə görə seçmə zonalı işlənmə tələb edir.
+
+Gələcək işlər üçün vəzifələr
+- Yüksək dəqiqlikli PSDM: Dəniz dibinin mürəkkəb topoqrafiyası və sürət anizotropiyası nəzərə alınaraq seçmə sahələrdə tam həcmdə PSDM işlətsin.
+- Qırılma mexanikası: Elastik inver­si­ya və mikroseysmik metodlarla qırılma koridorlarının aktivlik tarixçəsi təd­qiqləndirilsin.
+- Geoçəkil­mə (geostatistika) : Qırme­ki turbi­dit lobl­ları üçün çox­dəng­li statistik model­lərlə net-to-kross və ф/к sahələri yenilensin.
+- Geofiziki-izotop inteqrasiyası: Qaz-qaz-kondensat korrelyasiyası dərin mənbə süxurları ilə yenidən təd­qiq edilsin.
+- Geome­xa­ni­ka və qazla: Reaktiv cill zo­na­ları üçün OEM optimizasiyası, məhlul kimyası və real vaxt mexaniki spektr ana­lizləri həyata keçirilsin.
+- Ətraf mühit: Dəniz biomüxtəlifliyinə minimal təsir üçün səs emissiyası optimallaşdırıl­sın, selin/sızıntının operativ aşkarlan­ması üçün sensor şəbəkələri quraşdırıl­sın.
+
+===== Şimali Abşeron 1951–1998 seysmik-qravimetrik tədqiqat tektonik model və neft-qaz sistemi.pdf | Page 20/22 =====
+Nəticə
+
+Şimali Abşeron akvatoriyasında 1951-1998-ci illər arasında aparılmış seysmik və qravimetrik tədqiqatların, struktur xəritələmə qazmalarının və axtarış quyularının inteqrasiyası qaz sisteminin kompleks şəkildə ortaya çıxmasına səbəb olmuşdur. Tədqiqatlar nəticəsində:
+
+- Regionun tektonik xüsusiyyətləri dəyişdirilmiş, yeni antiklinal 
+qırxımlar aşkar edilmiş, strukturun asimmetriyasının səbəbləri 
+izah olunmuşdur;
+
+- Abşeron arxipelaqının geoloji inkişafı Cənub-Şərqi Qafqazla sinxron hərəkətlər fonunda yerinə yetirilmişdir;
+
+- Qırməki və Qala lay dəstələrində rezervuarların 
+qalınlığı, keyfiyyəti və lateral davamlılığı xəritələnmiş, cənub-şərq seqmentində 150-220 m. effektiv qalınlıq 
+təsdiqlənmişdir;
+
+- 1991-1994 və 1997-1998-ci illərin qazma nəticələri neft və qaz-kondensat yataqlarının təsdiqlənməsi, Qarabağ strukturunda 
+kommersiya əhəmiyyətli axınlar əldə olunmuşdur;
+
+- 1996-1998-ci illər 3D seysmik tədqiqatları ilə AVO və 
+sürətində 50-120 mmbl neft və 0.5-1.2 Tçf qaz 
+diapazonunda qiymətləndirilmişdir.
+
+Bu nəticələr Şimali Abşeron qırxımlar zonasının cənub-şərq 
+hissəsində gələcək axtarış və dəyərləndirmə qazmalarının 
+planlaşdırılması, nəticələrin ehtiyatlarının mərhələləşdirilməsi üçün 
+etibarlı elmi-texniki baza yaratdı. "Xəzərneftgazgeofizika" trestinin 1975-ci ildən sistematik 
+apardığı seysmik işlərdən başlayaraq xarici tərəfdaşların 3D seysmik proqramları ilə başa çatdırdığı çoxillik məlumat xəzinəsi 
+regional neft-qaz potensialının açılmasında mühüm rol 
+oynamışdır.
+
+===== Şimali Abşeron 1951–1998 seysmik-qravimetrik tədqiqat tektonik model və neft-qaz sistemi.pdf | Page 21/22 =====
+Ədəbi D. ZD seysmik əməl parametrlerinin xüsusiyyəti
+
+Nümunə intervalı: 2 ms; qeyd vaxtı: 6 s.
+
+Vant filtri: 4-8-180-200 hz; notch filtri: 50 hz.
+
+Adaptiv dekonvolyusiya: spayk intervalı 240 ms, sesbasdırma faktoru 0.6.
+
+Kecikmə-gradient düzəlişləri: sualtı çoxqatlarının
+supressiyası üçün Radon domeni.
+
+PSTM: surət modelə 3 iterasiya, qırıntı düzəlişi (anti-aliас) adaptiv.
+
+PSDM (seçmə satelter): tik anizotropiya modeli, ε=0.08, δ=0.04 ilkin; 2 iterasiya tomoqrafiya.
+
+AVO: Ofset sektorlama 0-1000 m, 1000-2500 m, 2500-4500 m; Aki-Riçards qısa forması.
+
+Akustik inversiya: model əsaslı, şavellet intervalı 28 ms; şaquli korrelasiya 0.85.
+
+Elastik inversiya: Simultaneous Jn, Jc, ρ; stabilizasiya parametri λ=0.1.
+
+Ələvə V. Seçilən quyu məlumatları
+
+NAH-1: ф (nuvə): 24%; k: 350 md; Ps (hk-air) @ Cw=0.25: 0.95 MPa.
+
+NAH-2: ф: 18%; k: 120 md; qaz xromatografiyası: C1 90.2%, C2 5.4%, C3+ 4.2%.
+
+QAR-1: P* (bubbule) yoxdur; deş poynt 212 bar; ÇKR 72 bbl/MMcf; yığılma tipi: qaz-kondensat.
+
+QAR-2: API 37.5; GOR 240 m3/m3; wax çondent 2.4%; asfaltlan 0.6%.
+
+Ələvə Ç. Təriqəkar geologiya
+
+AVO: Ofset üzrə amplituda dəyişməsi
+
+PSTM/PSDM: Həyatəm zaman/dərinlik migracyası
+
+qоч/оич/коч: Qaz-neft/neft-su/qaz-su kontaktı
+
+точ/бы/Po: Ümumi karbon/hidrokarbon generasiya indeksi/Vitrinite əks etdirmə
+
+стојп/кыш: Yerdə olan ilkin neft/qaz ehtiyatları
+
+VSP: Quyu daxili seysmik
+
+Net-to-gross: Effektiv qum qalınlığının ümumi lay qalınlığına nisbəti
+
+===== Şimali Abşeron 1951–1998 seysmik-qravimetrik tədqiqat tektonik model və neft-qaz sistemi.pdf | Page 22/22 =====
+Gələcək istiqamətlər üçün yekun qeydlər
+- Şimali Abşeronun cənub-şərq seqmentində Tırnıki lобларынын şimal-qərb cənub barmaqları boyunca daha bir-iki axtarış quyusu ləkklər ehtimalı vəd edir.
+- Qalla kompleksində seysmik-karoтаж petrofiziki çərgəv-plastlar genişləndirilsin; AVO zəif olduğu üçün elastiki inversiyanın rolu artırılsın.
+- Qarabağ strukturunda kənar bloklarının qırışma ilə məhdudlaşan hissələrində qazın bütövlüyü üçün mikro-səp tədqiqatları aparılsın.
+- Kosmik qeyri-müəyyənliklərin azaldılması üçün miqnikfrak və döyüt sınaqları təşkil edilsin.
+- Ətraf mühit standartlarına uyğun olaraq səs emissiyası azaldıcı texnologiyalar (bubbler çurtain və s.) tətbiq edilsin.
+
+Beləliklə, çoxölçülü seysmik, gravimetrik və qazma məlumatlarının sintezi Abşeron arxipelağında neft-qaz sisteminin aydın təsvirini təmin etmiş, texniki-iqtisadi baxımdan cəlbedici neftləri ayırd etmiş və gələcəyə fəaliyyət üçün konkret metodoloji çərçivə formalaşdırılmışdır.

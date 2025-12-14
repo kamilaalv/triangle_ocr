@@ -1,0 +1,163 @@
+===== Palçıq Pilpiləsi Gala layı ehtiyatlarının yenilənmiş qiymətləndirilməsi.pdf | Page 1/8 =====
+Xolasa
+
+Palçıq Pilpiləsi yatağında Gala layının ehtiyatlarının yenilanmiş qiymətləndirilməsi, istismar göstəricilərinin analizi və səmərəli istifade yollarının seçilməsi üzra aparılmış tədqiqatın nəticələri təqdim olunur. 1952-ci ildən başlayan axtarış və araşdırmaların ardınca 1953-cü ildə 261 No-lu quyu Gala layında hasilata açılmıs, bununla da uzunmüddətli istismar tarixçəsinin başlanğıcı qoyulmuşdur. Lay üzrə qalan ehtiyatlar 400774 min ton, təsdıq edilmiş hasilat ehtiyatları 23064 min ton qiymətləndirilmiş, 48.6% residual neft ehtiyatlarının Gala layında cəmləşdiyi müəyyən edilmişdir. 01.01.2019-cu ilə balans (tarazlıqda qalıq balans və qalıq çıxarila bilən neft ehtiyatları münvafiq olaraq 40020 min ton və 2288 min ton səviyyəsindədir. Hal-hazırda 62 quyu ila istismar davam etdirilir; gələcəkdə əlavə platformalardan yeni hasilat və vurucu quyuların qazılması, eləcə də geoloji-texniki tədbirlərin tətbiqi ilə hasilatın sabit saxlanılması planlaşdırılır. Tektonik baxımdan braxiantikinal quruluşa malik Palçıq Pilpiləsi strukturu 23 tektonik blokdan ibarat olub, bloklar arasında neft də bölmə (sovurma) xarakteristikaları oxşardır. Tədqiqatda 287 quyuya aid məlumatlar, səha geofizikası və laborator analizlər cəmlənərək vahid model yaradılmış, hidroinimik modelləşdirmə ilə ssenarilər qiymətləndirilmişdir.
+
+Giriş
+
+Abşeron akvatoriyasında vulkanogen-tektonik təsirlər altında formalaşmış Palçıq Pilpiləsi strukturu, regionun klassik antiklinal tiplərinə uyğun olaraq braxiantikinal quruluşa malikdir. Gala layı bu struktur daxilində əsas kollektor horizont(lar)ından biri kimi seçilir və həm tektonik, həm lay, həm də litoloji amillərin birgə təsırində yerləşir. Bu araşdırmaların məqsədi Gala layi üzra qalan və çıxarila bilən ehtiyatların yenilanmiş əsaslandırılması, hasilatın optimallaşdırılması və səmərəliliyin artırılması üçün praktiki tədbirlərin pakətləşdirilməsidir.
+
+===== Palçıq Pilpiləsi Gala layı ehtiyatlarının yenilənmiş qiymətləndirilməsi.pdf | Page 2/8 =====
+Geoloji və tektonik quruluş
+
+Strukturun oxu Şimal-Qərb-Cənub-Şərq istiqamətlənməsinə malik olub, yüngül 
+dalğavari (braxiantiklinal) morfologiya göstərir. Antiklinal qırışın şimal-şərq 
+ qanadında nisbi tektonik parçalanma yoxsak, cənub-qərb qanadında isə daha 
+təkmillidir. Palçıq vulkanizmi ilə bağlı  fraqmentasiyalən, xüsusan yuxarı 
+Pliosen-Pleistosen yaşlı çöküntülərdə lokallaşmışdır. Struktur 23 tektonik 
+blokdan ibarət olməlara ayrılaraq bloklararası sualma fazaları üzrə 
+hidrodinamik əlaqə qismən zəifləmiş, lakin kollektor kəsiminde laterallıq 
+qorunmuşdur. Seysmikə və quyu məlumatları blokların suvurma davranışının oxşar 
+olduğunu göstərir; bu, lay daxili heterogenliyin orta səviyyədə, lateral 
+davamlıllğm isə qənatbaxş olduğu təsdiqləyir.
+
+Litologiya və kollektor xassələri
+
+Gala layı deltaik-allüvial məhütdə çökmüş orta və xırda dənəli qumdəşləri, ara 
+qatlarında gillər və siltdaşları ilə təmsil olunur. Tipik kollektor parametrləri:
+- Ümumi qalınlıq: 18-42 m (orta 29 m)
+- Effektiv qalınlıq: 12-28 m (orta 21 m)
+- Porozluq: 17-23% (orta 20%)
+- Keçiricilik: 120-480 mD (orta 260 mD), lokal yuksək keçiricilik linsləri 800 
+mD-ə qədər
+- Neft doymuşluğu: 55-72% (orta 63%)
+- Su doymuşluğu: 28-45% (orta 37%)
+- Net-to-gross: 0.6-0.8 (orta 0.72)
+
+Neftin fiziki-kimyəvi göstəriciləri: sıxlıq 0.83–0.86 q/sm3 (38–32° API), 
+viskozluq 2.4–5.6 cP (rezervuar şəraitində), qaz-maye nisbəti 45–120 m3/m3, həcm 
+amilli Bo=1.23–1.35. Lay təzyiqi hazırda başlanğıc təzyiqin təxminən 0.78 payına 
+düşür; başlanğıç 23.5 MPa, cari 18.3 MPa (blokdan-bloka dəyişir). Qaz qopma 
+təzyiqi 16.8–17.6 MPa olmaqla, bəzi sahələrdə həddən artıq boşalma nəticəsində 
+lokal qismən hall olunmuş qaz rejimi müşahidə edilib.
+
+===== Palçıq Pilpiləsi Gala layı ehtiyatlarının yenilənmiş qiymətləndirilməsi.pdf | Page 3/8 =====
+Məlumat bazası və metodologiya
+
+Tədqiqatda 287 quyuya aid geofiziki karotajlar (GR, SP, LLD/LMS, NPHI/DEN, akustik), nüvə analiziəri (porozluq, keçiricilik, kapilyar təzyiq), PVT məlumatları, sınaq (DST, PLT) nəticələri və gündəlik istismar göstəriciləri cəmlənmişdir. Aşağıdakı metodik yanaşmalar:
+
+- Volumetrik ehtiyat hesablamasi (Seçmə zonalar üzrə net pay)
+- Material balansi (Havlena-Odeh düz xətti metodu)
+- Hidrodinamik 3D modelləşdirmə (qazın ölçüsü 50x50 m, 12 şaquli qat, kvazi-izotropik Kx/Ky=0.85, Kv/Kx=0.08)
+- Tarixi uyğunlaşdırma 1953-2019 (qalıq işləmə/kapilyar təzisi, VFP əyriləri, ESP performansı ilə birgə)
+- Qeyri-müəyyənlik analizi (Monte Karlo, 1000 iterasiya; porozluq və net-to-gross üzrə normal paylanma, xalis qalınlıq üzrə üçbucaq paylanması)
+
+Ehtiyatların qiymətləndirilməsi
+
+Gala layında qalan ehtiyatlar 400774 min ton (OOIP tərtibində) səviyyəsində qiymətləndirilmişdir. Təsdiq edilmiş hasilat ehtiyatları 2306.4 min ton təşkil edir və lay üzrə tarixi faktorlar nəzərə alınmaqla konservativ yanaşmanı aks etdirir. 48.96% residual neft ehtiyatlarının məhz Gala layında cəmləşməsi, layın regional ölçüdə əsas rezervuar rolu oynadığını göstərir. 01.01.2019-cu il tarixinə ümumi yataq üzrə qalıq balans ehtiyatları 400200 min ton, qalıq çıxarıla bilan ehtiyatlar isə 2288 min ton hesablanmışdır; bu göstəricilər müxtəlif idarəetmə konturları, həmçinin Gala, eləcə də digər horizontların cəmlənmiş təsirini nəzərə alır və təsdiq edilmiş hasilat kateqoriyaları üzrə fərqlənir.
+
+Uyğunsuzluğun izahı kateqoriya fərqləri (OOIP vs. balans/qalıq), eyni zamanda bloklar üzrə fərqli dreneaj dərəcələri ilə bağlıdır.
+
+===== Palçıq Pilpiləsi Gala layı ehtiyatlarının yenilənmiş qiymətləndirilməsi.pdf | Page 4/8 =====
+İstehsalatin cari vəziyyəti
+Hal-hazırda 62 quyu aktiv istismardadır. Orta günlük neft hasilatı 1520-1680 
+ton/gün diapazonunda dayişir, su payı orta 58% (bloklara göra 42-76%). Qazlift 
+və ESP-lə tachiz olunmuş quyuların payı 67%, ştangli nasoslarla işləyənlər 21%, 
+təbii axımla hasil edirlər l2%-dir. Qum hasilatı problemi 14 quyu üzrə müşahidə 
+olunur; selektiv qum təzaləri və aşağı sxıqlı polimer məhlullarla qum 
+yıgıntılarının sabitləşdirilməsi tətbiq edilmişdir. Korroziya nəzarəti üçün 
+inhibitor dozası 20-35 ppm səviyyəsində saxlanılır; h2s izləri <l2 ppm.
+
+Suvurma və lay təzyiqinin saxanılması
+Gala layında lay təzyiqinin sabitləşdirilməsi üçün suvurma sistemi tətbiq 
+olunur. Vakuumlu filtrlə təmizlənmiş dəniz suyu və istehsalat suyunun 
+qarışığı, 60/40 nisbətində vurulur; gündəlik vurma həcmi l8-22 min m3/gün. 23 
+tektonik blok üzrə dulama göstəricilərinin oxşarlığına əsasən xətti suroxma və 
+beşbucaqlı naxışlar kombina edilmişdir. Maqşad voidage replacement ratio-nu 
+0.95-l.05 aralığında saxlamaqdır. İzolyasiyali zonalarda profil düzəldilməsi 
+üçün xromatlaşdırılmış jəl sistemləri və polimer gellərdən istifadə edilir; 
+gözlənilən su kəsiminin 6-l0% azalması müşahidə olunmuşdur.
+
+Hidrodinamik modellasdirilmə və tarixi uyğunlaşdırma
+Modeldə porozluq və keçiricilik səthləri sekans-stratigrafik barabərləşdirmə ilə 
+qurulmuş, əlaqəli geostatistika (variogram: range 280 m, azimut l35°) tətbiq 
+edilmişdir. Tarixi uyğunlaşdırma zamanı injeksiya-istehsal alaqəsi, təzyiq düşümləri, 
+su kəsimi və GOR dinamikasi 1953-2019 zaman parçasında 8 əsas parametr qrupu 
+üzrə (relativ keçiricilik əyriləri, capillary number təsirləri, həndürlük üzrə 
+heterogenlik qaçışları daxil olmaqla) kalibrasiya olunmuşdur. Uğursuz 
+ssenarilərdə su bərmağılanmasının simulyasiyası göstərir ki, yoxsak 
+keçiricilik linslərinin payı l2%-dan l6%-ə qalxdıqda, su kəsimi 5 il ərzində 
+əlavə 8-l2% artır. Bu, galəcək quyu dizaynlarında selektiv tamamlanmanın 
+vacibliyini təsdiqləyir.
+
+===== Palçıq Pilpiləsi Gala layı ehtiyatlarının yenilənmiş qiymətləndirilməsi.pdf | Page 5/8 =====
+Yəni qәzu kompanyası vә platforma halları
+
+Gələcək dövrda lәya platformaların inşası ilә 14 yеni hasilat vә 8 vurucu quyu qazılması planlaşdırılır. Qazma stгategiyası:
+- Yüksәk istiqamәtlәndirmә dәqiqliyi (geosteering) ilә 600-1200 m uzunluqlu horizontal spallier 
+- MRC (çox budaqlı) konfiqurasiyalarlа drеnajın artırılması 
+- Qalınlığı dəyişkən zonalarda selektiv liner-perf dizayni, ICD-lәrin tәtbiqi
+
+Qazılanılan başlanğıç mәhsuldarlıq: horizontal quyular üçün 35-55 t/gәn, vertikal quyular üçün 12-20 t/gәn. Sidetracking proqramı cәkintilәrә tabәgәlәrdә komprоmet olunmuş quyularda 6-9 t/gәn әlavә artım proqnоzlaşdırılır.
+
+Geoloji-teхniki tәdbirlәr
+
+- Selektiv izolyasiya (microballoon-cement kompozitləri) ilә su girişinin kәsilмәsi: su kәsilmәsində 10-18% azalma 
+- Asidizasiya (HCl 10-15% + diverter): mәhsuldarlıq indeksində 1.3-1.8 dәfә artım 
+- Geyzer tipli quyu içi köpük (foam) profilama: keçici dövrdə WLR azaldılması 
+- Qranulometrik uyğunluqla qum sədlәri vә rеzinləşdirilmiş proppantla minifraktura: qum hasilatında 60% azalma 
+- ESP optimizasiyası (NSD, VFM intеgrasiyası): еnеrji sәrfiyyatında 8-12% qәnaәt 
+
+EOR ssenarilərinin skriningi
+
+- Aşağı duzuluqlu suvurma (LoSal): mәvcut ionik tərkibdən 4-6 dəfә az duzuluq; adsoгbsion qatı/illit səthində yaglanmanın dəyişdirilməsi hesabına 25-40% OOIP әlavә çıxarılma 
+- Polimer suvurma (HPAM, 800-1200 ppm): mobilite nisbatinin tənzimlənməsi, frontal sabitlik; 4-7% OOIP әlavә 
+- SAP (sürfaktant-polimer) pilotu: 5 quyu məhsışı, slug 0.3 PV, adsorbsiya 0.2 mg/g; 6-9% OOIP incremental 
+- WAG (CO2-su) lokal test PVT uyğunluğuna gәrә qismən qarışiqliq; anker dәyәrlәr 15-3% OOIP 
+
+Termal üsullar viskozluq çox olduğundan əlverişli deyil. Seçimdə su mənbәyi, polimerin oksidləşmə stabilliyi və istеhsalat suyu emali mәhdudiyyәtlәri nəzərə alınır.
+
+===== Palçıq Pilpiləsi Gala layı ehtiyatlarının yenilənmiş qiymətləndirilməsi.pdf | Page 6/8 =====
+iqtisadi qiymatlandirmə
+
+Baza ssenarisinda (yalniz OPEX optimizasiyasi + yeni quyular) incremental 15 illik dövrdə 1650 min ton alava hasilat, CAPEX ~340 min USD, OPEX ~18 USD/bbl ekv, NPV10 ~+190 min USD, IRR ~18%. EOR-Polimer ssenarisinda 2800-3100 min ton alava hasilat, CAPEX ~520 min USD, kimyəvi xərclər ~0.9-1.2 USD/bbl, NPV10 ~+260 min USD, IRR ~16-17%. SAP ssenarisinda NPV daha hassasdir: kimyavi qiymat +20% olduqda IRR 14%-a enir. Qlobal hassasliq analizi göstərit ki, asas drayverlar nett qiyməti, su tamizlama xərci və polimer dozaj stabilliyidir.
+
+ətraf mühit və sətərəm
+
+Palciq vulkanizmi aktiv zonalarda platforma dayaqlarinda mikro-seysmik monitoring tətbiq olunur. Istehsalat suyu üçün membran-filtrasiya + sulfat azaldici bakteriyaların idarəolunması (biocid) ilə sifir deniz atimi hədəfi 2027-ci ilə planlaşdirilir. Flereingin azaldilmasi üçün minikkompressor stansiyalari qurashdirilaraq 85% qazin toplanmasi təmin ediləcək. Qumiu çixlarin sementlə-stabilizasiya olunmuş polimer matrislarda utilizasiyasi saha poliqonunda aparilacaq.
+
+Risklər və qeyri-müəyyənlik
+
+- Geologiya: yüksək keçiricilik linslarinin davamliligi (P10-P90: 8-19% hacmi)
+- Texnologiya: polimerin yüksək temperaturda viskozluq sabitliyi, ESP-larda elastomer uyğunsuzluğu
+- Əməliyyat: platforma logistikasi, hava şəraiti, korroziya sürətinin artmasi
+- Bazar: nett qiymət volatilliyi, kimyavi reagentlarin təchizat zənciri
+
+Risklarin azaldilmasi üçün addimlar: adaptiv saha pilotlari, marhalali yayilma, onlayn nəzarət (DTS/DAS), ehtiyat reagent stolari və s.
+
+===== Palçıq Pilpiləsi Gala layı ehtiyatlarının yenilənmiş qiymətləndirilməsi.pdf | Page 7/8 =====
+Tarixi kontekst və informasiya sintezi
+
+1952-ci ildə aparılan ilk axtarış və strukturlaşdırma işləri Palçıq Pilpiləsi 
+antiklinalının neftli-qazlı komplekslər üçün perspektivliyini üzə çıxarmış, 
+1953-cü ildə 261 No-lu quyu ilə Gala layında hasilata başlanılması sahədə 
+samaralı suvurma siyasətinə və mərhələli genişlənməyə zəmin yaratmışdır. 
+Uzunmüddətli istismar dövründə 287 quyudan toplanan geoloji-geofiziki və 
+istismar materialları yatağın 23 tektonik blok üzrə davranışının mövqeyəli 
+təhlilinə imkan verib, blokların dülgəmə xarakteristikalarının yüksək oxşarlığı 
+ləyin idarəolunmasında vəhid yanaşmanın effektivliyini təsdiqləyib.
+
+Plan və yol xəritəsi
+- Qısa müddət (0-2 il): 6 yeni quyu, 10 quyuda profil düzəltmə, ESP parkının 
+optimizasiyası; hasilatda 7-9% artım
+- Orta müddət (2-5 il): polimer pilotu mərhələli genişləndirmə; 8 vurucu quyu, 2 
+yeni platforma; su kəsiminə 10-12% nisbi azalma
+- Uzun müddət (5+ il): SAP seçmə sahələrdə; WAG lokal test nəticələrinə əsasən 
+qərər; ümumi çıxarılma əmsalının 0.26-dan 0.34-ə qaldırılması hədəfidir.
+
+===== Palçıq Pilpiləsi Gala layı ehtiyatlarının yenilənmiş qiymətləndirilməsi.pdf | Page 8/8 =====
+Natica
+
+Gala layi Palciq Pilpilasi yatağinin asas hasilat potensialini formalaşdiran strateji horizontdur. Qalan ehtiyatlarin 48.96%-nin bundan da camlanmasi va amumi qalan ehtiyatlarin 400774 min ton saviyyasinda qiymatlandirilmas, elaca da 01.01.2019-cu il etibarla 40020 min ton qaliq balans va 2288 min ton qaliq çixanla bilan ehtiyat gestaricilari samarali idareetma tadbirlarinin vacibliyini gosterir. 62 quyu ila aparilan istehsalatin sabit saxlanilmasi üçün geoloji-texniki tadbirlar paketi, yeni platformalardan gazilacaq horizontal va MRC quyular, profil düzaltma va ESP optimizasiyasi ila yanaşi, aşaği duzluluylu va polimer suverma kimi EOR hallarinin marhalali tatbiqi tövsiya edilir.
+
+Hidrodinamik modelləşdirmə va tarixi uyğunlaşdirma naticalari gostarir ki, voidage-in idare olunmasi, selektiv tamamlanma va konformans nazarati ila birlikda ssenari icrasi naticasinda ham alava hasilat, ham da iqtisadi gestaricilar üzra hadalalara çatmaq mümkündür. Yatağın tektonik bloklari arasinda davranişin oxşarligi vahid, lakin blok spesifik parametrlarla inca tanzimlanan idareetma strategiyasinin samaraliligini artirir. Taklif edilan yol xaritasi hayata keçirildiyi halda, Gala layinda çixanilma amsalaninin ahamiyyatli artimi va uzunmüddatli istehsalatin dayaniqli saxlanilmasi tamin edilacokdir.

@@ -1,0 +1,158 @@
+===== Abşeron-Kür MQ Alt Horizontları AYMT və Seysmik-Geofizika.pdf | Page 1/11 =====
+Məhsuldar Qatın Altı Horizontlərində Neft-Qazlilik, AYMT-nin (Anormal Mühitlərin Məkan Təqiqi) Məsələmləndirilməsi və Seismik-Qazlı İnkiprasıya. Abşeron Yarımadası, Cənubi Xəzər Çökəkliyinin Qərb Bordələri və Kür Hövzəsi Ərazis Sidqi Kompleks Tədqiqat
+
+Xülasə
+
+Abşeron yarımadası və Cənubi Xəzər çökəkliyinin qərbi-bortalarında Məhsuldar qatın (MQ) altı horizontlarında lokal strukturlar daxilində neft-qazlilik geniş miqyasdə tədqiq olundu, region üzrə şimub-cənub istiqaməli reqional pazlaşma zonalarının geoloji-geofiziki parametrləri hələ də qəribi-müəyyəndir. Dala yatağı və Hövsan sinklinali zonasındakı seysmik kəşfiyyat işləri, məhdud həcmdə olmasına baxmayaraq, yüksək interpretasiya keyfiyyəti ilə seçilərək bu istiqamətdə daha geniş proqramın zəruriliyini üzə çıxarmışdır. Xəzər yataqları üzərində aparılan seysmik tədqiqtəmlər Mio-Eosen yaşlı çöküntülərin quruluşunun öyrənilməsi, dərin təbəqələr üzrə isə lay süxur, fasiəl keçidlər və potensial kollektorların areal barədə yeni dəyərləndirmə aparmağa imkan vermişdir. Layların məhsuldarlığının dinamik xarakteristikaları əsasında geofiziki üsulların, hasilatın yan rəqəmləri (laterolog) və mikroyan karotayının inteqrasiyası, ədəliyyə modelləri tərtib olunduqdan sonra yüksək dəqiqliklə nəticə vermişdir. Yer təkinin geobarık xüsusiyyətləri- süxurların çökməsi, qeyri-keçiriciliyi plastik süxurların üstülntəyə və struktur-tektonik faktorlar- Aşağı Kür çökəkliyində AYMT-nin formalaşmasında əsas aparıcı mexanizmlər kimi dəyərləndirilmişdir. Orta Kür çökəkliyi boyunca (taxminən 370 km) müxtəlif tektonik-sedmantoloji zonalar – qırbda Ceyrançöl zonasl (pliosen-dördüncü dövr çöküntüləri) və Kiçik Qafqazın cənub zonasl (mezozoyun vulkanogen-çökmə, paleogen-holosen formasiya kompleksi)- kollektorların daxililiyi, möhürlüyüç qalınlığı və lay təzyiqi zonallığı baxımından müqayisə edilmişdir. Tədqiqat MQ-nin altı paketlərində (Fasilə, qismən podkirnaki) ehtiyat potensialının sanballı olduğu, lakin cənub-qərb yönlü paleoçökmələrin hədəf spesifik modelləşdirilməsi, 3D seysmik, VSP, AYMT proqnozunun sürət-kalibrleme (Eaton/ Bowers) yanaşmaları ilə genişləndirilməsinin vacibliğini göstərmişdir.
+
+===== Abşeron-Kür MQ Alt Horizontları AYMT və Seysmik-Geofizika.pdf | Page 2/11 =====
+Giriş
+
+Cənubi Xəzər hövzəsi dünya üzərən ən qalın neogen-pliosen çöküntüləri yığımı və intensiv tektonik yüklənmə ilə seçilir. Abşeron yarımadası və qərb bortlar boyunca MQ-nin alt horizontlarının neft-qazlılığı cəhətcə lokal antiklinal, qırılma dizləri və paleorelyefli kontrol olunan xətti tipli kollektorlarla ifadə olunur. 
+Oyranılmamış cənub-qərb istiqaməti reqional pazlaşmaların kontrlirdiyi stratiqrafik və litoloji, xüsusən lateral fasitə keçidlərinin dominant olduğu zonalarda, ehtiyat bazasının təzələnməsi üçün strateji əhəmiyyət kəsb edir. Uğurlu hesab edilən Qala və Hövsan seysmik məlumatları regionda müasir metodologiyanın tətbiqi ilə yeni başlıqlanın aşkarila biləcəyini göstərdi, lakin müxtəlif seysmik məlumatların həcmli parametrik qeyri-müəyyənlikləri azaldılması üçün yətersizdir.
+
+Bu məqalənin məqsədi: (i) MQ alt horizontlarında neft-qazlılığın struktur-stratiqrafik mexanizmlərini inteqrativ yanaşma ilə tədqiq etmək; (ii) cənub-qərb gərilməli pazlaşma zonalarında kodlaşdırılmış seysmik proqramın konturlarını əsaslandırmaq; (iii) müasir geofiziki karotaj paketlərinin (yan və mikrkarotaj) dəqiq və interpretasiyası əsasında kollektorların məhsuldarlığının qiymətləndirilməsi üçün kəifiyyət kriteriyaları formalaşdırmaq; (iv) Aşağı Kür çökəkliyində AYM-nin (anormal yüksək məsamə təzyiqi) geoloji xüsusiyyətlərini, struktur-tektonik amillərlə birlikdə, bölgələr üzərində xarakteristikasını; və (v) Orta Kür çökəkliyinin 370 km boyunca zonalaşmasını, Ceyrançöl və Kiçik Qafqazın seqmentləri timsalında, kollektor-məhsuldar sisteminə təsirini qiymətləndirməkdir.
+
+===== Abşeron-Kür MQ Alt Horizontları AYMT və Seysmik-Geofizika.pdf | Page 3/11 =====
+Regional geoloji-tektonik proseslər
+- Cənubi Xəzər çökəkliyinin qərb bortu: Qalin pliosen MQ kompleksi səviyyəsində intensiv qırışıq tektonik sıxılma, inversiya elementləri və polifazalı qırılmalarla xarakterizə olunur. Alt MQ (Fasilə) və lokallaşmış podkirmaki layları qımt-gil alterasiyaları ilə səciyyələnir, yüksək gillilik və təbəqə-tez laterit aralığı diffuz məhşur yaradaraq lateral davamlılığı müəyyənləşdirir.
+- Abşeron yarımadası: Zaman-mexaniki konsolidasiyanın yüksək olduğu zonalarla yanaşı, deltaik-kanalli sistemlərin proqrad paketləri (xüsusən simal-sərqdə) qalin qumlu lentlərə də qeyd olunur. Lokal antiklinallıq quruluşlarda (Qala, Bibihəyət yaxın zonaları) struktur-stratiqrafik superpozisiya təzahürləri geniş yayılıb.
+- Regional parçalanmalar: Cənub-qərb istiqamətli parçalanma zonaları, MQ-nin qumqlı fasiyalarının gil kütlələrinə keçidi və ya paleorelyefin kənarlarında lateral şəkilməyə səbəb olur. Bu zamanların konqlomerativ inversiyasının kombinasiyaları təlab olunur.
+- Orta və Aşağı Kür çökəklikləri: Orta Kür çökəkliyi təxminən 370 km boyunca və qərbdə Ceyrançöl zonası ilə səciyyələnir. Oğrançəl pliosen-dördüncü dövr çöküntüləri ilə səciyyələnir: arxitektonik baxımdan aralıq (interfave) zonalarda incələn qumlu lentlər, paleogeor aqrarları boyu qalınlaşma və yerli kanal doldurmaları müşahidə olunur. Kiçik Qafqaz zonasında mezozoy vulkanogen-plütonik paketləri üzərində palogen-holosen çöküntüləri ilə dərinlikdə potensial bazal süxurmaz kompleksi yaradır.
+
+===== Abşeron-Kür MQ Alt Horizontları AYMT və Seysmik-Geofizika.pdf | Page 4/11 =====
+Seismik və mədən geofiziki məlumatlar əsasında
+
+- Seismik: Qala və Həsən sinklinal zonalarında icra olunmuş 2D zəng və məhdud sahəli 3D kublar yüksək amplitudlu reflektorlarla MO alt horizontlarının ayrılmasına imkan verib. Lakin bu bloklararası ekstropolyasiya üçün kifayət deyildi, cənub-qərb flanq boyu zənglərin addımı və istiqaməti pozalma kondososiini əks etdirmək üçün yenidən dizayn edilməlidir. Məqsədlərimiz VSP və check-shot məlumatları dərinlik kalibələməsində vacib rol oynayır.
+
+- Emal-interpretasiyası: Anizotrop sərt modelləri (TTI) tətbiq olunmuş, Qazma quyusunda kəsik sürət dayişmələri AYMT indikatoru kimi tərtanmişdir. AVO/AVA təhlilləri də qəzə qumların paylanması üçün sinif III anomalliyaları xarakterizə etmiş, amplituda və offset münasibətlərinin gil paya ilə dəyişməsi nəzərə alınmışdır.
+
+- Mədən geofizikası: Yan karotajı (LL) və mikroyan karotajı (MLL) kompleksində xüsusi resistivliyi (Rm), filtrat resistivliyi (Rmf), dəgiklit temperaturu (T) və layın anizotropiyası üçün düzəlişlər tədbiq edilmişdir: Qiy LL/MLL əyrilərində quyu effekktorları (shoulder-bed effect), invaziya dərinliyi və quyu divarı kobudluğu üçün korreksiyalar aparılmış, sonra dərin (Rt) və uyğulunmuş zona (Rxo) qiymətləndirilmişdir. Paralel olaraq SP, n-m (Archie) kalibrları, gil dəqiqəli modellər (Simandoux, Indonesia) və NMR-lə sınaq kalibrasiyası istifadə olunmuşdur.
+
+- Nüvə və sınaqlar: Qiyum quru nümunələr, yan kəsiklər (sidewall core) və DST/MDT təzyiq-süxur testləri, zülüsuzon AYMT zonalarının kalibrlənməsi üçün baza kimi qəbul olunmuşdur.
+
+===== Abşeron-Kür MQ Alt Horizontları AYMT və Seysmik-Geofizika.pdf | Page 5/11 =====
+Aşağı Kır çökəkliyində AYMT-nin mexanizmləri
+
+Aşağı Kır çökəkliyində yüksək sıxətlə çökmənin toplanması (v = 0.6–1.2 mm/il) ilə dəqiqləşdirilmiş proqrada
+sistemlər hesablanına baş verərək gil-litərit paketlərinin qalınlaşmasına səbəb olur. Bu qeyri-kəsiricilikli 
+plastik süxurlar su ilə tərkibini dəyişərək məsamə məhlulunun drenajını məhdudlaşdırır AYMT-nin aparici mexanizmləri:
+
+- Mexaniki qeyri-tarazlaşma (disequilibrium compaction): süxurlarda birdənrilmə gərginliyinin artması nəticəsində məsamədəki məhlulun 
+tərkisinə vəxt çatdırır, porozluq “gərginur”, gillərdə yüksək su tərkibi saxlanılır.
+- Mineraloji transformasiya: smektit ->illit çevrilməsi zamanı su ayrılması porozluq təzyiqini olaraq artırır.
+- Hidrodinamik və tektonik sıxılma: qırılma boyunca bloklanmış drenaj, lateral stressin artması ilə birlikdə 
+lay təzyiqinin yüksəlməsinə gətirir.
+- Mikrozəlzələlərin gücü davamlılığı: plastika dərəcəsi yüksək olan gil paketləri sürətli gərginlik altında axın 
+davranışı göstərərək mikroqapanma effektini gücləndirir.
+
+AYMT proqnozu üçün seysmik sürət-tozyiq olanası Eaton (Δt) və Bowers (Vp) modelləri ilə qurulmuş, VSP ilə 
+kalibrlənərək risk xəritələri hazırlanmışdır. AYMT-nin pliosen çöküntülərində spesifik olaraq 2400–3600 m 
+intervalında pik verdiyl, aşağı MQ zirvəsində AYMT porozrosinin üst səthdinin lokal strukturlarda yuxarı 
+qalxdığı müəyyən edilmişdir.
+
+Məhsuldar qatın alt horizontlarında neft-qazlıq və parçalanma zonaları
+
+- Lokal strukturlar: Qala və Hövsan ətrafında antiklinal qatlarin sımal və cənub qanadlarında fassial-tinə 
+tipli qumlar - delfaik distributar kanallar, bar-konar fasiyallır - yüksək məhsuldar kollektor davranışı 
+göstərmişdir. Genişlənmiş qırılma sistemləri (listrik) altında qumların qalınlaşması və amplitude anomaliyaları 
+üst-ortü əlaqəli təbəqələr yaradır.
+- Regional parçalanmalar: Cənub-qərb-cənub-şərq parçalanma zonalarında MQ-nin qumlu fasiyası gilə keçid edərək lateral 
+mikrolanmaya yaradır. 2D xəritərin əsdigi, səbəbindən rəq konarların davamlılığı və lito-fasial 
+dəyişkənlik təm holli olunmayıb, 3D atribut xəritələri (variance, spectral decomposition) ilə parçaların 
+xarakteristikaları daha dəqiq təyin oluna bilər.
+- Miosen-Oliqosen çöküntüləri köhnə yataqlar üzərində seysmik reprocessing nəticəsində müəyyən kompleks 
+daxilində mümkün karbonla təmsili-mərməri intervalda akustik empedans fərqlənmiş, alt 
+karbohidrogen mənbə süxurlarına (orqanik zəngin gil) yaxın zonalarda struktur-stratiqrafik tələlər ehtimalı 
+artır.
+
+===== Abşeron-Kür MQ Alt Horizontları AYMT və Seysmik-Geofizika.pdf | Page 6/11 =====
+Kollektor layların məhsuldarlıqlarının qiymətləndirilməsi
+
+Yan və neytron karotajın inteqrasiyası ilə:
+- Düzəliş metodikasi: Rmf/ Rw nisbətinin temperaturla korreksiyası, invaziya modeli (gradient/profil), siyin effekt üçün qalıınlıq düzəlişi, və quyu diametrinə görə geometrik korreksiya tətbiq olunmuşdur.
+- Müqayisə parametrləri: MLL ilə alınan yuyulmuş zona (Rxo), LL ilə dərin rezistivliyi (Rt) xüsus ölçülür. Rxo/Rt nisbəti invaziya dərinliyi ilə keçiricilikdə ola biləcək yüksək müxtəliflik göstərdikdə effektiv keçiricilik (keff) artır. MLL-LL keçid mətniyasının SP ilə kalibrasiyası su doyumluğunun doyurkonluğunu azaltmışdır.
+- Petrofiziki model: Arçie parametrleri m = 1.85-2.10, n = 1.90-2.20 intervalında kalibrlənmiş, gil payı 0.25-dən por olduqda Simandoux modelinə keçilmişdir. Net-to-gross (NTG) 0.42-0.68 aralığında, porozluq 0.16-0.24, su doyma (Sw) 0.28-0.55 aralarında təyin olunmuşdur. NMR T2 paylanmaları ilə serbest maye indeksləri (FFI) > 6% olan intervallar məhsuldar hesab edilmişdir.
+- Məhsuldarlıq göstəriciləri: kh (kH: mD) 120– 850 diapazonunda dəyişmiş, perforasiya sonrası skin -2.1…+3.5 intervalında qiymətləndirilmişdir. MDT mobilite testləri (k/μ) 0.5–8.0 mD/cP aralığında olub qazlı qumlarda yüksək dəyişmilik göstərmişdir.
+
+Orta Kür çökəkliyi: çökmə və lay təzyiqi:
+- Ceyrançöl zonası: Pliosen-dördüncü dövr çöküntülərinin dərinlik təşkil etdiyi bu seqmentdə proqrada çay-delta sistemləri kollektorların arxitektur mürəkkəbliyini artırır. Lokal paleovallər boyunca qumlu paketlərin qalınlaşması və pazlaşması müşahidə edilir; AYMT daha çox gil basqınlı səthlərdə, 2800–3200 m dərinliklərdə qeyd olunur.
+- Kiçik Qafqaz önü zonası: Mezozoy vulkanogen-çökmə kompleksin varlığı bazal keçiricilik sahələrini məhdudlaşdırır, paleogen-holosen çöküntüləri isə mozaik məbhur sistemi yaradır. Burada tektonik qırılma sıxığı yüksək olduğundan lay təzyiqinin lateral dəyişimi kəskindir. Quyılmalar boyunca kanallaşma riskləri artır, amma lokal ekranlama effektləri də yaranır məqsudlar təşələr də formalışır.
+- Struktur-tektonik amillər: Antiklinal amplituda artdıqca, dərinlik və yaxın AYMT pəracəsini yuxarı sürərir. Qırılma zonalarında sürət anomaliyaları seysmik dərinlik çevirmələrində qeyri-müəyyənliyi artırır, VSP və check-shot səhvi kalibrleme vacibdir.
+
+===== Abşeron-Kür MQ Alt Horizontları AYMT və Seysmik-Geofizika.pdf | Page 7/11 =====
+Seysmik proqramın genişləndirilməsi üçün konseptual proqram
+
+- Məkan şəbəkə: Cənub-qərb bortu boyunca 3 mərhələli proqram: (1) regional 2D grid (şəbəkələrarası 1.5-2.0 km), (2) həddəf səkkəlorində 3D kublar (50-75 km2 blokları), (3) VSP-lə kalibrlanmış pilot anizotrop model şəbəkələri.
+
+- Atribut kompleksi: Spektral dekompozisiya (20-50 Hz pancəroləri), RMS amplituə stini kanal atributları, koherens/variasiya xəritələri pazlaşma kanallarını və kanal dolğularını ayırmaq üçün əsasdır.
+
+- İnversiya: Akustik və elastik inversiya ilə Impedans-Velosi əlaqəsinin qurulması, rock physics modelləri (Hudson, DEM) ilə gill gəvərtəpək məhşəllərinin sos surətinə təsirinin kalibrlənməsi.
+
+-AYMT proqnozu: Bowers trend xəritələmiş, dərinlikdə overpressure flag-ları, geohazard xəritələri (quyu planlaması üçün) və təhlükəsiz qazma pəncərələrinin təyini.
+
+Qeydlər
+
+1) MO alt horizontlarının lokallaşdırılmış strukturlarda neft-qazlılığı tədqiqianmiş, cənub-qərb istiqamətli pazlaşma zonalarının potensial yüksək qiymətləndirilmişdir. Qala və Hörsan seysmik məlumatları strategiyanın müəyyən edilməyini göstərsə də, bətər qərb bortunun modelləşdirilməsi üçün çatışmayan məlumat boşluqları qalıb.
+
+2) Köhnə yataqlar üzərində aparılan reprocessing Miosen-Oliqosen səthlərində yeni aydınlıq gətirmiş, məykom kompleksində stratiqrafik tədqiqatlərə olanamətləri (impedans dəyişmələri, lateral davamlılıq pozuntuları) aşkar edilmişdir.
+
+3) Yan və mırqəy karotajının dıjitalı müqayisəsi məhsuldarlıg prospeksiyonda əsas olot kimi təsdiqlənmiş, Rcal/Rt, Re-NMR FF1 və SP-Vsh kəsismələri ilə kollektorların seleksiyası dəqiqləşdirilmişdir.
+
+4) Aşağı Kür çökəkliyində AYMT-nin formalamaşında sualtı çöküntü toplanması, qeyri-qırılıcılığı plastik gillər və struktur-tektonik səciyyə yaradır; pliocen çöküntülərində AYMT pəncərəsinin tərtıbaqi VSP-kalibrli Bowers modelləri ilə uyğun gəlir.
+
+5) Orta kür çökəkliyinin 370 km boyunca zonallanması, Ceyrançöl və Kiçik Qafqazını seqmentləri arasında kollektor-möhür sistemlərinin, lay təzyiqi zonalarının və geohazard risklərinin ciddi fərqləndiyini göstərir.
+
+===== Abşeron-Kür MQ Alt Horizontları AYMT və Seysmik-Geofizika.pdf | Page 8/11 =====
+Məzahirə
+- Paılasma riskləri və resurs potensialı: Cənub-qərb yanda paılasmaların xərritələnməsi yüksək qaəli qumların lateral sonlanma təbəqələrini optimallaşdırır. AYO sinif kəsicləri, əzə sumaları (seabed pockmarks) və su sütunları ilə korelyasiya edilərək yansıma amplitudaları əyərd edilir. Risk matrisində əsas elementlər - fasieya davamlılığı, məhsul qalıqlığı, AYMT yaxınlığı, struktur sabitlik- inteqrativ şəkildə qiymətləndirilməlidir.
+- AYMT və qazma strategiyası: AYMT pərcələrı boyunca təhliləsi palçıq pərcosinin daralması blowout riskini artırır. Real-time MWD/LWD rezistivlik-sürət trendindən kənara çıxma halları üçün avtomatlaşdırılmış xəbərdarlıqlar (while drilling overpressure alarms) nəzərdə tutulmalıdır. Sürət anomaliyalarının seysmik dərinlik çevriminə təsiri, struktur xəritələrin “yuxarı çəkilməsi” effektini yarada bilər; bu, kəsiliş zonaya və vəziyyətdən asılı olaraq əlavə risklər yarada bilər.
+- Petrofiziki qeyri-müəyyənliklər: Gil pəyəsi yüksək intervallarda Arçie parametrlarının qeyri-sabitliyi su doyma qiymətləndirmələrinə təsir edir. Simandəyişən modellərdə Rshale variasiyalarının süxur xassələrinə təsiri NMR ilə T2 cutoff regional qiymətlərinin qurulması (məsələn, T2c - 33 ms) effektiv porozluğun düzgün qiymətləndirilməsi üçün çox əhəmiyyətlidir.
+- Miosen-Oliqosen perspektivləri: Məğrip tomba strukturları üzərində yerləşən qumda linzalar, dərinlik və temperatur baxımından termal yetişkənlik pəncərəsindən uzaqdır; ancaq yüksək AYMT dərəcəsi perforasiya və stimulyasiyadizaynına təsir edir. Karbonat ara qatlarında çökmə kollektor potensiali, stress gərginliklərindən asılı olaraq, horizontal quyu kəsilişində kəsilmə kimi nəzərdə keçirilməlidir.
+- Struktural forgilər: Kiçik Qafqazınin segmentində qırılma sıxlığı yüksək olduğundan seysmik koherens atributlarının interpretasiyası yanlış zəiflik göstəriciləri verə bilər; alternativ olaraq, volume curvature və ant tracking kombinasiyası edilməlidir. Cəryanlarda isə kanal sistemlərinin çökmə superpozisiyası əzəm istiqamətlərinin seçiminde kritikaldir; geosteering üçün yüksək həllicə qabiliyyəti LWD imager-lər vacibdir.
+
+===== Abşeron-Kür MQ Alt Horizontları AYMT və Seysmik-Geofizika.pdf | Page 9/11 =====
+Neftyzə əlavə proqram
+- 3D seysmik genişləndirilməsi: Cənub-qərb bortu boyunca prioritet bloklar: (i) partlayış kəmərlərinin proqnoz edildiyi dərin əməliyyatlar; (ii) Qala-Hərsan arasında struktur keçid zonaları; (iii) dərin kəmərlərin (Mü Oll kəsilişləri) hər kubdə ən azı 6.25 m x 25 m altı-plyot səthləri, yüksək qat tədqiqlərinin sərtləndirilməsi üçün əlavə əməliyyatlar və 12+ s anbar təfsilatları.
+
+- VSP və check-shot: Hər hədəf quyu üçün walkaway VSP; anizotropiyanın qiymətləndirilməsi və Bowers trendinin kaliblanması üçün təlab olunur.
+
+- Petro-fiziki laboratoriya: Süxur fiziki-filtrat elektrik xüsusiyyətləri, temperatur-dəqiqlik diaqramları, kapilyar təzyiq (Pc) və əlaqəli saturasiya (Sw) modellərinin qurulması; NMR T2 kalibrləri və s.
+
+- AYMT əməkdaşlıq protokolu: Pre-drill pore pressure-fracture gradient xəritələri, real-time drilling margin monitorinqi, managed pressure drilling (MPD) ssenarilərinin hazırlanması.
+
+Elmi-tədqiqat yenilikləri
+
+- LL-MLL inteqrasiya alqoritmi: Quyun effekti və invaziya dərinliyinin eyni vaxtda optimallaşdırılması üçün çoxməqsədli tərs problem (multi-objective inversion) tərtibi ilə Rt və Rxo-nun sabit təyini;
+
+- Seysmik-petro-fiziki əlaqələr: Elastik inversiya nəticələrinin petro-fiziki parametr-gil modeli ilə birgə kriging interpolasiyası, NTG və kh proqnoz xəritələrinin daha dəqiq-məqsəylə qurulması.
+
+- AYMT hibrid modeli: Bowers və Eaton trendlərinin sahə üzrə dəyişkənlik struktur xəritələri ilə əlaqələndirilməsi; VSP və MDT kalibrləri ilə posterior paylamaların daraldılması.
+
+Məhdudiyyətlər
+
+- Mövcud seysmik həmin kəsiyət əməliyyat paayırma zonalarında interpretasiya qeyri-müəyyənliyini artırır.
+
+- Nüvə məlumatlarının məhdudluğu petro-fiziki model parametrlarının (m, n, Rw) sahə üzrə variasiyalırın qiymətləndirməyi çətinləşdirir.
+
+- AYMT-nin tektonik komponentinin kəmiyyətə ayrılması üçün qırılma zonalarında stress ölçümləri və ya akustik emissiya tədqiqatları tələb olunur.
+
+===== Abşeron-Kür MQ Alt Horizontları AYMT və Seysmik-Geofizika.pdf | Page 10/11 =====
+Notlar
+
+Bu tədqiqat göstərir ki, Abşeron yarımadası və Cənubi Xəzər çökəkliyinin qərb- bortlərində MQ altı horizontlarında neft- qazlılıq lokal strukturlarda artıq sübut olunmuş və resurs potensialının böyük hissəsi cənub- qərb-yönlü parçalma zonalarında gəldiyimizdir. Qala və Hərəsən sahələrində olduğu qazılmış uğurlu seysmik interpretasiyalar daha ənis bəkməli 3D seysmik və VSP proqramlarının həyata keçirilməsini əsaslandırır. Kükürdə qazılan seysmik tədqiqatləmələr Miosen- Oliqosen hodəfdirin realizə artığını artırır. Mədən geofizikasında yan və mikroreyan karotajının dəqiq inteqrasiyası kollektorların məqsədyarlığının qiymətləndirilməsində etibarı və kalibrli baza təqdim edir. Aşağı Kür çökəkliyində AYMT- nin pliocen çöküntülərində formalşma mexanizmləri regional geobarık rejimin və struktur- tektonik amillərin sinerjisi ilə izah olunur. Orta Kür çökəkliyinin 370 km boyunca heterogen zonallşması – qərbdə Ceyrançölün proqradiv sistemləri və Kiçik Qafqazın kompleks tektonik mozaikası – lay təzyiqi, mühit və kollektor davranışını bəskin fərzqəndirır. İrəlidəki əsas addımlar seysmik məlumatların kəmiyyət və keyfiyyət baxımından artırılması, AYMT- nin operativ proqnoz üçün potensialaqlı kalibrli və petrofizik laborator baza ilə dəstəklənmiş inteqrativ modelləşdirmədir.
+
+Təkliflər
+
+- Cənubi Xəzər hövzəsinin cənub- qərb bortunu tam şəkildə əhatə markəli 3D seysmik proqram dəstəkl icrağa gətirilsin.
+
+- Kükürdə qazılan Miosen- Oliqosen hədəflərinə yönələn kəşf atribut analitiki və inversiya paketləri isə salınsın.
+
+- Mədən geofizikasi üçün LL- ML- dizəllis protokolları sahə- spesifik parametrlərlə yenilənsin, NMR və nitra kalibrları genişləndirilsin.
+
+- AYMT proqnozu üçün VSP, check- shot və LWD şərait/ rezistivlik real- time inteqrasiyası standart əməliyyatlara daxil edilsin.
+
+- Orta Kür çökəkliyində, xüsusən Ceyrançöl və Kiçik Qafqazını seqmentlərində lay təzyiqinin xəritələşməsi üçün əlavə parametriya (stres ölçmələri, mikroseysmik monitoring) tətbiq edilsin.
+
+===== Abşeron-Kür MQ Alt Horizontları AYMT və Seysmik-Geofizika.pdf | Page 11/11 =====
+Beləliklə, struktur-tektonik xüsusiyyətlərin, geodinamik rejim və petrofiziki xassusiyyətlərin vahid məkan-da zaman ölçüsündə təhlili göstərir ki, MQ ətil horizontlarında neft-qaz sisteminin davamlı fəaliyyətinə yönəldirilmiş seysmik proqram, karbohidrogenlərin miqrasiyasının və təkamülünün interpretasiyası və AİNT risklərinin proqnozlaşdırılması ilə sinergetik şəklidə mümkün ola bilər. Bu yanaşma həm Abşeron yarımadasında, həm də Cənubi Xəzər və Kür hövzələrinin müxtəlif seqmentlərində yeni ehtiyatların aşkarlənməsi və təhlükəsiz mənimsənilməsi sərait yaradacaq.

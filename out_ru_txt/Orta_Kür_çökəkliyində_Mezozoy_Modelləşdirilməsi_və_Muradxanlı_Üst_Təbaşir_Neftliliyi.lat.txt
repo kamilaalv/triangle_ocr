@@ -1,0 +1,279 @@
+===== Orta Kür çökəkliyində Mezozoy Modelləşdirilməsi və Muradxanlı Üst Təbaşir Neftliliyi.pdf | Page 1/20 =====
+Mövzunun adı: Orta Kür çökəkliyində Mezozoy çökmələrin geoloji-geofiziki modelləşdirilməsi və Muradxanlı sahəsinin vulkanoklastik süxurlarında aşkar edilən Yuxarı Təbaşir nəticələrinin jemi axtarış konsepsiyasında yeri
+
+Açar sözlər: Orta Kür çökəkliyi, Muradxanlı sahəsi, Mezozoy çöküntüləri, Yuxarı Təbaşir, vulkanoklastik süxurlar, gravitasiya anomaliyası, seysmik kəsilişlər, sıxlıq modelləri, Eosen, Böyük və Kiçik Qafqaz, Seyidlər qalxanması.
+
+===== Orta Kür çökəkliyində Mezozoy Modelləşdirilməsi və Muradxanlı Üst Təbaşir Neftliliyi.pdf | Page 2/20 =====
+Xülasə
+
+Neft və qaz hasilatının artırılması region daxilinə yeki
+yataqlarının aşkarlanması və qeyri-enevevi kollektorlarının
+qiymətləndirilməsi ilə birbaşa əlaqədardır. Orta Kür
+çökəkliyinin Böyük və Kiçik Qafqazın dərində yerləşmə
+zonaları üzrə aparılan kompleks kəşfiyyat-geo-fiziki tədqiqatlar göstərir ki,
+Mezozoy çöküntüləri, xüsusilə də Üst Təbaşir yaşlı
+vulkanogen və vulkanoklastik kompleks, perspektiv
+resurslarının aydınlığı üçün mühüm rol oynayır. Dərin qazma
+materialları Mezozoy çöküntülərinin bölgədə geniş
+yayıldığını sübut etmiş, Muradxanlı sahəsinə ilk dəfə
+olarag Üst Təbaşir vulkanogen süxurlarından sənaye
+əhəmiyyətli neft yatağı qeydə alınmışdır. 1982-1985-ci
+illərdə aparılmış seysmik kəşfiyyat işləri və sonrakı
+reintepretasiyası, alt struktur səviyyəsinin daxili quruluşunu
+aydınlaşdırmaq baxımından müəyyən informativlik göstərmişdir.
+Bununla belə, qravimetrik (Bouyer) anomaliyalarının xırda
+miqyaslı dəyişkənliyi və regional sıxlıq kontrastlarının
+analizi Bəyen çöküntülərinin strukturuna təsir edən alt
+səviyyə qeyri-bərabərliyinin dolayı göstəricisi kimi çıxış edir.
+Bu məqalədə 2.5D qravitasiya inversiyası, seçmə seysmik
+profildərin çoxkanallı emalı, keroтаж məlumatlarının
+petrofiziki kalibrlənməsi və sintetik seysmogramlarda birgə
+inteqrasiyası əsasında Muradxanlı-Seyidlər xəttinin
+struktur-mexaniki modeli təqdim olunur. Nəticələr göstərir ki,
+Muradxanlının cənub-şərq seqmentində 8-12° bucaqlı maili
+düzənliklər və izafi sıxlığı Δρ ≈ 300 kq/m3 olan şərqdə boyunça
+lokal qalxım-anomaliya yaradan obyektlər mövcuddur. Bu
+obyektlər Üst Təbaşir vulkanogen kompleksində fragmetar
+kollektor zonalarını və yuxarıda yerləşən Paleogen ərtüyündə
+struktur-trap şəraitini formalaşdırır. Tədqiqat həm yeni
+qazma prioritetlərini, həm də aşağı tezlikli seysmik
+atributlarının, mikroqravimetriyanın və çoxmənalı
+inversiyanın birgə istifadəsi ilə alt səviyyənin daha dəqiq
+xəritələnməsi mexanizmini təklif edir.
+
+===== Orta Kür çökəkliyində Mezozoy Modelləşdirilməsi və Muradxanlı Üst Təbaşir Neftliliyi.pdf | Page 3/20 =====
+Giriş
+
+Yerli və qlobal enerji bazarında dalğalanmalar, ehtiyatların aşılan kəşf tempi və analitik risklərin artması fonunda klassik struktur tələblərdən kənara çıxan axtarış strategiyalarına ehtiyac yaranır. Orta KUR çökəkliyi və Alp deformasiya zonası yaratdığı sedimentasiya mexanizmi dinamik dəyişmiş, nəticədə Mezozoy və Paleogen – Neogen kəsillərinin lateral və şaquli heterogenliyi güclənmişdir. Böyük və Kiçik Qafqazın dağətəyi rayonlarında Mezozoy çöküntülərinin xüsusən Üst Təbaşir yaşlı vulkanogen – vulkanoklastik paketlərinin geniş yayıldığı göstərən dərin qazma məlumatları, regionda vulkanogen kollektor fenomeninin yenidən qiymətləndirilməsini tələb edir. Muradxanlı sahəsində Üst Təbaşir vulkanogen süxurlarında neft axınının sənaye səviyyəsində heç də alınmaması bu konsepsiyanı praktiki olaraq təsdiqləmişdir.
+
+Problemin aktuallığı iki əsas nöqtədə cəmlənir:
+Alt struktur mərtəbəsində (Mezozoy) seysmik kəsilişin zəifliyi, akustik kontrastın yaranması, qırıntılı süxurlarda anizotrop təzahürləri və vulkanogen risklərini artırır. Qravitasiya və sahəsinin yüksək tezlikli komponentlərinin dəyişməsi, çöküntülərin strukturunu və qalınlığını təsir edən dərinlik heterogenliyini dolayı yolla əks etdirərək, trapp – kenezis mexanizmini idarə edən mexaniki korrelyasiyaları işarələyir.
+
+===== Orta Kür çökəkliyində Mezozoy Modelləşdirilməsi və Muradxanlı Üst Təbaşir Neftliliyi.pdf | Page 4/20 =====
+Rejional geoloji hərşəmə
+
+Orta Kür çökəkliyi şərqdə Xəzərin şimal-şərq perikontinental zonasına, qərbdə isə Böyük Qafqazın cənub yamacına transsional keçid zonasına tərkibində iki əsas domenlə səciyyələndirilir:
+- Şimal-qərb domeni: Alt-Orta Tebaşir karbonatlı-marjinal rift səciyyəli, Üst Pissada piroklastik-vulkanoe interkalasiyala müşayiət olunan platforma-fasiya komplekstəri.
+- Cənub-şərq domeni: Üst Tebaşir vulkanoe-vulkanoklastik ardıcıllığı (andezit, bazalt, tuf, tufit) ilə interkalasiya edən həmkarbonatlı-terricen paketlər.
+
+Stratifik sütun Paleokendə (Eosen) əsasən yarımdəniz-dağlıq dəniz mühitinin karbonatlı-silisisifləşmiş şelf çöküntülərindən ibarətdir; Eosenin aşağı hissəsi neft-qazlı yığılma üçün  rezervuar (kollektor) edir. Neokenin alt hissəsində allüvial-delta kanallarının qumlu fasiaları üstünlük təşkil edərək üst süxurlarla birlikdə sonrakı antiklinal formalara uyğunlaşar.
+
+===== Orta Kür çökəkliyində Mezozoy Modelləşdirilməsi və Muradxanlı Üst Təbaşir Neftliliyi.pdf | Page 5/20 =====
+Material və metodlar
+Məlumat bazası klassik və geopri-ladi mənbələrdən təşkil edilmişdir:
+- Quyu: Muradxanlı quyu dəstəsi (M-12, M-23, M-41, M-67), 
+Seçüdler qalxımı qonar quyuları (S-03, S-09), həmçinin Orta Kür perimetri üzrə dispetçer kəsilləri. Karotaj kompleksində akustik (DТ), qamma, neytron-porozimetriya, elektriki və qiyabi mikroimkanələr yer alır.
+- Seysmik: 1982-1985-ci illərin ikiqat ekssolpmaniyanın (ÇDП-2D) arxiv profilləri, seçmə xətlər üzrə yenidən emal (statik Q-kompensasiyalı mijraslama), əlavə olaraq son illərdə əldə olunmuş lokal VSP-lər.
+- Potensial sahələr: 1:50 000 miqyaslı qravimetrik məlumatlar, mikroqravimetriya profilləri, Bouker anomaliyasının regional-trend və residuall komponentlərə ayrılması; izafi sıxlıq sərhədlərinin qiymətləndirilməsi üçün 2.5D inversiya.
+- Laboratoriya: Nüvə nümunələrində quru-nəmliyi sıxlığı, mineraloji (XRД), keçənəklik-keçiricilik ölçüləri; vulkanoklastiklərdə məsafə geometriyası üçün Ge-çT analizləri.
+
+===== Orta Kür çökəkliyində Mezozoy Modelləşdirilməsi və Muradxanlı Üst Təbaşir Neftliliyi.pdf | Page 6/20 =====
+İnversiya və modelləşdirmə çərçivəsi üçün morfoloji qurulmuşdur:
+1) Petrofiziki kalibrləmə: Nüvə-karotaj inteqrasiyası ilə faza üzə sıxlıq, akustik surət, porite keçiricilik əlaqələri. Vulkanogen kompleks üçün sıxlığın 2500-2600 kq/mᵌ kontrastın tipik olduğu təsdiq olunmuşdur.
+
+2) Qravitasiya inversiyası: Bouguer xəritəsinin çoxşkalalı dekompozisiyası, alt mərtəbə anomaliyasının (Şavenumber- domeyn) ayrılrd edilməsi, 2.5D bədən modellərinin (prizmatik bloklar) parametrik tənzimlənməsi ilə Mezozoy bazis səthinin relyefinin bərpası.
+
+3) Seysmokəşfiyyat inteqrasiyası: Seçilmiş profillərdə süni seysmik qramların hesablanması, surət modellərinin qravitasiya inversiyası ilə üzünləşdirilməsi və alt mərtəbə səthlərinin miqdar üzə stabiləşdirilməsi.
+
+**Seysmik-stratigrafik müşahidələr**
+
+1982-1985-ci illərdə aparılan seysmik kəşfiyyat işlərinin məlumatı, texniki məlumatlar (az offset, dar bucaq, zəif siqnal-küy nisbəti ilə səciyyələnmişdir. Bu səbəbdən, alt struktur mərtəbəsinin geoloji quruluşu barədə lazımi informasiyanın əldə olunmaması qeydə alınmışdır. Proffillərdə Paleogen-Neogen kontakti üzərində davamlı qüvvətli reflektor seçilir, lakin onun altında zəif diffuz səthliliyi müşahidə edilir. Vulkanogen layların seysmik xüsusiyyəti, lateral surət fluktuasiyası zonaları ilə birlikdə difraksiya büllurlarını artırır.
+
+===== Orta Kür çökəkliyində Mezozoy Modelləşdirilməsi və Muradxanlı Üst Təbaşir Neftliliyi.pdf | Page 7/20 =====
+Söyüdlər yalıxımy istiqamətində seysmo-fasiaların düzümü maili düzənlər kimi təsəvvür edir: reflektorların yunkul tilt bucaqları 8-12° diapazonunda dəyişərək yuxarıdan alan komposiyanın təsiri ilə elastik nazik təbəqələrin sürüşmə-sürünmə hərəkətləri əks etdirir. Muradxanlıynın cənub-şərq hissəsində reflektorları lokal kəsilməsi, surət inversiyaları və zəif konyinuitey anomaliyası yaradan obyektlərin varlığına işarə edir; bu obyektlər ehtimal ki, bazalt intruziyaları, vulkanit kanalları və ya piroklastik linzələrdir.
+
+**Qravimasiya sahəsinin interpretasiyası**
+
+Bouguer anomaliyasının xəritəsində regional meyl şimal-şərqə doğru artım göstərir. Rezidual komponentin xəritələşdirilməsi Muradxanlı strukturunun cənub-şərq seqmentində müsbət anomaliya ləkələri aşkarlaşdırır ki, bunlar Eosen çöküntülərinin strukturuna təsir edən dərin sıxlıq yüksəkliyi kimi şərh edilir. Sıxlıq modelin Mesozo kompleksində 2500-2600 kq/m³ intervalında dəyişmə ehtimallığı, izafi sıxlıq sərhədinin isə orta hesabla Δρ ≈ 300 kq/m³ olduğu təsdiqləyir. Bu sərhəd vulkanogen-sediment paketinin kontakt zonasında və həmçinin intruziv bədənlərin (andezit-bazalt tərkibli) kənarında müşahidə olunur.
+
+===== Orta Kür çökəkliyində Mezozoy Modelləşdirilməsi və Muradxanlı Üst Təbaşir Neftliliyi.pdf | Page 8/20 =====
+Ağır qüvvəsi anomaliyasının dəyişməsi Eosen çöküntülərinin strukturuna iki mexanizm üzrə təsir edir:
+- Diferensial çöküntü: Sıxlığı yüksəkliyi üzərində Eosenin ilkin qalınlığının azalması, kənar zonalarda isə akkumulyasiyanın artması, nəticədə müəyyən miqyaslı antiklinal-monoklinal strukturların formalaşması.
+- Elastik bükülmə: Alt mərtəbə relyefinin kəskin qırışları ilə uyumlu şəkildə Paleogen paketinin elastik plitə kimi yuxarıya doğru qaldırılması və lokal tupların emalıy.
+
+Muradxanlı sahəsində çəkilən qravitasiya inversiyası nəticəsində alt mərtəbə səthinin 2.5D kəsilişləri kəsir ki, Muradxanlının cənub-şərq hissəsində 2.3-2.7 km dərinlik intervalında sıxlıq anomaliyası ilə səciyyələnən, təqribən 1.8 km enində və 4.6 km uzunluğunda uzanan blok mövcuddur. Bu blokun şimala doğru cavan maili 8-12° bucaqlar şəklində davam edir, cənub-şərq kənarında isə tədricən qırılmalı kontaktla məhdudlanır. Sərhəd boyunca Δρ ~ 300 kq/m³ kontrast aşkar çəkilir ki, bu da vulkanogen kompleksin daha sıx intruziv fazalarının mövcudluğu ilə izah olunur.
+
+Söyüdlər qalxımı istiqamətində Mezozoy intervalında maili düzənlər pis mənada konservativ saxlanılmış və sonrakı tektonik yenidənqurma ilə zəif modifikasiya olunmuşdur. Bu düzənlər eyni zamanda strukturlu tele ilə yenilənən paleomeyz səthləri kimi qiymətləndirilir. Nəticədə, Yuxarı Tebaşir kollektorlarının seqmental, lakin regional miqyasda davam edən içə-yataqlı zonalaşması üçün əlverişli məkan yaranır.
+
+===== Orta Kür çökəkliyində Mezozoy Modelləşdirilməsi və Muradxanlı Üst Təbaşir Neftliliyi.pdf | Page 9/20 =====
+Petro-fiziki və kollektor xüsusiyyətləri
+
+Muradxanlı-23, -41 quyularından götürülmüş nümunələrdə vulkanoklastik layların porozitesi 7-14% diapazonunda, effektiv keçiriciliyi 0.2-3.5 mD arasında dəyişir.
+
+Piroklastik tufitlərdə çərçivə məsaməliliyi ilə əlaqəli olaraq anizotropiya kəstirir. Bazaltik lava axınlarında vezikulyar məsamələr səviyyədən (3-6%) qiymətləndirilir, lakin hələ ki haloklastik zonalarda qırığ-çıngıl matriksinin sayəsində keçirmə xətləri formalaşmışdır.
+
+Akustik sürət (Vp) 4.1-5.5 km/s aralığında, sıxlıq 2.50-2.60 q/sm³ (yəni 2500-2600 kq/m³) ölçülmüşdür. Bu kəstiricilər qravitasiya modelinin sərtliyini artırır və seysmik sürət modelinin kalibrələnməsinə imkan yaradır.
+
+===== Orta Kür çökəkliyində Mezozoy Modelləşdirilməsi və Muradxanlı Üst Təbaşir Neftliliyi.pdf | Page 10/20 =====
+Nidrokarbon sᴛəməleləri elementləri
+- Mənbə süxuru: Orta Təbaşir-Alt Paleoken intervallarında üzvi karbonlu şist-mərmər laylarının ᴛöç dəyərləri 1.2-2.0% ətrafındadır; vitrinininᴛ əksolunması Po 0.7-0.9% diapazonunda, jar pançeresinin erkən orta mərhələsinə uyğun gəlir.
+- Kollekᴛor: Üst Təbaşir vulkanogen-vulkanoklastik paket, lokal fasial dəyişmələr nəᴛicəsində kollekᴛorluq qazanmışdır; interxrannullar məsamə ilə yanaşı, çat-vesikullar sisᴛemlər rol oynayır.
+- Örtük: Eosen karbonatlı-gilli paket, ᴛonşellər və ᴛismən radiolaritlər yüksək şaquli sıxılma və aşağı mikrozəiflə effektli örtük funksiyasını yerinə yeᴛirir.
+Tələ: Strukᴛur (antiklinallar, monoklinallar) və liᴛoloji-stratiqrafik (fasiyal keçid, kəsilmə lava axınları) tələlerin kombinasiyası; Muradxanlı cənub-şərq seqmenᴛində anomaliya yaradan obyekᴛlərin kənarlarında kompoziᴛ tələlər üstünlük təşkil edir.
+- Miqrasiyaja: Mesozoyun alt hissəsində differensial kompakᴛilə yaranmış laᴛeral məc mühafizə hətᴛləri; Soyudların qalxmasının məc müəyənləyənləri boyunca uzunməsafəli miqrasiya kanalları.
+
+ Corrected version:
+Nidrokarbon sistemlərinin elementləri
+- Mənbə süxuru: Orta Təbaşir-Alt Paleoken intervallarında üzvi karbonlu şist-gil laylarının törəmə dəyərləri 1.2-2.0% ətrafındadır; vitrininin əksolunması Po 0.7-0.9% diapazonunda, jar pançeresinin erkən orta mərhələsinə uyğun gəlir.
+- Kollektor: Üst Təbaşir vulkanogen-vulkanoklastik paketi, lokal fasial dəyişmələr nəticəsində kollektorluq qazanmışdır; interqranullar məsamə ilə yanaşı, çat-vezikullar sistemlər rol oynayır.
+- Örtük: Eosen karbonatlı-gilli paket, gilli şistlər və tismən radiolyarlitlər yüksək şaquli sıxılma və aşağı mikrozəiflə effektiv örtük funksiyasını yerinə yetirir.
+Tələ: Struktural (antiklinallar, monoklinallar) və litoloji-stratiqrafik (fasiyal keçid, kəsilmə lava axınları) tələların kombinasiyası; Muradxanlı cənub-şərq seqmentində anomaliya yaradan obyektlərin kənarlarında kompozit tələlər üstünlük təşkil edir.
+- Miqrasiya: Mezozoyun alt hissəsində differensial kompaksiya ilə yaranmış lateral miqrasiya xəttləri; Soyudların qalxmasının məc müəyənləyənləri boyunca uzunməsafəli miqrasiya kanalları.
+
+===== Orta Kür çökəkliyində Mezozoy Modelləşdirilməsi və Muradxanlı Üst Təbaşir Neftliliyi.pdf | Page 11/20 =====
+Sejismo-stratigrafija inteqrasiyasının nəticələri
+
+Sejsmik profillərdəki zəif kontinuitet və diffuz reflektorlarının yaratdığı qeyri-müəyyənlik gravitasiya inversiyası ilə azaldılmışdır. Üç əsas nəticə əldə edilmişdir:
+
+1) Alt mərtəbə relefı: Mezozoy bazisinə doğru sərt keçidlərin mövqeyi Boquxuer residuql maksimumları ilə üst-üstə düşür və Eosan reflektorunda yunikul tensonal bükülmələrə səbəb olur.
+
+2) Anomaliya obyektləri: Muradxanlının cənub-şərq hissəsində zəif seysmikdə amplituda azalmaları və yüksək seysmikdə amplituda yüksəlişləri ilə səciyyələnən "kölgə zonaları" əmələ gətirir; bu zonaların kənarında akustik impedans kontrastı artır və potensial kollektor-örtük kontaktları güclənir.
+
+3) Dip bucaqları: Struktur sxemində yatma bucaqları 8-12° arasında dəyişərək, həm trap geometriyasını, həm də neftlılıq zonalarının hidrodinamik dövranışını tənzimləyir.
+
+===== Orta Kür çökəkliyində Mezozoy Modelləşdirilməsi və Muradxanlı Üst Təbaşir Neftliliyi.pdf | Page 12/20 =====
+Tarixi seysmik kəşfiyyatın təhlili
+
+1982-1985-ci illərdə Muradxanlı sahəsində aparılan seysmik kəşfiyyat işi alt struktur səviyyəsini işıqlandırmaqda məhdudiyyətlər kəstərmişdir. Ekipaj dizaynının qısa ofsetləri, dar bucaqlı meydud bucaq paylanması, yüksək səth dalğası səs-küyü və qeyri-sabit statik düzəlişlər nəticəsində Mezozoy çöküntülərinin daxili strukturu barədə məlumat alınmışdır. Strukturlar arasında profillər keçilmədiyindən, bağlıq sahələr və yaşayış məntəqələri səbəbilə işlənmədiyindən, regionun struktur sxemi qravimetrik məlumatlar əsasında tərtib edilmişdir. Bu, əhəngdaşı sahələrinin rolunu ən çox planda çıxarmış, Voukuer anomaliyasının detallı interpretasiyası ilə seysmo-stratigrafik məkanlar doldurulmasına təkan vermişdir.
+
+Müəyyən
+
+Mezozoy çöküntülərinin vulkanogen-vulkanoklastik təbiəti seysmik kəşfiyyat üçün qeyri-standart çağırışlar yaradır. Yüksək seysmik sürət paylanması və diffuz refleksiya sahələri alt səviyyənin klassik ÇDP işlənməsində qeyri-müəyyənliyə səbəb olur. Bununla belə, gravitasiya məlumatları sıxlıq kontrastlarına birbaşa bənzər olduğundan, Δρ ≈ 300 kq/m³ sərəd komponentlərinin xəritələnməsində etibarlı bələdçi kimi çıxış edir. Ağırlıq qüvvəsi anomaliyasının dəyişməsi Eosen çöküntülərinin strukturuna təsir edərək, lokal bükülmələri və qalınlıqt variasiyalarını idarə edir; bu isə örtük-tələ synthesisi baxımından praktiki əhəmiyyət daşıyır.
+
+===== Orta Kür çökəkliyində Mezozoy Modelləşdirilməsi və Muradxanlı Üst Təbaşir Neftliliyi.pdf | Page 13/20 =====
+Muradxanlı sahəsində Yuxarı Təbaşir vulkanokən mənşəli süxurlarında 
+neftliliklərin aşkar edilməsi regional play konsepsiyası 
+də işlənir. Klassik klastik kollektorlarla müqayisədə 
+vulkanoklastiki kollektor keyfiyyəti daha diskret, lakin 
+struktur-fasial sinerjiylə xarakterizə olunur. Maili düzənlərin 
+(Səfəddilər qalxımı) nəhrlılığın paleodrenaj istiqamətlərinə və 
+hidrokarbon migrasiyasının əsas vektorlarını müəyyən etmiş, 
+bu da trapların dolma səmərəliliyinə və müvəffəq təsir 
+göstərmişdir. Cənubu-şərq seqmentinə anomaliya yaradan 
+obyektlərin mövcudluğu potensial intruziya və ekstruziv 
+cisimlərin yaratdığı yerli istilik anomaliyaları ilə də üstə 
+düşə bilər. Bu, üzvi maddənin yetişmə kinetikasına 
+lokallaşdırılmış təsir göstərərək erkən istifadə-sökməyə 
+dönəmlərinə gətirib çıxara bilər və miqyasını, pəncərəsini genişləndirə 
+bilər.
+
+Risklər və qeyri-müəyyənliklər
+
+Litoloji heterogenlik: Vulkanoklastiki süxurlarda lateral 
+fasial dəyişmələrinə kollektorun davamlılığını məhdudlaşdıra 
+bilər.
+
+- Seysmik qeyri-müəyyənlik: Alt kəsimin zəif 
+öyrənilməsi struktur xəritələrin həndəsi qeyri-müəyyənliyinə 
+səbəb ola bilər.
+
+Qravitasiya qeyri-müəyyənliyi: İnversonun qeyri-müəyyənliyi 
+müxtəlif sıxlıqlı layların özünü dərəcədə izah edə bilər; 
+petrofiziki məhdudluqların gücləndirilməsi vacibdir.
+
+- Qapaq keyfiyyəti: Yumşaq örtüyünün mikroçaatlar şəbəkəsi 
+yerli sızmalara səbəb ola bilər; bu, trapların tutumuna təsir edər.
+
+===== Orta Kür çökəkliyində Mezozoy Modelləşdirilməsi və Muradxanlı Üst Təbaşir Neftliliyi.pdf | Page 14/20 =====
+Təvsiyə olunan əlavə tədqiqatlar
+
+Keniş azimutlu uzun ofsetli 3D seysmik; aşağı tezlikli komponentlərin (≤5 Hs) gücləndirilməsi üçün mende-gebulədiçi dizaynı.
+
+Qazlıçayət kəşfiyyat quyularında VSP həm distributiv akustik sensorlu (DAS) ölçmələr; süni seysmogramların operativ kalibrlənməsi.
+
+Yüksək həssaslıqlı mikrogravimetriya şəbəkəsi; qısa dalğa uzunluqlu komponentlərin hərəkətli pəncərə ilə çıxarılması.
+
+Petrofiziki laboratoriya: İonlaşma və mikro-HT ilə məsamə şəbəkəsinin topologiyasının kəmiyyətləndirilməsi; çatlardakı keçiriciliyin effektiv orta qiymətinin qiymətləndirilməsi.
+
+Geokimya: Biomarker və izotop analizi ilə mənbə-yığım korrelyasiyası; termal tarix modelləşdirilməsi (EacjPo, BasinMod analoqları)
+
+Axtar-kəşfiyyat üçün prioritet bloklar
+
+1) Muradxanlı CƏ blok: Qravitasiya maksimumu və seysmikdə amplituda düşümü ilə kəsişən zona; 2.6-2.9 km dərinlikdə Üst Təbaşir vulkanoklastiklərində potensial kollektor. Qazma strukturun şimal-şərq qanadı, yaylaq bucağına perpendikulyar.
+
+2) Seyidlər qalxımı şimal kənarı: Maili düzənliklərin yuxarı hissəsi; Eosen örtüyünün qalınlaşdığı periklinal sonlanma. Potensial komposit tele.
+
+3) Muradxanlı-Seyidlər infrastruktural zona: Tarixi seysmik profillərin işlənmədiyi keçilmə hissələr; mikrogravimetriya ilə xırda ölçülü sıxlıq anomaliyalarının xəritələnməsi və sonradan kontur xəttləri üzrə 2D seysmik.
+
+===== Orta Kür çökəkliyində Mezozoy Modelləşdirilməsi və Muradxanlı Üst Təbaşir Neftliliyi.pdf | Page 15/20 =====
+Modelin homoepital şem
+- Alt mərtebe (Mezozoy) heterogen, vulkanogen-sediment intervaljasijalı, sıxlıq kontrastı yüksəkdir.
+- Orta mərtebe (Paleosen, xüsusən Eosen) elastik-plastik dövraniş göstərənek alt mərtebejin reljefinə həssasdır; ağırlıq qüvvəsi anomaliyasının dəyişməsi burada strukturlaşmanı stimullaşdırır.
+- Üst mərtebe (Neogen-Kvatar) regional kompaksija ilə semtdeyişmə dəyərini azaldır, lakin lokal sürüşmə zonalarını gücləndirir.
+
+Müqayisəli analog
+
+Kaukazın cənub-şərq qanadında və Anadolunun şimal şelfində Üst Tebaşir vulkanogen komplekslərində qeyd alınmış neftliliyin peyda olması Muradxanlı üçün analogiya yaradır. Orada da Δρ ≈ 0.25-0.35 q/sm³ sərhədlər qravitasiya pakətlərində amplituda-spektrovariativ atributlar təlafüz etmədən seysmik məlumatların alt mərtebe üçün eynini təsdiqləyir. Bu analoglar geniş azimutlu seysmik məlumatların alt mərtebe üçün eynini təsdiqləyir.
+
+Məlumatların sintetik və xəritələşdirilməsi
+
+Struktur sxemdə tərtib edilmiş xəritələr aşağıdakı nəticələri konsolidasiya edir:
+- Mezozoy bazis səthinin qaldırılmış blokları Muradxanlı cənub-şərqində və Seyidlər şimal qanadında uzanır.
+Yataq bucaqları 8-12° intervalında dəyişir, şimal-şərq istiqamətində yüngül artım göstərər.
+- Anomaliya qara rəngli obyektlər qravitasiya xəritəsində izoanomalın sıxlaşması ilə təzahür edir və Eosen izopax xəritəsində lokal nazilma zonaları ilə korrelyasiya olunur.
+Strukturlar arasında seysmik profillərin çatışmazlığı qravimetrik məlumatların rolunu artırmış, sxem məhz bu əsasda tərtib edilmişdir; bu sxem sonradan seysmiklə kalibrələməyə açıqdır.
+
+===== Orta Kür çökəkliyində Mezozoy Modelləşdirilməsi və Muradxanlı Üst Təbaşir Neftliliyi.pdf | Page 16/20 =====
+Texniki-iqtisadi baxış
+
+Vulkanogen kollektorların qeyri-bərabərliyi qazma dizaynında çevik yanaşma tələb edir:
+
+- Qazılan quyu: Latek bucağına 90°-ə yaxın bucaqla planlaşdırma, çat sistemlərini maksimal kəsmə dərəcəsi.
+
+- Qazma palçığı: Aşağı plastik-lameyar, silikon əsaslı inhibitorlar; vezikulyarlar boşluqlarda qaz kəsilməsi riskinə qarşı real-time qaz tərkibi monitorinqi.
+
+Lojistika planlaşdırılması: Keçilməz sahələrdən yan keçən konturlar; çətin mövsümlərdə ağır texnikanın daşınması.
+
+İnterpretasiya atributları və məlumat öyrənilməsi və ya
+
+Məlumat məzmunluğuna şəraitində əjdaha proqnozlar üçün aşağı tezlikli seysmik atributlar (spektral dekompozisiya, instateneous freqvensiya), gravitasiya residuall gradienləri və s.) keyfiyyətli əjdaha anomaliyalarının birgə istifadəsi təklif olunur. Maşın öyrənməsi çərçivəsində yarım-nəzarətli klasterləşmə (Self-training) və featur mühəndisliyi ilə nəhəng zonalar reytinqlənmiş, nəticədə Muradxanlı SE blok 0.72 prioritet indeks, Seyidlər şimal kənarı 0.65 indeks göstərmişdir. Bu indekslər petrofiziki qeyri-müəyyənliyi (σ ≈ 0.18) nəzərə alaraq hesablanmışdır.
+
+Sahəvi tədqiqlər planı
+
+Pilot-suv mikrogravimetrija transekti: 250 m stansiya intervallı, 3 mm/s həssaslıq, səhə büdcəti ≤0.05 mKal.
+
+- Qısa-çox offsetli 2D-liniyalar: 12-18 km ümumi uzunluq, geniş azimut, aşağı tezlik mənbələri.
+
+- Sxematik kəşfiyyat quyusu: 2800-3100 m hədəf dərinliyi; tam karotaj dəsti, VSP, sintetik sejsmokram kalibrlənməsi.
+
+===== Orta Kür çökəkliyində Mezozoy Modelləşdirilməsi və Muradxanlı Üst Təbaşir Neftliliyi.pdf | Page 17/20 =====
+Geoloq-praktik nəticələrinə əməl etməklərim
+
+1) Orta Kür çökəkliyində Mezozoy çöküntülərinin geniş yayılması dərin quyuların məlumatları ilə təsdiq olunmuş, böyük komplekslərin axtarışında prioritetli məsələn ədalətləndirilməsidir. 
+2) Muradxanlı sahəsində Üst Təbaşir vulkanokən süxurlarında neft yatarnlığının aşkar edilməsi regionda yeni yön axtarış konsepsiyasının əsasını qoyur.
+3) 1982–1985-ci illərin seysmik kəşfiyyatı alt struktur mərtəbənin geoloji quruluşunu açmağa üçün yetərli olmamış, lakin qravimetrik məlumatları ilə inteqrasiyası ilə Mezozoy çərçivələri və anomaliya obyektləri modelləşdirilmişdir.
+4) Mezozoy çöküntülərinin sıxlığı 2500–2600 kq/m³, çərçivə üzrə izafi sıxlıq Δρ ~ 300 kq/m³ kimi qiymətləndirilir; bu kontrast Boyxuer anomaliyasının residual xəritələrində seçilməkdədir.
+5) Ağır qüvvəsi anomaliyasının dəyişməsi Eosen çöküntülərinin strukturuna təsir edərək, lokal bükülmələri və qalınlıq variasiyalarını formalaşdırır; bu tələ mexanizmləri üçün əlverişli şərait yaradır.
+6) Struktur sxemində yatım bucaqları 8–12° arasında dəyişməkdədir, Cöydlər qalxımında Mezozoy intervalında maili düzənliklərin mövcudluğu hidrodinamik miqrasiya vektorlarını izah etməkdədir.
+7) Muradxanlı strukturun cənub-şərq hissəsində anomaliya yaradan obyektlərin mövcudluğu ehtimalı yüksəkdir; bu obyektlər intruziv–vulkanoklastic təbiətli olub, komposit tələləri yaradır.
+8) Strukturlar arasında keçilməzlik ucbatından seysmik profillərin işlənilmədiyi zonalarda qravimetriya məlumatı əsasında tərtib edilmiş sxem neftlərin ilkin inventarizasiyası üçün etibarlı çərçivə təqdim edir.
+
+===== Orta Kür çökəkliyində Mezozoy Modelləşdirilməsi və Muradxanlı Üst Təbaşir Neftliliyi.pdf | Page 18/20 =====
+Nəticə
+Neft və qaz hasilatının davamlı artırılması üçün Orta Kur çökəkliyinin metlənməmişdirilməsi zəruridir. Muradxanlı sahəsində Üst Təbaşir çöküntülərində aşkar edilmiş neftli layların subut etdiyi kimi, geri-qazoviyə kollektorlarının axtarışı və onların qravitasiya-seysmik inteqrasiyası ilə xəritələnməsi, kəsilişin struktur və qalınlıq paylanmasına nəzarət edən dərin heterogenliyin bərpasını mümkün edir. Təklif edilən axtarış prioritetləri və sahəvi təsdiqetmə planı yaxın mərhələdə yeni kəşflərin azimutlu 3D seysmikası, mikroqravimetriya, VSP və yüksək dəqiqlikli petrofiziki ölçmələrin inteqrasiyası Muradxanlı-Cənub xəttinin ətrafında telemetriyanı dəyişdirməyə və qazlama risklərini optimalaşdırmağa xidmət edəcəkdir.
+
+Təşəkkür
+
+Arxip seysmik materiallarının elmi-tədqiqat və qravimetrik məlumatlarını təkrar emalı üçün regional geofizika komandasına, nüvə və karotaj məlumatlarının kalibrilməsində dəstəyə görə petrofizika laboratoriyasına minnətdarlığımızı bildiririk.
+
+===== Orta Kür çökəkliyində Mezozoy Modelləşdirilməsi və Muradxanlı Üst Təbaşir Neftliliyi.pdf | Page 19/20 =====
+Yotiqlər
+1. Regional Kəsiklərarası Mərkəzi. Orta Kür çökəkliyinin stratiqrafiyası və tektonikası üzrə baxılmış materiallar. Daxili nəşr, 2019.
+2. Qravitasiya və Maqnito-Metriya İnstitutu. Bukjer anomaliyalarının çoxşkalalı analiz metodikası. Metod göstərişi, 2020.
+3. Seysmik Emal Laboratoriyası. Aşağı tezlikli atributlarının alt mərhələ kəsilməsində tətbiqi. Texniki qeydlər, 2021.
+4. Vulkanogen Kollektorlar üzrə İşçi Qrupu. Üst Təbaşir və vulkanoklastiklərində kollektorluq və tədqiqlər. Sahə nəşriyyatı, Muradxanlı, 2022.
+5. Petrofizika Konsorsiumu. Nüvə-karoтаж inteqrasiyası və sıxlıq modelləşdirilməsi. Təqdimatlar toplusu, 2023.
+
+Əlavə qeydlər
+
+Axtarış bloklarında əməliyyat pəncərəsi: yay-payız mövsümü; keçilməz zonalarda mobil stansiya və ya son-payız Məlumat idarəetməsi: Bulud əsaslı versiyalaşdırma, seysmik-qravitasiya-karoтаж inteqrasiyası üçün vahid metaverilənlər sxemi.
+Qazçıxarma təhlükəsizliyi: Vəziqulyar zonalarda Qaz-monitoring, BOP parametrlərinin real-time tənzimlənməsi.
+
+Gələcək istiqamətlər
+
+Full-waveform inversion (FWI) üçün aşağı tezlikli prekondisioner-lərin tətbiqi; alt mərhələdə surət-sıxlıq koherensiyasının artırılması.
+- Aerokosmik və qravimetriya ilə hərçin optimallaşdırılması; yüksək relyefli sahələrdə dron-bazalı nəticəlilik.
+- Mikro-seysmik şəbəkələr vasitəsilə aktiv tektonik hərəkətlərin xəritələnməsi; çat sistemlərinin orientasiyası ilə qazçıxarma istiqamətinin uyğunlaşdırılması.
+
+===== Orta Kür çökəkliyində Mezozoy Modelləşdirilməsi və Muradxanlı Üst Təbaşir Neftliliyi.pdf | Page 20/20 =====
+Cəkun olaraq, Muradxanlı-Sevdlər seqmentində Mezozoy çöküntülərinin daxili geoloji quruluşunu anlamaq üçün perspektivli bir yol xəritəsi təqdim edir. Bu yanaşma həmin aşkar edilməsinin praktiki mexanizmini də formalaşdırır. Yeni yataqların institusional səviyyədə koordinasiya olunmuş çoxmənalı geofizika proqramı bu potensialın açılmasında əsas rol oynayacaqdır.

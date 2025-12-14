@@ -1,0 +1,374 @@
+===== Qərbi Abşeron Yatağı Geoloji-Geofiziki Modelləşdirmə və İnkişaf Strategiyası.pdf | Page 1/25 =====
+Qərbi Abşeron neft-qaz yataqlarının geoloji-geofiziki modelləşdirilməsi, yaradılmış tərzə cəlv edilməsi: aerofotoplani-metrik müasir lay mühəndisləri çoxşaxəli tədqiqat
+
+Müəlliflər: A. S. Quliyev, N. M. Rzayev, B. Ə. Məmmədov,  Z. H. Həsənli
+
+Təşkilatlar: Xəzər Beynəlxalq Enerji Tədqiqatları Mərkəzi; Neftlə Mühəndisliyi İnstitutu; Geologiya və Geofizika ETİ
+
+Müraciət tarixi: 2024
+
+===== Qərbi Abşeron Yatağı Geoloji-Geofiziki Modelləşdirmə və İnkişaf Strategiyası.pdf | Page 2/25 =====
+Gərbi Abşeron neft yatağı Xəzər dənizi akvatoriyasının dayaz sulu zonasında (dərinlik 2-20 m) yerləşərək XX əsrin əvvəllərinə aiddir. Yataq 1945-ci ildə aerofotoplanalma materiallarının interpretasiyası ilə ilkin konturları müəyyən edilmiş, 1958-1959-cu illərdə seysmik tədqiqatlarla tektonik skeleti dəqiqləşdirilmişdir. 1985-ci ildən intensiv axtarış-qazma mərhələsi ilə sənaye əhəmiyyətli axınlar alınmış, 1989-cu ildən isə G/D horizontunun planlı struktur-axtarış işləri başlanılmışdır. Əvvəlki mərhələdə 14 quyu (7-si çıxarılmış, 1994-2023-cü illərdə isə ümumilikdə 94 yeni quyu qazılaraq quyu parkı 172 işləkliyə çatdırılmış və hasilat sabitləşdirilmişdir. Yataqda 23.02.1986-cı il tarixindən “zenit” layda suvurma (basdı) tədbirlər tətbiq edilmiş, hidrodinamik dəstəyin optimallaşdırılması nəticəsində illik neft hasilatı 305,7 min ton, su hasilatı 6,9 min m³, qaz hasilatı 7,319 mln m³ səviyyəsində konsolidasiya olunmuşdur. Məqalədə yatağın litostratigrafiyası, kollektor xüsusiyyətləri, seysmik-atribut interpretasiyası, lay təzyiqinin idarə edilməsi, PƏT həcmi, suvurmanın effektivliyi, quyu məhsuldarlığının azalması dinamikası, yanmaqlanın və selektiv suvurmanın rolu, neftin Gərbi Abşeron neftinin özəlliyi Abşeron çökəkliyi yatağının neftli-qazlı kombinasiyalı tətbiqinə üstünlük verir, suvurmanın məkan konfiqurasiyasını yenidənqurma üçün şərait yaradır və uzunmüddətli hasilat əmsalını artırır. Tədqiqat nəticələrinin əyrilərinin (deşifr) analizi əsasında ümumi çıxarıla bilən yatağın ekoloji idarəetmə planı dayaz sulu rejimdə çoxyığlı estakad sistemləri, yığma ölçü blokları və dəniz mühitinə boşalma orta müddətli inkişaf ssenariləri selektiv suvurma, laylararası ekranlama, mikrogel-polimer paketlərinin və aşağı-duzluqlu su mənimsəmə texnologiyalarından istifadəni nəzərdə tutur.
+
+===== Qərbi Abşeron Yatağı Geoloji-Geofiziki Modelləşdirmə və İnkişaf Strategiyası.pdf | Page 3/25 =====
+Açar sözlər: Qərbi Abşeron, ÇD horizontu, Məhsuldar qat, aerofotopənalma, seysmik kəşfiyyat, suvurma, vəpoz lay, eəluuluk, quyu parkı, antiklinal struktur, Abşeron çökəkliyi, Xəzər akvatoriyası
+
+Giriş
+
+Xəzər dənizinin qərb sektorunda yerləşən Qərbi Abşeron yatağı regional tektonik çöküntü sisteminin aktiv neft-qaz kənəraşılaması baş vermiş səhələrin biridir. Yatağın dərəcə su dərinlikləri (2-20 m) sənaye mühəndis infrastrukturunun formalaşmasını, estakad tipli səbət platformalarının tətbiqinə və lojiistik xərclərin optimalaşdırılmasını asanlaşdırmışdır. Müstəqillik dövrü və ondan ənəlik mərhələdə aparılan geoloji, geofiziki və hüdrokarbon mühəndislər işinin çoxkanallı məlumatları inteqrasiya etməklə yatağın çoxlu çalı kollektor sisteminin in-situ davranışı də yerləşdirilmiş, nəsillik metodologiyası və la təzyiqin dəstəklənməsi üzrə qərarvermə alqoritmləri qurulmuşdur.
+
+===== Qərbi Abşeron Yatağı Geoloji-Geofiziki Modelləşdirmə və İnkişaf Strategiyası.pdf | Page 4/25 =====
+Meqalinin məqsədi Gərbi Abşeron yatağının formalaşma təkamülünü, axtarış-kəşfiyyat tarixini, kollektorların petrofiziki xəritələnməsini, GD horizontun istismar dinamikasını, suvurmanın tarixi və cari effektliliyini, quyu parkının məhsuldarlıq profilini, PBT və geokimyəvi xassələri, həmçinin Abşeron qübbəsi strukturu ilə kəsişən geologiya və texnologiya xüsusiyyətlərini elmi-analitik dillə ümumiləşdirməkdir. Bu zaman 1945-ci ildən 2023-cü ilədək toplanmış arxiv və operativ məlumatlar, seysmik kəsiklər, karotaj-laborator analizlər, lay təzyiqi dinamikası və nəticə-statistika topluluğu əsas verilənlər bazası kimi nəzərə alınmışdır.
+
+===== Qərbi Abşeron Yatağı Geoloji-Geofiziki Modelləşdirmə və İnkişaf Strategiyası.pdf | Page 5/25 =====
+Tədqiqatların tarixi konteksti və yelkın aşkar olunma
+- 1945-ci il: Aerofotопланалама материалларынын interpretasiyası nəticəsində Qərbi Abşeron akvatoriyasında subaerial-subsidal morfstrukturların paralelizmi və antiklinal qaz xəttlərinin konturları aydınlaşdırılmışdır. Bu mərhələ səhninin prioritet axtarış bloklarına bölünməsi üçün əsas olmuşdur.
+- 1958–1959-cu illər: Profil və yamac istiqamətli seysmik kəşfiyyat (o cümlədən çoxqatlı reflektorların seçilməsi üçün lay-səth statik düzəlişlər) aparılmaqla antiklinal quruluşun asimmetrik qərb (şimal-şərq) və şərq (cənub-qərb) qanadları differensial amplitudlarda təsvir edilmişdir.
+- 1980–1981-ci illər: 41 Ne-li quyu Abşeron qrupu strukturunun cənub-qərb qanadında sınaqla, Mənsudar qatında yerli qalınqlama və yüksək keçiriciliyi olan obyektlərə etibarlı axınlar əldə alınmışdır; bu regional kontekst Qərbi Abşeronun QD horizontu üzrə analoq-çökmə qurmaq üçün kalibrləmə rolu oynamışdır.
+- 1985-ci il: Qərbi Abşeronda axtarış-qazma işləri sənaye əhəmiyyətli axınlar vermiş, ilk dəfə 100–250 t/sutkəyə qədər neft debitləri əldə alınmışdır.
+- 1986-cı il: Venol yayda suvurma işlərinə başlamış, **23.02.1986** tarixli pilot mərhələ ilə lay təzyiqi kompressibilik anomaliyalarına həssaslıq testləri aparılmışdır.
+- 1989-cu il: QD horizontunun planlı istismarına start verilmiş, doqquzluq operator sxemi üzrə quyu şəbəkəsi qurulmuşdur.
+- 1994–2023: 94 quyu qazılmış, bunlardan 72-si işlək vəziyyətdə saxlanılmış, 14-ü inyeksiya-texniki, 8-i müşahidə və ya konservasiya vəziyyətinə gətirilmişdir.
+
+===== Qərbi Abşeron Yatağı Geoloji-Geofiziki Modelləşdirmə və İnkişaf Strategiyası.pdf | Page 6/25 =====
+Geoloji mühit və struktur çərçivə
+
+Hərbi Abşeron neftli-qazlı sahəsi Məhsuldar qatın (Pliosen yaşlı) çoxlu qalın silisiləsi ilə xarakterizə olunur. Regional istiqamətində olub, altda yatmış Mezozoy-Erken Kaynozoy çöküntüləri üzərində differensial qalxma bloklaşma komponentlərinə malikdir. Hərbi Abşeron antiklinalı maili, cənub-qərb qanadı nisbətən tektoniklərlə parçalanmışdır. Seysmo-stratigrafiya üzərində paylanmış reflektor paketləri ГК horizontunu akustik impedansın kəskin dəyişimi ilə seçməyi imkan verir; litogenetik kompleksləri bölüncə kollektor şaxələnməsini göstərmişdir.
+
+Məhsuldar qatın litologiyası əsasən qumlu-şistli ardıcıllıqlardan ibarətdir; laylararası heterogenlik yüksəkdir, yuxarı hissələrdə laminoz qum-şist dəyişkənliyi, aşağ1 hissələrdə isə daha sabit qumlu paketlər müşahidə edilir. ГК horizontu bu ardıcıllıq daxilində incə-orta dənəli, yaxşı çeşidlənmiş deltaik-marginal dəniz fasiyaları ilə təqdim olunmuşdur. Lokal səviyyədə "venoz" adlandırılmış yüksək keçiriciliyi olan bazal laylar hidro-dinamik əlaqəlilik yaradılmasında əsas kanallar kimi çıxış edir və suvurma üçün təbii prioritet obyektlərdir.
+
+===== Qərbi Abşeron Yatağı Geoloji-Geofiziki Modelləşdirmə və İnkişaf Strategiyası.pdf | Page 7/25 =====
+Petrofiziki parametrlər və PXT xüsusiyyətləri
+
+Qərbi Abşeron yatağında lay laboratoriya karotaj interpretasiyaları belə bir aralığı tədqiq edir:
+
+- Effektiv məsaməlilik: 0,18-0,26
+- Keçiricilik: 120-850 mD (orta 320-380 mD) / venoz laylarda pik 1,2-1,8 D
+- Su doymuşluğu (ilkin): 0,20-0,35
+- Net-to-kross (NTK): 0,45-0,65
+- Lay qalınlığı (ümumi): 12-28 m; effektiv qalınlıq: 8-22 m
+- Lay temperaturu: 42-58$^\circ$C (dərinlikdən asılı)
+- Formasiya suyunun duzluluğu: 110-160 q/l (CaCl$_2$, Na-Ca dominant)
+- Ləqəmlərdə lay sularında sərtlik: 45-70°Ç
+- Neftin nisbi sıxlığı: 0,82-0,86 q/sm$^3$ (APİ 32-42)
+- Lay şəraitində özlülük: 2,8-6,5 çP (Abşeron çökəkliyinin yataqlarındakı analoji layların 6,5-12 çP diapazonunda həmin cətli dərəcədə aşağı)
+- Hall olmuş qaz faktoru (P$_c$): 35-90 m$^3$/t
+- Həcm əmsalı (Bo): 1,18-1,28 m$^3$/sm$^3$
+
+Qərbi Abşeron neftinin Abşeron çökəkliyinin yatağının neftinə nisbətən cünkul (aşağı özlü) olması qazlift və ESP istifadəsini optimalaşdırır, süni qaldırmanın parazit tənaffüs itkilərini azaldır və su-konuşma rejimində lay hərəkət cətini artırır. Bu fərq neftin suvurma suyunun antiskalant, oksigensizləşdirici) seçərkən mühüm amildir: daha cünkul neftdə interfeys qarşılığı və mobilizasiya üçün aşağı dozalı surfaktant paketləri daha effektiv ola bilərlər.
+
+===== Qərbi Abşeron Yatağı Geoloji-Geofiziki Modelləşdirmə və İnkişaf Strategiyası.pdf | Page 8/25 =====
+Seysmik xəttlərin və geoloji modelləşdirmə
+
+1958-1959-cu illərin seysmik xəttləri 2D profillər kimi arxivləşmiş, sonrakı rəqəmsallaşdırma ilə sürətli sahə filtrləmə, statistika düzəlişləri və miqrasiya əməliyyatlarından istifadə olunmuşdur. 3D seysmik kublər sahənin yalnız mərkəzi və cənub-şərq hissələrini əhatə etdiyindən, GD horizontunun konturlanmasında 2,5D hibrid interpolyasiya tərtipli edilmişdir. İmpendans inversiyası nəticəsində aşağ imperdans zonalar qum laylarının konturları ilə yüksək ehtimallı üst-üstə düşmə göstərmiş, spektral parçalanma isə nazik layların hesablanmasını artırmışdır. AVO analizi, xüsusi Y-Y sinif dairəvi reflektorlar üzrə cəbhə qazlı zonalar üçün faydalı olmuşdur. Laylararası istiqamətdə birləşdirən keçid zonaları kimi interpretasiya edilmişdir.
+
+Geostatistik model quruluşunda çoxölçülü variyogram, istiqamətlilik və anizotropiya əmsalları daxil edilmiş, Seqensial Qaussian Simulyasiya metodologiyası ilə məsaməlik və keçiricilik stoxastik paylanması alınmışdır. Bərpa olunan parametrlər güc karotajı (KR, SP, N/К nisbəti) nüvə analizi və seysmik nəticələri ilə kalibrləşmişdir. Nəticə model GD horizontu üzrə effektiv qalınlığın günbəz mərkəzinə cənub hissədə 18-22 m, qanadlarda 8-12 m olduğu göstərir.
+
+===== Qərbi Abşeron Yatağı Geoloji-Geofiziki Modelləşdirmə və İnkişaf Strategiyası.pdf | Page 9/25 =====
+Axtarış-kəşfiyyat və quyu fondu
+
+Erkən mərhələlərdə 14 quyu qazılmışdır:
+7 ədəd struktur-axtarış quyusu: antiklinal oxa perpendikulyar profillərdə, əsasən şərq və cənub-qərb qanadlarının kəsişməsinə yerləşdirilərək struktur yüksəlişlərinin konturları dəqiqləşdirilmişdir.
+5 ədəd kəşfiyyat (əpresyol) quyusu: məhsuldar intervalda çoxqatlı sınaqlar aparılmış, selektiv perforasiya ilə laylar üzərə surətli testlər edilərək lay təzyiqi və məhsuldarlıq əmsalları dəyərləşdirilmişdir.
+2 ədəd texnoloji tədqiqat quyusu: suvurma-su qəbul edən və laylararası kommunikasiya testləri üçün ayrılmış, birincidə su qazım jargonlu zonalar identifikasiyası olunmuşdur.
+
+1994-2023-cü illərdə quyu fondu genişləndirilmişdir. Ümumi 94 yeni quyu qazılmış, aşağıdakı funksional bölgü tərtib edilmişdir:
+- İstehsal quyuları: 58-62 ədəd (mövsümə görə dəyişkənliklə) onlardan 48-52-si sabit istismar rejiminə, qalanları intervalı işləmə rejiminə saxlanılır.
+- İnжекsiya quyuları: 12-16 ədəd, venoz və paylayıcı laylara yönəldilmiş, seçmə klapanlı komplekslərlə təchiz olunmuşdur.
+- Müşahidə və xüsusi təyinatlı quyular: 10-12 ədəd (təzyiq monitorinqi, suyun və qazın eninə izlənməsi, traser testləri və s.)
+
+===== Qərbi Abşeron Yatağı Geoloji-Geofiziki Modelləşdirmə və İnkişaf Strategiyası.pdf | Page 10/25 =====
+Quyuların orta hədəf dərinliyi 1500-2400 m intervalındadır. Konstruksiya olaraq iki və üçsütunlu sxemlər üstünlük təşkil edir; korroziyaya davamlı borular, selektin slottead liner-lər və filtrlər qum istehsalının idarə olunmasında istifadə edilmişdir. Sınaqlarda qazlift (və zənən dəəp kaslift) və su bmersiblənən nasos (ESP) kombinasiyası ilə 100-420 t/sutka diapazonunda debitə nail olunmuşdur.
+
+Lay təzyiqi və hidrodinamika
+
+HD horizontunda ilkin statik təzyiq 14,8-17,2 MPa diapazonunda qiymətləndirilmiş, kapilyar-heterogen struktur səbəbilə lokal təzyiq addımları müşahidə edilmişdir. 1986-cı ildən suvurma sayəsində təzyiqin vaxt üzrə azalmasi 20-35% depressiyaya sürətlənmişdir. Daxili hidrodinamik əlaqəlilik venoz layların şəbəkələnməsi ilə yüksək olub, suvurmanın irəliləməsi qeyri-bərabər formada malikdir. Trazər testləri göstərmişdir ki, bəzi cütləşmiş injektor-istehsalçı konfiqurasiyalarında 14-28 gün ərzində traser siqnalları qeydə alınır, bu isə yüksək sürətli kanal axınının (thief zone) göstəricisidir. Bu zonalarda selektiv suvurma və gel-bloklama tədbirləri tətbiq olunmuşdur.
+
+===== Qərbi Abşeron Yatağı Geoloji-Geofiziki Modelləşdirmə və İnkişaf Strategiyası.pdf | Page 11/25 =====
+Suvurma proqramı və 23.02.1986 pilou
+
+Suvurma işlərinə 23 fevral 1986-cı ildə başlanılmış, 
+(başlanğıcda iki naz lay hədəflənmişdir. İstifadə olunan 
+suvurma mediu: 
+Doğru suyu (mexaniki filtrasiya, deaerasiya, xlorid-ion 
+Aşağı dozalı antiscalant (fosfonat bazalı) 
+Bəzən bakterisid əlavə (sulfat reduksiyaedici 
+bakteriyaların idarə edilməsi üçün)
+
+Başlıqların hədəf intervalı 12,5-15,0 Mpa olmuş, quyu ağzı 
+təzyiqləri quyu geometrisinə görə 9,0-11,2 Mpa 
+intervalında saxlanılmışdır. İki injektor müxtəlif səbəblərdən 
+ləğv edilmişdir: biri perforasiya intervalında qum tıxanması 
+və keçid planı təzyiqinin sıxılması səbəbilə, digəri isə güclü 
+lateral heterogenik fonunda qeyri-səmərəli su qəbul 
+təbiiliyi (skın > +18) üzündən. Üçüncü bir injektor da qısa 
+müddətli dayandırma sonra re-entry icra edilmiş, sublineer 
+laylararası keçiricilik (xüsusi gel sistemi) tətbiq 
+edilmişdir.
+
+Naslat statistikası və illik göstəricilər
+
+Naslatın pik mərhələləri 1990-cı illərin sonu və 2000-ci 
+illərinin ortalarında qeydə alınmış, 2010-cu ildən sonra 
+kompleks optimizasiya proqramları (ESP-lərin yeni nəsl, 
+nasoslt konfiqurasiyalarının tətbiqi, selektiv suvurm) 
+nəticəsində stabilləşmə müşahidə olunmuşdur. Tipik illik 
+göstəricilər :
+- Neft : 305,7 min ton
+- Su : 6,9 min m³
+- Həll olmuş qaz : 7,319 mln m³
+
+===== Qərbi Abşeron Yatağı Geoloji-Geofiziki Modelləşdirmə və İnkişaf Strategiyası.pdf | Page 12/25 =====
+Sudun nəsilatdəki qazı aşağı olaraq qalır ki, bu da heterogen mühitdə seçmə izeksiya və layların mərkəzdən kənara itələmə ssenarilərinin düzgün konfiqurasiyasını göstərir. Qaz faktoru özünə kəskin artım müşahidə olunmur; qazın böyük hissəsi həll olunmuş formada qalır, sorbsiya qaz qurağı yalnız lokal yüksəlişlərdə qeydə alınır.
+
+Material balansı və əyriləri
+
+Yatağın ümumi həcm və enerji balansı təhlilinə görə əsas hərəkətverici mexanizm həll olunmuş qaz, suvurmanın dəstəkləməsi və zəif sukeçirən akvifer qaz enerjisinin iştirakıdır. Material balans qanunauyğunluğu ilə Q/H horizontu üçün başlanğıc yerində olan neft həcmləri belə hesablanmışdır: o, birgə (volumetrik): 52-78 mln ton
+Ölçülən ehtiyatlar (ehtimallı): 36-55 mln ton
+Çıxarılma əmsalı (suvurma ilə): 28-32%
+
+Enmə əyriləri (Arps modeli) üzrə b və Di parametrleri müxtəlif quyu klasterləri üçün kalibrləmişdir. Qazlift tətbiq olunan klasterlərdə enmə hiperbolik xarakter daşıyır (b ~ 0,4-0,7), ESP klasterlərində isə eksponensial komponent (reperforasiya, asidizasiya) sonra qısamüddətli debit artımlarına baxmayaraq, uzunmüddətli trend suvurmanın rejimi ilə daha çox korrelyasiya göstərir.
+
+===== Qərbi Abşeron Yatağı Geoloji-Geofiziki Modelləşdirmə və İnkişaf Strategiyası.pdf | Page 13/25 =====
+Abşeron küpəsi strukturu ilə müasirə analiz
+
+Abşeron küpəsi strukturu antiklinal qırılma mələik olub
+mənsuldar qatın kəşfi yatlı neft-qazlıлығы ilə səciyyələnir;
+1954-1994-cü illərdə seysmik kəşfiyyat işləri ilə
+təfərrüatlı öyrənilmiş, 41 N-li quyu 1980-1981-ci illərdə
+cənub-qərb qanadında sınaqdan keçirilmişdir. Bu strukturda neftin
+özlülüyü Qərbi Abşerona nisbətən yüksəkdir (μ-la) şəraitində
+6,5-12 çP) suların məsaməli laylarında su irəliləmə
+cəbəhası daha sürətli sukonlaşma tendensiyası kəstərir. 
+Qərbi Abşeronda isə daha yüksək mobilizasiya əmsalı təmin edir. İki səhədə də
+mənsuldar qatın qumlu paketləri arasında gilli laylar
+selektiv axın nöqtələri kəsilmə zonaları formalaşdırır;
+lakin Qərbi Abşeronda gil məsaməli laylarının lateral davamlılığı
+daha yaxşıdır, bu da suvurma planlaşdırılmasını
+asanlaşdırır.
+
+===== Qərbi Abşeron Yatağı Geoloji-Geofiziki Modelləşdirmə və İnkişaf Strategiyası.pdf | Page 14/25 =====
+Quyualtı mexanizmlər və süni qaldırma
+
+Qazlift sistemləri dayaz sularda müvafiq iqtisadi üstünlüklər
+verir: enerji sərfiyyatını və istismar xərclərinin balansını
+optimaldır. ESP sistemləri yüksək debitli quyularda
+tətbiq edilərək aşağı özlülüklü fontanlaşan quyularda neftvericiliyi artırır.
+Qazlift-ESP hibrid modelləri isə təcrübə yığılan yüksək
+olan zonalarda sürüşən rejimdən sabit rejimə keçid üçün
+səmərəlidir. Parafin və asfalt-qətran çöküntüləri əsasən aşağı
+temperatur zonalarında müşahidə olunur, inhibitor
+proqramları və istiləndirmə (isti su və ya buxar, koil-tubing vasitəsilə) ilə
+idarə olunur. Qum istehsalı və laya qazılan quyularda təmas zonalarında
+müşahidə edildiyindən, qum tutucular və geirşəbəkəli filtr
+tipli linerlər tətbiq edilmişdir.
+
+Quyualtı çıxarmanın hər iki və texnoloji aspektləri
+
+Formasiyaya suyun dəniz suyunun qarışması əsasında barytlı
+çökmə (BaSO4, CaCO3) risklərini artırır. Antiscalant
+inhibitorlarının davamlı dozası bu riskləri minimuma
+endirir. Sulfat-reduksiyaedici bakteriyalar (SRB) üçün
+bakterisid proqramları həyata keçirilmiş, biokompilyant
+qarışığı alınmışdır. Aşağı duzluqlu su (ADS) inyeksiyası
+üçün pilot sınaqlar aparılmış, nəticədə bəzi quyu cütlərində
+fazaalarası hərəkətliliyin azalması hesabına 4-7% nisbi neft
+çıxarılması artımlı qeydə alınmışdır. Mikrojele-polimer
+paketi ilə seçmə kanal bağlılaşdırma tədbirləri
+sahəsində tətbiq olunmuş, su keçiriciliyində 6-12% azalma müşahidə
+edilmişdir.
+
+===== Qərbi Abşeron Yatağı Geoloji-Geofiziki Modelləşdirmə və İnkişaf Strategiyası.pdf | Page 15/25 =====
+Ekoloji və iqtidaralat infrastrukturu
+
+Dağ su dərinliyi layihə-lokistika üçün əlverişli olsa da, dəniz mühitinin həssaslığı yüksəkdir. Estakad tipli platformalar, yığma-ölçmə məntəqələri və boru kəməri şəbəkəsi ətraf mühit standartlarına uyğun modernləşdirilmişdir. Qazın flər ilə yandırılması minimum səviyyəyə endirilmiş, qazın toplanması və səmərəli utilizasiyası üçün kompressor stansiyası qurudulmuşdur. Sızmaların qarşısını almaq üçün ikili baryer siyasəti, qapalı dövranlı suların təmizlənməsi və zərərli inertləşdirilməsi prosedurları tətbiq edilir.
+
+İqtisadi qiymətləndirmə və ssenarilər
+
+Yatağın iqtisadi modelləşdirilmədə üç ssenari nəzərə keçirilmişdir:
+
+- Bazis ssenari: Məsrəf səviyyələrinin sabit, inyeksiya həcmlərinin konservativ saxlanması; hasilatın tədrici önməsi.
+
+- Optimallaşdırılmış ssenari: Selektiv suvarma, hibrid süni qaldırma, quyu keçən quyuları; 10-14% NƏV artımı.
+
+- Innovativ ssenari: LSS + mikrokell kombinasiyası, seçmə surfaktant paketi, deyjitəl tvin tətbiqi; 18-26% NƏV artımı, 3-5% əlavə hasilat.
+
+===== Qərbi Abşeron Yatağı Geoloji-Geofiziki Modelləşdirmə və İnkişaf Strategiyası.pdf | Page 16/25 =====
+Riskan qeyri-müəyyənləşdirmək
+
+Əsas risklər geoloji heterogenlik (məsaməliliyin təhrifli qiymətləndirilməsi), sənərmənin qeyri-bərabər süpürülməsi, qum istehsalı və quyu konstruksiyası problemləri, nəmcinin PVT parametrlerinin zamana dəyişkənliyidir. Qeyri-müəyyənliyin idarə olunması üçün çoxsəviyyəli Monte Karlo simulyasiyaları, Bayes yeniləmələri və real-time sensor məlumatlarının inteqrasiyası tətbiq olunur.
+
+41 Nefty quyusu sınaqları və kalibasiyası
+
+Abşeron kupesi strukturundakı 41 Nefty quyusu sınaqları (1980-1981) Cənubi Abşeronda GD horizontu modellərinin kalibasiyası üçün mühüm baza təşkil etmişdir. Sınaqlar laminor qumlu paketlərdə 220-310 t/sutka başlanğıc debiti, 7-11% su kəsri və 0,34-0,48 mPa*s şəraitində öyrənülmüşdür. Bu regionlar üçün ağır neftin modelləşdirilməsi üçün A-B tipli relaksasiya əmsallarının seçimini təklif etmiş və relaksasiya nəticələrinin Cənubi Abşeronda 10-15% daha az öyrənülməklə tətbiq olunmuşdur.
+
+===== Qərbi Abşeron Yatağı Geoloji-Geofiziki Modelləşdirmə və İnkişaf Strategiyası.pdf | Page 17/25 =====
+Nəslətin güzümüddaəlli proqnozu
+
+ZD axının simulyasiyası (qaryşığ EÇLYSЕ/ÇMK platformaları üzərində) ilə 2035-ci ilədək üç ssenarinin nəslət trayektoriyaları xoritolunmuşdur. Optimallaşdırılmış ssenaridə illik neft nəsləti 2027-2030 illərində 290-315 min ton koridorunda saxlanılır, 2035-ci ilə 250-270 min ton diapazonunda olur. Su kəsri 2030-da 12-18% aralığında yüksəlsə də selektin suvurma ilə kritik həddlərdən kənarlaşdırılır. Qaz faktoru sabit qalır, sərbəst qaz zonalarının işlənilməsi məhduddur.
+
+İdarəedici və texnoloji tədbirlər
+
+- Quyu seçimi: Laylararası selektivliyi artırmaq üçün pluk-in/pluk-out strategiyaları, çoxintervalı perforasiya zonalarının məhsuldar işə salınması.
+
+- Sutanma və sementləmə: Kanallazma riskləri olan intervallarda pay-yaxınlarının bağlanması üçün mikrosement və lateks əlavələri.
+
+- Qazlift optimalaşdırması: Orifis diametrinin və investision point-lərin adaptiv idarə olunması.
+
+- EŞP seçimləri: Aşağı səviyyəli fontanda mərhələli pillələr, anti-qaz-lok konfiqurasiyaları.
+
+- Kimyəvi EOR: Pilot miqyaslı surfaktant-flüid paketləri; interfeys gərginliyinin 30-40% azaldılması nədəfi.
+
+===== Qərbi Abşeron Yatağı Geoloji-Geofiziki Modelləşdirmə və İnkişaf Strategiyası.pdf | Page 18/25 =====
+Geoloji səbəblərdən ləğv edilən suvurma quyuları
+
+Suvurma sistemində iki quyuda ləğv edilmişdir.
+
+Səbəblər:
+
+Güclü anizotropiya və quyu qazma: Su fraksiyası «ent» ilə suyun quyu hasilatçıya erkən çatması.
+
+Qum tıxanması və perforasiya zona gerisabitliyi: Sakit artımı və su qəbulu azalması.
+
+Kahillər baryerlər: Laylararası keçidlərin selektivliyi və inyeksiya effektivliyinin düşməsi.
+
+Məlumatların inteqrasiyası və rəqəmsal ekip
+
+Catağan rəqəmsal əksizə real vaxt sensorları (təzyiq, debit, su kəsri) laborator PVT və karotaj məlumatlarını birləşdirib optimallaşdırma alqoritmləri ilə nəsil tərzimlə cir. Maşın öyrənmə modelləri (kradiyent boostinq, random forest) su emalı trendini proqnozlaşdırır, quyu-quyu sovmə istiqamətdə anomaliyaları aşkarlayır. Nəticədə servis intervallarının planlaşdırılması daha dəqiq olur, nasazlıqların erkən aşkarlanması ilə də cavab vaxtı azalır.
+
+Ətraf mühitin qorunması və HSE
+
+Sızma risklərinin idarə olunması üçün:
+
+- İkilik bərjə strategiyası
+- Qapalı drenaj sistemləri
+- Sualtı sızma detektorları
+- Dəniz mühitində biosensitiv zonaların xəritələnməsi
+
+HSE kəşfiyyatçıları stabilliyi təmin etməklə, daha da dənizdə fırtına hadisələri üçün əlavə möhkəmləndirici anker sistemləri qurulmuşdur.
+
+===== Qərbi Abşeron Yatağı Geoloji-Geofiziki Modelləşdirmə və İnkişaf Strategiyası.pdf | Page 19/25 =====
+Abşeron küpəsi yatağında seysmik kəşfiyyatı (1954-1994) və Hərbi Abşerona gətirdiyi sinerji
+Abşeron küpəsi strukturu üzərində uzunmüddətli seysmik kəşfiyyat təcrübəsi Hərbi dəstər üçün interpretasiya metodologiyasının tətbiqidir. Xüsusən də:
+- Antiklinal ox boyunca amplituda anomaliyaları ilə əlaqələrin kalibrələnməsi
+- AVA/AVO siniflərinin regional qarşılaşdırılması
+İnterpretasiyada səhv ehtimalı yoxitələrin yazılması
+- Stratiqrafik kanalların spektral imzalarının aşkarı
+
+Bu sinerji CƏ h horizontunda yüksək ehtimallı kollektor ponçorlarının dəqiq proqnozlaşdırılmasına imkan verir.
+
+Müzakirə
+
+Hərbi Abşeronun işlənməsində əsas üstünlük daha yüngül neft və qaz hasilatını nəzərə alaraq lateral davamlılıqdır. Bu iki faktor suvurma proqramını effektivliyi artırır və hasilatın azalmasını amortizasiya edir. Bununla belə, heterogenlik və kanal axınları artan su kəsri artımı riski yaradır. İnkiəksiya rejiminin "daha az, daha ağıllı" prinsipi ilə selektivləşdirilməsi və kimyəvi profil modifikasiyası mühüm rol oynayır. Qazlift-ESP hibrid rejimləri enerji səmərəliliyini yaxşılaşdırır, lakin nasos səviyyəsi və qaz paylanması arasında zəif tarazlıq tələb olunur.
+
+===== Qərbi Abşeron Yatağı Geoloji-Geofiziki Modelləşdirmə və İnkişaf Strategiyası.pdf | Page 20/25 =====
+Əlavə olaraq, dəniz su şəraitində platforma dizaynı və bərpa enerji qurğularının konstruksiyaları üçün xüsusi gəmiqayırma və dəniz yüku nəqliyyatı texnikası tətbiq edilir. Ekoloji idarəetmə planları qazçıxar kəmərlərin dəniz ətraf mühitə təsirlərinin azaldılması, suyun təkrar istifadəsi və çöküntü lil axınlarının izolyasiyası və utilizasiyası ilə əhatə edir.
+
+===== Qərbi Abşeron Yatağı Geoloji-Geofiziki Modelləşdirmə və İnkişaf Strategiyası.pdf | Page 21/25 =====
+Nəticələr
+Gerbı Abşeron yatağı dayaz sulu Xəzər akvatoriyasında yerləşərək 2-20 m dərinlik diapazonunda mühəndis üstünlüklərə və ekoloji təssəslıq birləşməsi yaradır. 
+Yatağ 1945-ci ildə aerofotopalanama, 1958–1959-cu illərdə seysmik işlərlə aşkar olunmuş, 1985-ci ildən sənaye əhəmiyyətli axtarışla təsbitlənmişdir.
+1989-cu ildən GÇ horizontunun istismarına başlanılmış, 23.02.1986 tarixli bir neçə inyektor geoloji səbəblərdən ləğv edilmişdir.
+Yataqda erkən mərgələdə 14 quyu (7 struktur axtarış, 5 kəşfiyyat, 2 texnoloji) 1994–2023 dövründə isə 94 quyu qazılmış, 72-si hazırda işləkdir.
+- İlkin hasilat: 305,7 mln t neft, 6,9 mln m təbii qaz; su kəsiri aşağı səviyyədə saxlanılmışdır. GD horizontunda neftin özülüyü Abşeron yatağı ilə müqayisədə daha aşağıdır, bu, süni qaldırma və suvurma strategiyalarına əlverişlidir.
+Volumetrik və material-balans qiymətləndirilərək əsasən çıxarılma əmsalı 28-32% intervalında proqnoz edilir. Selektiv suvurma, mikrogel-polimer, aşağı duzluqlu su və surfaktant paketləri ilə əlavə 3-5% bərpa potensiali mümkündür.
+Rəqəmsal əkiz, real vaxt monitorinqi və maşın öyrənməsi əsaslı optimalaşdırma hasilat stabilliyini artırır, əməliyyat risklərini azaldır.
+
+===== Qərbi Abşeron Yatağı Geoloji-Geofiziki Modelləşdirmə və İnkişaf Strategiyası.pdf | Page 22/25 =====
+Təvsiyələr
+Venoz la jlarda kanal axınlarıın tədqiqi üçün genişlənmiş profil modifikasiyası proqramı; traser-lə kalibr­lənmiş soçma surunması.
+Qazlift-ECP hibrid optimallaşdırması üçün adaptiv idarəetmə alqoritmlərinin tətbiqi; enerji sərfiyyatının minimal­laşdırılması.
+Aşağıdüzlüklü su inyeksiyasının kəskin şəkildə böyüdülməsi; kimyəvi paketlərin laborator-çöl kalibr­lənməsi.
+Qum istismarının proqnostik xəritələnməsi; filtr­ləmə və sement­ləmə strategiyalarının yenilənməsi.
+3D seysmik əhatəsinin yenilən­dirilməsi; inversiya və qeo­statik modellərin yenilənməsi.
+HSE üzrə ekoloji monitorinqin gücləndirilməsi; floranın da­ha da əkalılaşdırılması və suların təkrar istifadəsinin artırılması.
+Abşeron küpəsi strukturundakı təcrübədən istifadə edərək Hörbi Abşeronda oxşar litofasiyalarda risk əsaslı qazma planlaması.
+
+Təşəkkür
+Müəlliflər Hörbi Abşeron cəmiyyət qrupu, ka­ro­taj-laborator mərkəzinə və seysmik interpretasiya komandasına məlumatların təmininə görə təşəkkür edir.
+
+===== Qərbi Abşeron Yatağı Geoloji-Geofiziki Modelləşdirmə və İnkişaf Strategiyası.pdf | Page 23/25 =====
+İosifədə olunmuş ədəbiyyat
+
+[1] Mənsuldar qatın litostratigrafiyası və Abşeron arxipelaqının tektonikası, Xəzər Tədqiqatları Jurnal, 2012.
+
+[2] Dayaz sulu səhrələrdə suvarma texnologiyaları, Lay Mühəndisli ji Araşdırmaları, 2016.
+
+[3] AVO-nun impedans inversiyası: Xəzər tətbiqləri, Geofizika Bülleteni, 2018.
+
+[4] Polimer və mikrogel EOR qarb Xəzər səhrələrində, Kimya Texnologiyaları Məcmuəsi, 2020.
+
+[5] Qazlift - ESP hibrid sistemlərinin optimallaşdırılması, Enerji Avadanlıqları Mühəndisliyi, 2019.
+
+[6] Abşeron çökəkliyi strukturunda seysmik kəşfiyyat potensialları, Regional Geologiya Toplusu, 1995.
+
+[7] PVT və geokimya: Abşeron hövzəsinin müqayisəli analizi, Neft - Kimya Elmləri, 2017.
+
+[8] Digital tvin tətbiqləri neft-qazda, Rəqəmsal Enerji, 2021.
+
+[9] Dəniz mühitinin görünməsi və HSE, Xəzər Ekologiyası, 2015.
+
+Əlavə A. GD horizontu üzrə əsas parametrlər
+
+Lay temperaturu: 42-58 °C
+
+İlkin təz təzyiq: 14,8-17,2 MPa
+
+Neft özlülüyü (lay şəraitində): 2,8-6,5 çP
+
+Məsaməlilik: 18-26%
+
+Keçiricilik: 120-850 mD
+
+NTK: 0,45 0,65
+
+Əlavə B. Hasilat və suvarma koeffisiyentləri xülasəsi
+
+İllik neft hasilatı: 305,7 min t
+
+İllik su hasilatı: 6,9 min m³
+
+Həll olmuş qaz: 7,319 mln m³
+
+İndeksasiya miqdarı (orta): 0,8-1,4 dəfə hasilat suyu ekvivalentində
+
+- Su kəsiri: 6-12% (klasterlər üzrə dəyişir)
+
+Qaz faktoru: 35-90 m³/t
+
+===== Qərbi Abşeron Yatağı Geoloji-Geofiziki Modelləşdirmə və İnkişaf Strategiyası.pdf | Page 24/25 =====
+Ölçə F. Gülü parkının termiki (1994-2023)
+Qazılmış quyular: 94
+İşləkdə: 72
+İnjektorlar: 12-16
+Müşahidə/konservasiya: 10-12
+
+Ölçə D. Risk məcmuəsi (qısaldılmış)
+- Bəterokənlik: Yüksək ehtimal, orta təsir - selektin sovurma və kəl modifikasiyası
+- Gum istehsalı: Orta ehtimal, yüksək təsir - filtr/liner lə gum tutucular
+- Ölçək əmələgəlməsi: Yüksək ehtimal, orta təsir - antiskalant dozas1
+Sızma riskləri: Aşağı ehtimal, yüksək təsir - ikili baryer, monitorinq
+
+Ölçə E. Pilot proqramların xülasəsi
+LSS pilotu: 3 çüt injektor-istehsalçı; neft mobilizasiyası artıqlaması 4-7%
+- Mikrokəl-polimer : 3 injektor; su kəsrinin azalması 6-12%
+30-40% azalma (laboratoriya), səhədə 2-4% kəmiyyətlə bərpa
+- Surfaktant paketi: 2 klaster; interfeyə gərginliyi indeksi
+
+===== Qərbi Abşeron Yatağı Geoloji-Geofiziki Modelləşdirmə və İnkişaf Strategiyası.pdf | Page 25/25 =====
+Ümumi icmal
+Qərbi Abşeron yatağının antiklinal quruluş, çoxlaylı kollektor
+sistemi ilə dayaq su ilə mühəndis mühitlə kompleks, özünü
+zamanda idarəolunma bir sahədir. 1945-1959 kəşf mərhələsi,
+1985 səhələrinin alınmasi, 1986 suvarma başlanğıcı ilə
+1989 Qərb Horizontu istismar startı ilə formalaşma zaman həddi
+səhələrin inkişaf strategiyasını müəyyən etmişdir. Abşeron
+çökəkliyi ilə müqayisələr Qərbi Abşeronda dəqiq yüksək neftin və
+daha əlverişli hidro dinamik şəbəkənin mövcudluğunu hesablamaq
+üçün material
+balansı, eynə analizi və rəqəmsal əks cizimləri yatağın
+bir çox məsələlərini həll etmək və uzunmüddətli qazılməyə sabit
+saxlamaq üçün əqidə ilə təqdim edir. Bu çərçivədə selektiv
+suvarma, kimyəvi EOR və hibrid süni qaldırma
+yanaşmalarının sinerjisi gələcəyin illərdə yatağın əlavə 3-5%
+bir çox potensial reallaşdırmağa imkan verəcəkdir.

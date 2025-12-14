@@ -1,0 +1,182 @@
+===== Azərbaycanda bitumlu qumlar mineralogiya geokimya və ekoloji idarəetmə.pdf | Page 1/10 =====
+Xülasə
+
+azərbaycan ərazisində abşeron, Şamaxı-Qobustan və aşağı Kür 
+rayonlarında yerləşən 55 bitumlu sahə müayyən edilmiş, onların geoloji 
+yerləşmə şəraiti miosen-pliosen yaşlı çöküntələrlə bağlıdır. Bu işdə 
+ak-tarama-Puta (Abşeron), Ceyildağ (Şamaxı-Qobustan) və aralıq (aşağı Kür) 
+sahələrinin mineralogiya, geokimya və texnoloji-perspektiv göstəriciləri 
+sistemli şəkildə qiymətləndirilmişdir. Süzü nəmunələrinin kimyəvi tərkibi 
+"SS TIGER Series 2 VVD RF" spektrometr, mineral fazaları isə "MiniFlex 
+600" rentgen difraksiya cihazı ilə təhlil olunmuş, əlavə olaraq seçmə 
+nümunələr üçün üzvi maddə göstəriciləri, sə fraksiyalazman və yüksək 
+həllolma qabiliyyətli bitüm çıxarılmışdır. Nəticələr göstərir ki, bitumlu qumların əsas mineralları kvars, feldşpat və gil fazalarından 
+ibarət olub, karbonat və pirit kimi aksessuar komponentlərlə tamamlanır; 
+geokimyəvi fond SiO2 zənginliyi, al ilə Fe oksidlərinin sabit payı və V-Ni 
+iz elementlərinin bitumda zənginləşməsi ilə səciyyələnir. Atabaska (Kanada) 
+neftli qumları ilə müqayisə azərbaycandakı nümunələrdə gil minerallarının 
+nisbi çoxluğu, karbonat payının yerli fərqlərdə dəyişkənliyi və 
+asfalten/rezin nisbətində regional fərqləri üzə çıxarır. İzin son 
+bölməsində neft-kimya müəssisələrinin su, hava və torpaq mühitinə təsiri, 
+illik 2000 t kimyəvi emissiya fonunda tullantı qazların tərkib 
+dinamikası, katalizator tozlarının triklonlarla tutulması, hava 
+kondensato -soyuducaların sayəsində su səfinin azaldılması və zavod 
+miqyasında 96-97% səviyyəsində təkrar istifadəsi kimi praktiki addımların müzakirə 
+edilir. Sərf olunmuş katalizatorların keramika materiallarında silisium 
+tərkibli qatı məhlullarda istifdə texnoloji və ekotoksikoloji risklərin 
+azaldılması üçün məqsədəuyğun istiqamət kimi dəyərləndirilir. Nəticələr 
+regionun bitum ehtiyatlarının elmi-texnoloji mənimsənilməsinə, ekoloji 
+risklərin idarə olunmasına və beynəlxalq təcrübə ilə uyğunlaşdırılmış 
+qərarvermə mexanizmlərinə töhfə verər.
+
+===== Azərbaycanda bitumlu qumlar mineralogiya geokimya və ekoloji idarəetmə.pdf | Page 2/10 =====
+açar sözlər
+Bitumlu qum, Miosen-Pliosem, Abşeron, Şamaxı-Qobustan, Aşağı Kür, Xəzər XRF, səra, atabaska, katalizator tozu, triklon, hava kondensator-soyuducusu, təkrar su dövriyyəsi, keramika qatqın
+
+Giriş
+Azərbaycan neft-qaz geologiyasında bitumlu qumlar xüsusi yer tutur: onlar həm geoloji kəsilişlərin neftlilik indikatoru, həm də qeyri-ənənəvi karbohidrogen mənbəyi kimi dəyərləndirilir. Ölkə üzrə 55 bitumlu səhənin qeydiyyata alınmaqla, bu səthələrin ərazən Abşeron, Şamaxı-Qobustan və Aşağı Kür rayonlarında cəmlənməsi regionun tektono-sedimentar inkişaf tarixini əks etdirir. Miosen-pliosen dövründə Xəzər hövzəsinin sahilyanı çöküntüləri horizontlarında akkumulyasiya olunmuş qum-alevrolit paketləri, niz optik və kapillyar keçidlərdə bitumla hopdurulmuşdur. Bu tədqiqatda məqsəd neftli/bitumlu qumların genezis, mineralogiya və geokimyasını kompleks təhlil etmək, Abşeron-Puta, Çeyildağ və Aralığ kimi perspektiv sahələr üzrə texnoloji dəvamız proqnozlarını qurmaq və paralel olaraq sənaye-emissiya kontekstində ekoloji idarəetmə alətlərini dəyərləndirməkdir. Məhz Kanadanın Atabaska, Venesuelanın Orinoko kəməri və Rusiyanın şimal yataqları üzrə ədəbiyyat inteqasiyan ilə zənginləşdirilmişdir.
+
+===== Azərbaycanda bitumlu qumlar mineralogiya geokimya və ekoloji idarəetmə.pdf | Page 3/10 =====
+Geoloji-tektonik şəraitə
+
+abşeron yarusundan canub Xəzər çökəklik zonasında neotektonik yüksəlmə və
+
+kompressiya nəticəsində formalaşan antiklinal strukturların mozaikası ilə
+
+xarakterizə olunur. Miosen-pliosen çöküntüləri dəniz-delta və sahilbəyi
+
+sistemlərdə çökmüş, yerli sovriyyədə gil araqatları ilə dayaz sıklık
+
+ardıcıllıq təşkil etmişdir. Şamaxı-Qobustan zonasında quru-delta və
+
+proksimal allüvial mühitlər üstünlük təşkil edir; burada qumlar daha çox
+
+feldşpatlı və əhəng məzmunlu, aşağı Kür depresyonu isə daha dərin
+
+subsidensiya sahəsi kimi karbonatlı əhəng daşlarının inkişaf etdiyi
+
+fluviodeltaik paketi nümayiş etdiyimiz. Bitumlaşma mexanizmini üzrə
+
+modelləşdirmə göstərir: ilkin neft miqrasiyan anticlinaların yan
+
+qanadlarına boyunca keçiriciliyi yüksək qum laylarına yönəlmiş, sonradan
+
+biogen/termookidləşmə, su-yüksək duzluluq qarşılıqlı təsirləri nəticəsində
+
+ağırlaşma və bitumlaşma baş vermişdir.
+
+===== Azərbaycanda bitumlu qumlar mineralogiya geokimya və ekoloji idarəetmə.pdf | Page 4/10 =====
+Materiallar və metodlar
+Nümunə seçimi: Hər üç səthə söykə çıxız və nnəq quyularından 74
+hücur nümunəsi toplanmış, lay dərinliyi 8-65 m intervalında dəyişmişdir.
+- Hazırlıq: Nümunələr 105 °C-də qurudulmuş, 63 µm altına dəyirmanlanmış, XRF
+içün pres-tablet (10% bоk tərkibli bağlayıcı) və bəzi seçmə nümunələr üçün
+fizizyon qarları hazırlanmışdır.
+- Kimyəvi analiz: "SS TIGER Series 2 VVDXRF" cihazında əsas oksidlər və iz-
+elementlər təyin edilmiş, kalibriyasiya beynəlxalq CRM-lərə (sediment/slək) 
+uyğun aparılmış, yохlanmalarında səhvə ±2-5% (relativ) diapazonunda 
+saxlanılmışdır.
+- Mineraloji: "MiniFlex 600" XRD-də Cu-Ka radiasiyan ila 3-80° 2θ 
+intervalında ölçmələr, Rietveld uyğunlaşdırma (PDXL) ilə faza bolluğları 
+hesablanmış, Rup 6-9% arasında alınmışdır.
+- Orqanik faza: Soxhlet çixarma (toluen) ilə ümumi bitum məzmunu; seçmə 
+nümunələrdə sara (n-heksan, toluen, DCM/metanol ərdicilliyi)
+fraksiyalazması aparılmışdır.
+- Kömakçi göstəricilər: S/Ti nisbəti markerləri, LOI (950°C), mikroskopik 
+təxul ölçləri və sementasiyanın dərəcəsi.
+
+Nəticələr
+
+Mineraloji tərkib:
+- Abşeron, Axtarma-Puta: kvars 55-68%, feldspatlar 10-16% (K-feldspat 
+üstün), gil mineralları 12-18% (illit/smektit 9-13%, kaolinit 2-4%),
+karbonatlar 3-8% (əsasən kalsit), pirit 0.7-1.6%, anataz/spinel iz.
+- Şamaxı-Qobustan, Ceyildər: kvars 48-60%, feldspat 8-14%, gil mineralları 
+16-22% (smektit üstün), karbonatlar 2-5%, pirit 0.5-1.2%.
+- Aşağı Kür, analıq: kvars 50-65%, feldspat 9–15%, gil 10-16%, karbonatlar 
+4-10% (kalsit ± dolomit), pirit 0.6-1.8%.
+
+Kimyəvi tərkib (oksid %):
+- SiO2 62-82; Al2O3 8-14; Fe2O3 2.2-5.1; CaO 1.0-6.3; MgO 0.9-2.5; K2O 
+1.5-3.2; Na2O 0.2-0.8; TiO2 0.3-0.7; P2O5 0.05-0.15; LOI 5-16.
+- İz-elementlər (ppm): V 150-450; Ni 80-220; Mo 10-25; Co 10-35; Cr 40-90; 
+Zn 35-110; Ba 300-600. V/Mo nisbəti 1.6-2.2; Ni/V 0.45-0.6.
+
+===== Azərbaycanda bitumlu qumlar mineralogiya geokimya və ekoloji idarəetmə.pdf | Page 5/10 =====
+Organik faza:
+- Bitum tərkibini (Soxhlet): 6.2-14.4% (orta 10.1%).
+- Sara (% bitum): saturatlar 22-35; aromatiklər 28-40; rezinlər 20-26; asfaltlar 12-22. Axtarma-Puta nümunələri asfaltensiz payı ilə nisbatən yüksək (18-22%). Çıxarılmış aromatik fraksiya ilə tanınır.
+- Ümumi kükürd (XRF və yanma): 0.4-1.8% (pirit və orqanik S-in toplami).
+
+Taxul ölçüsü və sementasiya:
+- Orta taxul ölçüsü 0.18-0.35 mm; sementasiya dərəcəsi Abşeronda karbonatlı, Ceyildərə gil-sementli, aralqda qarışıq tipdədir. Effektiv məsaməlik 18-28%, permeabilik (laborator) 0.3-1.6 D.
+
+Müəllif
+Genesis aspektləri:
+- Sedimentasiya mühiti: axtarma-Puta üçün sahilvari-delta önü, Ceyildərə üçün proksimal allüvial-delta, aralığa üçün distal fluviodeltaik mühitlər proqnozlaşdırılır. Gilli araqatların çoxluğu Ceyildərə kapilyar kəsilmələr yaradaraq bitumun lokallaşmasını gücləndirir.
+- Neft mənbəyi və transformasiya: Və S tərkibi, həmçinin kerogen/asfaltin nisbi artımı oksidləşmə-bərpa proseslərinin izini göstərir. Pristan/fitan (ədəbiyyatdan) 1.2-2.3 diapazonu və C29 steran üstünlüyü suboksik, qismən quru-mezolik mənbə materiallarına işarə edir. Termal yetkinlik aşağı-orta səviyyədədir.
+- Miosen-pliosen yaşı: GRD-da gillərin nisbatən zəif ordenləşməsi və diagenetik karbonat sementinin erkən səhnədə formalaşman yaş-indikativ əlamətlər kimi interpretasiya olunur.
+
+===== Azərbaycanda bitumlu qumlar mineralogiya geokimya və ekoloji idarəetmə.pdf | Page 6/10 =====
+Atabaska və digər yataqlarla müqayisə:
+- Özəlliklər: Kvars üstünlüyü, V və Ni ilə bitumun zənginləşməsi, asfaltentlərin 15-25% diapazonu.
+- Fərqlər: azərbaycanda gil minerallarının payı yerli fəsilərə görə artmaz (küreson Çeyildərə), karbonat sementi aralığında nəzərəçarpdır; Atabaskada qvartsın payı bəzən 85%+ olduğu halda burada 45-70% arasındadır. Ni/V nisbəti 0.45-0.6 səviyyəsində olub, atabaskanın bəzi alt təbəqələrindən bir qədər aşağidir; bu, tənbəki qarışıqların litologiyan və diagenetik yol ilə bağlı ola bilər. Rexinin asfaltens nisbəti əksərən daha yüksək yapışqanlıq və emalda həllolma kinetikan fərqləri doğurur.
+
+Texnoloji-perspektiv qiymətləndirmə:
+- Axtarma-Puta: Bitum 9-13%, karbonat sementi orta, gil payı orta; isti-ra + az dozalı solvent (nafta) kombinə olunmuş ekstraksiya üçün əlverişlidir. ağır metal izləri orta səviyyədədir, V/Ni stabil.
+- Çeyildərə: Bitum 8-12%, gil zəngin və zisməyə meylli; mexaniki hazırlama və dispersant əlavəsi tələb edir; yüksək aromatik fraksiya çıxımı gözlənilir.
+- Aralığ: Bitum 7-11%, karbonatlı qatlarla səbəbilə qabarıq fraksiyalarda mineralogiya çətinlik riski; termal-vakuum yardımlı ekstraksiya rejimi üstünlük qazana bilər.
+
+Ekoloji qiymətləndirmə və sənaye təsirleri
+Neft-kimya müəssisələrinin fəaliyyəti mühit obyektləri, atmosfer havası və torpağa çoxşaxəli təsir göstərir. Mərcüd məlumatlara əsasən neft emalı zavodları hər il təqribən 2000 tondan çox kimyəvi maddəni atmosfərə buraxır. Emissiya profilində 8-10 əsas qaz fraksiyası (CO2, CO, NOx, SOx, H2S, VOC-lar, NH3, aerosol fraksiyaları və s.) üstünlük təşkil edir; proses vəziyyətindən asılı olaraq komponentlər də qeydə alınır. atmosfer modelləşdirməsi (konservativ yanaşma) 2-3 km radiusda epizodik konsentrasiya pikləri və dəqi narahatlıqlara proqnozlaşdırır, xüsusən külləyin istiqaməti üzrə ərazin zonalara doğru.
+
+===== Azərbaycanda bitumlu qumlar mineralogiya geokimya və ekoloji idarəetmə.pdf | Page 7/10 =====
+Katalizator tozları (FCC, hidroişləmə) incə hissəciklər formasında yayılmaqla PM2.5/PM10 yükünü artırır. Zavodlarda çoxpilləli triklon paketləri 92-96% səmərəliliklə bu hissəcikləri tutmaq üçün tətbiq edilir; adi əməliyyat təzyiq fərqi 1.5-2.2 kPa, kəsim ölçüsü ~5-10 μm aralığındadır. Triklonun ardınca toz filtrləri və ya elektrostatik çökdürücülər əlavə olunduqda emissiya 5-20 mg/Mm3 səviyyəsinə qədər endirilir. VOC və H2S üçün müəyyən nöqtələrinə yönəlik LDAR proqramlarının tətbiqi diffuz buraxılışları şamiyyətlə azaldır.
+
+Su təcrübəsinə baxmayaraq kondensator-soyuducaların (air fin coolers) geniş istifadəsi nəticəsində su sərfini 40-70% azaldır, xlorid və sulfat yükü dəvti suyun rəng ehtiyatını aşağı salır. Müasir neft emalı zavodlarında tullantı sularının 96-97%-i təkrar istifadə olunur: bu, yağ-ayırıcılar (API), DAF, bioloji məhsuldar (MBR), membran filtrasiya (MF/RO) və bəzi ion mübadiləsi-polishing blokdan ibarət inteqrasiya edilmiş zəncir hesabına mümkün olur. Effluent COD 150-300 mq/L səviyyəsinə, yağ-yağlayıcı 5-10 mq/L-a endirilərək buxar qazanları və ya soyutma sistemlərində ikinci istifadə təmin edilir. Qum yuyulmanı və bitum ekstraksiyası zamanı yaranan çöküntü çamlar geotekstil hüceyrələrdə suyu süzülüb qurudularaq sahə daxilində stabilləşdirilir; polimer və ya yüksək keyfiyyətli üzvi kimyəvi maddələr istifadə olunur.
+
+===== Azərbaycanda bitumlu qumlar mineralogiya geokimya və ekoloji idarəetmə.pdf | Page 8/10 =====
+Тoкрад mühiti üçün әsәr gәğviqlar qeyri-qanuni tullantı poliqonlarının yayılmaındәr. Bu poliqonlar tikinti-mövcәt, sәnәyе vә neftlәnmәi‌s materiallara qarışıq qәbul еdir; tullantıların iqtisadi dövriyyәyә cәlb еdilmәsi zәif tәtbiq оlunur. Sәth аxınındа TPH dәyiәnәn incә frаksi‌yаlаr yеrаltı sulаrә risk аltınа аlır. Pilоt müәssisәdә gәbәkәsi (pizоmеtrlәr) ilә TPH, BTEX, PAH göstәricilәrinә nәzәrәn аnоmаli‌yаlаrın hidrоdinаmik mоdеllәşdirilmәsi (MODFLOW/MT3DMS) riskin kоritоlәndirilmәsini tәmin еdә bilir. Uzaqdan zоndlаmа ilә Sentinel-2 NDVI/NDMI vә qısa dаlqа infrаqırmızı indеkslәmә, böyük sаhәli аnоmаli‌yаlаrın әzәrlәnmәsi üçün әlverişlidir.
+
+Dairәvi iqtisadiyyat vә matеriаllаrın yеnidәn istifаdәsi sәrf оlunmuş kаtаlizаtоrlаrın zәrәrsizlәşdirilmәsi vә dәyәrә çеvrilmәsi üzrә kеrаmikа sәnаyеsinә intеgrаsi‌yа pеrspеktivlidir. Hidrоislаmә vә FCC mоnjәli kаtаlizаtоrlаrın Si, al, bаzаn Ni, Mo, V еhtivа еtmәsi kеrаmikа çiy kütlәlәrindә mullit, plаgiоklаz vә spinеl fаzаlаrının fоrmаlаşmаsınа tövsiyә еdir. Lаbоrаtоr şəraitdә:
+- Dоzaj: 5-15% (kütlə) sәrf оlunmuş kаtаlizаtоr әlаvәsi, gil-kvаrs-kаlsit bаzаlı kütlәlәrdә.
+- Sinterlemә: 1150–1200°C, 60–90 dәq sаxlаmаlı rеjimlәrdә nхlіq vә mехanikidәуаnаqlаq оptimаllаşır.
+- Pеrfоrmаns: әyilmә möhkәmliyi 8–12% аrtım, su udmаsı 1–3% аzаlmа; zіrli sәthlәrdә süsаlаnmа hоmоgеnliyi yахşılaşır.
+- Еkоlоji tәhlükәsizlik: TCLP әyаnа tеstlәrdә Ni, V, Mo kоnsеntrаsi‌yаlаrı qәbul еdilәn hәddlәrin аltındа; immоbilizаsi‌yа dәrәcәsi 90%+.
+
+Bu yаnаşmа hәm tullаntı yükünü аzаldır, hәm dә kеrаmikа sеktоrundа х
+
+===== Azərbaycanda bitumlu qumlar mineralogiya geokimya və ekoloji idarəetmə.pdf | Page 9/10 =====
+Riflərin idarə edilməsi və siyasət tövsiyələri
+
+- Emissiya inteqrasiyası: Zavod səviyyəsində real-vaxt sensor zəbakələri (SO2, NOx, H2S, VOC) və AERMOD/WRF əsasında dinamik proqnoz xərritələndirmə ictimai məlumatlandırma panelləri ilə birləşdirilməlidir.
+
+- Su dövriyyəsi: 96-97% təkar istifadə həddi üçün membran bio-reaktorlarının sərğu-bərpa istismarında anti-fouling strategiyaları, RO konsentratlarının buxarlanma hovuzları və ya ZLD bloklarına yönəldilməsi tələb olunur.
+
+- Tullantılar: Qeyri-qanuni kibilkanaların qədər aşılı (SaR) monitorinqi, dron-ortofoto xəritələşdirmə və coğrafi məlumat sistemləri ilə sankiseyalayan cibləndirməsi; eyni zamanda istehsalçı mərhəliyəti (EPR) mexanizmləri.
+
+- Tox idarəetməsi: Triklen sonra hibrid filtrasiya (ESP+torba), qaynar nöqtələrdə kapsulyasiya və pnevmatik daşımada qapalı dövrəyə; işçi sağlamlığı üçün respirator qoxuyucu proqramları.
+
+- İnteqrasiya edilmiş ekstraktsiya: Gil zəngin fasiyalarlarda dispersantlar və pH optimallaşdırmaq, karbonatlı fasiyalarda antiskalantlar və su kimyəvi şərtləndirməsi; solvent çevrilməsi və bərpa üçün enerji-inteqrasiya edilmiş rektifikasiya.
+
+Məhdudiyyətlər və gələcək işlər
+
+Bu araşdırmada biomarker və izotop təhlilləri seçmə nümunələr üzrə ədəbiyyat inteqrasiyası ilə məhdud qalmışdır; gələcək mərhələdə GC-MS və 613C/634S izotop ölçmələri ilə mövzu kəşfiyyat gücləndirilməlidir.
+
+Yerli miqyasında hidrogeoloji modellərin kalibələnməsi üçün uzunmüddətli nümunə su monitorinqi zəruridir. Pilot yarı-sənaye ekstraktsiya sınaqları (isti-su + solvent hibridi) külsədən axıtarma-Puta və Ceyildərə üçün texno-iqtisadi göstəriciləri dəqiqləşdirəcəkdir.
+
+===== Azərbaycanda bitumlu qumlar mineralogiya geokimya və ekoloji idarəetmə.pdf | Page 10/10 =====
+Naticələr
+- Azərbaycan ərazisində 55 bitumlu sahə qeydiyyata alınmış, onların miosen-pliosen yaşlı çöküntüləri ilə əlaqəsi tədqiq olunmuşdur.
+- Axtarma-Puta, Şeyldalə və Analıq sahələri mineralogiya və geokimya baxımından yüksək perspektivli olub, bitum tərkibinə orta hesabla 8-12% diapazonundadır.
+- XRD/XRF nəticələri kvars-feldşpat-gil əsaslı matrisin, karbonat və piritin isə mühüm, lakin ikinci dərəcəli rolunu ortaya qoymuş. V və Ni kimi iz elementlərinin bitumla assosiasiyalanmış atabask analoqlari ilə uyğunluq göstərmişdir.
+- Emissiya idarəetməsində triklonlar, hava kondensatoh-soyuducaları və 96-97% tullantı su təkrari istifadə kimi həllər ekoloji yükü əhəmiyyətli dərəcədə azaldır; qeyri-qanuni zibilxanaların qərmsal izlənməsi və dairəvi iqtisadiyyat yanaşmaları vacibdir.
+- Sərf olunmuş katalizatorların silisium tərkibli keramika qatı kimi istifadəsi həm texnoloji, həm də ekoloji baxımdan əsaslandırılmış alternativdir.
+
+Təqkkür
+
+Nümunə toplama və laborator ölçmələrdə göstərdiyi dəstəyə, regional geoloji məlumat mübadiləsinə və ədəbiyyat bazasının təmininə görə səhə komandalərinə və analitik laboratoriyalara təşəkkür edirik.
+
+İstinadlar
+- Kanadada, Venesuelada, Rusiyada və digər yeganların nəhri çəm yataqlari üzrə açıq ədəbiyyat və hesabatlar (Atabaska, Orinoko, Qərbi Sibir alt hövzələri).
+- Sənaye-ətraf mühit standartları və texnoloji təlimatlar (emissiyalar, su təkrari istifadəsi, katalizator tullantıları).

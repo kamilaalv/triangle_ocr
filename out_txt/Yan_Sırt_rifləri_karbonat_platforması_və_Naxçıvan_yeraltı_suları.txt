@@ -1,0 +1,237 @@
+===== Yan Sırt rifləri, karbonat platforması və Naxçıvan yeraltı suları.pdf | Page 1/14 =====
+Cənub-Şərgi QafqazınYan Səth mezozoinasında rif fasiyaları, karbonat platformasının tekamülü və Naxçıvanın yeraltı sularının hidrogeoloji xüsusiyyətləri: inteqrə olunmuş geoloji-hidrogeoloji baxış
+
+===== Yan Sırt rifləri, karbonat platforması və Naxçıvan yeraltı suları.pdf | Page 2/14 =====
+Küləsə
+
+Cənub-Şərqi Qafqazın Yan Sürət meqazonasında rif fasiyaları geniş yayılmış olub, Şahdağ-Xızı zonasın daxilində mərcan kifi sədləri həm allokton, həm də avtoxton blokların geoloji quruluşunun əsas skeletini təşkil edir. Tədqiqat ərazisində cənubda yuxarı terrigen və karbonat flişi, şimalda isə dayazlıqlı karbonat və evaporit kompleksi formalaşmışdır. Gec Yura-Valanfin intervalında karbonat platformanın inkişafı dəniz səviyyəsinin çoxsaylı tərəddüdləri, sedimentasiya sürətində dəyişkanlık və tektonik impulslərin qarşılıqlı təsiri ilə şərh olunur. Üst Yura çöküntülərinin alt səthində kəskin litoloji-sedimentoloji dəyişikliklər və bucaq uyğunsuzluğu ilə seçilən regional stratiqrafik mərcələ səthdi kimi izlənilir. Rif kompleksləri cənub-qərb istiqamətində 1 km-dən çox məsafədə fasiyas izlənmiş, rif təbəqəsi boza və yaşılımtıl-boz rəngli, nəx, bəzen massivi kətklərdən əhəngdaşıları ilə, bəl mörcan qalıqları və braxiopod-fragməntli paketləri təqdim olunmuş; massiv dolomit, kristallik-dənəvər teksturalar və lokal qumdan ibarət laylanman geniş yayılıb. Subenlik istiqamətində min kilometrlərlə uzanan Şimali Qafqaz sedimentasiya hövzəsinin kənar zonaları ilə korrelyasiyaya Yan Sürət meqazonasının polifasiyal və politektonik xarakterini təsdıq edir. Paralel olaraq, Naxçıvan MR ərazisində qirin su ehtiyatlarının paylaşılmasının qeyri-bərabərliyi açar edilmiş, sulu səthanın qalınlığının 6–181 m, ümumi minerallaşmanın 0,2–21 q/l diapazonunda dəyişdiyi müəyyənləşdirilmişdir; ən böyük yeraltı su ehtiyatlarına Şərur düzənliyi və Kəngərli platosu malikdir. Mağala inteqrə edilmiş litofaksiyai, seqment-stratiqrafik və hidrogeokimyəvi məlumatlara birləşdirilərək regionun geoloji inkişafını və su ehtiyatlarının idarə olunman üçün elmi əsasları təqdim edir.
+
+===== Yan Sırt rifləri, karbonat platforması və Naxçıvan yeraltı suları.pdf | Page 3/14 =====
+Giriş
+
+Cənub-Şərqi Qafqazın Yan Sırt mezozonal alp tipli orogenin cənub-qərq kənarında yerləşən, rif fasiyaları, karbonat platforma sistemləri və ritmik fliz komplekslərinin bir-birinə keçidləri ilə xarakterizə olunan mürəkkəb tektono-sedimentar sahədir. Şahdağ-Kızı zonası daxilində rif süxurlarının paylanması, avrasiya sərhədləri və bucaq uyğunsuzluqları əvvəldən müzakirə edilsə də, litoloji-sedimentoloji təsvirlər, sekvens-stratigrafik model və hövzənin subenlik uzanımı üzrə korrelyasiya məsələləri hələ də aktualdır. Bu işdə, həmçinin Naxçıvan ərazisinin hidrogeoloji panoraması, yeraltı suların keyfiyyəti, ehtiyatları və istifadsəsi haqqında yeni sintetik baxış təqdim edilir, çünki regionun karbonat və terrigen massivlərinin akvifer potensiala geoloji təkamüllə nə bağlıdır.
+
+Geoloji-tektonik çərçivə və regional korrelyasiya
+
+Yan Sırt mezozonalının tektonik mozaikan alloxton və avtoxron blokların üzlaşması ilə formalaşib. Rifting mərhələsinin erkan impulsları Gec Trias-Erkan Yura yaşlı bazal brekçiyaları və yarı dənizən vulkanoklastika ilə təmsil olunur. Postrift subsidence mərhələsində Gec Yura-Valanfin intervalı üzrə karbonat platforma üzərinə rol oynamayır; şimal-şərqdə dayazsulu karbonat-evaporit şelfi, cənub sektorunda isə dərinləşən çökəkliklərdə yüksək terrigen (flişlik) və karbonat fliz dəstələri yerləşir. Subenlik istiqamətində uzanan Şimali Qafqaz sedimentasiyası hövzəsi min kilometrlərdə davam edərək, qısa məsafələrdə litofasiyal müxtəliflik, qırılma zonaları boyunca isə kalder tipli mikrohövzələr və evaporitlərlə əlaqəli duz tektonikası kimi fərqli xüsusiyyətləri birləşdirir. Bu kənar hövzənin ritmi Yan Sırtt mezozonalarında müzakirə edilən bucaq uyğunsuzluqları və sekvens sərhədləri ilə sinkron korrelyasiya edilir.
+
+===== Yan Sırt rifləri, karbonat platforması və Naxçıvan yeraltı suları.pdf | Page 4/14 =====
+Material və metodlar
+
+Tədqiqat çərçivəsində 17 detal kəsimi (ölçülmüş sütun), 9 səth nümunə profili, 3 dərin quyununun (maks. 1820 m) karotaj məlumatları (GR, SP, NPHI, RHOB), 2D seysmik profillər (ümumi uzunluq ~48 km) və 112 nazik dilim üzrə mikrofasiya analizləri istifadə olunmuşdur. Karbonatların stabil izotopikları (δ13C və δ18O; n=46), kataklatz dolomitlərin tərkibi element geokimyası (Sr, Mn, Fe; n=23) və porozimetriya (He porozimetriyasına əsasən φ=2-24%) həyata keçirilmişdir. Hidrogeoloji blokda 64 artezian, 38 quyulu və 21 yerdə quyusundan su nümunələri götürülmüş, əsas ionlar, TDS, qaz tərkibi (CO2, CH4, n2, H2S) və δ2H-δ18O izotopları təhlil olunmuşdur.
+
+Stratigrafiya və litofasiyalar
+
+Üst Yura çöküntülerinin alt səthində: Regional miqyasda Üst Yuranın bazan kəskin litofasial keçid və bucaq uyğunsuzluğu (0-12°) ilə qeydilir. Baza üzərində sıx, tünd-boz mikritli əhəngdaş paketləri (3-6 m) yerləşir, bazan qranulyar dolomitik əhəngdaşılarla müəyən olunur. Uyğunsızlıq səthləri boyunca ferruglaşma qabığı, mikrokarst boşluqları və hardqround qabıqları qeyd edilmişdir.
+
+===== Yan Sırt rifləri, karbonat platforması və Naxçıvan yeraltı suları.pdf | Page 5/14 =====
+Rif kompleksi: Şədaq-İstisu zonasında rif fasiyaları cənub-qərb 
+istiqamətində 1-1,3 km fəaliyyətə izlənir. Rif sədləri əsasən:
+- Boundstone (skeletorla bağlanmış rif gördəəsi; mercan, stromatoporoidləri süngərlər, lokal dəstəkad yosunlar),
+- Framestone-bindstone mozaikası (mikritik sementlə bağlanmış korallin parçalı qalıq layları),
+- Fored-reef talusları (rudston-grainston),
+- Back-reef lagun tipli wackestone-packstone karbonatları ilə təədim olunur.
+
+Rif təbəqələri rəngcə boz və ya yaşılımtıl-boz, çox rəngli teksturəli olub, 
+karbonat sementinin sparitik fazası üstünlük təşkil edir. Mercan qalıqları, 
+yerli intraklastlar və peloidlər zəngindir. Lokal olaraq 0,2-0,6 m 
+qalınlıqlı qumdaşlı-hibrid qatları rifin proksimal talus zonalarında 
+müşahidə edilmiş, yüksək enerji hadisələrinə (fırtına, tsunamigen talus 
+axını) işarə etmişdir.
+
+Dolomit və qumdaş interkalasiyaları: Massiv dolomitlər rif və interrif 
+zonalarında 0,5-8 m qalınlığda laylanaraq kristallik-danəvər tekstura 
+göstərir; planar-s (səffəf) dolomit mozaikası və ankeritləşmə izləri geniş 
+yayılıb. Qumdaşlı interlaylar əsasən feldspatik, orta-dənəli, karbonat 
+sementli olub, karbonat platforma kənarından gələn qırsa-çökmə fan 
+sistemi ilə əlaqələndirilə bilər.
+
+Cənubdaki flyez kompleksi: Yüksək terrigen-karbonat flyezləri yarım 
+ritmlərdə (3m-dm ölçülü), tərkibcə qrist, siltsit, kalsit turbiditləri və 
+mikritik əhəngdaşı ara laymalardan təşkil olunmuşdur. Bouma ardıcıllıqları 
+(Tb-Td) və yır izləri geniş yayılıb. Foraminifer assambleyaları 
+(Haplophragmoides spp., Lenticulina spp.) bathial mühitə işarə edir.
+
+===== Yan Sırt rifləri, karbonat platforması və Naxçıvan yeraltı suları.pdf | Page 6/14 =====
+Şimaldakı dayazməli karbonat-evaporit kompleksi: Sabraz-sulina mühitli göstəriciləri kimi gips-anhidrit layları (0,3–2,1 m qalınlığında), stromatotitli laminasiyalar və dolomud-dolosit ardıcıllığı qeydə alınmışdır. Kalsit-gips kitmləri, diagenetik zonalarında gökən glauberit və halit diuyünləri ilə zəngindir. Onların teksturasına təkin material təmin edir.
+
+Mikrofasiyalar və paleontologiya
+Dunham təsnifatına görə MF1–MF8 mikrofasiyalarına ayrılmışdır:
+- MF1: Skelettli packstone (korallin, dasiklad yosun, echinoid qismən quvarte);
+- MF2: Boundstone (kolonial scleractiniyali mərcan skeleti, mikroboksing izləri);
+- MF3: Grainstone (peloid-ooid-bioklast dominant, yüksək enerji və bəzi dəniz mühiti);
+- MF4: Wackestone (laqun, qumquşlu mikrit matrisi, miliolid foraminiferli);
+- MF5: Dolopackstone (seyrək skeletli dolomitləmiş paketlər);
+- MF6: Rudstone (talus, iri intraklastlar, mərcan blokları);
+- MF7: Stromatotitli laminitlər (sabra üstü);
+- MF8: Mikritik şongdan (hardground keçidlərində).
+
+Paleontoloji material içərisində kolonial scleractinia (Isastrea, Thamnasteria tipi), braxiopodlar (Rhynchonellida), bivalvlar (Gryphaea sl.), krinoid qırıntıları və miliolid-textulariid foraminiferlər dominantdır. Bu assembleyə rif-interrif-laqun zonalarını göstəriciləri kimi qəbul edilir.
+
+Diagenез və dolomitləşmə
+Karbonat paketlərində ərkən dövr porozite (skeleintraporlar), sementasiyaya ardıcılıq (mikrit → spar-kalsit → sadə dolomit), kataklastik dolomit mozaikan və lokal ankerit-siderit damarkaları qeydə alınmışdır. δ13C dəyərləri +1,8‰-+3,9‰ VPDB, δ18O isə -1,7‰ ilə -5,3‰ arasında dəyişərək, ərkən dəniz suyu təsirləri sementasiyaya və sonrakı meteoritik-gömülmə diagenезi şəraitini göstərir. Sr təzminində dolomitlərdə 110-380 ppm, Mn və Fe zənginləşmə səviyyəsi müşahidə olunur. Mikroskalada kataklastik teksturalar tektonik yerdəyişmə zonalarının yaxınlığında daha çoxdur.
+
+===== Yan Sırt rifləri, karbonat platforması və Naxçıvan yeraltı suları.pdf | Page 7/14 =====
+Sekvens-stratiyqrafiya va daniz seviyyesinin tereddudleri
+
+Gec Yura-Valanfin intervalinda en azi dörd asas sekvens (SQ1-SQ4) ve üç maksimum dazin seviyyesi (mfs-J1-mfs-VI) ayrilmisdir:
+- SQ1 (Gec Oksford-Erken Kimmeridj): Transqressiv sistemler desti (TST) mikritik platforma baslangici, mfs-J1 rif nukleasiyan ila üst-üste dïzïr.
+- SQ2 (Kimmeridj-Titon): Yüksak stand sistemi (HST) boyunca rifin maksimal lateral genislenmesi, fore-reef taluslartnin intensivlesmesi; ardınca yalunlasma seviyyesi ve eroziya (SB2).
+- SQ3 (Titon-Erken Valanfin): Regional düzïm ve evaporitlesme; sabxa-sulina laminasiyaları; SB3 üzra karstifikasiya izleri.
+- SQ4 (Valanfin): Transqressiya ila lagun-bar-rif ardcilliginin yeniden qurulmasi; mfs-VI platforma sabitliyinin qisa möcholari.
+
+Daniz seviyyesinin orbital (3-5 Ma) miqyasli tereddüdleri ila yanan, tektonik impulstar (blok qaldrrilmalarl va differensial subsidence) sekvens serhedlerini keskinlesdirir. Bu hallar Üst Yuranin alt serhedinde müeyyida edilen bucaq uyğunsuzluğu ila rezonans teskil edir.
+
+Rif morfologiyasin ve yayilma
+
+Rif sedlani struktur olaraq kötti-qumvari (en echelon) vari sistemleri sekillonde olub, cenub-qerb istiqametinde 1 km-den artıq fasilesiz zolaq veriri. Maksimal qalınlıq 42-68 m arasmda deyiserek, rif gövdasi (core) 28-46 m, talus va back-reef paketlori 10-22 m teskiil edir. Seismik kesiklerde yüksak amplitudali, davamlı reflektaklarla izlen proksimalindan distala doğru yayilma zonalarini ayirmağa imkan verir; rif üstlüyündə attenuasiya mfs-lor üzarinda maksimumdur.
+
+===== Yan Sırt rifləri, karbonat platforması və Naxçıvan yeraltı suları.pdf | Page 8/14 =====
+Seysmogeoloji və geofiziki göstəricilər
+2D seysmik profillərdə Üst Yura bazarında güclü reflektor səth (UJR) izlənir; onun üstündə parç-parça yüksək amplitudalı paketlər rif massivlərini, orta amplitudalı paralel reflektorlar isə lagun-self interlaylarını təmsil edir. Qatınma karotajında rif gövdəsində GR 20-45 API, RHOB 2,60-2,78 g/cm3, NPHI 0,02-0,08 fraksiyadur; dolomit zonalarında RHOB 2,82-2,90 g/cm3-a yüksəlir, NPHI azalma göstərir. Talus çöküntülərində lokal porozite artımı (φ 10-18%), lagunda isə mikritik porozite təzfdır (φ 2-6%).
+
+Tektonika və struktur xüsusiyyətlər
+allokton paketlər zəminədən cənuba doğru sürüşmə kinematikan göstərir; naplaların ön kənarlarında rif səthlərinin kəsilməsi və bükülmə strukturlara qeyd edilmişdir. Evaporit qatlarının plastik deformasiyainın ilə əlaqəli lokallaşmış diapirləşmə kiçik radiuslu antiklinalar yaradaraq kollektor-örtük oynalarının mümkün edir. Qırılmalar boyunca kataklastik dolomitləşmə və sementasiyaya rif kollektorlarının lateral bağlılığını dəyişir.
+
+Reservuar keyfiyyətləri və maye miqrasiyası
+Rif taluslarında və dolopackstone zonalarında ikincil porozite (məsamə+vur) inkişaf etmiş, keçiricilik 3-280 mD arasında ölçülmüşdür. Çökmə suyunun diagnetik yeniləşmələri və tektonik mikrokayaların boyunça axım yolu CO2 zəngin mayelərin (0,2-1,1% həcm) keçidini asanlaşdırır. Evaporitlərin varlığı vertikal miqrasiya üçün lokal bend rolunu oynayır.
+
+===== Yan Sırt rifləri, karbonat platforması və Naxçıvan yeraltı suları.pdf | Page 9/14 =====
+Naxçıvanın hidrogeologiyası: ehtiyatlar, keyfiyyət və paylanma
+
+Naxçıvan ərazisində yerin yeraltı sular qeyri-bərabər paylanmışdır. Əsas
+akvifer tipologiyaları:
+- allüvial-prolüvial çöküntülər (Şərur düzənliyi, Ərazboyu terraslar):
+qum-çınqıl-gil ritmləri, qalınlıq 18-181 m, yüksək kollektor xassələri.
+- Karbonat-karst akviferləri (dağlıq qanadlar): çatlaq-karst porozitesi,
+qalınlıq 6-74 m, mövsümi dəyişkən axım.
+- Vulkanit-tuf-breksiyala kompleksləri (lokal): zəif kollektor xassələri,
+lakin qrunt suları üçün mühüm drenaj sahələri.
+
+Sulu süxurların qalınlığı 6-181 m diapazonundadır və
+ relyef-litologiya-tektnoka üçlüyündən asılı olaraq kəskin lateral dəyişir.
+
+Yeraltı suların ümumi minerallaşma 0,2-21 q/l arasında dəyişir: dağətəyi
+allüvial zonalarda Ca-HCO3 tipli sular (TDS 0,2-0,7 q/l), orta düzən
+hissələrdə Ca-Mg-HCO3(±SO4) (0,7-1.5 q/l), arid sahələrin dərin
+horizontlarında isə Na-Cl (3-21 q/l) tipli sular üstünlük təşkil edir.
+
+Şərur düzənliyi və Kəngərli platosu ən böyük yeraltı su ehtiyatlarına malik
+olub, xüsusi sərvələri 3,2-15,4 l/s km2 intervalında qiymətləndirilir; bu
+zonalarda kollektor qalınlığının böyük olması, qum-gil laylarının yüksək
+keçiriciliyi (K=2,8x10-4-6,3x10-3 m/s) və dağ-düzən hidrogeoloji əlaqəsi əsas
+şərtləndir.
+
+===== Yan Sırt rifləri, karbonat platforması və Naxçıvan yeraltı suları.pdf | Page 10/14 =====
+Hidrogeokimya və qaz tərkibi
+Suların əsas ion tərkibi əsasında Piper diaqramında üç əsas sahə 
+müəyyənləşdirilmişdir: (1) dağətəyi Ca-HCO3 suları, (2) keçid zonasında 
+Ca-Mg-HCO3-SO4, (3) dərin Na-Cl suları. Sulfatların aktiv evapokit 
+interlayları ilə təmasında, dənizdən aralıqda ə/ü nisbəti yüksəkliyinə 
+və duz mineralları ilə ion mübadiləsini aks etdirir. Mikroelementlərdə: Sr 
+0,2-2,5 mq/l, Fe ümumi 0,02-1,1 mq/l, Mn 0,01-0,3 mq/l, F 0,2-2,1 mq/l 
+diapazonunda dəyişir. Qaz tərkibi üzrə CO2 0,02-1,8 həcm%, CH4 0,001-0,12 
+həcm%, N2 üstün komponentdir; H2S yalnız lokal sulfat-reduksiya 
+ zonalarında iz miqdarında qeydə alınır. İzotop göstəriciləri (δ18O: -9,8‰ ... 
+-6,1‰; δ2H: -68‰ ... -45‰) yüksək dağlıq sahələrindən qidalanma və mövsümi 
+qar-yağış komponentlərini təsdiqləyir; Tritium (1,2-6,4 TU) isə müasir 
+yenilənmə payının əhəmiyyətli olduğunu göstərir.
+
+Su ehtiyatlarının dinamikası və istifadə
+Qidalanma zonaları əsasən dağ ətəkləri və tektonik zonalar boyunca 
+yerləşir. Sezonal pyezometrik təzadduüdlar 0,8-42 m təşkil edir; 
+uzunmüddətli trend iqlim quruluşu mərhələlərində (quraqlıq illəri) aşağı 
+yönümlüdür. İstismar quyularında orta debi 6-35 l/s, maksimum 52 l/s qeydə 
+alınmışdır. Su təcrüfatında Şəki-Şirvanın artezian sistemləri və 
+Kür-Qarabağ düzənliğinin, həmçinin Böyük Qafqazın cənub yamacının 
+Konglomeratlı platolarının dayaz allüvial akviferləri prioritet mövqəyə 
+malikdir. Keyfiyyət göstəriciləri üzrə (TDS <1 q/l, Ca-HCO3) və suvarma (SAR 
+1,2-6,8; RSC -1,4 … +2,2) meyarlarına görə qiymətləndirilmiş, dərin Na-Cl 
+sularının məhdud istifadə oluna biləcəyi müəyyənləşdirilmişdir. Balneoloji 
+potensiala malik olan CO2 tərkibli sular (lokal yüksəklikdə 550) xüsusi qeyd 
+olunur.
+
+===== Yan Sırt rifləri, karbonat platforması və Naxçıvan yeraltı suları.pdf | Page 11/14 =====
+Müəllifə
+
+Rif fasiyalarının Yan Səth mezozonasında geniş yayılmısan, Şahdağ-Xızı 
+zolağında mərcan rifi sədlərinin həm alloxton, həm avttox­ton blokların 
+quruluşunda "dayaq" rolunu oynamasın platformanın tekamülünün tektono-eustatik 
+tədbirlər olmasının göstərir. Üst Yuranın alt səthində müsbət olmaqla 
+bərabər (rift-drift keçidinə yaxın) 
+üst-üstə düşür; bu, rifin süx­urli nüvəsinin stimulla 
+etmişdir.
+
+Şimaldakı dayaz karbonat-evaporit sistemi və cənubdakı terrigen-karbonat 
+flislorinin sinxronluğu hövzənin subnlik istiqamətində fərqli subsidence 
+sürətlərini və paleobataqrafik zonal­lığa əks etdirir. Dolomitley mənin 
+genişliyi səbə-sulina mühitlərində əs­kan, dərinlikdə isə kataklatic 
+dolomitləşmə dalğaları ilə izah olunur; bu proseslər kollektorun 
+porozite-keçiriciliyini yenidən paylayır. Evaporit inter­ləyirləri düz 
+tektonikamı isə şaquli struktur tə­lə­ləri formalasdırır və tərk 
+miqrasiyasını müəyyən edir.
+
+Hidrogeoloji blokda su­xur qalınlı­ğının 6-181 m intervalında dəyişməsi 
+litoloqiyanın lateral heterogenliyi və tektonik bloklayma ilə izah edilir. 
+Ümu­mı minerallaşmanın 0,2-21 q/l arasında geniş diapozonda dəyişməni 
+Naxçı­vanın hidrogeokimyəvi zonal­lı­ğı­nın kəskin gös­tə­rir. Şə­kər düzənliyi və 
+Kangərli platosunda su ehtiyatlarının nisbi bolluğu regionun su tə­sərrü­fatı 
+strate­giyasında bu ərazilərə prioritet verilməsini tələb edir. Qaz 
+tərkibinin öy­ranil­mosi (CO2, CH4, H2S) üçün balneoloji və texnoloji 
+istifadəsində kritik əhəmiyyət daşıyır; eyni zamanda qaz fazalı 
+anomaliyalar tektonik keçirgenlik və dərin sirkulyasiya kanallara üçün 
+indikator ola bilər.
+
+===== Yan Sırt rifləri, karbonat platforması və Naxçıvan yeraltı suları.pdf | Page 12/14 =====
+Basin modeli va konseptual çərçivə
+Təklif olunan model üç paralel zonanı fərqləndirir:
+- Şimal platforması: dayazlığı karbonat-evaporit ardıcıllığı, erkən dolomitləşmə, səbxa stromatolitləri, düz tektonikarı;
+- Orta rif kəməri: mərcan rifi sədləri, talus rudstonları, back-reef lagun karbonatları, yüksək poroziteli kollektor zonaları;
+- Cənub dərin hövzəsi: flyş turbiditləri, pelajik karbonat axtalaymaları, bathial foraminiferlər.
+Transgressiv mərhələlərdə rif kəməri genişlənir, çökmüş mərhələlərdə evaporit zonaları güclənir; tektonik impulslar zonalar arasında sərhədləri müəyyənləşdirir. Bu model subenlik istiqamətində min kilometrlərlə uzanan Şimali Qafqaz hövzəsinin kənar zonaları ilə uyğun gəlir və regional korrelyasiyanı sadələşdirir.
+
+Tətbiqi nəticələr
+- Karbonat kollektorlarının ən əlverişli horizontları rif taluslarının dolopackstone/rudstone paketlərində və back-reef zonalarının qismən dolomitləşmiş packstone-larında cəmlənir (φ 10-18%, k 20-180 mD).
+- Evaporit örtükləri lokal trapları formalaşdırır; duz diapir zonalarına boyunca struktur-fasiya ştrixləri əksminal olunur.
+- Hidrogeologiyada allüvial akviferlərin sərdiusülebilən istismarı üçün illik yenilənmə 18-20% aralığında qiymətləndirilmiş, kritik həddə çatmamıq üçün modul götürülməsinin 0,65-0,8 R səviyyəsində saxlanılması töklif edilir.
+- Kimyəvi və qaz tərkibinin dinamik monitorinqi (aylıq-riblik) antropogen yüka və iqlim amplitudalarına həssas sahələrdə vacibdir.
+
+===== Yan Sırt rifləri, karbonat platforması və Naxçıvan yeraltı suları.pdf | Page 13/14 =====
+Noticolor
+1) Yan Süt meqazonasında kif fazilələri geniş yayılmışdır. Şahdağ-Əks zonasında mercan rifi sədləri həm alloxon, həm də avtoxton elementlərin geoloji quruluşunu formalaşdıran əsas morfo-struktur kimi gücə ətmişdir.
+2) Şimalda dayazlı karbonat-evaporit, cənubda yüksək terrigen və karbonat flis kompleksi eyni yaş intervalları daxilində sinxron inkişaf etmiş, subenlik istiqamətində uzanan regional hövzəyə korrelyasiya olunur.
+3) Üst Yura çöküntülərinin alt səthdə litofasiyal nəhayət və bucaq uyğunsuzluğu ilə seçilən, sekvens-stratigrafik səth kimi izlənilən, karbonat platforman gec yura-valanfin intervalında dəniz səviyyəsi və tektonik impulslanın qarşılıqlı tə'siri ilə formalaşmışdır.
+4) Rif təbəqələri boz-əhəngli-boz, nə əhənglərdən ibarət olub, mercan qalıqları ilə zəngindir; massiv dolomit, kristallik-dənəvər teksturalar və lokallığı qumdağ interlayları ilə xarakterizə olunur.
+5) Naxçıvanda yeraltı sular qeyri-bərabər paylanmış, mülayim şixurlıların qalınlığı 6-181 m, minerallaşma 0,2-21 q/l arasında dəyişir, sən duk dəniz düzənliyi və Kəngərli plato-sunun ən böyük ehtiyatlara malikdir.
+6) Yeraltı suların kimyəvi və qaz tərkibi hidro-dinamik-litoloji zonalılığı əks etdirir; CO2 və CH4 kontentin monitorinqi hidrogeoloji proseslərin və texnoloji istifadə-nin idarə olunması üçün zəruridir.
+
+===== Yan Sırt rifləri, karbonat platforması və Naxçıvan yeraltı suları.pdf | Page 14/14 =====
+Tövsiyələr
+- Yeraltı suların ehtiyatlarının dəyişməsini izləmək üçün Şəkar-Kəngərli 
+oxu boyunca inteqrə edilmiş monitoring zəbakəri (piezometrik səviyyə, TDS, 
+əsas ionlar, qaz tərkibi, δ18O-δ2H) qurulsun. 
+- Karbonat kollektorlarında relevant səthlərdəinə yaxın dolomit zonalarının 
+həddəfli karotaj-kəsım inteqrasiyası ilə xarakterizasiyası aparılsın; seysmik 
+attribute analizi (sweetness, impedance) ilə rif talus zonaları 
+ayırd edilsin.
+- Evaporit diapir zonalarında struktur sabitliyi və mïmkünsüz nitmalarn 
+qiymətləndirilməsi üçün mikrogravimetriya və MT (maqnito-tellurik) kəşfiyyat 
+tətbiq edilsin.
+- Su təchizatı strategiyasında Şəkar düzənliyi və Kəngərli platoş üçün 
+modul götürmə səthdələri təyin edilsin, suvarma üçün Na-Cl tipli suların 
+qarşısürmə-yumşaltma sxemləri işlənilsin.
+- Yeraltı suların kimyəvi və qaz tərkibinin öyrənilməsi üzrə tematik 
+proqram genişləndirilsin; balneoloji potensiali olan sularda CO2 və 
+mikroelementlərin sanitar-normativ qiymətləndirilməsi aparılsın.
+
+Əlavə qeydlər
+
+Bu araşdırma Yan Sərt meydanlarında rif-platforma sistemlərinin çöxəxəli 
+təkamülünə və Naxçıvanın hidrogeoloji rejimind dair inteqrə baxış tədqi 
+etməklə, geoloji çərçivədə su ehtiyatlarının idarəolunmasına elmi əsas 
+yaradır. Gələcək işlərdə yüksəkayrımlı 3D seysmik, karst boşluqlarının 
+georadar xarakterizasiyası və reaktiv nəqli modelləşdirməsi (PHREEQC) ilə həm 
+kollektorların, həm də əhəngdaşıların xassələrinin xarakterizasiyası həyata 
+keçiriləcəğündir. Dəniz səviyyəsi tərəddüdlərinin platforma dinamikasına təsirinin daha incə ayrılman üçün üzta stratiqrafik 
+markerlər (chemostratigrafiya, Sr izotop ölçmələri) və rif biokonstraktiv 
+orqanizmlərinin ekologiyasına dair modellər çəlb edilmişdir.

@@ -1,0 +1,220 @@
+===== 1.pdf | Page 1/13 =====
+Ana süxurda karbohidrogenlərin qistdən sıxışdırılaraq çıxır: Reyler-Teylor qeyri-sabitliyi, qeyri-nyuton reologiyalı və geoareoloji geofizika kontaktında Abşeron və Şimal-şərqi Azərbaycan üçün inteqrativ model
+
+===== 1.pdf | Page 2/13 =====
+Xülasə
+
+Bu tədqiqatda ana süxurlarda karbohidrogenlərin qeyri-keçirici gil-şist matrisindən sıxışdırılaraq çıxması, intruziya və palçıq vulkanizmi mexanizmləri, həmçinin geofiziki məlumatların geoarxeoloji tətbiqləri üzrə inteqrativ bir model təqdim edilir. Konseptual çərçivə Reyler-Teylor qeyri-sabitliyi, qeyri-nyuton reologiya, sedimentasiya yükünün generasiya etdiyi dartılma zonaları və qırılma sistemləri ilə əlaqələndirilir. Qravimetriya məlumatlarının GR3DSTR proqramı ilə inversiyası Abşeron yarımadasında çöküntü qatının orta dərinliyinin 11 km olduğunu, Qonaqkənd-Giləzi-Qarabulaq-Dübrar bloklarında 4 km, Quba-Qusar-Xaçmaz intervalında 6 km, Şabran-Tələbı arasında 7 km, Zeyxurda 8 km, Tələbı-Qaynarca antiklinal zonasında isə 4200-4600 m dərinlik diapazonunu göstərmişdir. 
+
+Sahə müşahidələri və modelləşdirmə palçıq vulkanlarının eruptiv kanalları və çöküntülerinin 10 km radiusda sıxılan gil materialının aktiv iştirakı ilə formalaşdığını vurğulayır. Karbohidrogenlərin horizontal və şaquli miqrasiyası üçün litoloji növbələşmə, intruziyaların mexanikası və dartılma qırılmalarının tor şəkildə yayılması həlledici sayılır. Tədqiqat həmçinin göstərir ki, müasir geofiziki tədqiqat üsullarının arxeoloji abidələrin aşkar edilməsinə tətbiqi tarixi-mədəni konteksti anlamağa kömək edir və infrastruktur layihələrdə arxeologlarla geofiziklərin sıx əməkdaşlığı vacibdir. Nəticələr göstərir ki, mütexəssislərin cəlb olunduğu multidissiplinar komandlarda geologiya-geofizika-arxeologiya sinerjisini təsdiqləyir, risklərin idarə edilməsi və resursların dayanıqlı istifadəsınə dair tövsiyələr verir.
+
+===== 1.pdf | Page 3/13 =====
+Açar sözler: ana süxur, şist, sıxışdırılaraq çıxma, Reyley-Teylor qeyri-sabitliyi, qeyri-nyuton maye, palçıq vulkanı, intruziya, qravimetriya, GR3DSTR, Abşeron, geoarxeologiya.
+
+Giriş
+Karbohidrogen sistemlərinin semereli modelləşdirilməsi üçün əsaslanmış, lakin tez-tez parçalayıcı şəkildə tədqiq edilən proseslərin vahid mexaniki cərgivedə birləşdirilməsi tələb olunur. Buraya ana süxurda üzvi maddənin termal parçalanması nəticəsində yaranan neft və qazın qeyri-keçirici gil-şist matrisindən sıxışdırılaraq çıxması, təzyiqin artmasının bu prosesə katalitik təsiri, intruziyaların litoloji növbələşmə ilə idarə olunması, sedimentar yüklənmənin dartılma sahələri və qırılma sistemləri yaratması, eləcə də Reyley-Teylor qeyri-sabitliyinin palçıq vulkanizmini induksiya etməsi daxildir. Bu nəzəri konstruksiya praktiki səviyyədə qravimetriya və digər geofiziki metodların tətbiqui ilə sınaqdan keçirilir və arxeoloji irsin öyrənilməsi kontekstində yenidən şərh olunur.
+
+Regional geoloji cərgə
+Abşeron yarımadası və ona bitişik Şimal-Şərqi Azərbaycan zonaları qalin pliosen-kvater çöküntüləri, intensiv tektonik fəallıq və geniş yayılmış palçıq vulkanizmi ilə xarakterizə olunur. Litoloji sütunlarda qumlu-gilli təbəqələrin növbələşməsi, evaporit linzaları və yerli karbonat bəndləri miqrasiya yollarını heterojenləşdirir. Bu şəraitdə intruziyalar əsasən kontrast keçiriciliyə malik interfeyslar boyunca propaqasiya edir, qırılma sistemləri isə əyilmiş səthlərdə sedimentar yüklənmənin yaratdığı dartılma zonalarında yaranır.
+
+===== 1.pdf | Page 4/13 =====
+Material və metodlar
+
+- Qravimetriya və inversiya: Regional Bouge anomaliyaları və yüksək ayrılıqlı mikrogravimetriya profilləri GR3DSTR proqramında inversiyaya olunaraq çoxmə qatının dərinlik səthləri hesablanmışdır. Model parametrləri sıxlıq kontrastı üçün 0.3–0.5 g/cm3 intervalına kalibr edilmiş, həssaslıq analizləri sintetik anomaliyalar üzərində aparılmışdır.
+
+- Seysmika və elektrik kəşfiyyatı: Məhdud profillərdən P-dalğa səyahət vaxtları və çoxelektrodlu rezistivlik kəsiklər litoloji alternativ və qırılma zonalarının xəritələşdirilməsində istifadə olunmuşdur.
+
+- Palçıq vulkanizmi sahə işləri: Eruptiv konusların tərcib analizi, mikrostratigrafiya, konus ətrafında 10 km radiusda gil deformasiyalarının morfometrik göstəriciləri toplanmışdır.
+
+- Geoarxeoloji tədqiqat: Yərölçmə, maqnitoometriya, georadar (GPR) və elektrozorestivlik səthaltı anomaliyaların arxeoloji interpretasiyası üçün tətbiq edilmiş, seçmə yerlərdə sınaq qazıntıları ilə təsdiqlənmişdir. İnfrastruktur layihələrinin marşrutlarında risk xəritələri tərtib edilmişdir.
+
+===== 1.pdf | Page 5/13 =====
+Nezeri baza
+
+Ana süxurdan sıxışdırılaraq çıxma və təzyiqin rolu 
+Ana süxurda neft və qazın əmələ gəlməsi mahlulvari və ya superkritik fazalarla bağlı olan mikro-makro məsaməlilikdəki kimyəvi-termal reaksiya səthlərinə dayanır. Qeyri-keçirici şist matrisində generasiya olunan karbohidrogenlər kompaksiya və termal genişlənmə nəticəsində artan poroelastik təzyiq altında sıxışdırılaraq çıxarılırlar. Təzyiqin artması hidravlik qradiyenti və effektiv gərginlik fərqini yüksəldir, bəlli ilə, sıxışdırılaraq çıxma sürətini n ~ k(│P) asılılığında artırır. Burada k effektiv keçiriciliyi təmsil edir və mikro çatların açılmasına bağlı olaraq qeyri-xətti (yüksək təzyiqdə super-keçiricilik fazaları) davranış göstərə bilər. Təzyiqin artması həm də qırılma məsaməliliyini aktivləşdirir, sıxma-intruziya qüvvələrinin dəhlizlərini genişləndirir.
+
+Reyler-Teylor qeyri-sabitliyi və palçıq vulkanizmi
+Aşağı sıxlıqlı, yüksək maye tərkibli gil palatası üstündə daha sıx örtük varsa, Reyler-Teylor qeyri-sabitliyi inkişaf edir. Bu qeyri-sabitlik qabar-ma-barmaqlaşma morfologiyası ilə gil diapirlərinin yaranmasına, nəticə etibarilə palçıq vulkanlarının dərin köklü kanallar vasitəsilə səthə çıxmasına səbəb olur. Sahə müşahidələri göstərir ki, belə sistemlərdə eruptiv kanalların aktiv zonası və çöküntü şleyfləri təqribən 10 km radiusda sıxılan gil materialının mobilizasiyası ilə müşayiət olunur. Bu radius daxilində gil paketlərində parçalanma, qayma zonaları və fluidizasiya teksturaları dominantdır.
+
+===== 1.pdf | Page 6/13 =====
+there is a picture
+
+Qeyri-nyuton mayelər və eliziyon sistemi
+
+Palçıq-gil suspensiyaları, karbohidrogenlarla zəngin kolloid məhlullar və yüksək viskoelastik zülal-polimer kompleksləri geoloji şəraitdə qeyri-nyuton reologiyaya malikdir. Onların şər-nazikləşmə xüsusiyyəti intruziya zamanı lokal viskozitenin azalmasına və dartılma qüvvələrinin artmasına səbəb olur. Eliziyon sistemi adlandırdığımız, deqidrasiya və sıxma kanallarından ibarət şəbəkə qeyri-nyuton axınla doldurulduqda, intruziya cəbhəsində qabarma təzyiqi artaraq çatların sürətli propaqasiya zonalarını yaradır. Bu mexanizm, xüsusilə, qumlu-gilli təbəqələrin növbələşdiyi kontaktlarda effektivdir.
+
+Sedimentasiya yükü, dartılma zonaları və qırılmalar
+
+Çökmüş səthlərdə (məsələn, delta önlüyü və ya şelf qırağı) sürətlə toplanan çöküntü yükü lateral qərginlik qradiyentləri yaradır. Bu qradiyentlər dartılma zonaları və normal qırılma sistemlərini təşviq edir. Qırılma torları, öz növbəsində, həm intruziyaların yüksəlişi, həm də karbohidrogenlərin horizontal və şaquli miqrasiyası üçün kəsişən dəhlizlər kimi çıxış edir. Litoloji növbələşmə (qum-gil) qırılma səmtini fokuslayır, intruziyaların ayaqlığı üçün mexaniki dayaq rolunu oynayır.
+
+===== 1.pdf | Page 7/13 =====
+Noticeler
+
+Çökmə qatının dərinliyi: GR3DSTR modelləşdirməsi
+
+Qravimetriya məlumatlarının GR3DSTR proqramı ilə inversiyası aşağıdakı çökmə qatının dərinlik paylanmasını göstərmişdir:
+
+- Abşeron yarımadası: çökmə qatının orta dərinliyi 11 km. Bu, regional subsident hövzənin gec Senozoy-Kvartar dövründə intensiv dolma və sürətli kompaksiya keçirdiyini göstərir.
+
+- Qonaqkənd, Giləzi, Qarabulaq, Dəvəçi: 4 km. Lokal tektonik yüksəkliklər və daha sərt bazaltik podkladın dayaz yerləşməsi ilə izah olunur.
+
+- Quba, Qusar, Xaçmaz aralığı: 6 km. Bu zona şimaldan kompressiv yüklənmənin təsiri altında orta dərəcədə çökmə ilə fərqlənir.
+
+- Şabran və Teləbi arasında: 7 km. Litoloji kontrastların yüksək olduğu, intruziyaların yönləndiyi tranzit sahə.
+
+- Zəyxur: 8 km. Burada dərin hövzə mərkəzi trendi izlənilir.
+
+- Tələb–Qaynarca antiklinal zonası: çöküntü qalınlığının antiklinal qabarma üzərində 4200-4600 m arasında incelməsi müşahidə olunmuşdur.
+
+
+| Region / Zona | Çökmə Qatının Dərinliyi | İzah / Təfsir |
+| --- | --- | --- |
+| Abşeron yarımadası | 11 km | Gec Senozoy-Kvartar dövründə intensiv dolma və sürətli kompaksiya ilə səciyyələnən regional subsident hövzə |
+| Qonaqkənd, Giləzi, Qarabulaq, Dəvəçi | 4 km | Lokal tektonik yüksəkliklər və dayaz yerləşən bazaltik podklad |
+| Quba, Qusar, Xaçmaz aralığı | 6 km | Şimaldan kompressiv yüklənmə nəticəsində orta dərəcədə çökmə |
+| Şabran-Teləbi | 7 km | Litoloji kontrastların yüksək olduğu, intruziyaların yönləndiyi tranzit sahə |
+| Zəyxur | 8 km | Dərin hövzənin mərkəzi trendini izləyən zona |
+| Tələb–Qaynarca antiklinal zonası | 4.2-4.6 km | Antiklinal qabarma üzərində çöküntü qalınlığının incelməsi |
+
+===== 1.pdf | Page 8/13 =====
+Intruziya ve palçıq vulkanizmi səbəksinin morfologiyası
+- Eruptiv kanalların mərkəzindən 10 km radiusda gil 
+paltasında sıxılma izləri, yuxarı istiqamətli dilimlənmə və 
+diapirik sütunların çoxluğu qeyd edilmişdir. Kanalların orta 
+diametri 30-120 m, doldurucu materialın paylanması isə 
+asimmetrikdir.
+- İntruziyalar daha çox qumlu-gilli təbəqələrin 
+kontaktlarında yayılır; burada kəsicilik möhkəmliyin 
+kontrasti intruziyaya minimal iş görmə ilə yol verir.
+- Reyler-Teylor barmaqları qırılma səthləri ilə sinxronlaşır 
+və barmaq uclarında hidrokarbonların toplanması ehtimalı 
+artır.
+
+Karbohidrogen miqrasiyası
+- Horizontal miqrasiya litoloji səthlərdə, xüsusən 
+regional korrelyasiyaya olunan qum laylarında effektdir; 
+burada Darcy axını ilə yanaşı çat-axın rejimləri də iştirak 
+edir.
+- Şaquli miqrasiya qırılma zonaları, intruziya kanalları və 
+diapirik gövdələr boyunca baş verir. Qeyri-nyuton maye 
+davranışı bu vertikal dehlizlərdə sürət profilini 
+kəskinləşdirir.
+- Miqrasiya vektorlarının birgə analizi struktual telelərdə 
+(antiklinallarda, litoloji bendlərdə) yığılmanın üstünlük təşkil 
+etdiyini göstərir. Telebi-Qaynarca antiklinalının 4200-4600 
+m dərinlik intervallarında effektiv yığılma pəncərəsi 
+proqnozlaşdırılır.
+
+Sedimentasiya yükünün tektonik imzası
+Öyilmiş səth boyunca sedimentasiya yükü ilə induksiya olunan 
+dartılma zonaları boyunca formalaşan qırılma sistemləri 
+seysmik kəsiklərdə merdvenvari geometriya ilə izlənir. Bu 
+qırılmaların uclarında intruziya cəbhələri və elizyon 
+sisteminin çıxış nöqtələri üst-üstə düşür, bu isə multi-
+fazalı axın-deformasiya kaskadlarını təsdiqləyir.
+
+===== 1.pdf | Page 9/13 =====
+Geoarxeoloji tədqiqlər
+- Arxeoloji abidələr ölkənin tarixinin müfəssəl məlumat mənbəyidir; stratiqrafik qatlaşmada uzunmüddətli insan fəaliyyətinin izləri (məsələn, keramika, metallurgiya elementləri) regional tektonik kontekstdə yerləşdirildikdə, landşaftın təkamülü daha dəqiq bərpa olunur.
+- Müasir geofiziki tədqiqat üsulları (maqnitometriya, GPR, elektrozorestivlik, mikroqravimetriya) abidələrin aşkar edilməsində tətbiq edilir. Qravimetrik mikroanomallıyalar yeraltı boşluqlar, qəbir kameraları və ya keçmiş tikili fondasiyaları ilə korelyasiya olunmuşdur.
+- Geofiziki sahə məlumatları tarixi-mədəni kontekstdən öyrənməyə kömək edir: anomaliya xarakterləri qədim məskunlaşmaların planlaşdırılmasını, su təchizatı sistemlərinin trasını və istehsal zonalarının (məs., soba kompleksləri) məkan paylaşmasını ortaya qoyar.
+- İnfrastruktur layihələrdə arxeoloqların və geofiziklərin əməkdaşlığı önəmlidir. Mərşrut optimizasiyası üçün risk-həssaslıq xəritələri hazırlanır, sahələrdə sınaq qazıntıları ilə geofiziki interpretasiyalar yoxlanılır.
+- Peşəkar mütəxəssisələrin tədqiqatlara cəlb edilməsi vacibdir: məlumatların toplanması, emalı və çoxmənalı interpretasiyası yalnız multidissiplinar komandalarla etibarlı nəticələr verir.
+
+===== 1.pdf | Page 10/13 =====
+Müzakirə
+
+Mexaniki inteqrasiya modeli
+
+Təklif edilən model ana süxurda generasiya olunan karbohidrogenlərin qeyri-keçirici şistdən sıxışdırılaraq çıxmasını ilkin hərəkətverici kimi götürür. Təzyiqin artması bu prosesi sürətləndirir, təzyiq paylanması isə sedimentasiya yükü və tektonik gərginliklə birgə Reyler-Teylor qeyri-sabitliyini qidalandırır. Qeyri-nyuton maye ilə dolmuş elizyon sistemi intruziya çəbhəsində dartılma qüvvələrini artıraraq çatların yayılmasını sürətləndirir; bu da həm palçıq vulkanizmini aktivləşdirir, həm də hidrokarbonların vertikal miqrasiyasını fasiləsiz edir. Eyni zamanda, qumlu-gilli təbəqələrin növbələşməsi intruziyaların yönləndirilməsi üçün mexaniki "bələdçi" rolunu oynayır.
+
+Regional dərinlik xarakterinin rolu
+
+GR3DSTR ilə əldə olunan çökmə qalınlıqları təlelərin dərinlik pəncərələrini, termal yetişkinlik zonalarını və potensial miqrasiya dəhlizlərini keyfiyyətcə bağlamağa imkan verir. Abşerondakı 11 km-lik orta qalınlıq yüksək pirolitik generasiya potensialına işarədir, lakin lokallaşmış qalxımlar (Qonaqkənd-Giləzi-Qarabulaq-Dübər: 4 km) struktur-litoloji tələlerin dayaz kəsiklərdə də mövcud ola biləcəyini göstərir. Təlebi-Qaynarca antiklinalında 4200–4600 m intervalında həm temperatur rejimi, həm də mexaniki sabitlik yığılma üçün əlverişlidir.
+
+===== 1.pdf | Page 11/13 =====
+Palçıq vulkanlarının 10 km-lik təsir zonası
+
+Eruptiv mərkəzdən 10 km radiusda gil materialının sıxılma 
+teksturalarının paylanması, kanal şəbəkəsinin fraktal 
+morfologiyası və gilin reoloji zəifləməsi fluidləşmənin 
+regional miqyas aldığını nümayiş etdirir. Bu zonada 
+arxeoloji kontekstlər də deformasiyadan təsirlənə bilər; 
+geofiziki xəritələr üzərində deformasiya izləri ilə mədəni 
+qatların pozulma dərəcəsi arasında statistik əlaqə müşahidə 
+olunur.
+
+Geoarxeoloji sinerji
+
+Qravimetriyanın regional miqyaslı modelləri ilə 
+GPR/magnitometriya yerli ölçülü xəritələri birləşdirildikdə, 
+abidələrin yerləşmə seçimlerinin geomorfoloji və geoloji 
+nəzərətləri daha aydın görünür. Məsələn, dayaz antiklinal 
+çiyinlərində, sızma bulaqlarına yaxın yerlərdə erkən 
+məskunlaşma izləri daha sıxdır; bu, resurs ölçətliliyi ilə 
+struktur nəzəritin üst-üstə düşməsini göstərir. 
+İnfrastruktur layihələrində bu biliklər mərşrutların 
+optimallaşdırılması, risklərin azaldılması və irsin 
+qorunması üçün praktik tətbiq təqdim edir.
+
+Məhdudiyyətlər və gələcək işlər
+
+- Qravimetrik inversiya qeyri-yeganədir; litoloji şərtlər və 
+sıxlıq modelləri üzrə priorlar naticələrə həssasdır.
+- Seysmik məlumatların məhdudluğu bəzi zonalarda dərinlik 
+şəhvini artırır. 
+- Qeyri-nyuton reologiyanın parametrləşdirilməsi laboratoriya 
+şərtlərindən səhra şərtlərinə proyeksiya olunarkən qeyri-
+müəyyənlik daşıyır. 
+Gələcək işlərdə 3D seysmik həcm, istilik axını modelləri və 
+reoloji çoxfazalı axın simulyasiyaları ilə çərçivənin daha 
+da gücləndirilməsi planlaşdırılır.
+
+===== 1.pdf | Page 12/13 =====
+Notice və tövsiyələr
+
+1) Ana süxurda karbohidrogenlərin qeyri-keçiricai şistdən sıxışdırılaraq çıxması təzyiq artımı ilə sürətlənir və intruziya-qırılma-palçıq vulkanizmi kaskadını qidalandırır.
+
+2) Reyler-Teylor qeyri-sabitliyi və qeyri-nyuton maye axını palçıq vulkanlarında 10 km-lik təsir zonas1 yaradır; bu zona həm geoloji, həm də mədəni qatların morfodinamikasına təsir göstərir.
+
+3) İntruziyaların qumlu-gilli təbəqələrin növbələşməsi boyunca yönlənməsi və sedimentasiya yükünün əyilmiş səthlərdə yaratdığı dartılma qırılmaları miqrasiya dəhlizlərini formalaşdırır; horizontal və şaquli miqrasiya paralel işlayir.
+
+4) GR3DSTR qravimetrik inverisiyası Abşeron və Şimal-Şərqi Azərbaycan üzre çökme dərinliklərinin regionallaşdırılmış xəritəsini verir: Abşeron 11 km, Qonaqkənd-Giləzi-Qarabulaq-Dübrar 4 km, Quba-Qusar-Xaçmaz 6 km, Şabran-Təlebi 7 km, Zeyxur 8 km; Təlebi-Qaynarca antiklinalında 4200-4600 m.
+
+5) Müasir geofiziki tədqiqat üsullarının arxeologiyaya tətbiqi tarixi-mədəni konteksti dərindən öyrənməyə imkan verir; infrastruktur layihələrində arxeoloq-geofizik əməkdaşlığı və peşəkar mütəxəssislərin cəlb edilməsi kritkdir.
+
+===== 1.pdf | Page 13/13 =====
+Praktiki neticeler
+
+- Resurs axtarışları: Telebi-Qaynarca zonasında 4.2-4.6 km intervalında struktur-litoloji telelerin prioritetləşdirilməsi; Şabran-Telebi və Zeyxur zonalarında intruziya ilə əlaqəli telelerin yoxlanılması.
+
+- Risk xəritələşməsi: Palçıq vulkanlarının 10 km-lik təsir zonaları infrastruktur planlamasında qadağa/böhran zonaları kimi işarələnməlidir.
+
+- İrsiin qorunması: Geoarxeoloji xəritələr əsasında qəzıntı-qoruma-məsrəf inteqrasiyası; geofizik kəşfiyyatın layihə öncəsi məcburi mərhələ kimi tətbiqi.
+
+İstinadlar
+
+[1] Regional tektonika və çöküntü hövzələrinin dinamikası: Abşeron və şimal-şərq kənar qurşaqlarının müqayisəli təhlili.
+
+[2] Qeyri-nyuton geologiya və geoloji axın: palçıq-gil sistemlərinin səthə müşahidələri.
+
+[3] Qravimetriya inversiyası üçün GR3DSTR istifadəçi bələdçisi və tədqiqat nümunələri.
+
+[4] Palçıq vulkanizmi: Reyler-Teylor qeyri-sabitliyindən səthə morfologiyasına.
+
+[5] Geoarxeoloji geofizika: maqnitiometriya, GPR və rezistivlik metodlarının inteqrasiyası.
+
+[6] Sedimentasiya yükü və əyilmiş səth tektonikası: qırılma torlarının formalaşma modelləri.
+
+[7] Hidrokarbon məsrəfəsi: horizontal-şaquli dehlizlərin reqemsal simulyasiyası.
+
+[8] Abşeron yarımadasında çökmə qalınlıqlılarının xəritələnməsi: qravimetriya-seysmika sintezi.
+
+[9] Elizion sistemləri və deqidrasiya kanalları: çoxfazalı axın yanaşmaları.
+
+[10] İnfrastruktur layihələrində irs riski: standartlar və ən yaxşı təcrübələr.
+
+[11] Arxeoloji abidələrin geofiziki xəritələnməsi: seçmə halların meta-analizi.
+
+[12] Qırılma-intruziya əlaqəsi: qumlu-gilli litoloji növbələşmənin mexaniki rolu.

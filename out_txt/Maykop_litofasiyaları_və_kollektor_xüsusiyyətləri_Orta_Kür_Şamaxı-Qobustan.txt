@@ -1,0 +1,360 @@
+===== Maykop litofasiyaları və kollektor xüsusiyyətləri Orta Kür, Şamaxı-Qobustan.pdf | Page 1/25 =====
+AZƏRBAYCANDA MAYKOP ÇÖKÜNTÜLƏRİNİN LİTOFASİAL QURULUŞU VƏ 
+KOLLEKTOR XÜSUSİYYƏTLƏRİNİN REGİONAL MÜQAYİSƏSİ: ORTA KÜR VƏ 
+ŞAMAXI-QOBUSTAN ÇÖKƏKLİKLƏRİ ÜZRƏ KOMPLEKS TƏHLİL VƏ 
+AXTARIŞ-KƏŞFİYYAT İŞLƏRİNİN STRATEJİ İSTİQAMƏTLƏNDİRİLMƏSİ
+
+Xülasə
+
+Azərbaycanın iqtisadi qüdrətinin dayanıqlı artımında neft-qaz sənayesinin rolu xüsusi çəkidir. Dünya bazarlarına yüksək keyfiyyətli Azərbaycan neftinin çıxarılması ölkəyə davamlı investisiya axını, texnoloji yenilənmə və elmi-tədqiqat infrastrukturunun güclənməsi üçün güclü stimullar yaratmışdır. Bu kontekstdə ölkənin quru ərazilərində geniş yayılmış Maykop çöküntülərinin litologiyası, stratiqrafiyası, mikrofaunası və kollektor xüsusiyyətlərinin yenilənmiş, çoxmərhələli və inteqrativ yanaşma ilə öyrənilməsi yeni yataqların kəşfini real zəmin yaradır.  
+Tədqiqat SOCAR-in “Neftqazelmitədqiqatlayihə” İnstitutunun elmi-mühəndis platformasında aparılmış, Orta Kür və Şamaxı-Qobustan çökəkliklərində Maykop kompleksi üzrə litofasial qeyri-bircinsliyin miqyas və struktur formaları, fasial şəraitin və mineralofik tərkibin kollektor keyfiyyətlərinə təsir mexanizmləri müəyyən edilmişdir.
+
+===== Maykop litofasiyaları və kollektor xüsusiyyətləri Orta Kür, Şamaxı-Qobustan.pdf | Page 2/25 =====
+Kompleks metodoloji baza - seysmik atribut analizi, quyu-geofizika materialları (qamma-karotaj, neytron-porozimetriya, akustik surət), petrografik-inceyonarlı tədqiqat, mineralogiya (XRD, SEM-EDS), petrofizika (porozite, keçiricilik, kapillyar təzyiq), mikropaleontologiya (bentik planktonik foraminiferlər, ostrakodlar) və çöl tədqiqatları – üzrə toplanmış sübutlar Maykop süxurlarında litostratiqrafik kəsilişlərin zonallasma prinsiplerini, fasiyaların areal dəyişkənliyini və süzülmə-tutum parametrlerinin paylanma qanunauyğunluqlarını ortaya çıxarmışdır. 
+Orta Kür çökəkliyində yüksək qeyri-bircinslik, turbidit-çağırma axınları ilə əlaqəli qumlu interlayerlərin lokal yığılması, gil-komponentin mineralofilik tərkibində smektit-illit transformasiyasının diagenetik mərhələlər üzrə kollektor pənceresini daraltması müşahidə edilmişdir. 
+Şamaxı-Qobustanda isə deltatik proqradasiya paketləri və sahilyanı barmaqlı fasiyalar nəticəsində nisbətən sabit net-sand payı, orta dərəcədə sementasiya və struktur-mexaniki möhkəmliyinin daha əlverişli saxlanması qeydə alınmışdır. 
+Tədqiqat nəticəsində hazırlanmış litostratiqrafik kəsilişlər, fasial xərritələr və axtarış-kəşfiyyat risk matrisləri gələcək qazma hədəflərinin düzgün istiqamətləndirilməsinə, resursların səmərəliliyinin optimallaşdırılmasına xidmət edir. 
+İşin nəticələri yerli və beynəlxalq elmi platformalarda dərəc olunmuş, praktiki tətbiqlər üzrə sınaqlar səhə geologiyası və quyu məlumatları ilə tutuşdurulmuşdur.
+
+===== Maykop litofasiyaları və kollektor xüsusiyyətləri Orta Kür, Şamaxı-Qobustan.pdf | Page 3/25 =====
+Açar sözlər: Azərbaycan, Maykop çöküntüləri, Orta Kür çökəkliyi, Şamaxı-Qobustan çökəkliyi, litofasiyaların qeyri-bircinsliyi, kollektor xüsusiyyətləri, mineralofik terkib, mikropaleontologiya, seysmik atributlar, axtarış-kəşfiyyat, SOCAR.
+
+Giriş
+
+Azərbaycanın neft-qaz sənayesinin inkişafı ölkənin makroiqtisadi sabitliyinin təməl dayaqlarından biridir. Son iki onillikdə həyata keçirilən irimiqyaslı layihələr Azərbaycanın xam neftinin dünya bazarlarına çıxışını sürətləndirmiş, markalı Azərbaycan neftinin keyfiyyət göstəriciləri (sıxlıq, kükürd tərkibi, fraksiya tərkibi) beynəlxalq ticarətdə rəqabətqabiliyyətliliyini artırmışdır. Bu inkişaf xətti, eyni zamanda, quru və dəniz akvatoriyalarında yeni neft-qaz hədəflərinin axtarışını, yerli elmi-tədqiqat bazasının gücləndirilməsini və inteqrativ geoloji-geofiziki yanaşmaların tətbiqini labüd etmişdir.
+
+===== Maykop litofasiyaları və kollektor xüsusiyyətləri Orta Kür, Şamaxı-Qobustan.pdf | Page 4/25 =====
+Maykop kompleksi Cenubi Qafqaz regionunda, o cümlədən Azərbaycan quru ərazilərində, neft-qaz sistemlərinin həm mənbə, həm də rezervuar elementlərinin mühüm qovşaqlarını özündə birləşdirən stratigrafik-sedimentoloji pillədir.
+Oliqosen-Aşağı Miosen yaşlı bu çöküntülər litoloji baxımdan gil, alevrolit, qumtaşı, sililit və bitumlluluğa meylli şistlərdən ibarətdir; bəzi seqmentlərdə karbonat interlayerlər və piritləşmə zonaları müşahidə olunur. Uzun illər tədqiqatçılar Maykop çöküntülərinin litologiyası, stratiqrafiyası və mikrofaunasını sistemli şəkildə öyrənmiş, lakin region daxilində litofasiyaların yüksək dəyişkənliyi səbəbindən kollektor xüsusiyyətlərinin səhədən səhəyə kəskin fərqlənməsi məsələsi açıq qalmışdır. Bu iş həmin boşluğu doldurmaq məqsədilə Orta Kür və Şamaxı-Qobustan çökəkliklər üzər kompleks müqayisəli təhlil təqdim edir.
+
+===== Maykop litofasiyaları və kollektor xüsusiyyətləri Orta Kür, Şamaxı-Qobustan.pdf | Page 5/25 =====
+Tədqiqatın məqsədi və vəzifələri
+
+İşin başlıca məqsədi Maykop çöküntülərinin süxulma-tutum xüsusiyyətlərini müəyyən edən litofasial və mineralofik amilləri Orta Kür və Şamaxı-Qobustan çökəklikləri kəsiyində müqayisə etmək, nəticələri axtarış-kəşfiyyat strategiyalarının təkmilləşdirilməsinə yönəltməkdir. Bu məqsədlə:
+- Regional miqyasda litostratigrafik kəsilişlər yenilənmiş və fasial zonallaşma xüsusiyyətləri tərtib edilmişdir.
+- Seismogeofiziki atributlar ilə quyu-geofiziki əyrilər inteqrasiya edilərək qumlu paketlərin areal və qalınlıq paylanması qiymətləndirilmişdir.
+- Petrografik-mikromineralogiya tədqiqatlarla gil fraksiyasının tərkibi və diagenetik dəyişikliklər (illitləşmə, xloritləşmə, karbonat sementasiya) izah edilmişdir.
+- Petrofiziki testlərlə porozite-keçiricilik münasibətləri, kapillyar təzyiq əyriləri, neft-suyun nisbi keçiricilik parametrləri müəyyənləşdirilmişdir.
+- Mikropaleontoloji markerlər əsasında biostratigrafik bölgü dəqiqləşdirilmiş, paleoderinlik və paleomühit göstəriciləri müəyyən edilmişdir.
+- Sahə geologiyası üzrə ekspozisiyalarda (Qobustan, Şirvan, Salyan perimetrləri) quyu məlumatlarının uyğunluğu sınaqdan keçirilmişdir.
+- Axtarış-kəşfiyyat üçün risk matrisləri hazırlanmış, prioritet strukturlar və məqsədlilik təklif edilmişdir.
+
+===== Maykop litofasiyaları və kollektor xüsusiyyətləri Orta Kür, Şamaxı-Qobustan.pdf | Page 6/25 =====
+Tədqiqatın elmi və praktiki aktuallığı
+
+Azərbaycanın quru ərazilərində aparılan gazma kampaniyaları son illər mürəkkəb litofasial quruluşa malik horizontlara yönəlmiş, qeyri-bircins kollektorların geoloji modellərinin təkmilləşdirilməsi vacib şərt olmuşdur. Maykop kompleksi səviyyəsində düzgün fasial diaqnostika və minerologiya ilə əlaqəli kollektor pəncərələrinin identifikasiyası yataq kəşfini ehtimalını artırır, rentabellik hədəflərini isə daha dəqiq proqnozlaşdırmağa imkan verir. SOCAR-ın "Neftqazelmitədqiqatlayihə" İnstitutunda həyata keçirilmiş bu iş axtarış-kəşfiyyat proqramlarının optimallaşdırılmasına, risklərin diferensial idarə edilməsinə və kapital xərclərinin səmərəli bölüşdürülməsinə birbaşa töhfə verir.
+
+Regional geoloji şərait və Maykop kompleksinin stratiqrafik xüsusiyyətləri
+
+Regional olaraq Cənubi Qafqazın tektonik quruluşu Alp orogenezinin son mərhələləri ilə əlaqəli kompressional rejimlər, əvvəllər kollektorlarının toplanması və hövzədaxili subbasenlərin formalaşması ilə seçiyənir. Orta Kür çökəkliyi, Kür sedimentoji sisteminin aşağıdüzlü seqmenti kimi, periodik okeanlaşma və suboksik şəraitdə yığılmış gil və silisiklastik ardıcıllıqlara ev sahibliyi edir. Şamaxı-Qobustan çökəkliyi isə tektonik cəhətdən daha parçalı, dislokasiyaların intensiv olduğu zonadır; burada intrabasinal yüksəkliklər və onların ətəklərində sahilyanı və deltatik fasiyalar geniş inkişaf etmişdir.
+
+===== Maykop litofasiyaları və kollektor xüsusiyyətləri Orta Kür, Şamaxı-Qobustan.pdf | Page 7/25 =====
+Maykop kompleksinin Oliqosen-Aşağı Miosen kesiminde aşağıdakı stratıqrafik elementlər fərqləndirilmişdir:
+- Aşağı Maykop: qara-bitumlu gil çistləri, laminar quruluş, yüksək TOC, zəif bioturbasiya; bəzi intervallarda incə qumlu interlaylar.
+
+- Orta Maykop: silisiklastik ritmlər, çağırma axını (turbidit) qumtaşları, slump strukturları, yük nişanələri; fasiyaların yanvari keçidi daha kəskindir.
+
+- Yuxarı Maykop: deltatik-qumlu-siltli paketlər, kanal və barmaqlı distributiv sistemlər, bioturbasiya izləri və nisbətən yaxşı yumulu qumlar.
+
+Mikropaleontoloji göstəricilər – planktonik və bentik foraminiferlərin assembleyaları, nannofosil zonallaşması – Maykop ardıcıllığının biostratıqrafik tədqiqinin dəqiqləşdirilməsində əsas siqnalları təmin edir. Aşağı Maykopda suboksik-anoxik şəraitə uyğun bentik kasadlıq, Orta Maykopda epikontinental dərinlik dalğalanmaları, Yuxarı Maykopda dayaz dəniz və deltatik ekosistemlərin dominantlığı qeyd olunur.
+
+===== Maykop litofasiyaları və kollektor xüsusiyyətləri Orta Kür, Şamaxı-Qobustan.pdf | Page 8/25 =====
+Materiallar və metodlar
+
+Tədqiqat material bazası çoxşaxəli mənbələrdən 
+formalaşdırılmışdır:
+- Quyu-geofizika: 64 quyunun kompozit log paketi (GR, SP, 
+RILD, NPHI, RHOB, DT), yüksək keyfiyyətli (QK kəsilişləri üzrə 
+paylanma.
+- Nümunələr: 312 əsəs və yan nüvədən incəyonarlı lövhələr; 
+94 nümunədə SEM-EDS, 76 nümunədə XRD analizi; 118 nümunədə 
+porozimetrik test, 52 nümunədə kapillyar təzyiq.
+- Seysmogeofizika: 2D xəttlər (1460 km), 3D kub (540 km2); 
+RMS amplitud, fázis spektral dekompozisiya, inversiya 
+(akustik impedans) və süni neyron şəbəkəsi ilə fasiyal 
+proqnoz.
+- Mikropaleontologiya: 87 nümunə üzrə foraminifer və 
+ostrakoḍ assembleyaları; nannofosil identifikasiyası.
+- Çöl tədqiqatları: Qobustan və Şirvan perimetrlərində 11 
+ekspozisiya kəsiyinin ölçülməsi; sedimento-loji təsvir (taxıl 
+ölçüsü, pəgmətilik, kross-laminasiya, bioturbasiya 
+intensivliyi).
+
+===== Maykop litofasiyaları və kollektor xüsusiyyətləri Orta Kür, Şamaxı-Qobustan.pdf | Page 9/25 =====
+Metodoloji yanaşma aşağıdakı mərhələləri əhatə edir:
+- Lito-stratigrafik korrelyasiya: quyu-log seqmentlərinin marker səviyyələr əsasında uyğunlaşdırılması, “chemo-strat” 
+meyllərinin GR və spektral GR ilə kalibrlənməsi.
+- Sedimentoloji interpretasiya: turbidit ardıcıllıqlarında Bouma ardıcıllığına yaxın ritm tanınması; deltatik 
+fasiyalarda kanal-levi-bar sistemlərinin ayrılması.
+- Mineralogiya: gil fraksiyasında smektit/illit nisbətinin hesablanması, illit kristallik indeksinin təyini, karbonat 
+sement tipinin (kalzit, dolomit, ankerit) differensiasiyası.
+- Petrofizika: pozite-keçiricilik paylanmalarının çoxmodallığına görə qarışıq modellər; capillary entry 
+pressure və Mercer/Leverett funksiyalarının kalibrlənməsi.
+- Atribut analizi: yüksək amplitudlu anomaliyaların stratigrafik-trap potensialları ilə əlaqələndirilməsi, spektral 
+dekompozisiyada fasial ayırdetmə.
+- Risk modelləşdirmə : 
+mənbə-miqrasiya-rezervuar-tələb-örtük-mühafizə elementləri üzrə sistematik ballandırma; ehtimal-təsir matrisi.
+
+===== Maykop litofasiyaları və kollektor xüsusiyyətləri Orta Kür, Şamaxı-Qobustan.pdf | Page 10/25 =====
+Geolooji müğahidelər və fasial model
+
+Orta Kür çökəkliyi:
+
+- Litofasiyalarn qeyri-bircinsliyi dərinliklə artan gilləşmə və aralıq qumlu paketlərin lateral davamlılığının zəifliyi ilə müğahidə olunur. Lokal turbidit dilovları struktur qabarıqların ətəyində toplanır, seysmikdə lentvari amplitud zonaları kimi görünür.
+
+- Qumdaşlarında kompozisiya feldispatlı-quarclı, matriks zəngin; diagenetik mərhələdə karbonat və xlorit sementasiya üstündəlik təşkil edir. Xlorit örtükləri taxıl səthlərində məsaməlikin görünməsinə xidmət etsə də, yüksək temperatur-sellülyar transformasiyalar keçiriciliyi məhdudlaşdırır.
+
+- Gil mineralları: smektitdən illitə keçid zonaları 80-100°C paleotermal pəncərədə aktivləşmiş, K-feldispat alterasiyası ilə müşayiət olunmuşdur. Bu keçid porozite kollapsını gücləndirmiş, kapillyar giriş təzyiqini artırmışdır.
+
+- Mikropaleontologiya suboksik şəraitlərdə bentik kasadlığını göstərir; müəyən intervallarda oksigenlemenin epizodik artımları incə qumlu interlaylarla üst-üstə düşür.
+
+===== Maykop litofasiyaları və kollektor xüsusiyyətləri Orta Kür, Şamaxı-Qobustan.pdf | Page 11/25 =====
+## Şamaxı-Qobustan çökəkliyi:
+
+- Deltatik proqradasiya paketləri üzrə net-to-gross nisbəti daha sabitdir, qum kanalları laterallaşaraq distributar bar-mah­ mızı sistemlər yaradır. Bioturbasiya orta səviyyədədir, bu da sementasiya üçün sərbəst maye dövranına şərait yaradaraq erken diagenetik karbonatlaşmanı məhdudlaşdırır.
+
+- Qumdaşları yaxşı yuyulmuş, qismən subarkoz tərkibli; gil matriks azdır. Qranulometriya orta incə - orta iri diapazonda dəyişir, heterojen məsamə şəbəkəsi keçiriciliyi artırır.
+
+- Gil mineralları: illit-nazik laylı mikst qatlı (I/S) fazası sabit paylanıb; smektit səhimləri nisbətən aşağıdır, bu isə şismə potensialını məhdudlaşdırır və kollektor keyfiyyətini dəstəkləyir.
+
+- Mikrofauna dąz dəniz-sahilyanı ekosistem göstəricilərini təqdim edir; yüksək diversitetli ostrakod faunası fasiyal keçidləri izləməyə imkan verir.
+
+## Petrofiziki xassusiyyətlər və kollektor keyfiyyətləri
+
+## Orta Kür:
+
+- Porozite: 6-14% (mediana 9.2%); keçiricilik 0.02–2.1 mD (mediana 0.3 mD); yüksək kapillyar giriş təzyiqi (Pc50 > 1.5 MPa) su-neft kontaktından yuxarı sulanma riskini artırır.
+
+- Məsəməlik tipləri: əsasən orta/kiçik intragranulyar və matriks məsamələri; lokal taxitlərasi məsamələr xlorit örtükləri ilə qismən qorunmuşdur.
+
+- Sementasiya: karbonat (kalzit/ankerit) dominant; kvars üstböyümələri nadirdir. Sement paylanmasının heterogenliyi “şaxələnmiş keçiricilik xəttləri” yaradır.
+
+- Nəticə: kollektor pəncərəsi dar, iqtisadi filtriasiya göstəriciləri yalnız turbidit dilovlarının qalınlaşdığı zonalarda ehtimal olunur.
+
+===== Maykop litofasiyaları və kollektor xüsusiyyətləri Orta Kür, Şamaxı-Qobustan.pdf | Page 12/25 =====
+## Şamaxı-Qobustan:
+- Porozite: 11-22% (mediana 16.8%); keçiricilik 1.5-380 mD 
+(mediana 38 mD); kapillyar giriş təzyiqi aşağı-orta (Pc50 
+0.2-0.6 MPa).
+- Məsaməlilik tipleri: taxıl arası və ikincili həllolma 
+məsamələri; karbonat sement nadir-orta; gil matriks 
+minimaldır.
+- Dinamik parametrler: niabi keçiricilik əyriləri neft 
+fazası üçün erken mobilizasiya göstəir; su kəsimi təzyiq-
+həcm rejimlərində stabil olur.
+- Nəticə: Yuxarı Maykop deltatik paketləri perspektivlidir; 
+lateral davamlılıq 500–1200 m diapazonunda dəyişir.
+
+## Seysmik və quyu-geofiziki interpretasiya
+- Amplitud-lent anomaliyaları Orta Kürdə stratiqrafik-lokal 
+təsnatlarla əlaqəlidir; spektral dekompozisiya 20-30 Hz 
+diapazonqda qumlu interlayerləri ayırmağa imkan verir.
+- Akustik impedansın inversiyası ilə qum/silt zonaları 
+ayrılmışdır; Şamaxı-Qobustanda aşağı impedans pəncərələri qumlu kanal-bar sistemləri ilə korrelyasiya olunur.
+- Qamma-karotaj: Aşağı Maykopda 120–160 API aralığında 
+yüksək fon; Orta-Yuxarı Maykopda qumlu paketlərdə 60–90 API 
+intervalında enişlər. Spektral GR (K, U, Th) gil 
+minerallarının tiplerini ayırmağa kömək edir.
+- Neftlilik indikatorları: az miqyaslı qaz-sızması səbəbli 
+amplitud anomaliyaları və Q-faktor düşmələri bəzi sahələrdə 
+“bright spot” kimi qeydə alınmışdır; lakin kalibrleme 
+quyularında məhdud təsdıq almışdır.
+
+===== Maykop litofasiyaları və kollektor xüsusiyyətləri Orta Kür, Şamaxı-Qobustan.pdf | Page 13/25 =====
+Mineralofik terkibin tesiri
+
+- Smektit-illit transformasiyası:  Orta Kürdə yüksək; məsamə daralması və şişmə potensiali artmış, filtrasiya qeyri-xetti. Şamaxı-Qobustanda smektit payı aşağı, mexaniki stabillik yüksək.
+
+- Karbonat sement: Orta Kürdə ankeritik-limonit lökelənmesi və kalzit sementlaşməsi alaqəli; Şamaxı-Qobustanda zəif erken karbonatlaşma məsaməni açıq saxlayır.
+
+- Dəmir oksidləri və ağır minerallar: lokal kənar effektlər yaratsa da, tumi. keçiricilikdə ikinci dərəcəli rol oynayır.
+
+- Orqaniki maddə-mineraloji qarşılıqlı təsir: bitumlu fazaların gil səthlərində adsorbsiyası yaş məsamə faktorunu yüksəldir; bu, su mühitində keçiriciliyin azalmasına səbəb olur.
+
+Hidrodinamik rejim və telelerin tipi
+
+- Teleler: struktur (antiklinal, qırılma-örtülü) və stratiqrafik (fasial keçid, yanal sönümə) tipleri qeyd olunur. Şamaxı-Qobustanda kombine teleler daha geniş yayılmışdır.
+
+- Mühafizə qatları: Aşağı Maykop gil şistləri və regional seal kimi fəaliyyət göstərən qalın gillər neftin saxlanmasında əsas elementdir.
+
+- Su-neft kontaktları: Orta Kürdə yüksək kapillyar baryerlər S/NK-nin kəsik boyunca dalğalanmasına səbəb olur; Şamaxı-Qobustanda daha sabit səviyyələr müşahidə edilir.
+
+- Basqı sistemi: lokal övər-basqı anomaliyaları Orta Kürdə qeyd olunmuş, qazma təhlükəsizliyinə təsir edən zonalar xaritə olunmuşdur.
+
+===== Maykop litofasiyaları və kollektor xüsusiyyətləri Orta Kür, Şamaxı-Qobustan.pdf | Page 14/25 =====
+Çöl tədqiqatları və analoqlar
+- Qobustan ekspozisiyalarında deltatik kanal-bar ardıcıllıqları, kross-laminasiya və kəsilmə səthləri müşahidə olunmuş, quyu məlumatları ilə fasial uyğunluq tədqiq edilmişdir.
+- Şirvan düzənliyində incə qumlu-siltli ardıcıllıqların yanvari keçidləri seysmikdə müşahidə olunan zəif amplitudlu zonaları izah etmişdir.
+- Regional analoq kimi Qərbi Xəzər hövzəsinin Aşağı Miosen deltatik sistemləri ilə fasial oxşarlıqlar qurulmuşdur.
+
+Müqayisəli təhlil: Orta Kür və Şamaxı-Qobustan
+- Litofasial qeyri-bircinslik: Orta Kürdə yüksək; Şamaxı-Qobustanda orta dərəcədə, lakin ilbəil proqradasiyaya məruz qalmış ritmik.
+- Kollektor xassələri: Orta Kürdə lokal; Şamaxı-Qobustanda areal baxımdan geniş və daha sabit.
+- Mineralogiya: Orta Kür – smektit/illit yüksək, karbonat sement dominant; Şamaxı-Qobustan – illit/mika qatlı aşağı, sement zəif.
+- Hidrodinamika: Orta Kür – kapillyar baryerlər güclü; Şamaxı-Qobustan – mobil neft sistemi üçün əlverişli.
+- Axtarış-kəşfiyyat strategiyası: Orta Kürdə yüksək dəqiqlikli atribut inteqrasiyası və mikrostrukturların hədəflənməsi; Şamaxı-Qobustanda stratiqrafik-trap modellərinin prioritetləşdirilməsi.
+
+===== Maykop litofasiyaları və kollektor xüsusiyyətləri Orta Kür, Şamaxı-Qobustan.pdf | Page 15/25 =====
+İqtisadi qiymətləndirmə və investisiya konteksti
+
+Dünya bazarlarına yüksək keyfiyyətli Azərbaycan neftinin çıxarılması fonunda, yeni keşflərin iqtisadi əsaslandırılması aşağıdakı prinsiplərə söykənir:
+- Net-sand və NTG yüksək olan Şamaxı-Qobustan hövzələrində qazma uğurlu ehtimallı yüksək, paylayıcı infrastruktur yaxınlığı CAPEX/OPEX göstəricilərini yaxşılaşdırır.
+- Orta Kürdə yüksək qeyri-bircinslilik səbəbi ilə geoloji risk payı çoxdur; buna baxmayaraq, lokal turbidit bədənlərinin aşkarlanması halında yüksək keyfiyyətli cibləri iqtisadi səmərə verə bilər.
+- İnvestisiya axınlarının davamlılığı üçün risklərin diferensasiyası və mərhələli kəşfiyyat proqramları təvsiyə olunur; erkən mərhələdə seysmik yenidən emal, daha sonra kəşfiyyat quyuları ilə kalibrləmə.
+
+Litostratiqrafik kəsilişlər və xəritələrdə
+- Orta Kür üçün üç əsas korellyasiya marker səviyyəsi ayrılmışdır: Aşağı Maykop qara gil marker, Orta Maykop amplitud lent paketi, Yuxarı Maykop deltatik kanal səviyyələri.
+- Şamaxı-Qobustanda altı fasiyal zonal xəritə tərtib edilmiş, hər zonada dominant fasiyalar, gözlənilən porozite-keçiricilik diaapazonları və potensial tele tipologiyaları göstərilmişdir.
+- Kəsilişlər axtarış-kəşfiyyat mərhələlərinin planlaşdırılmasında istifadə üçün standart formata salınmış, GIS bazasında meta məlumatlarla yanaşı yerləşdirilmişdir.
+
+===== Maykop litofasiyaları və kollektor xüsusiyyətləri Orta Kür, Şamaxı-Qobustan.pdf | Page 16/25 =====
+Petro-fiziki model ve arxın simulyasiyası
+- Laboratoriya eyrilerıne esasen iki "representativ"
+kollektor sinfi mueyyenlesdirilmisdir: RC-1 (deltatik
+qumlar: porozite 14-22%, k 10-300 mD), RC-2 (turbidit
+qumlar: porozite 7-12%, k 0.05-5 mD).
+- Kapillyar tezyiqi parametrleri ve nisbi keciricilik
+eyrileri faza davranis modellerinde tetbiq edilmis, erken
+sulasma riskleri hesablanmisdir.
+- Sadelegsdirilmis axin simulyasiyaları gostermisdir ki, RC-1 
+kollektorlarinda tebii enerji rejimi ile elde olunan
+baslangic debiler dayanıqlidir; RC-2 ucun ise sun'i qaldırma 
+ve secme-perforasiya dizayni zeruridir.
+
+Texnoloji ve emeliyyat tovsiyeleri
+- Qazma ve tikinti: Orta Kurde gil sigmesi risklerine qarşi 
+KCl-polymer esasli qazma mehlullari; Samaxi-Qobustanda suxur 
+sabitligi yaxşi olsa da, kanal fasiyalariinda diferensial 
+yapısma riskine nezaret.
+- Perforasiya ve stimullaşdırma: RC-2 kollektorlari ucun 
+coxinterval perforasiya ve asagı hecmli asidizasiya; RC-1 
+ucun selektiv perf-lay dizayni ve ehtiyac oldugda zeif 
+proppantli hidravlik yarma.
+- Quyu-geofiziki proqram: Spektral GR ve rezistivlik 
+aletlerinin yuksek sequali ayirdetmesi; PLT ile erken 
+merhelede qat paylarinin differensiasiyasi.
+
+Tedqiqatın neticelerinin elmi platformalarda yayilmasi 
+Isin esas neticeleri yerli ve beynelxalq elmi platformalarda 
+meqale ve tezis formalrinda derc edilmis, konfrans 
+çıxışlarında teqdim edilmisdir. Bu yayınlar litofasial 
+modellerin, mineralogiyanın kollektor keyfiyyetine tesir 
+mexanizmlerinin ve seysmik atributların prognostik gücünün 
+genis müzakiresine serait yaratmısdır.
+
+===== Maykop litofasiyaları və kollektor xüsusiyyətləri Orta Kür, Şamaxı-Qobustan.pdf | Page 17/25 =====
+Mizakirə
+
+Alınan nəticələr göstərir ki, Maykop çöküntüləri regional miqyasda eyni vaxtda həm mənbə, həm rezervuar, həm də örtük elementlərini daşıya bilər. Lakin bu funksiyaların hər biri fəsial rejim, diagenetik yol və tektonik çərçivə ilə ciddi şəkildə module olunur. Orta Kürdə anoksik şəraitdə yığılmış qalın gil paketləri yüksək keyfiyyətli mənbə və güclü seal funksiyası təmin etsə də, kollektor zonalarının diskontinuiteti təbə şərtlərinin spesifikləşməsini zəruri edir. Şamaxı-Qobustanda isə proqradasiya dinamikası və fəsial sabitlik kollektor pərcələrini genişləndirir, eyni zamanda stratiqrafik təbəqələrin payını artırır.
+
+Mineralogiyanın rolu xüsusilə vurğulanmalıdır: smektit pisləşməsi, illitləşmə dərəcəsi ilə birgə, kollektor xüsusiyyətlərinin istilik tarixçəsi ilə sıx bağlıdır.
+
+Praktiki əhəmiyyət
+
+- Axtarış-kəşfiyyat hədəflərinin prioritetləşməsi üçün fəsial zonallaşma xəritələri və risk matrisləri sınanmış, ilkin pilot quyu dizaynlarına inteqrasiya edilmişdir.
+- Lito-stratiqrafik kəsilişlər geoloji xidmətlərdə standartlaşdırılmış, yeni məlumat daxil olduqca canlı yenilənmə mexanizmi tətbiq edilmişdir.
+- Rezervuar modelləşdirilməsi üçün nümunədə kollektor sinifləri üzrə petrofiziki kəsim meyarları (cut-off) təklif edilmişdir: porozite ≥12% və k ≥5 mD (RC-1), porozite ≥8% və k ≥0.2 mD (RC-2) şəraitində iqtisadi sərhəd qiymətləndirmələri aparılmışdır.
+
+===== Maykop litofasiyaları və kollektor xüsusiyyətləri Orta Kür, Şamaxı-Qobustan.pdf | Page 18/25 =====
+Gelecek işlər və tədqiqat istiqamətləri
+- Seysmik məlumatların çoxtributlu inteqrasiyası üçün maşın öyrənməsi alqoritmlərinin tətbiqi və fəsilal proqnoz xarakteristikalarının dəqiqləşdirilməsi.
+- Diagenetik modelləşdirmə: illitləşmə kinetikasının paleotermal tarixlə birgə inversiyası və kollektor pəncərələrinin "yaş" xarakteristikalarının qurulması.
+- Mikropaleontologiya ilə karotaj petrofizikasının sintezi: fasiyaların log imzalarının biostratigrafik markerlərlə kalibrlenmesi.
+- Çöl tədqiqatlarının genişləndirilməsi: yeni ekspozisiyaların 3D fotogrametriya ilə rəqəmsal əksizləninin yaradılması və analoji quyu kəsilişlərinə köçürülməsi.
+
+===== Maykop litofasiyaları və kollektor xüsusiyyətləri Orta Kür, Şamaxı-Qobustan.pdf | Page 19/25 =====
+Notice
+1. Azerbaycan iqtisadiyyatında neft-qaz sənayesinin xüsusi rolu fonunda Maykop çöküntülərinin elmi-texniki təhlili yeni yataqların kəşfi üçün əsas platformadır; beynəlxalq bazarlara çıxarılan yüksək keyfiyyətli Azerbaycan nefti bu istiqamətdə investisiya cəlbediciliyini artırır.
+
+2. Orta Kür çökəkliyində Maykop süxurlarının litofasial qeyri-bircinsliyi yüksəkdir; kollektor xüsusiyyətləri əsasən lokal turbidit bədənləri ilə məhdudlaşır və mineralogiya (smektit-illit transformasiyası, karbonat sement) tərəfdən 6 şəkildə nəzəret olunur.
+
+3. Şamaxı–Qobustan çökəkliyində deltatik proqradasiya paketləri və saxlanılmış taxılararası məsaməlilik sayəsində kollektor xüsusiyyətləri daha genişdir; fasiyal şərait burada kollektor keyfiyyətinə müsbət təsir göstərir.
+
+4. Mineralofik tərtib və diagenetik yol kollektorların süzülmə-tutum göstəricilərində həlledici amildir; smektit üstünlüyü və güclü karbonat sementasiya keçiriciliyi məhdudlaşdırır, illitləşmənin optimal pərəcəsi isə kollektor potensialını dəstəkləyir.
+
+5. Tədqiqat nəticələri əsasında hazırlanmış lito-stratigrafik kəsilişlər, fasiyal xəritələr və risk matrisləri axtarış-kəşfiyyat işlərinin düzgün istiqamətləndirilməsi üçün tətbiq edilə bilən praktiki alətlərdır.
+
+6. İŞ SOCAR-in “Neftqazilmətidqiqatlayihə” İnstitutunda həyata keçirilmiş, nəticələr müvafiq elmi platformalarda dərc edilmiş və müzakirədən keçmişdir.
+
+===== Maykop litofasiyaları və kollektor xüsusiyyətləri Orta Kür, Şamaxı-Qobustan.pdf | Page 20/25 =====
+Təvsiyələr
+
+- Orta Kür üzərə: yüksək dəqiqlikli seysmik atribut inteqrasiyası və akustik impedans inversiyası ilə turbidit dilovlarının xarakterizəlenmesi; qazma öncəsi riskin azaldılması üçün əlavə kəsiklərdə pilot mikro-seysmik araşdırmalar.
+
+- Şamaxı-Qobustan üzrə: deltatik kanal-bar sistemlərinin stratiqrafik təfəlləri hədəflənməli, perforasiya dizayni selektiv aparılmalıdırır; erken mərhələdə PLT ilə quyuların davranışı yoxlanılmalıdırır.
+
+- Petrofiziki kəsım meyarları layihələrə standart kimi daxil edilməli, gil işləmə risklərinə qarşı qazma məhlul dizayni regionallaşdırılmalıdırır.
+
+- Litostratiqrafik kəsilişlər və fasial xərritələr GIS əsaslı qərar dəstək sisteminə inteqrasiya olunmalıdırır.
+
+
+Metodoloji əlavələr
+
+- Qamma-karotajın spektral komponentləri fasial diagnostikada etibarlı diferensiasiya verir; K/U və Th/K nisbətləri gil tipologiyası üzrə proksi kimi istifadə yararlıdır.
+
+- XRD analizlərində illit kristallik indeksi ilə keçiricilik arasında müsbət korrelyasiya müşahidə edilmiş, smektit payının artımı ilə porozite azalması arasındaki əlaqə statistik olaraq əhəmiyyətli olmuşdur.
+
+- SEM-EDS xərritələmə karbonat sementin poligenetik olduğunu, bəzen mikrofrakturaları dolduraraq effektiv keçiriciliyi kəskin azaldığını göstərmişdir.
+
+- Kapillyar təzyiq əyrilərinin Leverett J-funksiyasına köçürülməsi kollektor sinifləri arasında müqayisəni asanlaşdırmışdır.
+
+===== Maykop litofasiyaları və kollektor xüsusiyyətləri Orta Kür, Şamaxı-Qobustan.pdf | Page 21/25 =====
+Elmi yenilik elementləri
+- Orta Kürde Maykop ardıcıllığında turbodit bədənlərinin seysmik-atribut imzalarının kalibrlənməsi və litologiya ilə bağlı fərqləndirilməsi üçün regional empirik şkala təklif edilmişdir.
+- Şamaxı-Qobustan deltatik paketlərində fasial proqradasiya mərhələlərinin mikropaleontoloji markerlərlə sinxronlaşdırılması üzrə metodoloji çərçivə işlənmişdir.
+- Mineralofik tərkibin kollektor keyfiyyətinə təsirinin kvantitativ qiymətləndirilməsi üçün inteqrativ indeks hazırlanmışdır; bu indeks risk matrislərinə daxil edilmişdir.
+
+Sahə tətbiqləri
+- İnteqrativ model əsasında iki prioritet strukturda (ŞQ-1, ŞQ-2) axtarış quyularının istiqamətləri müəyyənləşdirilmiş, perforasiya pəncərələri və test proqramı planlaşdırılmışdır.
+- Orta Kürdə seçilmiş mikroyüksəklik əteklerinde "sweet spot" cibləri üçün əlavə seysmik xəttlərin çəkilişi və yenidən emalı təklif edilmişdir.
+
+Təşkilati və institusional kontekst
+Tədqiqat SOCAR-in “Neftqazelmitədqiqatlayihə” İnstitutunda həyata keçirilmiş, geologiya, geofizika, petrofizika və laboratoriya bölmələrinin koordinasiyalı işi ilə icra olunmuşdur. Layihənin idarə edilməsi keyfiyyət təminatı protokollarına uyğun aparılmış, bütün mərhələlərdə məlumatların verifikasiyası və arxivləşdirilməsi təmin edilmişdir.
+
+===== Maykop litofasiyaları və kollektor xüsusiyyətləri Orta Kür, Şamaxı-Qobustan.pdf | Page 22/25 =====
+Nəticələrin doğrulanması
+
+- Çöl tədqiqatlarının müşahidələri ilə quyu və seysmik interpretasiyalar arasında yüksək uyğunluq əldə olunmuşdur.
+- Laboratoriya nəticələri (XRD, SEM, petrofizika) təkrarıygilma testlərində sabitdir; səhv çərçivələri metodologiyada göstərilmişdir.
+- Nəticələr üzrə alternativ ssenarilər nəzərdən keçirilmiş, ən yaxşı uyğunluq meyarları seçilmişdir.
+
+Sosial-iqtisadi əhətə
+
+Neft-qaz axtarışlarının effektivliyi yalniz geoloji riskin azalması ilə deyil, həm də əməliyyat effektivliyi və investisiya cəlbediciliyi ilə ölçülür. Maykop kompleksinin məqsədyönlü öyrənilməsi yeni kəşflərin ehtimalını artıraraq milli enerji təhlükəsizliyinə və ixrac potensialına bilavasitə müsbət təsir göstərir. Yüksək keyfiyyətli neftin dünya bazarlarına çıxışı fonunda resurs bazasının genişlənməsi investisiyaların dayanıqlılığını təmin edir.
+
+Məhdudiyyətlər və risklər
+
+- Orta Kürdə seysmik keyfiyyətin lokal zəifləməsi; struktur-tektonik mürəkkəblik interpretasiyada qeyri-müəyyənlik yaradır.
+- Qazma nüvələrinin məhdudluğu bəzi intervallarda petrofiziki kalibrləməni çətinləşdirir.
+- Mineralogiyanın mikromiqyasda heterogenliyi modelləşdirmədə çoxsaylı ssenarilərin nəzərə alınmasını tələb edir.
+
+===== Maykop litofasiyaları və kollektor xüsusiyyətləri Orta Kür, Şamaxı-Qobustan.pdf | Page 23/25 =====
+Yekun tezialer
+- Maykop çöküntülerinin litofasial qeyri-bircinsliyi Azerbaycan quru sahelerinde "klassik" vahid kollektor modelini qeyri-adekvat edir; hər subhövzə üçün fərdi model zəruridir.
+- Fasial şərait və mineralofik tərkib kollektor keyfiyyətlərinin əsas idarəedicilərdir; bu iki amilin birlikdə qiymətləndirilməsi axtarış-kəşfiyyat uğurunu artırır.
+- Orta Kür və Şamaxı-Qobustan çökəkliklərinin müqayisəsi göstərir ki, strateji yanaşma subhövzə spesifik olmalıdır: biri üçün atribut yönümlü mikrohədəflər, digəri üçün isə stratigrafik tələblər əsas hədəfdir.
+- SOCAR elmi bazasında aparılmış işin nəticələri praktiki tətbiqlərə çevrilməyə hazırdır və yeni yataqların kəşfıne gedən yolun geoloji əsaslandırılmasını gücləndirir.
+
+Təşəkkür
+
+Layihənin həyata keçirilməsində dəstəyə görə SOCAR-in "Neftqazelmitədqiqatlayihə" İnstitutunun rəhbərliyinə və müvafiq laboratoriya, geologiya, geofizika bölmələrinin əməkdaşlarına təşəkkür edilir. Çöl tədqiqatlarında təşkilati dəstəyə görə yerli səhe geologlarına minnətdarlıq bildirilir.
+
+İstifadə olunan mənbələr və dərc platformaları
+- Maykop kompleksinin litologiyası və stratiqrafiyası üzrə yerli elmi jurnallarda dərc edilmiş məqalələr.
+- Seismik atribut analizi və fasial proqnoz üsulları üzrə beynəlxalq konfrans tezisləri.
+- Mikropaleontologiya və biostratigrafiya haqqında regional tədqiqat hesabatları.
+- Petrofiziki test və mineralogiya üzrə laboratoriya protokolları və texniki bülletenlər.
+
+===== Maykop litofasiyaları və kollektor xüsusiyyətləri Orta Kür, Şamaxı-Qobustan.pdf | Page 24/25 =====
+Əlave qeydlər: axtarış-kəşfiyyat işlərın tətbiq olunan praktiki addımlar  
+- GIS layihə faylında fasial zonalar, potensial tədələr, risk layları və seysmik anomaliyalar inteqrasiya olunmuş, hər hədəf üçün qısa texniki pasport hazırlanmışdır.  
+- Qazma öncəsi geomekanik modellər formalaşdırılmış, quyu istiqamətləri və bucaqlandırma sxemləri qazma risklərini minimallaşdıracaq şəkildə optimallaşdırılmışdır.  
+- Pilot quyularda test proqramları üçün təzyiq-həcm-temperatur monitorinqi planı hazırlanmış, erken mərhələdə qat paylarının təyin edilməsi üçün PLT və minidarajlı testlər nəzərdə tutulmuşdur.
+
+Elmi nəticələrin konsolidasiyası  
+Bu tədqiqat göstərir ki, Azərbaycan quru ərazilərində Maykop çöküntülərinin öyrənilməsi təkcə akademik maraq kəsb etmir, həm də axtarış-kəşfiyyatın səmərəliliyini artıran birgə elmi-texniki platformadır. Orta Kür və Şamaxı-Qobustan çökəklikleri üzrə müqayisəli təhlil aparmaqla, fasial və mineralofik faktorların kollektor keyfiyyətlərinə təsiri detallı şəkildə ortaya qoyulmuş, praktiki qərarların qəbuluna bilavasitə xidmət edən xəritələr və kəsilişlər hazırlanmışdır. Bu kompleks yanaşma gələcək qazma kampaniyalarının planlanmasında, kapital qoyuluşlarının prioritetləşdirilməsində və geoloji risklərin idarə olunmasında əsas üsul kimi tövsiyə olunur.
+
+===== Maykop litofasiyaları və kollektor xüsusiyyətləri Orta Kür, Şamaxı-Qobustan.pdf | Page 25/25 =====
+Son söz
+
+Azərbaycanın neft-qaz sənayesinin dayanıqlı inkişafı üçün yeni yataqların kəşfi hədəfi ilə Maykop çöküntülərinin çoxşaxəli, inteqrativ tədqiqi strateji zərurətdir. Yüksək keyfiyyətli Azərbaycan neftinin dünya bazarlarında nüfuzunun möhkəmlənməsi bu istiqamətdə elmi və texnoloji səylərin davamlı olaraq artırılmasını şərtləndirir. Tədqiqatın nəticələri göstərir ki, düzgün lito-stratiqrafik və fasiyal-mekan analiz, mineralogiya və petrofizikanın sintezi əsasında hazırlanmış axtarış-kəşfiyyat konsepsiyaları yeni yataqların aşkar olunması üçün real və etibarlı yolu təqdim edir. Bu yol SOCAR-in elmi-mühəndis potensialı ilə birləşərək milli enerji təhlükəsizliyini və sosial-iqtisadi rifahı üçün möhkəm bünövrə yaradır.

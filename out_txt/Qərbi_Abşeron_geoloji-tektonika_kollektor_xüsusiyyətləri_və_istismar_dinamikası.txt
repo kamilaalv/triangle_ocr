@@ -1,0 +1,167 @@
+===== Qərbi Abşeron geoloji-tektonika kollektor xüsusiyyətləri və istismar dinamikası.pdf | Page 1/17 =====
+Qərbi Abşeron neft yatağının geoloji-tektnik quruluşu, kollektor xüsusiyyətləri və istismar dinamikasının inteqrasiyala təhlili
+
+Xülasə
+
+Qərbi Abşeron neft yatağı Abşeron küpəsindən qərbdə yerləşən, dəniz dərinliyi 2-20 metr arasında dəyişən dayazsulu akvatoriyada formalaşmış mürəkkəb kollektor sistemidir. Yataq 1945-ci ildən aparılan kəşfiyyat işləri nəticəsində aşkar edilmiş, ilk sənaye əhəmiyyətli neft 1985-ci ildə 35 Ne-li axtarış quyusunda 61 ton/gün debitlə alınmış, 1989-cu ildən sənayeyə işlənməyə başlanılmışdır. 1987-1994-cü illərdə 14 axtarış-kəşfiyyat quyusu qazılmış, 1985-1986-cı illərdə 44 və 45 No-li quyular Məhsuldar qatın (MQ) QA lay dəstesini aşkar etmişdir. MQ çöküntüləri dəniz dibində lokal çıxışlara malik olub, qumdaşı-laycıqlı gil ardalanmasından ibarətdir, ümumi qalınlığı 100–300 m intervalında dəyişir. Alt Pliosен, Miosen, Paleogen və Mezozoy çöküntüləri geoloji quruluşda iştirak edir. Yatağın nefti Abşeron küpəsinin neftinə nisbətən yüngül olub, aşağı viskozite və artırılmış həll olmuş qaz tərkibi ilə səciyyələnir. 2023-cü il yanvarın 1-nə 94 quyu qazılmış, onlardan 72-si fəaliyyət göstərir; bu müddət ərzində 1351,5 min ton neft, 41,6 min m<sup>3</sup> su və 41,223 mln. m<sup>3</sup> həll olmuş qaz çıxarılmışdır. Bu məqalədə seysmik, quyu-geofizika, petrofizika, PVT və istismar məlumatlarının inteqrasiyası əsasında layların heterogenliyi, suxur-axın davranışı, material balansı və ehtiyatlarının qiymətləndirilməsi aparılmış, həmçinin potensial artırma strategiyaları (su basqısı sistemi, süni qaldırma, kimyəvi və qaz əsaslı EOR yanaşmaları) üzrə ssenarilər müzakirə edilmişdir.
+
+===== Qərbi Abşeron geoloji-tektonika kollektor xüsusiyyətləri və istismar dinamikası.pdf | Page 2/17 =====
+Açar sözlər: Qərbi Abşeron, Məhsuldar qat, QA lay dəstəsi, Qala lay dəstəsi, dayazsulı self, qumdaşı-gil ardalanması, petrofizika, material tarazlığı, EOR, su basqısı.
+
+Giriş
+
+Xəzərin qərb perikontinental şelfində, Abşeron küpəsinin qərb qanadında yerləşən Qərbi Abşeron neft yatağı geoloji cəhətdən klassik Abşeron arxipelaqının tektono-stratigrafik quŗüvələrinə daxildir. Yatağın dayaz dəniz şəraitı (2-20 m) və sahilə yaxın infrastruktur üstünlüyü ərzində mərhələdən mərhələyə kəşfiyyat və işlənmənin mərhələliyini təmin etmişdir. 1945-ci ildən başlayan kəşfiyyat işləri region səthaltı quruluşu haqqında ilkin təsvvürləri formalaşdırdı. 1985-ci ildə 35 Nə-li axtarış quyusunda 61 t/gün debitlə ilk neftin alınması ilə sənaye perspektivliyi sübut olunmuş, 1989-cu ildən sənayeyə  işlənməsi başlanmışdır. 1987-1994-cü illərdə qazılmış 14 axtarış-kəşfiyyat quyusunun məlumatları, eləcə də 44 və 45 No-li quyuların Məhsuldar qatın QA lay dəstəsini aşkar etməsi  sahədə laylar üzər üzərinə rezervuar ardıcıllığının xəritələşdirilməsində əsas baza rolunu oynamışdır.
+
+===== Qərbi Abşeron geoloji-tektonika kollektor xüsusiyyətləri və istismar dinamikası.pdf | Page 3/17 =====
+Regional geoloji-tektonik şərait
+Abşeron küpəsi şimal-qərb-cənub-şərq uzanımlı antiklinal-lar və aralarındakı sinklinal sistemlərdən təşkil olunub. Qərbi Abşeron sahəsi bu antiklinal sistemin qərb 
+büküşlərində yerləşir və yerli miqyaslı qırılmalarla parçalanmışdır. Tektonik plan daxilində üst blokların nisbi qalxımı ilə müğayisət olunan normal qırılmalar və transform 
+zolaqları MÖ kollektorlarının lateral heterogenliyini gücləndirir. Paleotektonik yüksəliş və çökmə dövrləri alt Pliosenin (MÖ) süretlə yığılması ilə nəticələnmişdir ki, bu 
+da qum gətirən axınların deltatik-prodelta mühitlərində yüksək net-to-gross göstəricilər yaratmasına şərait yaratmışdır.
+
+===== Qərbi Abşeron geoloji-tektonika kollektor xüsusiyyətləri və istismar dinamikası.pdf | Page 4/17 =====
+Stratiqrafiya və litologiya
+
+Yatağın geoloji kəsilişi alt Pliosen, Mio-sen, Paleogen və Mezozoy çöküntülerinin iştirakını göstərir. Məhsuldar qat (MQ) əsasən aşağı Pliosen yaşlı olub, qumdağı-laycıqlı gil ardalı ardalı ardalı ardan təşkil olunub, səthdə 100-300 m qalınlıq diapazonunda dəyişir. MQ-nin tərkibində QA lay dəstəsi xüsusilə kollektor əhəmiyyətinə malikdir; kəşfiyyat zamanı bu pakətdə neftin olması bir sıra quyularda, o cümlədən 44 və 45 No-li quyularda etibarlı şəkildə təsdilənmişdir. Qala lay dəstəsi MQ daxilində daha iri taneli, yaxşı çeşidlənmiş, yerli kanallarla təmsil olunan, lakin 12 və 17 No-li quyularda qeyri-uyğun yərləşmə ilə kəsilir və eroziya səthləri üzərində fasiallı inkişaf edən kompleksdir. Lito-fasial xüsusiyyətlər göstərir ki, QA əsasən aşağı axın kanalları və axın önlüləri, Qala isə kanal doldurulmaları və sahil barları ilə təmsil olunmuşdur. Alt mərtəbələrin (Miosen, Paleogen) killi-karbonatlı paketi həm mühür, həm də hidrodinamik ayrıcı kimi çıxış edir; Mezozoy təməlində isə fərqli olaraq vulkanoklastik və karbonat süxurlar müşahidə olunur.
+
+===== Qərbi Abşeron geoloji-tektonika kollektor xüsusiyyətləri və istismar dinamikası.pdf | Page 5/17 =====
+Seymo-geofiziki tədqiqatlar
+
+Sahədə 1980–1990-cı illərdə bir sıra 2D seysmoprofillər 
+çəkilmiş, sonradan lokal 3D kubla tamamlanmışdır. Struktur 
+xəritələr MQ daxilində 3–5 dərcəyə qədər dalğavari 
+büküşlənmələri, şimal-qərb uzanımlı 8–25 m vertikal atımı 
+olan normal qırılma paketlərini göstərir. Amplitud atributu 
+və koherens analizləri kanal anomaliyalarını səthləşdirir; 
+bu anomaliyalar QA lay dəstəsinin qum bədənləri ilə uyğunluq 
+göstərir. Quyu-karotaj kompleksləri (GR, DT, NPHI, RHOB, 
+ILD/LLD) litoloji differensasiyanı və su-neft 
+kontaktlarının (SNC) izlənməsini mümkün etmişdir. 44 və 45 
+No-li quyuların karotajında aşağı killi, yüksək rezistiv 
+zonalar QA kollektorlarını konturlayır. 12 və 17 No-li 
+quyularda Qala paketinin qeyri-uyğun yerləşməsini GR-də 
+kəskin bazal eroziya səthi, akustik sərdətdə sıçrayış və 
+bəzen qırıq müqavimət imzaları təsdiqləyir.
+
+===== Qərbi Abşeron geoloji-tektonika kollektor xüsusiyyətləri və istismar dinamikası.pdf | Page 6/17 =====
+Petrofizik və kollektor göstəriciləri
+Laborator nümunələrdə porozluq 15-27% (orta 20-22%), keçiricilik 30-450 mD (median 120-180 mD) diapazonunda qiymətləndirilmişdir. Net-to-gross QA üçün 0,45-0,65, Qala üçün 0,55-0,75 aralığındadır. Kapilyar təzyiq əyriləri QA üçün nisbi aşağı giriş təzyiqini (Pc50 ≈ 0,35 MPa) göstərir, bu da erkən dövrdəən häll olmuş qaz sürücüsü ilә yüksәk 
+başlanğıc debiti izah edir. Qranulometriya orta-yaxşı çeşidlənmiş, orta-iri dənəli kvarts plüstürlülüyünü göstərir; gil fazası əsasən illit-smektit qarışığından ibarət olub, məsamə geometrisində ikinci dərəcəli rol oynayır. MQ killı interlayları geomеxanik cəhətdən dayanıqlıdır; statik E modul 3,5-8,0 GPa, Poisson əmsalı 0,22-0,29 intervalındadır. Neft doyması ilkin olaraq 0,65-0,85 arasında modellənmiş, su doyması dalğalanmaları Qala paketində daha aşağı başlanğıc su kәsri ilә səciyyələnmişdir.
+
+===== Qərbi Abşeron geoloji-tektonika kollektor xüsusiyyətləri və istismar dinamikası.pdf | Page 7/17 =====
+PVT və neftin kimyəvi-fiziki xassiyyətləri
+
+Yataq nefti Abşeron küpəsinin neftinə nisbətən yüngüldür. Laboratoriya şərtlərində nisbi sıxlıq 0,810-0,835 q/sm³ (API 38–44°), viskozite 1,6–3,2 mPa∙s (rezervuar temperaturunda), həll olmuş qaz faktoru 80–140 m³/t diapazonunda qiymətləndirilmişdir. Kükürd tərkibi aşağı-orta (0,25–0,7%), SARA fraksiyalaşması asfalten 1–3%, qatran 7–11%, aromatiklər 25–33%, saturatlar 53–65%. Duzluluq 35–65 g/l, su tipləri xlorid-natrium üstünlüklü, Ca/Mg nisbəti 2,1–3,8. Pour point –9…–3°C, balmumumu 2–6% olub, boru daxili parafin çökmesi aşağı-orta riskli zona kimi qiymətləndirilir. Həll olmuş qazın metan üstünlüyü tərkibi (C1 78–86%, C2–C5 12–18%, CO2 0,5–1,4%, H2S izi) kompressor sistemlərinin korroziya riskini aşağı səviyyədə saxlayır.
+
+Hidrodinamika və lay enerjisi
+
+İlkin lay təzyiqi QA üçün 10,5–12,3 MPa, Qala üçün 9,2–10,8 MPa qiymətləndirilmişdir; lay temperaturu 38–47°C intervalında dəyişir. Enerji sistemi qarışıq tipli olub, erkən mərhələdə həll olmuş qaz sürtücüsü üstünlük təşkil etmiş, işlənmənin orta mərhələsində kenar-akvifer təsiri güclənmişdir. Hidrodinamik testlər (DST, PTA) transmissivliyi 0,15–0,35 D∙m, dəhliz faktoru 2,1–8,4 göstərit; bəzi quyular ətrafında qırılma keçiricilik komponentləri müşahidə olunur. SNC QA paketində 812–846 m TVDSS, Qala paketində 785–803 m TVDSS üzrə izlənmişdir; lokal qırılma zonalarında SNC konturu 3–7 m dərəcəsində dalğalanır ki, bu da su kəsri heterogenliyini izah edir.
+
+===== Qərbi Abşeron geoloji-tektonika kollektor xüsusiyyətləri və istismar dinamikası.pdf | Page 8/17 =====
+Kəşfiyyat və quyuların tikinti xüsusiyyətləri
+
+Yataqda kəşfiyyat 1945-ci ildən sistemli aparılmış, 1985-ci ildə 35 Ne-li axtarış quyusunda ilk neftin 61 t/gün debitlə alınması strukturun neftlilik potensialını təsdiqləmişdir. 1985-1986-cı illərdə qazılmış 44 və 45 No-li quyular MQ-nin QA lay dəstesini aşkar etməklə kollektorun arealını və qalınlıq konturlarını aydınlaşdırmışdır. 1987-1994-cü illərdə 14 axtarış-kəşfiyyat quyusunun nəticələri ilə strukturun qərb və cənub-qərb qanadları təssəlanmişdir. 
+1989-cu ildən səmaya işlənməsinə başlanılmış, iri diametrli dalğa-sönümlü özüllərdən istifadə olunmuşdur. 2023-cü il yanvarın 1-nə qazılmış 94 quyudan 72-si fəaliyyətddədir; aktiv fondun 68%-i hasilat, 24%-i su basqısı, 8%-i müşahidə quyularıdır. Tipik quyu tikintisi 20” dırek borusu (dəniz dibindən 50–70 m ), 13 3/8” texniki kəmər (300-400 m), 9 5/8” ekspluatasiya kəməri (900-1100 m) və 7” lay daxilində lay seçici paketlƏ aparılmışdır. Tamamlama sistemi qumbarma-layiçi filtrli, bəzi horizontlarda ekran-kompletasiya ilə təchiz olunmuşdur. Süni qaldırmada ESP və qazlift kombinasiyaları istifadə edilir.
+
+===== Qərbi Abşeron geoloji-tektonika kollektor xüsusiyyətləri və istismar dinamikası.pdf | Page 9/17 =====
+Hasilat tarixi və istehsar göstəriciləri
+
+1989-1995-ci illərdə orta günlük hasilat 350-520 t/gün diapazonunda dəyişmiş, 1996-2005-ci illərdə həll olmuş qaz sürücüsünün tükənməsi və suyun irəliləməsi ilə 210-340 t/gün səviyyəsinə düşmüşdür. Son onillikdə (2013-2022) hasilat 150-230 t/gün arası stabilləşmişdir. Ümumi toplanmış hasilat 1351,5 min ton neft, 41,6 min m³ su və 41,223 mln. m³ həll olmuş qaz təşkil edir. Su kəsri erkən mərhələdə 2-6%, orta mərhələdə 18-34%, hazırda aktiv fond üzrə orta 41-48% arasındadır; lakin Qala paketində uzunmüddətli aşağı su kəsri profilinə malik bloklar qalmagdadir. QOR 50-120 m³/t intervalında dəyişir və lay təzyiqi ilə korrelyasiya olunur. Ən yüksək debiti göstərən 35 № quyusu işləmənin ilk illərində 61 t/gün olmuş, sonradan 17-23 t/gün intervalına enmiş, perforasiya genişləndirilməsi və asidizasiya ilə qısa müddətli bərpalar əldə olunmuşdur. Qazma-işləmə problemləri sırasinda quyu dibi gökmələri, parafin çökməsi və korroziya hadisələri qeyd edilir; inhibitor proqramları və periodik hot-oil əməliyyatları ilə idarə olunur.
+
+===== Qərbi Abşeron geoloji-tektonika kollektor xüsusiyyətləri və istismar dinamikası.pdf | Page 10/17 =====
+Lay destelerinin paylanması ve heterogenlik
+
+QA lay destesi lateral davamlılıq baxımından orta yaxğadır; lakin yerli qırılmalar və kanal-fasial keçidlər net qalınlığın 4–17 m deyişkenliyine sebeb olur. Qala lay destesi 12 ve 17 No-li quyularda qeyri-uyğun yerlegir: bazal eroziya sethleri MQ daxilinde evvelki çöküntülerín tüstünü yuyub, yerli paleorelyefi formalaşdırmışdır. Bu qeyri-uyğunluq neticesinde Qala daxilinde terkib cehetden iri deneli bar-qum gövdeləri ile ara gil paketleri arasında keskin keçidlar yeramamışdır. Keşfiyyat işləri zamanı QA lay destesininin çöküntülerinde neftin aşkar edilmesi, xüsusen 44 ve 45 No-li quyularda, bu subhorizontun esas hasilat obyekti kimi seçilmesine imkan vermişdir. Qala üzre lay seçicilik seviyyesi perforasiya intervalının diqqetle təyini ilə optimallaşdırılır; layları birleşdiren tamamlamalarda su barmaqlarının erken gelmesi müşahide olunduqda selektiv tamponaj tətbiq edilir.
+
+===== Qərbi Abşeron geoloji-tektonika kollektor xüsusiyyətləri və istismar dinamikası.pdf | Page 11/17 =====
+Ehtiyatların qiymətləndirilməsi və material tarazlığı
+Volumetrik qiymətləndirmə QA və Qala üzrə ayrı-ayrılıqda aparılmışdır. Tipik parametrlar: areal SQA ≈ 9,8 km², net qalınlıq hQA ≈ 9,6 m, porozluq φ ≈ 0,21, su doyma Swi ≈ 0,28, neft hacmi əmsalı Bo ≈ 1,18 rm³/sm³; hesablamaya görə QA üzrə OOIP ≈ 9,1 mln t qiymətinə uyğun gəlir. Qala üçün SQala ≈ 6,3 km², h ≈ 7,8 m, φ ≈ 0,22, Swi ≈ 0,25, Bo ≈ 1,16 ilə OOIP ≈ 5,2 mln t alınmışdır. Cəmi OOIP ≈ 14,3 mln t səviyyəsində qiymətləndirilir. Material tarazlığı modelləri (Havlena-Odeh qrafiklari) qarışıq sürücü mexanizmini təsdiqleyir; su payı 0,35–0,48, həll olmuş qaz payı 0,52–0,65. Cəmi çıxarılmış 1,3515 mln t neft üzrə bərpa əmsalı hazırda 9-11% aralığında olub, su basqısı sxemlərinin gücləndirilməsi ilə 18-24% səviyyəsinə qaldırılma potensialı qiymətləndirilir. Bloklar üzrə fərqli bərpa trayektoriyaları heterogenlik səbəbindən kəskin fərqlənir: kanal dominantlı zonalarda frontal su irəliləyişi, bar-dominantlı zonalarda isə barmaqvari irəliləyiş müşahidə olunur.
+
+===== Qərbi Abşeron geoloji-tektonika kollektor xüsusiyyətləri və istismar dinamikası.pdf | Page 12/17 =====
+Modelleşdirme və ssenari analizi
+
+Statik model 10x10 m şəbəkə ölçülü, 35 təbəqəli geostatistik realizasiyalarla yaradılmış, variogram parametrləri GR və nüvə analizləri əsasında kalibrasiya edilmişdir. Dinamik model PVT və rel.perm (Corey) əyriləri ilə tamamlanmış, quyu tarixçəsi üzrə tarixi uyğunlaşdırma aparılmışdır. Ən yaxşı uyğunlaşma ssenarisində ortalama absolut fərq 6,8%, su kəsri üçün 5,2% olmuşdur. Ssenari təhlilləri:
+- Su basqısı optimizasiyası: 5-nöqtəli naxışdan 9-nöqtəli kombine naxışa keçid, inyeksiya təzyiqinin 11,5 MPa limitinə qədər artırılması, kontur su baryerinin bağlanması. Gözlənilən əlavə hasilat 0,62–0,88 mln t.
+- Polimer inyeksiyası: orta-viskoziteli anionik polimer (HPAM) ilə hərəkətlənmə əmsalının yaxşılaşdırılması (M<1 hədəfi). Seçilmiş pilot blokda su kəsrində 12-18% azalma və əlavə 0,11 mln t.
+- Qaz resirkulyasiyası: yüngül neft və yüksək çöünən qaz faktoru fonunda inert qaz-təbii qaz qarışığının inyeksiyası ilə təzyiqin dəstəklənməsi. Gözlənilən əlavə 0,09–0,14 mln t.
+- ESP proqramının yenilənməsi: aşağı giriş təzyiqi olan quyularda mərhələli nasos seçimi və VSD optimizasiyası ilə 8–12% debit artımı.
+- Selektiv geoloji-stimulyasiya: turşulama (HCl 15%) və mikrohidravlik çatlatma ilə aşkarlaşdırılmış qum (100-200 mesh) istifadə etməklə kanal kənarı zonalarda əlaqəlilik yaxşılaşdırılması; orta debit artımı 6–18 t/gün.
+
+===== Qərbi Abşeron geoloji-tektonika kollektor xüsusiyyətləri və istismar dinamikası.pdf | Page 13/17 =====
+İstismar strategiyası və əməliyyat alqoritmi
+Qısa müddət: su basqısı quyu sxemlərinin simmetriyaya 
+gətirilməsi, yüksək su kəsirli quyularda su dayandırıcı 
+paketlər, perforasiya pəncərələrinin daraldılması və lay-
+selektiv tamponaj. Orta müddət: Qala paketində monoblok 
+perforasiya əvəzinə çoxinterval selektiv perforasiya, ESP 
+parkının modernizasiyası, kapilyar inhibitor proqramlarının 
+gücləndirilməsi. Uzun müddət: polimer-surfaktant hibrid EOR 
+pilotu, qaz resirkulyasiyası üçün kompressor 
+infrastrukturunun inteqrasiyası, laydan laylara transfer 
+risklərinin idarəsi üçün triserVayans (PLT, RST) proqramı.
+
+Ətraf mühit və HSE aspektləri
+Dayaz dəniz şəraitində (2-20 m) MO çöküntülərinin dəniz 
+dibinə lokal çıxışları mövcuddur; bu zonalarda dib sularında 
+asılı halda bərk hissəciklərin artması və dib fauna 
+fluktuasiyaları müşahidə olunmuşdur. Sızmaların qarşısı üçün 
+ikili baryer prinsipi, real vaxtda sızma aşkarlama 
+sistemləri və torpaq-körfəz qaytarma planları tətbiq edilir. 
+Parafin və duz çöküntülərinin kimyəvi idarəsi ilə birlikdə 
+korroziya inhibitorlarının seçimi CO2 tərkibli qazın 
+təsirini neytrallaşdırır. Səth qurğularında səs-küy və 
+vibrasiya üçün amortizasiya, dəniz florası/faunası üçün 
+bioloji monitoring proqramları icra olunur.
+
+===== Qərbi Abşeron geoloji-tektonika kollektor xüsusiyyətləri və istismar dinamikası.pdf | Page 14/17 =====
+Müzakirə
+
+Qərbi Abşeron yatagında məhsuldarlıqların 100–300 m diapazonunda dəyişməsi və MQ-nin qumdası-qum ardalanmasının spektr heterogenlik dərəcesini yüksək edir. QA lay dəstəsininin geniş areal yayılması və nisbi yaxşı kollektor parametrleri erken mərhələdə yüksək debitli çıxışları mümkün etmişdir. Qala lay dəstəsininin 12 və 17 Nо-li quyularда qeyri-uyğun yerləşəsi, lokallaşmış eroziya səthləri və kanal dolğuları kontur su ilə mürekkəb qarşılıqlı fəaliyyətdə girərək su barmaqlаrının təzəgmesine və selektiv su çıxızlarına səbəb olur. Bu səbəbdən su basqısı konturları mümkün qədər izotrop paylanmalı, inyeksiya-hasilat nisbəti dinamik olaraq 0,9–1,1 intervalında saxlanılmalıdır. Həll olmuş qaz sürtücüsünün rolunu nəzərə alaraq qaz resirkulyasiyasi təzyiq dəstəyinin iqtisadi alternativ kimi baxıla bilər. Yatağın neftinin yüngül olması bura qəməri əməliyyatlarında enerji sərfini azaldır, lakin parafin riski müntəzəm profilaktikanı tələb edir. Ümumi nəticələr göstərir ki, səmərəli quyu–lay şəraiciliyi, model əsаsı su bаsqısı və cibləmiş EOR tədbirlərilə yataqda 18–24% bərpa əmsalına çatmaq realdır.
+
+===== Qərbi Abşeron geoloji-tektonika kollektor xüsusiyyətləri və istismar dinamikası.pdf | Page 15/17 =====
+**Noticeler**
+
+1) Qerbi Abşeron yatağı Abşeron küpesinin qerbinde, 2-20 m dəniz derinliyində yerləşən dayazsulu, yüksək heterogenliyə malik MQ kollektorları ilə xarakterizə olunur.
+
+2) Kəşfiyyat 1945-dən iildən aparılmış, ilk sənaye nefti 1985-ci ildə 35 Ne quyusunda 61 t/gün debitlə əldə edilmiş, 1989-cu ildən sənayeyə işlənməsi başlanılmışdır.
+
+3) 1987-1994-cü illərdə qazılmış 14 axtarış-kəşfiyyat quyusu və 44-45 No-li quyularda QA lay dəstesinin aşkarı rezervuarın əsas konturlarını müəyyənləşdirmişdir.
+
+4) MQ çöküntüləri 100-300 m qalınlıqda qumdaşı-laylıqlı gil ardalanmasından ibarətdir; dəniz dibinə lokal çıxışlar müşahidə olunur.
+
+5) Stratiqrafiyadə alt Pliosən (MQ), Mio-sen, Paleogen və Mezozoy kompleksləri iştirak edir. Qala lay dəstəsi 12 və 17 No-li quyularda qeyri-üzviən yərləşmə göstərir.
+
+6) Yatağın nefti Abşeron küpesinin neftinə nisbətən yüngüldür (API 38-44°), viskozite aşağı, həll olmuş qaz faktoru yüksəkdir.
+
+7) 2023-cü il 1 yanvara 94 quyu qazılmış, 72-si fəaliyyət göstərmiş; cəmi 1351,5 min t neft, 41,6 min m³ su və 41,223 mln. m³ həll olmuş qaz hasil olunmuşdur.
+
+8) Volumetrik və material tarazlığı qiymətləndirmələri OOIP-in təqribən 14,3 mln t olduğunu göstərir; mövcud bərpa ~9-11% olub, optimizasiya və EOR ilə 18-24%-ə yüksəlmə potensiali vardır.
+
+9) Su basqısı optimizasiyası, ESP/gazlift hibridləri və seçmə stimulyasiyası tədbirləri yatağın qalıq potensialının səfərbər olunmasında əsas vasitələrdir.
+
+===== Qərbi Abşeron geoloji-tektonika kollektor xüsusiyyətləri və istismar dinamikası.pdf | Page 16/17 =====
+Tövaiyələr
+- Qala paketində selektiv perforasiya və su dayandırıcı texnologiyaların genişləndirilməsi.
+- QA paketində 9-nöqtəli naxışla su basqısının simmetrikləşdirilməsi və inyeksiya təzyiqinin mərhələli artırılması.
+- Yüngül polimer pilotu ilə hərəkətlənmə əmsalının yaxşılaşdırılması və nəticələrin bloklar üzrə yayılması.
+- GOR artan quyularda qazliftə keçid və qaz resirkulyasiyası üçün infrastrukturun mərhələndirilməsi.
+- Real vaxtlı axın profili monitorinqi (PLT, RST) və model yenilənməsi üçün dövri tarixçə uyğunlaşdırılması.
+
+Metodologiya qeydləri
+Bu tədqiqatda seysmik atribut analizi, quyu-karotaj interpretasiyası, nüvə analitikası, PVT qrafikləşdirilməsi, istismar tarixçəsi üzrə qeyri-xətti optimizasiya və qismən differensial tənliklər əsasında axın simulyasiyası yanaşmaları inteqrasiya olunmuşdur. Psevdo-təhlükəsizlik testləri ilə su-neft kontakt konturları stabilləşdirilmiş, geostatistik reallaşdırmalarla heterogenlik təsiri həssaslıq analizlərinə salınmışdır.
+
+Məhdudiyyətlər
+Məlumatların zamansal heterogenliyi, erkən dövrlər üçün karotajların kalibrlənmə sapmaları və seysmik mexanizmlərin ayrılması məhdudluğu bəzi parametrlər üzrə qeyri-müəyyənliyi artırır. Gələcəkdə 3D seysmik məlumatlarının yenilənməsi və əlavə nüvə götürmələri ilə modelin deterministik komponentləri gücləndirilə bilər.
+
+===== Qərbi Abşeron geoloji-tektonika kollektor xüsusiyyətləri və istismar dinamikası.pdf | Page 17/17 =====
+Perspektivlər
+
+Dəniz dibində MÖ çıxışları boyunca mikro-seysmik və elektromaqnit keşfiyyat metodlarının tətbiqi ilə su-neft ayrım səthlərinin yüksək dəqiqliklə xarakterizəlenməsi, eləcə də aşağı karbon həlləri gerçevəsində qaz resirkulyasiyasının CCUS elementləri ilə birləşdirilməsi yatağın uzunmüddətli dayanıqlı işlənməsinə xidmət edəcəkdir.
+
+İstinadlar
+
+[1] Regional Abşeron Tektonikası və Məhsuldar Qatın Fasial Modeli, Xəzər Geologiyası Jurnalı, 2018.
+
+[2] Dayazsulu Şelf Yataqlarında Su Basqısının Optimallaşdırılması, Dəniz Neft-Qaz Mühəndisliyi, 2020.
+
+[3] PVT və Petroﬁzik Parametrlərin İntegrasiyası ilə Lay Modeli Kalibr­lənməsi, Rezervuarlar və Enerji, 2021.

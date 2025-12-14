@@ -1,0 +1,162 @@
+===== Saatlı–Göyçay–Muğan Mezozoy sonu geodinamikləri və neft-qaz sistemi.pdf | Page 1/11 =====
+Saatlı-Göyçay-Muğan zonasında Mezozoy sonu geodinamiklərinin neft-qaz sisteminə təsiri
+gənəmləş gəluxumların palçıq vulkanizminin və seysmikliyin inteqrativ təhlili
+
+Xülasə
+Saatlı-Göyçay-Muğan gömülmüş gəluxmlar zonası Alp-Himalay mütəhərrik zonasının Qafqaz seqmentində yerləşən və regional mənada kəşf edən perspektivli neft-qaz arealidir.
+Tədqiqatımız, Mezozoy dönəmin sonu Ərəbistan və Avrasiya plitələrinin kolliziyası ilə
+tetiklenen geodinamik proseslərin, sözügedən zonada həm struktur-tektonik kəsilişlərin
+formalaşmasına, həm də karbohidrogen sistemlərinin yığılma migrasiya şərtlərinə başlıca
+təsir göstərdiyini göstərir. 1980-ci illərdə aparılmış seysmik kəşfiyyat işləri Qarasu,
+Qarabucaq və digər gənmələşən əlavə galxumların mövcudluğunu üzə çıxarmış,
+Qaracala-Saatlı-simal və Varvara-Mil-cənub qurşaqlarında bir sıra neft-qazlı galxumlar
+gəyd olunmuşdur. Qazma məlumatlarına əsasən Muradkənlə yatağında neft-qazlıliq təsdıq
+edilmiş, 1981-ci ildə Zərdab yatağında sənayeyə şami nəft aşkar edilmişdir. Bununla
+belə, Mezozoy çökəkliklərinin yaranma ekstensiyalar indekslərlə əlaqədar məsələlərin həllə
+bu da antiklinalların qurşaqlarında çoxantılıların toplanmasında fasiələrin (diskordans,
+sedimentogen boşluqlar) mövcudluğu, kollizional tektonika fonunda komplek struktur-trap
+sərtləri və qeyri-kafi seysmik əyanəluqla əlaqələndirilir. Zonada aktiv palçıq
+vulkanizmi geniş yayılıb, 6.0, 6.2 və 6.6 m maqnitudalı üç dəfə güclü zəlzələ qeydə
+alınmışdır ki, bu da dərinlikdəki flüidozorluq, həddən artıq gənmələşmə və gərilmə
+rejimlərinin dinamik balansını əks etdirir. Azərbaycanın quru ərazisinin neft-qaz
+rayonlaşdırma xəritəsi əsasında 1131 neftli-qazlı rayon aqro-geoloji-tektonik elementlərin
+aydınlaşdırılması bu zonanın oyun (play) modellərinin yenidən tərtib edilmiş dayaq rolunu
+oynayır. Məlumdur ki, gömülmüş galxumların genetik tipləri, məkan-zaman inkişafı potensial
+kollektor-mənbə-örtük əlaqələri, seysmik atributlar və risklərin sayısal
+qiymətləndirilməsi üçün metodoloji çərçivə irəli sürülür, regionda genişləndirilmiş
+seysmik kəşfiyyat proqramının parametrik dizayni təklif olunur.
+
+===== Saatlı–Göyçay–Muğan Mezozoy sonu geodinamikləri və neft-qaz sistemi.pdf | Page 2/11 =====
+Giriş
+Saatlı-Göyçay-Muğan zonası, Kür-Araz çökəkliyinin mərkəzi hissəsinin perigklinal sahəsində, üst Paleozoy-Mezozoy fundamental yaşlı Mezozoy-Kaynazoy sedimentogen ardıcıllığın yerləşdiyi, struktur bloklanma və yerdayışmalar baxımından heterogen olan sahədir. 
+Literatür və arxiv materialları göstərir ki, burada neft qaz kəşfiyyatı mərhələli şəkildə aparılmış, xüsusən 1980-ci illərdə yüksək həcmli 2D seysmik şəbəkə və bir sıra dərin parametrik quyular sayəsində qazılmış antiklinal elementlər xarakterizə edilmişdir. Bununla belə, Mezozoy komplekslərinə hədəflənmiş struktur-stratigrafik tutarlılıq hələ də tam təmin olunmamışdır. Bu araşdırmının məqsədi, zonanın geodinamik təkamülünü karbohidrogen sisteminə bağlayan yığım, miqrasiya, toplanma və saxlanma mexanizmlərini inteqrativ şəkildə qiymətləndirmək və gələcək kəşfiyyat üçün prioritet istiqamətlər təklif etməkdir.
+
+Regional geodinamik şərait
+Zonanıın geodinamik təkamülü Ərəbistan lövhəsinin şimala doğru hərəkəti və Mezozoyun sonunda Avrasiya ilə kolliziyası kontekstində formalaşmışdır. Kollizional kompressiya, çənub istiqamətli itələnmə və şimal-qərb-cənub-şərq uzanımlı qurulma sistemlərinin aktivləşməsi ilə nəticələnmiş, bunun ardınca Neogen dövründə differensial qövmə və yığılma translasiyaları müşayiə olunmuşdur. Alp-Himalay qırışıqlıq zonasının Qafqaz seqmentinə aid bu sahədə tektonik qövslər, ciyən zonalar və transform qırılmalarla subparallel kənarlar da kompleks bir mozaika yaranmışdır. Sevronvari sıxılma strukturları, çiçəklənmə (flower) quruluşları və asimmetrik antiklinal-rulon tipli (rollover) təbəqələr regional struktur spektrini formalaşdırır.
+
+===== Saatlı–Göyçay–Muğan Mezozoy sonu geodinamikləri və neft-qaz sistemi.pdf | Page 3/11 =====
+Stratigrafiya və neft sistemli elementləri
+
+Stratigrafik kəsiliş, aşağıdan yuxarı: alt-orta Yura şistə-siltli mənbə potensiallı paketlər, üst Yura–Alt Tabaşir karbonat-silisiklast komplek­siyası, Üst Tabaşir qalxmış, bəzi bioturbasiyali qumlar. Paleogen gömülən gillər və məmlər Neogen-Pliosen çay-delt və dəniz sahili fasiyalarında yaxşı permeabil kollektorlar, Kvartar örtükləri. Orta Yura-Alt Tabaşirdə orqanik zəngin (TOC 15-30% ehtimallı aralığında) şistler potensial mənbə qaya­ları kimi təyin edilir, kerogen tipləri II–III qər­bi­şə­di ola bilər.
+
+Paleogen-Neogen gil və məmlər regional örtük sistemini təmin edir. Kollektor kimi Üst Tabaşir karbonatlarının səkkiz səthlərinə yaxın inkişaf etmiş poroz zonaları və Miosen-Pliosen delt gulları ön plana çıxır. Qazma və paleotermal model­ləmə gös­tərir ki, zonada ilkin orta geotermal qradi­yent 28–32°C/km diapazonun­dadır, Mezo­zoy mənbə kompleksləri Neogenin ortalarına qədər pən­cərə­sine, sonlarına doğru isə qaz pən­cərə­sine keçmiş ola bilər.
+
+Struktur geologiyası və gömülmə qavramları
+
+1980-ci illərdə aparılmış seysmik-kəşfiyyat kampaniyaları Qarasu, Qarabucaq və digər olavə gö­mül­müş qal­xımların aşkarlanmasına, Qaracala-Saatlı-simal və Varvara-Mülk-conub antiklinal qur­şa­q­larında çoxsaylı qalxımlar qeyd edilmişdir. Bu qalxımların morfologiyası, tektonik inversiya nəticəli qaldırılma, lokal diapin­izm və diferensial yığılma effektlərinin kombinasiyalarını əks etdirir. Qazma nəticələri və litoloji kəsilişlər göstərir ki, bəzi antiklinal ox istiqamətlərində sedimento­gen fasi­yalar (diskordan­slar, lokal eroziya səthləri) inkişaf etmişdir. Bu fasiyal­lar tə­bə­qə­l­ərin yan səthlə­rini sərt­ləş­di­rərək lateral sızmanı azaldır, eyni zamanda, bəzi hal­lar­da tə­bə­qə­lərin üstü­nə zog­lü­dərək yuxarı ortam batır­layı­na görə, bu ambivalentlik kəşfiyyat riskini artırır.
+
+===== Saatlı–Göyçay–Muğan Mezozoy sonu geodinamikləri və neft-qaz sistemi.pdf | Page 4/11 =====
+Seysmik-kəşfiyyatın təkrarlı konteksti
+
+1980-ci illər regional geoloji karto tərtib etmə məqsədi ilə aparılmış dəniz nöqtəsi obyektidir. Yüksək sıxlıqlı 2D profillər sayəsində əxz etdiyimiz 1.5-2.0 km, gömülmüş qabə qırıntılarının konturları, əsas qırılma səthləri və reflektor anomaliyaları ayrılmışdır. Lakin seysmik ayırıcıllq (təkarlanma 25-35 Hz) Mezoyoz bazasında zəifdir, bu isə signal-səs-küy nisbəti və yüksək sürət kontrastları ilə bağlıdır. Seçmə AVO (amplitude-offset) təhlilləri bəzi profillərdə qaz ehtimalına uyğun anomaliyalar göstərsə də, kalibrasiya üçün kifayət qədər də tədqiq olunmamışdır. Regionda genişlənmiş seysmik-kəşfiyyat işlərinin aşağı edilənəsi tələb olunur, yeni nəsil 3D, yüksək dəqiqlikli mədənlər və OBN (ocean bottom node analoqu kimi quru üçün analoqu) tipli qazib sistemləri də kəşfiyyatın dolğunluğunu artırmaq vacibdir.
+
+Qazma nəticələri və lokal kollektor
+
+Muradkəntli yatağında neft-qazlı qazma məlumatlarına əsasən müəyən edilmişdir. Kollektor kimi Pliosen qumlarında 18-22% porozluq, 80-250 mD permeabilik göstəriciləri qeydə alınmış, DST testlərində 12-35 m3/gün neft ekvivalent debəti müşahidə edilmişdir. Muradkəntlinin geofiziki araşdırmaları (qazkarotaj, SP, sonic, nüvə-məgnit) müsbət nəticələr göstərmiş, quyuların qam-gil münasibəti də uyğunluğu təsdiqlənmişdir. 1981-ci ildə Zərdab yatağında sənaye şəhəriyyətlə neft aşkar edilmiş, əsasən həm də Pliosen-Aşağı Pleystosen kollektorlarında məhsuldar qatlər kəşf olunmuşdur. Qarasu və Qarabucaq struktur bloklarında aparılan kəşfiyyat quyularının bir qismi sərvən və ya marjinal neftli olmuş, bu da təbəqələrin struktur çərçivəsinin məhdudluğu və ortaq dilsəklərinin də əlaqələndirilmişdir.
+
+===== Saatlı–Göyçay–Muğan Mezozoy sonu geodinamikləri və neft-qaz sistemi.pdf | Page 5/11 =====
+There is a picture
+
+Palçıq vulkanizmi, seysmiklik və fluidozorluq
+
+Saatlı-Göyçay qazkənlərinin şimalasında aktiv palçıq vulkanizmi geniş yayılıb. Vulkanik brekçiyələr, diapirik qalxma sütunları və sızma kanalları dərinlikdəki fluido təzyiqarinin yuxarıya yönəldilməsi üçün təbii “borulama” rolunu oynayır. Palçıq vulkanizminin mərkəzləri çox zaman əsas qırılma zonaları ilə kəsişmələrdə cəmlənir, bu da potensial təhlələr açan həm high risk (yüksək risk) həm də indikator rolu oynayır. Son onilliklərdə 6.0, 6.2 və 6.6 maqnitudalı üç dağıdıcı zəlzələ qeydə alınmışdır. Bu hadisələr epiplatform çökmələrinin yenidən paylanmasını, compress və strike-slip komponentlərin növbələşməsini və az dərinlikli overpressured qatlarn davranışını əks etdirir. Seysmik hadisələrdən sonra bəzi vulkan konuslarında epizodik püskürmələr müşahidə edilmiş, bu korelasiya dərin fluido sistemlərinin tektonik aktivliyə həssas olduğunu göstərmişdir.
+
+Antiklinal qurşaglarda sedimentogen fasilələr və tektonik dinamikası
+
+Qazma nəticəsində bəzi antiklinal qurşaglarda çöküntülərin toplanması prosesində fasilə yaranmışdır. Bu fasilələr stratiqrafik sərhədlərin inkişafını şərhlandirən səthlərdə eroziya və yenidən yuyulma ardıcıllığını yaratmış, yerli daraq kollektorların yaxşılaşmasına (yüksək dərəcədə çimentlənmə) və yaxud piezomasinə (simentasiya və diagenetik sıxılma) səbəb olmuşdur. Diskordan səthləri boyunca yuxarı keçmə (onlap, downlap) əlamətləri təhlilərin bağlanma səviyyələrini müəyyən edir və struktur xəritələrdə yalançı qaldırma effektləri yaradır. Bu səbəbdən, struktur-stratiqrafik inteqrasiya vacibdir.
+
+===== Saatlı–Göyçay–Muğan Mezozoy sonu geodinamikləri və neft-qaz sistemi.pdf | Page 6/11 =====
+Mezozoy potensialı niye indiyədək "sakit"?
+
+Mezozoy çöküntülərinə görə zəngin karbohidrogen ehtiyatının olması ehtimal edilir, lakin indiyədək  axtarışlar müvəffəqiyyətsiz  verməyib. Bunun bir neçə səbəbi ola bilər.
+- Hədəf dərinliklərində seysmik anomaliyanın zəifliyi və sərt məhdudlayıcı qeyri-müəyyənliyi  ilə əlaqədar olaraq dərinliyə çevrilmədə xətalar təbəqələrin struktur  hündürlüyünə sıxırdır.
+- Kollizional inversiya nəticəsində Mezozoy təbəqələrinin bir qisminin soyundurulması və ya dekompressiya nəticəli çatlaqların da  suzdurulması
+- Palçıq diapirizmi və gil mobilizasiyasının  yerli ortak bütövlüyünü pozması
+- Mono-kollektor lateral qeyr-bircinsliliyinin yüksək olması, yəni generasiya ocagları ilə effektiv təbəqələr arasında migirasiya yollarının kəsilməsi
+- Qazma hədəflərinin əsasən Kaynozoya yönəlməsi və Mezozoya suxurların məhdud olması
+
+Bununla belə, termal tarix və  geoloji-tektonik  inkişafın analizi Mezozoy məbələrininin neft- qaz  potensialını  və  həmçinin  mövcud  təbəqələrə  qazalanma  potensialının  qaldığını  göstərir.  Bu,  yeni  karbohidrogen  fərzələrində  prioritetin  bir  hissəsinin  Mezozoya  yönəldilməsini  əsaslandırır.
+
+Rəyalapdırma xəritəsi və regional çərçivə
+
+Azərbaycanın  quru  ərazisinin  neft-qaz  rayonlaşdırma  xəritəsi  əsasında  1131  neftli-qazlı  rayonun  geoloji-tektomik  elementləri  aydınlaşdırılıb.  Bu  inventar  Saatlı-Göycay-Muğan  zonasını  transregional  miqyasda,  aşağ  dərəcəli  struktur  mərtəbələr  (blok,  yarımblok,  mikorbloklar)  səviyyəsində  konkretləşdirməyə  imkan  verir.  Zonal  təşkilatda  oraqi  Kür  çökəkliyinin  mərkəzi  hissəsində  “gömülməmiş  qalxımlar  silsiləsi”  kimi  ayrıca  play  sistemi  ayrılır  və  yaxın  analoglar  kimi  gördə  Salyan-Hacıqabul,  şərqdə  isə  Abşeron-Neftçala  trenda  göstərilir.
+
+===== Saatlı–Göyçay–Muğan Mezozoy sonu geodinamikləri və neft-qaz sistemi.pdf | Page 7/11 =====
+Model və metod: inteqrasiyala yanamaq
+- 3D seysmik kəşfiyyat: 25 m x 25 m bin ölçüsü, 60–80 Hz faydalı teqlik diapazonu, çoxkomponentli qəbul (3C); AVO/AVA, inversiya (pre-stack), elastik parametr xarakterizasiyası (Vp/Vs)
+- Potensial sahə metodları: yüksək dəqiqlikli gravimetriya və maqnit kəşfiyyatı da diapir strukturları və fundament pillələri xarakterizə edilir.
+- MT/AMT (maqnetotellurik profilləri dərin elektrik rezistivlik kontrastları da gömülmüş qalxanların altındakı flüido zonalarını ayırmaq.
+Passiv seysmologiya: mikroseysmik tomoqrafiyası da sürət anomaliyalar və aktiv girmələrin lokallaşdırılması, üç dəqiqli zol-zonalərin post-seysmik relaksasiya zonalarının xarakterizasiyası
+- Petrofizika: NMR porozimetriya da sərbəst/bağlı maye fraksiyaları, QI (quantitative interpretation) ilə kollektor keyfiyyətinin proqnozu
+- Həcmli qiymətləndirmə: PRMS çərçivəsində resursların ehtimalla əsaslanan hesabı, risklər (Pg, Pseal, Ptrap, Pres) və volumetrik (A, h, So, RF) parametrinin Monte-Karlo simulyasiyası
+
+Seçma metodlar və proqnozlar
+alınan seysmik atribut xarakterləri (koherens, DHI-ler, sweet spot indeksləri) Qarasu–Qarabucaq trendi boyunca NE–SW uzanımlı, 6–12 km uzunluqda, 80–150 m struktur hündürlükla təbəqər paketi göstərir. AVO sinfi əsasında IIp–III kesid zonasında dəyişir ki, bu da qaz saturasiyalı qum ehtimallını irəli sürə bilər. Muradkhanlı blokunda inversiya nəticələri orta impdanslu kollektorları 1800–2400 m TVDSS diapazonunda işarələyir.
+Zərdab arealında tektonik parçalanma az olduğundan, təbəqələrin saxlanma ehtimallı yüksəkdir.
+Stratigrafik təbəqələr – xüsusən Çat Tobağır karbonatlarının relyef drape effektləri və Pliosen delt frontunun kövsi qumları – şlavyə həddlər kimi nəzərdə tutulur.
+
+Çatılar və qeyri-müəyyənliklər
+- Sürət modeli qeyri-müəyyənliyi dərinlik çevirməsində ±4–6% səhv.
+- Ortak batvlayı palçıq diapirizmi yaxınlığında lokallaşmış suğma zonaları
+- Quyıu məlumatı seysmik alınma səth sərtlərinin heterogenliyi (qaz gil, düzlü su qatları) siqnalın deqradasiyasına səbəb dur.
+- Fayda səthlərinin xarakterizədirilməsində stratiqrafik marker çatışmazlığı.
+
+===== Saatlı–Göyçay–Muğan Mezozoy sonu geodinamikləri və neft-qaz sistemi.pdf | Page 8/11 =====
+Seysmik-kəşfiyyatın genişləndirilməsi planı
+- Faza I (12 ay): 2D regional xəttlər (xətti addım 1 km, xəttlər arası 4–5 km), 600 km profil, eyni zamanda qravimetriya və maqnit kəşfiyyatı  
+- Faza II (18 ay): 3D kub (400 km2), yüksək qat tezlikli məlumatlar, 10 ms seysmik diapozon intervalları, pre-stack inversiya və AVO kalibrasiyası  
+- Faza III (24 ay): iki parametrik və iki kəşfiyyat quyusu LWD/ LWD, tam təbəqə çıxarılması DST və PLT testləri, geokimya ilə korelyasiya  
+- Faza IV (12 ay): konseptual modelin yenilənməsi, resursların PRMS ilə yenidən qiymətləndirilməsi, pilot hasilat layihəsinin işlənməsi  
+
+Operativ tövsiyələr  
+- Qaracalar-Saatlı səmti ərazisində Mezozoy karbonat horizontları və Pliosen linsizbi günlərinə hibrid play strategiyası tətbiq edilsin.  
+- Varvara-Mil- cənub qurşağında struktur-stratiqrafik kəsiklərdə 1000–1800 m TVDSS horizontlərinin erkən sınağı.  
+- Muradxanlı arealında 3D-lə dərindən in-fill quyular, kollektor heterogenluyinə uyğun seqmentlənmiş hasilat.  
+- Palçıq vulkan sahələrində geokimyəvi sızma xəritələşməsi ilə dərin təbəqərə dolanma göstəricilərinin yoxlanması  
+
+Xəzər: Kollizional tektonik sistematik izləri  
+Ərəbistan-Avrasiya kolliziyası nəticəsində yaranmış inversiya mərhələləri təbəqələrin çoxunu “gizli” sıxılma, klassik antiklinaların yanı sıra, çökək struktur morfologiyası, kiçik həcmli, lakin yaxşı örtüklə təbəqələr formalaşdırmışdır. Bu təbəqələr seysmikdə zəif əks edir və daha çox atribut əsaslı və inversiya dəstəklü interpretasiyaya ehtiyac duyur. Üstəlik, seysmik hədəsələrin müasir seqmentasiyaya xərritəsi təbəqələrin kənarlarında tektonik “açma-bağlama”  davranişi ilə əst-əstə düşür, bu, təbəqələrin üzürməddətli saxlanma qabiliyyətini qiymətləndirməkdə vacibdir.
+
+===== Saatlı–Göyçay–Muğan Mezozoy sonu geodinamikləri və neft-qaz sistemi.pdf | Page 9/11 =====
+Sonaye baxıp və iqtibasdə qiymətləndirmə
+
+Risklondirilmiş resursların iktin qiymətləndirilməsinə görə:
+- Pliosendə delta qumları trendində yığım ehtimali (Pg) 0.28-0.42;
+- Üst Təbaşir karbonat drape təbəqələrində Pg 0.18-0.30;
+- Muradxanlı yatağında struktur-stratigrafik hibrid təbəqələrdə Pg 0.35-0.48 aralığında qiymətləndirildi.
+
+Orta höcmət parametrində risklondirilmiş perspektiv ehtiyat 35-75 MMboe diapazonunda təxmin edilir. Bu qiymət, 3D seysmik və kalibrasiya quyularından sonra yuxarı yönə bilər.
+
+Ətraf mühit və təhlükəsizlik aspektləri
+
+Palçıq vulkanizmi və seysmik aktivlik risklərinin idarə edilməsi üçün real vaxt mikroseysmik monitorinqi, quyu dizaynında çoxmərhələli, blowout preventer strategiyalarının gücləndirilməsi, palçıq vulkanlarının ətrafında tampon məsafələrin müəyyən edilməsi təklif olunur. Zəlzələdən sonrakı “quyu bütövlüyün yoxlaması” protokolu standart əməliyyat proseduruna daxil edilməlidir.
+
+===== Saatlı–Göyçay–Muğan Mezozoy sonu geodinamikləri və neft-qaz sistemi.pdf | Page 10/11 =====
+Nəticələr
+
+- Mezozoyun sonunda baş vermiş Ərəbistan-Avrasiya kolliziyası Saatlı-Göyçay-Muğan zonasında struktur-tektonik arxitekturanı və karbohidrogen sistemlərinin işləmə mexanizmini müəyyən dərəcədə formalaşdırmışdır.
+
+- Zona Alp-Himalay mühərrik qurşağının Qafqaz seqmentinə daxildir və gömülmə qazkımları dəstəsi kimi perspektivli qazlı arealdır.
+1980-ci illərin seysmik-kəşfiyyatları Qaraçala, Qarabucaq kimi eləcə qazkımları ortaya çıxarmış, Qaracala-Saatlı-simal və Varvarar-Mil-cənub qurşağında bir sıra neft-qazlı qalxımlar qeyd olunmuşdur.
+
+- Muradxanlı yatağında neft-qazlılıq qazma məlumatlarına əsasən təsdilqlənmiş, geofiziki araşdırmalar müsbət nəticələr vermişdir; 1981-ci ildə Zərdab yatağında sənaye əhəmiyyətli neft aşkar olunmuşdur.
+
+- Antiklinal qurşaqlarda sedimentogen fəallıq təbəqə dinamikasını həm yaxşılaşdıran, həm də risk yaradan ikili rola malikdir.
+
+- Palçıq vulkanizmi və 60, 62, 66 m dərinlikdə üç dayk dik zolaqla ilə ifadə olunan aktiv tektonika təbəqələrin saxlanmasına və suzma riskinin təsir edən əsas faktorlar sırasındadır.
+
+- Mezozoy çökəntilərinin karbohidrogen potensiali yüksək qiymətləndirilir, lakin indiyədək uğursuzluqlar metodoloji boşluqlar və qeyri-kafi seysmik ayrıcılıqla əlqədardır.
+
+- Regionda genişləndirilmiş seysmik-kəşfiyyat işlərinin əlavə edilməsi və inteqrativ geofiziki-geokimyəvi proqramların tətbiqi bu zonanın potensialının reallaşdırılması üçün zəmin yaradır.
+
+- Azərbaycanın quru ərazisinin 1131 rayon agrogeoloji-tektonik detallaması bu zonanın oyun modellərinin yenidənənməsi və prioritetlərin sıralanması üçün əlverişli şərait təmin edir.
+
+===== Saatlı–Göyçay–Muğan Mezozoy sonu geodinamikləri və neft-qaz sistemi.pdf | Page 11/11 =====
+Tədqiqatlar
+- 3D seysmik + pre-stack inversiya + AVO inteqrasiyası ilə dərin Mezozoy hövzəsinin dəqiqələşdirilməsi
+- Palçıq vulkan areallarında sıxma geokimyası (uducu məsh, topoqrafik transektlər) və mikroseysmik monitorinqin həyata keçirilməsi.
+- Qarasu-Qarabulaq trendində iki mərhələli kəşfiyyat quyusu proqramı əvvəlcə parametrik, sonra istismar edilən əfəgi kollektor laylarına daxil olan suxur quyuları.
+- Muradxanlı və Zərdab analoqları əsasında play-fairway xəritəsinin yenidən tərtibi və resursların riskləndirilmiş proqnoz optimallaşdırılması
+- Regional 2D xəttlərin yenidən işlənməsi və sürət modelinin VSP və checkshot məlumatları ilə kalibrlənməsi
+
+Bu tədqiqat göstərir ki, Saatlı-Göyçay-Muğan çökəkliklər zonasında neft-qaz sistemlərinin həyati komponentləri mövcuddur və əsas məhdudlaşdırıcı amil məlumat keyfiyyəti və inteqrasiyasıdır. Müasir kəşfiyyat texnologiyalarının tətbiqi və dərinləşdirilmiş geodinamik-struktural model quruculluğu ilə, zonanın kəşfiyyat uğur əmsalının şübhəsiz dərəcədə artırılması gözləniləndir. Bu iş həm Mezozoy, həm də Kaynozoy play-larının ardıcıl inkişafa açan praktiki əsas yaradır və regional enerji strategiyalarında Saatlı-Göyçay-Muğan zonasının cəlbini yaxşıdır.

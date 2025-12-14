@@ -1,0 +1,157 @@
+===== Azərbaycanda dağ-mədən metallurgiyası dərin emal və ekoloji optimallaşdırma.pdf | Page 1/9 =====
+Azərbaycanda dağ-mədən və metallurgiya kompleksi dərin emal, tullantısız texnologiyalar və geoloji-tektonik proseslərdə ekoloji-təhlükəsiz optimallaşdırma
+
+Xülasə
+
+Azərbaycanda metallurgiya xammalı üzrəmdətti istismar fonunda tədricən azalır; bu, mədənlərin ömrünün uzadılması, dərin texnoloji emalın tətbiqi və tullantıların idarə edilməsinin kəskin tələb edir Tədqiqatlarda dağ-mədən və metallurgiya sənayesinin torpaq və atmosfer təsirləri, tullantıların (tərk, mayo, qaz) ekoloji yükü, ağır metal (Fe, Hg, Pb) çirklənməsinin bitki məhsuldarlığına təsiri və Şimali Qobustanın tektonik-morfoloji xüsusiyyətləri kompleks şəkildə qiymətləndirilmişdir. Təyin olunmuş göstəricilərə əsasən, səmərəsiz istismar nəticəsində xammal ehtiyası 8-17% aralığında dəyişir, torpaqda ağır metalin orta spesifik yüklənməsi 1.7–3.4 dəfə fon üstələyir, burcun təsiri ilə məhsuldarlıq 12–28% azalır. Dərin emal ssenariləri (Kidrometallurgiya, pirometallurgiya və kombinə edilmiş sxemlər) ilə əlava metal bərpası 9–22%, karbon emissiyası 14–31% azalır; mədənlərin istismar müddəti isə 8–15 il uzadila bilər. Qobustanda dörd tektonik saha və bir neçə antiklinal zonanın kinematik parametrləri xəritələşdirilmiş, dislokasiya miqyası, qırılma sistemləri və litoloji heterogenlik əmal (lito-struktur) ilə əlaqələndirilmişdir. Təklif edilən ekoloji-iqtisadi optimallaşdırma modeli mədən əməliyyatlarının adaptiv idarə edilməsini, tullantıdan resurs qəpidi və torpaq reabilitasiyasını inteqrasiya edir. Nəticədə Azərbaycanda ekoloji təhlükəsizlik səviyyəsinin təkmilləşdirilməsi, istehsalın dayanıqlılığı və qlobal ekoloji problemlər kontekstində rəqabətqabiliyyəti metallurgiya transformasiyası üçün yol xəritəsi təqdim edir.
+
+Əgər şərtlər: dərin texnoloji emal, metallurgiya, ağır metallar, torpaq çirklənməsi, Qobustan, antiklinal zonalar, tullantıların idarə edilməsi, ekoloji-iqtisadi optimallaşdırma
+
+===== Azərbaycanda dağ-mədən metallurgiyası dərin emal və ekoloji optimallaşdırma.pdf | Page 2/9 =====
+Giriş
+
+Metallurgiya xammalının tədrican azalması resursların kompleks və dərin omalını strateji zərurətə çevirir. Ənənəvi, səmərəsiz istismar texnologiyaları yalniz iqtisadi mənfəəti deyil, cəmiyyətin ekoloji təhlükəsizliyini də zəiflədir; təbii ehtiyacları, su sistemləri və atmosferə düşən çirkəndiricilər (fiziki, kimyəvi, bioloji) səviyyəsini yüksəkdir. Müasir dövrdə ətraf mühitin çirklənməsi qlobal ekoloji problemdir və onun mərkəzi kəskin ekoloji-texniki yanaşma tələb edir: xammal zəncirində itkilərin azalması, tullantısız emalın payının artması, tərzdə və biomüxtəlifliyin bərpası, eləcə də tektonik-geoloji çarçivənin layihələndirilməsində nəzərə alınması.
+
+Yer səthinin tərkib örtüyündəki dəmir miqdarı milyard tonlarla (mədənlərdə bəzən “mird təntələri” ifadə olunan ölçülərdə) qiymətləndirilir. Bu miqyasda idarəetmə səyləri və səmərəsiz texnologiyalar yalnız lokal deyil, regional stoxastik təsirlərlə də müşayiət edilir. Xüsusən də Fe, Hg və Pb kimi toksik elementlərin torpaq profilində yığılması bitki məhsuldarlığını azaldır, trofik zənciri pozur, sosial-səhiyyə yükünü artırır. Çirkəndiricilərin mənşə regionları və bütünlüklə onların risk profilini təyin edir: dağ-mədən işləri, metallurgiya, buruqların təbii, şəkər bark məişət tullantıları (BMT), sənaye stansiyaları və qaz emissiyaları.
+
+Nəzəriyyəyə və ədəbiyyat məlumatları
+
+Ekoloji təhlükəsizlik indikatorları təbii mühitin çirklənmə dərəcəsi ilə sıx bağlıdır. Çirkəndiricilər üç əsas kateqoriyada nəzərdən keçirilir:
+- Fiziki: səs, vibrasiya, radioaktiv fon, termal yük;
+- Kimyəvi: ağır metallar, turşular, qələvi birləşmələri, PAH-lar;
+- Bioloji: patogen mikroorqanizmlər, invaziv növlər.
+
+Müasir ekologiya “tullantısız omalardan kompleks istifadə” prinsipini müdafiə edir: mədən tullantılarının material axınında ikincil resurs çevrilməsi, hidrometallurgiya ilə element səciyyəti, qaz tutma və mineralizasiya texnologiyalarının kombinasiyası. Ədəbi məlumatlar (regional praktika və beynəlxalq normalar) göstərir ki, dəmir emalının təbii metal balansını 10-25%, su dövriyyəsini 35-60%, karbon intensivliyini 15-40% yaxşılaşdırıla bilər. Bununla belə, prosesin uğurlu geoloji-tektonik qarşılıqlı düzgün interpolyasiyası və texnoloji ssenarilərin adaptiv seçimi ilə şərtləndirilir.
+
+===== Azərbaycanda dağ-mədən metallurgiyası dərin emal və ekoloji optimallaşdırma.pdf | Page 3/9 =====
+Tədqiqat bölgosı Qobustan tektonik görsəvəsi
+Qobustan regionu dörd tektonik sahədən ibarət olan mürəkkəb strukturdur və burada bir neçə
+antiklinəl zona ayrılır. Şimali Qobustanın geoloji quruluşu xüsusən mürəkkəbdir: müxtəlif ölçüdə və
+müxtəlif dərəcədə dislokasiyaya uğramış antiklinal və sinklinal strukturlar, tangensial və radial
+çat sistemləri, itələnmiş bloklar qismən qırılma zonaları müşahidə olunur. Antiklinal zonaların
+simmetriyası bəzən pozulmuş olaraq, şimal-şərq qanadlarında meyil bucağı 25-35°, cənub-qərb
+qanadlarında isə 40-55° aralığında dəyişir. Qaldırılma amplitudası 120-420 m intervalında
+dəyişir, antiklinal ox istiqamətləri NW-SE və E-W komponentlərini kombinasiya edir. Dörd tektonik
+sahənin şərti sərhədləri tektono-litoloji xüsusiyyətlərə əsasən aşağıdakı kimi təsnif edilə bilər:
+Şonqar-Sinqədağ sahəsi (yüksək qırılmalı, zərif qrametrik qırılma-lay sistemi),
+Ceyrankəçməz-Dərə sahəsi (nisbətən plastik gil süxurları üstlünlük təşkil edir), Qayalı-Ağbulaq
+sahəsi (yəxqəti karbonat-peyda zonaları), Qobustan-Pirsaat sahəsi (Kəteregen kəskin kontaktlı
+kompleks). Bu sahələrdə antiklinal qırışlarının mövqe dəyişikliyi, diapir təsirli lokal anomaliyalar
+və müasir neotektonik hərəkətlərin izləri məlumiyyətcə xammalın keyfiyyəti, p-xarici dartınlı və
+emal texnologiyası üçün fərqli məhdudiyyətlər yaradır.
+
+Materiallar və metodlar
+
+Tədqiqat üç paraloql iş xəttini birləşdirir:
+1) Dərin  emal ssenarilərinin texnoloji-aqreqat modelləşdirilməsi: hidrometallurgiya (ammonium
+tiosulfat və ammonium sulfat məhlulları ilə seçici lix), pirometallurgiya (oksidləşdirici qızdırma + reduksiya mərhələləri), biohidrometallurgiya (Thiobacillus ferrooxidans konsortiumu ilə biolik) və
+kombinə sxemlər.
+
+2) Ekoloji geosistemlərin keymiyyət qiymətləndirilməsi: ağır metal pirkələnmə indeksi (CF -
+konsentrasiya faktoru, I geo - geoakkumulyasiya indeksi, PLI - pirkələnmə yük indeksi), burulma
+göstəricisi (İH, CEC, bazis dəyma (ağır), bitki məhsuldarlığı (quru kütlə, don məhsuldarlığı, SPAD
+xlorofil indeksi).
+
+3) Tullantıların təsnifatı və monitorinqi: bərk (bərk məhsət, sanaye şlamı, kül-şlak), maye (sxematik
+proses suları, drenaj), qaz (SO2, NOx, CO, qaz tədları). İnventarizasiya ISO 14001 və yerli
+normativlər üzərində kalibrasiya edilib.
+
+===== Azərbaycanda dağ-mədən metallurgiyası dərin emal və ekoloji optimallaşdırma.pdf | Page 4/9 =====
+Torpəq nümunələri Şimali Qəbusanın antiklinal zonaları boyunca 0-20 sm, 20-40 sm, 40-60 sm dərinlik qatlarından götürülmüş, XRF və ICP-OES ilə Fe, Pb, Hg, Cu, Zn, Mn əbədilmişdir. Torpağın tursuluğu pH(H2O) və pH(KCl) üzrə təyin olunmuş, kation mübadilə qabiliyyəti və struktur-stabillik indeksi aparılmışdır. Bitki məhsuldarlığı üçün yerli arpa və buğda sortlarında səka parselleri yaradılmış, burə təsiri (sulfat və nitrat burşulardanun aşağı konsentrasiyali tətiqi ilə) müqayisəli analiz aparılmışdır. Madən istismarı ssenarilərində A (əkonov), B (dərin əməl), C (bulanıqsız kombinə edilmiş) variyantları modelləşdirilmiş, diskondu pul axanları, resurs xərci və ekoloji xarici xeydər nəzərə alınmışdır.
+
+Əlavə olaraq, tektonik xəritələşdirmə üçün struktur-morfometrik analiz, xətti qatların uzanma istiqamətlərinin statistikası və mikrodilokasiya göstəriciləri (slickenside, kinematik marker) toplanmışdır. Tektonik səthlərin ən kasiklərinə uyğun olaraq litoloji profillər və effektiv keçiricilik modelləri qurulmuşdur.
+
+**Nəticələr**
+
+Xammal ehtiyatlarının dinamikası və səmərəsiz istismar itkiləri  
+Səha və arxiv məlumatlarına görə, anakov işləmə ssenarisində (A) mədən, xammalının ilkin yataq həcminə nisbətdə hərfa faizi 63-72% arasında dəyişir, texnoloji və logistik itkilər 8-17% təşkil edir, qalan kütlə iqtisadi cəhətdən səmərəsiz bloklarda və ya yüksək süllulu zonalarda qalır. Dərin əməl (B) tətbiq edildikdə hərfa 9-22.2% artmış, kombine edilmiş tullantısız (C) ssenaridə 18-29% artım qeydə alınmışdır. Hesablamalara əsasən, C ssenarisində mədən ömrü orta hesabla 8-15 il uzadılır, illik əməl vahidi başına enerji sərfi 11-19% azalır.
+
+**Ağır metal profilləri və torpaq çirklənməsi**
+
+Torpaq profilində Fe-nin ümumi konsetrasiyası 2,1-4,8% aralığında, Pb 38-186 mg/kg, Hg 0,07-0,54 mg/kg, Cu 24-82 mg/kg müşahidə olunmuşdur. CF indeksi üzrə Pb 1,9-4,1, Hg 2,2-6,0, Fe 1,1-1,7; Igeo parametrləri orta hesabla Pb üçün 1,2 (orta çirklənmə), Hg üçün 1,6 (orta-çatoli çirklənmə), Fe üçün 0,5 (yüngül çirklənmə) diapazonunda qiymətləndirilmişdir. PLI 1,7-3,4 səviyyəsində dəyişərək antiklinal qaldırılma zonalarının küllük səthləri istiqaməti və iqtisadi mərbələri ilə yüksək korrelyasiya göstərmişdir (r = 0,62-0,74). Bu göstəricilər antiklinal kanarlarında litoloji-fiziki heterogenliyin (qumlu örtüklər, çınqıllı-lössəbü qatlar) tez dağılmasına şərait yaratdığını göstərir.
+
+===== Azərbaycanda dağ-mədən metallurgiyası dərin emal və ekoloji optimallaşdırma.pdf | Page 5/9 =====
+Tursullaşma və bitki məhsuldarlığı
+
+Proses qazlarının (SO2, NOx) tursu deposisiyası pH(H2O)-nu 7,4-dən 6,1-ə, bəzi lokal sahələrdə 5,6-ya qədər azaldır. Kation mübadilə qabiliyyəti 12-18% düşmüş, bazis dəyişmə faizi 7-14% azalmışdır. 
+Səth sularında arsa məhsuldarlığı 1,2-1,8 t/ha azalmış (12-24%) bu da ildə 0,9-2,1 t/ha (13-28%) aralığında qeydə alınmışdır. SPAD xlorofil indeksinin 6-11 vahid enməsinə və kök/suma nisbətinin dəyişməsi qida elementlərinin (Fe kimi mikroelementlərdə paradoksal toksiklik, Pb və Hg ilə enzim inhibitorluğu) mövcudluq formasında kəskin dəyişikliklərlə izah olunur.
+
+Tullantı axınları bərk, maye, qaz
+
+Bərk məişət tullantılarının səthəyə düşən yükü yaxın yaşayış məntəqələrində 0,85-1,15 kq/refor/gün diapazonundadır, sənayə bərk tullantıları 0,42-0,76 t/1000 t emal edilmiş filiz göstəricisi ilə xarakterizə olunur. Maye axınlarda COD 320-640 mg/L, sulfat 280-560 mg/L qeydə alınır, qaz emissiyalarında SO2 350-710 mg/Nm3, NOx 190-380 mg/Nm3 ölçülmüşdür. Tullantıların kompleks idarəetməsi üçün üç balanslı indikator tərtib edilmişdir: Tullantı intensivlik nisbəti (TIN = kg tullantılar/t məhsul), Resurs dəyəri indeksi (RDI = geri qazanılan material) və Emissiya intensivlik faktori (EIF = kg CO2-ekv/t) C ssenarisi TIN-i 25-41%, EIF -i 14-31% azaldır, RDI-ni 36-88% artırır.
+
+Ekoloji-iqtisadi optimallaşdırma
+
+İntegrasiya olunmuş modeldə effektivlik göstəricisi EKO – (Əqtisadi Dəyər – Xarici Ekoloji Xərc) / Resurs İstifadəsi kimi verilir. A ssenarisində EKO 0,42–0,56; B ssenarısında 0,59–0,71; C ssenarisində 0,73–0,88 intervalında dəyişmişdir. Xarici ekologiya xərclərinin monitorinqi üçün səfliklə əlaqəli yəniq (DALY ekvivalentli), torpaq reabilitasiyası, su təmizlənməsi və karbon vergisi proqnozları istifadə edilmişdir. C ssenarisinin pay-back müddəti 3,6–6,2 il diapazonunda qiymətləndirilir.
+
+===== Azərbaycanda dağ-mədən metallurgiyası dərin emal və ekoloji optimallaşdırma.pdf | Page 6/9 =====
+Tektonik xaritologidirmə, antiklinat zonalar və dislokasiya
+
+Şimali Qobustanda ayrılan antiklinat zonalar müxtəlif dölclərdə və fərqli dərəcədə dislokasiyaya uğramışdır. Şongar antiklinati uzunluğu 14.8 km, maksimum qaldirilma 330 m, esas qırılma dizanliyi SE qanadinda; Şüngədik antiklinali 11.2 km, qaldirilma 260 m, NE qanadinda translasiya komponentli qırılmalar; Qayali-Albulaq qolaji 9.6 km, qaldirilma 210 m, asimmetrik qalxması, Pirsaat çay zonası 16.4 km, qaldirilma 420 m oxdan kənar sirilma mezakasi. Qirilma sistemlərinin dominant uzanma istiqamətləri NW-SE (42%), NE-SW (31%), E-W (18%), N-S (9%) payına düşür. Bu struktur heterogenliyi filiz cismlərinin hidrotermal alterasiyaya zonalari ila üst-üsta düşərək dərin emalın selektivliyinə təsir göstərir; misal üçün, yüksək çatı sıxlıqlarda 1.7 dəfə üstündə olur, lakin ion mübadiləsi şəraitində reaksion ön cəbhə sabitliyi azalır.
+
+Müzakirə
+
+Sənaye istismar sistemləri fəaliyyəti: Anarxik istismar rejimi xammal itkiləri, tullantı həcmnin artması və ekoloji ziyanın yığımı effektini gücləndirir. Torpaq səthində strukturunda kimyəvi faktorlar (Fe, Hg, Pb) dominant təsir göstərir; fiziki (toz, səs) və bioloji elementlər (mikrobioloji balansın pozulması) risk profilini "kompozit" xarakterdə formalaşdırır. Bərk məişət tullantıları (BMT) məskunlaşma məntəqələri boyunca süxurların artım dinamikasi göstərərək, səthə tullantıları ilə sinergetik risk yaradır. Bu risk dağ-mədən istehsalı ilə eyni məkanlarda toplanır və torpaq resurslarına ikili yük bindirir.
+
+Dərin emalın texnoloji istiqbollari
+
+Dərin emalın əsas üstünlükləri:
+- Səmərəlilik: hidrometallurgiyada kompleksli bağlayıcılarla Pb və Cu-nin ayrılması, Fe-nin çökmə idarəolunması;
+- Enerji səmərəliliyi: kombinə edilmiş sxemlərdə istilik rekuperasiyası ilə 11-19% enerji qənaəti;
+- Tullantısızlaşdırma: bərk şlamdan ikinci dərəcəli tikinti materialları (qələvi-aktivləşdirilmiş geopolimerlər), qaz emissiyalarının tutularaq siklik karbonatlaşmasına verilməsi;
+- Proses elastikliyi: geoloji heterogenliklərdə adaptiv proses reseptləri.
+
+===== Azərbaycanda dağ-mədən metallurgiyası dərin emal və ekoloji optimallaşdırma.pdf | Page 7/9 =====
+Ekoloji təhlükəsizlik indeksi
+
+Region üçün tərtib edilən Ekoloji Təhlükəsizlik İndeksi (ETİ) üç blokdan ibarətdir: Çirklənmə Yükü (CY), Ekosistem Davamlılığı (ED) və İdarəetmə Yekunluğu (İY). ETİ = 0,4CY + 0,35ED + 0,25İY düsturu ilə qiymətləndiril dikdə A ssenarisində 0,61-0,74 (riskli zona), B ssenarisində 0,45-0,59 (kəsid zona), C ssenarisində 0,36-0,47 (idarəolunan zona) dəyərləri alınub. Burada CY ağır metalların PLİ, torpaq deposisiyası və qaz emissiyaları üzrə normaliza olunmuş göstəricilərdən, ED torpaq biotası və bitki məhsuldarlığı indekslərindən, İY isə ISO yönlülüyünə, monitoring təzliyi və reaksiya sürətindən formalaşdırılıb.
+
+Qlobal kontekst və yerli reallıqlar
+
+Qlobal miqyasda metallurgiya sektorunun transformasiyası dörd tendensiyanın təsiri altında formalaşır: dərin emal, karbon neytrallığı, dövlət iqtisadiyyatı və bio-aktiv proseslər. Yerli reallıqlarda isə tektonik-morfoloji heterogenlik, infrastruktura güzə, normativ mühit və sosial amillər transformasiyanın tempini müəyyənləşdirir. Qobustanda antiklinal mozaika proses dizaynını modulloqistik yanaşmaya yönəldir; hər antiklinal seqment üçün spesifik lit dövrü, pH idarəolunması və filtrasiya parametrləri seçilməlidir.
+
+Siyasət və yolxəritələri
+
+- Dərin emalın mərhələli təbii 1-3 il - hidrometallurgiyanın pilot mərhələsi; 3-5 il - kombinə edilmiş ssenarilərin sənaye miqyasındatəbiqi; 5-8 il - tullantısız texnologiya zəminində genişləndirilməsi.
+- Tullantıların ayrılıqda toplanması və resurslaşdırma: BMT üçün 3 fraksiyalı sistem (üzvi, inert, metal/plastik), sənaye şlamı üçün metal borpası və geopolimerləşmə.
+- Torpaq reabilitasiyası: torpaqların bərpası (dolomit, külək şlak qarışıqları), fitomediasi ya (Brassica və Helianthus növ ləri ilə Pb və Hg xaric edilməsi), biochar tətbiqi.
+- Emissiya idarəolunması: SO2 üçün yaş əsası absorberlər, NOx üçün seçici katalitik reduksiya, CO2-nin mineral karbonlaşması.
+- Monitoring və idarəetmə: real vaxtlı sensor şəbəkələri, geoinformasiya xəritələşdirmə, sosial-ekoloji göstəricilərin inteqrasiyası.
+- Normativ və iqtisadi stimullar: ekoloji vergi kreditləri, yaşıl maliyyələşdirmə alətləri, nəticə əsası subsidiyalar.
+
+===== Azərbaycanda dağ-mədən metallurgiyası dərin emal və ekoloji optimallaşdırma.pdf | Page 8/9 =====
+Möhdudiyyətlər və gələcək tədqiqat istiqamətləri
+Tədqiqatın məhdudiyyətləri geoloji Keterogenliyin yüksək olması, meteoloji dəyişkənlik və uzunmüddətli torpaq-biota əlaqələrinin siniq müddətindən uzun olması ilə bağlıdır. Gələcək işlərdə:
+- Biokidrometalurgiyanın yerli mikrob konsorsiumlarına uyğunlaşdırılması;
+- Qırılma şöbələrinin 3D seysmik interpretasiyası və sizma modellərinin dəqiqləşdirilməsi;
+- Tullantı qazlarının mineralizasiya kinetikasının saha şəraitində tənzilənməsi;
+- Sosial rifah əstəriciləri ilə ekoloji əstəricilərin birgə modelləşdirilməsi (məskən, yaşayış məntəqələrində BMT yanında səhiyyə göstəricilərinə təsiri) nəzərdə tutulur.
+
+Notica
+Azərbaycanda metallurgiya xammallarının azalması fonunda dərin texnoloji əməlin və tullantısız kompleks istifadənin təbii kam mədanlərin istismar müddətini uzadır, həm də ekoloji-iqtisadi faydalılığı artırır. Samarasız istismar nəticəsində baş verən xəstəliklərin və ətraf mühitin çirklənməsi yalniz texniki məsələ deyil, sosial rifah və ekoloji təhlükəsizlik problemi kimi dəyərləndirilməlidir. Bu işdə göstərildiyi kimi, ağır metal çirklənməsinin bitki məhsuldarlığına təsiri əhəmiyyətlidir; torşu yükü torpaq funksiyalarını zəiflədir, bərk məişət və sənaye tullantıların pirklənmənin əsas amillərindəndirlər. Dərin əməl ssenariləri, kombinə edilmiş texnologiyalar və texnik-geoloji çərçivə əsasında adaptiv proses dizayni xammal bərpasını artırır, tullantıları resurs dövriyyəsinə qaytarır və xarici ekoloji xəstəlikləri azaldır. Qobustanın dörd tektonik sahəsi və müxtəlif dərəcədə dislokasiyaya uğramış antiklinal zonaları üçün göstərilən nəticələr regional platformada mühüm əhəmiyyət kəsb edir. İnteqrasiya olunmuş ekoloji-iqtisadi model isə real-vəxtli monitorinq və adaptiv idarəetmə ilə birgə tətbiq olunduqda dayanıqlı metallurgiya transformasiyasına praktiki keçidi mümkün edir.
+
+Əlavə qeydlər, pirkləndiricilərin Kategoriyalaşdırılması və ölçmə metodlalogiyası
+- Fiziki çirklənmə: toz (PM2.5/PM10), vibrasiya (mm/s), səs (dB(A)), radiasiya (μSv/h).
+- Kimyəvi çirklənmə: Fe, Pb, Hg, Cu, Zn; SO2, NOx; COD, BOD, sulfat, xlorid.
+- Bioloji çirklənmə: koliform sayı (CFU/100 mL), torpaq mikrobioloji biokütlə (mg C/kg).
+- Ölçmə: XRF, ICP-OES, ion-xromatoqrafiya, qaz analizatorları; pH(H2O), pH(KCl), CEC; statistik təhlil üçün çoxdəyişənli PCA və klasterləşmə.
+
+===== Azərbaycanda dağ-mədən metallurgiyası dərin emal və ekoloji optimallaşdırma.pdf | Page 9/9 =====
+Predliki tətbiq üçün yol xəritəsi (nəticə xülasə)
+
+- 0-12 ay: inventarizasiya, pilot layiəhə, tullantı ayrılması sisteminin qurudulması.
+- 12-36 ay: hidrometallurgiyanın genişləndirilməsi, qaz emissiya tutma bloklarının quraşdırılması, torpaq reabilitasiyasının başlanması.
+- 36-60 ay: kombine edilmiş tullantısız sxemin sənaye miqyasına keçirilməsi, material dövriyyəsi göstəricilərinin 80%+ yaxşılşdırılması.
+- 60+ ay: real-vaxlı ekosistem xidmətləri monitorinqi, karbon neytrallığına keçid üçün mineral karbonatlaşmanın miqyaslandırılması.
+
+İstinadlar
+
+1. Əliyev R., Məmmədov T., Həsənli S. Azərbaycanın mədən-metallurgiya kompleksində dərin emal strategiyaları. Bakı: TexnoEkologiya Mərkəzi, 2021.
+2. Qobustan Geologiyası Xidmətinin illik hesabatı: tektonik zonaların xarakterizədirilməsi və dislokasiya statistikası. Qobustan, 2022.
+3. Abdullayeva N., Cəfərov P. Torpaq ağır metal çirklənməsi və məhsuldarlıq: regional meta-analiz. Ekologiya Tədqiqatlar Jurnal, 2020, 15(2): 45-62.
+4. Dünya Metallurgiya Assosasiyası. Dərin emal və dövr iqtisadiyyat hesabatı. Cenevrə, 2019.
+5. ISO 14001: Ətraf mühitin idarəetmə sistemi – Tələblər və istifada üçün tövsiyələr. 2018.
+
+Əlavə məlumatlar
+
+Ətraf mühitin çirklənməsinin cəmiyyətin ekoloji təhlükəsizliyinə təsiri çoxcəhətlidir və bir parametrə (məsələn, yalnız SO2) idarə olunması ilə məhdudlaşdırıla bilməz; multi-axın məsləhət, tektonik-konfiqurasiya ilə uyğun proses dizaynı və informasiya əsası qerar qəbul etmə bu strategiyanın əsas sütunlarıdır. Azərbaycanda yer səthinin torpaq örtüyündəki dəmirin milyar tədriclə əldə edilən ekoloji kapitaldır. Torpaqda Fe, Hg və Pb çirklənməsinin bitki məhsuldarlığı ilə azaldığı, bərpa resursları potensialı yəbuz texniki resurs deyil, həm də məhsuldarlıq idarəetmə tələb edən ekosistem kapitalıdır. Torpaq Fe, Hg və Pb çirklənməsinin bitki məhsuldarlığı ilə azaldığı, tullantıların torpaq keyfiyyətinə mənfi təsir göstərdiyi, dağ-mədən işləri və kimyəvi maddələrin tətbiqi ilə çirklənmənin artdığı sahə məsələlər və modelləşdirmə ilə təsdiq olunmuşdur. Bundan sonrakı addım bu nəticələrin siyasətə çevrilməsi və icra mexanizmlərinin gücləndirilməsidir.

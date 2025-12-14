@@ -1,0 +1,110 @@
+===== Abşeronda Torpaq Çirklənməsi Ağır Metallar və Geotermal İnteqrasiya Ramanı Suraxan.pdf | Page 1/9 =====
+Abşeron yanmadanında Torpaq Çirklənməsinə Bioloji-Aqronomiya Modeli, Ağır Metallarla Rək Profilaktikan və Geotermal Suların Innovativ İstifadəsi: Raman – Sarvanı Kəsiyində Coğrafi Analitik yanaşma
+
+Xülasə
+
+Abşeron yanmadan Azərbaycanın sosial - demoqrafik və iqtisadi həyatının mərkəzidir: ölkə əhalisinin 40.9%-i və sənaye potensialının 70.767%-i bu ərazidə təpmahdır. Sovetlərdən sonra intensiv sənayeləşmə fərmalarında yanmadanın 222.000 hektarlıq ərazisində torpaq deqradasiyası problemi strategiya obyekti problem kimi dəyərləndirilir: yanarsız torpaqlar 10.000 hektar, neftlə çirklənmiş ərazilər isə 55,800 hektar təşkil edir. Çirklənmiş ərazinin 7,500 hektar Azərbaycan Respublikası Dövlət Neft Şirkətinin (SOCAR) balansındadır. Tədqiqatın əsas məqsədi torpaqda biokimyəvi cahətdən faəl elementlərin (ağır metallar; karbon–Aldeqiden qalanıyan) miqrasiyasına və konsentrasiyasına görə (0–5, 5–25, 25–60 sm) hərəkət baxımından yayılma tərzlərinə görə profilini qiymətləndirmək və geotermal suların innovativ istifadəsini ekoloji durumun bir komponenti kimi qiymətləndirməkdir. Ramani və Sarvanı poliqonlarında lokal və areal tipli yag çirklənməsinin mövcudluğuna tədqiqat aparılmış, Sarvanda çirklənmə yükü daha yüksək dəyərdə alınmışdır. Bakı Ged Zəvədlərindən təhlükəli tullantıların təmizlənməsi Atmosferin 2,950–24.720 m3 diapazonunda dəyişməsinə sənaye axınlarının dinamikası göstərilir və geotermalsulann həm enerji, həm də təmizləmə prosesində istifadə potensialını gündəmə gətirir. Coğrafi analizlər ağır metalların (Pb, Cd, Ni, Cr, Cu, Zn, As, Hg) formalaşmasına, torpaqda toplanmasına, ətraf mühitdən torpağa daxil olan və biokimyəvi tsikl kumulyasiyası və bioremediasiyada olmaq ehtimalların göstərmişdir. Nəticələr geosatistik modelləşdirmə, risk indikatorları və inteqrasiya olunmuş yanaşmalar vasitəsilə təqdim olunur.
+
+===== Abşeronda Torpaq Çirklənməsi Ağır Metallar və Geotermal İnteqrasiya Ramanı Suraxan.pdf | Page 2/9 =====
+Ağar gölar
+
+Abşeron yanması; torpaq çirklanmasi; ağır metallar; neft-karbonhidrogenlar; geotermal sular; biomüxtəliflik; Ramani; Sarxan; mikrobiota; risk qiymətləndirilməsi.
+
+Giriş
+
+Abşeron yanması tənəffüs karbohidrogen hasilatı ilə də fəaliyyətini davam etdirən unikal antropogen-ekosistem nezaikasıdır. Ohalı sıxlığının yüksəkliyi və sahəvi infrastrukturunun miqyas torpaq resurslarına təzyiqlərin çoxalmasına səbəb olur. Neft-mədən fəaliyyəti, kimya və energetika obyektləri, həmin fəaliyyət sahələri üzrə tərkibli tullantıların torpaq- bitki balansını dəyişdirərək ağır metallarla, polisiklik aromatik karbohidrogenlərlə (PAK), alkalit fraksiyaları və xlorlu səthi aktiv maddələrlə yüksək səviyyədə mürəkkəb çirklənmə profilini formalaşdırır. Həmin dövrün aktual problemlərindən biri torpaqda kimyəvi elementlərin yayılma və toplanma qanunauyğunluqlarının öyrənilməsi və bu bilgilərin risk əsaslı idarəetməyə inteqrasiyasıdır.
+
+Tədqiqat sahəsi və regionlar
+
+Yanmadaların ümumi sahəsi 222,000 ha olub, müxtəlif ieroqoloji zonaların, dendratik yaşıqların və səthi-məngə mürəkkəbliyinin təsiri altında mərəzək torpaq örtüyü əmələ gətirir. Abşeron düzənliyinin şimalında 33,300 ha kimi yüksək geostress ərazilərin lokallaşdırılması: tarixi quyular, kolloktorlarla və gömülmüş kəsələn ilə əlaqələndirilir. Ramani və Sarxan sahələrin seçilməsi: hər iki zonada həm lokal (nöqtəli), həm də areal (yayılan) tipli yığ çirklənməsi zonasına düşür: Sarxanı kəsiyi də yüksək TPH (ümumi neft maddələri) və ağır metallarla ilə çirklənir. Çirklənmiş ərazinin 7,500 ha-lıq hissəsinin SOCAR balansında olması institutional mühitlərdə mexanizmlərin işə salınması üçün start bazası yaradır.
+
+===== Abşeronda Torpaq Çirklənməsi Ağır Metallar və Geotermal İnteqrasiya Ramanı Suraxan.pdf | Page 3/9 =====
+Material və materiallar
+- Nümunə götürmə: 0-5 sm, 5-25 sm və 25-60 sm dərinlik horizontlarında qradiyent qanunına əsaslanan torpaq nümunələri götürülmüş, paralel blank və təkrariyyatlar ilə QA/QC tələblərinə uyğun alınmışdır.
+- Fiziki-kimyəvi parametrlər: pH (H2O və KCl), elektik keçiriciliyi (EC), dəqiqələndirici üzvi maddə (DÜM), təkatmə (hidrometr) ilə karbon-mübadilə təkatmə (KMT) təyin edilmişdir.
+- Kanserogenlər: TPH, PAH-da ayrılan fraksiyalar GC-MS/GC-FID ilə kompozitləşdirilərək, fraksiyalaşdırılaraq C10-C40 diapazonunda aparılmışdır.
+Ağır metallar: Pb, Cd, Cr, Ni, Cu, Zn, As, Hg konsentrasiyalari XRF ilə skinning və ICP-MS ilə dəqiqləşdirmə yolu ilə ölçülmüşdür.
+- Bioloji komponent: Mikrobioata üçün saprofit və ITS2 meta- barkodlama yanmağından ilə səpilmə və identifikasıya aparılmış, 31 növ göbələk taksonomik səviyyədə qeydə alınmışdır.
+- Geostatistika və maddələşdirmə: Kriging/IDN interpolasiyaya, yarıvariogram analizi, çoxölçülü skalal avatar (PCA), komponentləri matris (Spearman), mehsul aparatsiyası üçün qranq maddələri tərtib olunmuşdur.
+- Risk qiymətləndirməsi: HQ/HI (qayın-kanser), ELCR (kanser riski), USEPA metodologiyası əsasinda müxtəlif ekspoziqaya şexslenmə (yağ, böyük, və s.) üçün kanserləmlə aparılmışdır.
+
+Nəticələr
+
+Fiziki-kimyəvi göstərici
+Torpaqların pH indikatoru zəif qələvi intervalda (7.6–8.4), EC 0.9-3.1 dS/m arasında dəyişmiş, Suraxanı arealında yüksək olmuşdur. Üzvi maddə tərkibi 1.8–6.3% diapazonunda olub, üst horizontda TPH yüklənməsi ilə artan trend göstərmişdir. KMT 12–24 cmol+/kg arasında dəyişmiş, gil fraksiyasının çoxluğu ilə korrelyasiya etmişdir.
+
+===== Abşeronda Torpaq Çirklənməsi Ağır Metallar və Geotermal İnteqrasiya Ramanı Suraxan.pdf | Page 4/9 =====
+Karbohidrogen qalıqları
+
+TPH konsentrasiyaları 0-5 sm horizontunda Ramanda 3.2 q/kq (maks. 14.8 q/kq), Saraxanda 8.6 q/kq (maks. 32.5 q/kq) qeyd edilmişdir: 5-25 sm intervalında müvafiq olaraq 1.1-9.4 q/kq, 25-60 sm-də isə 0.3-4.2 q/kq diapazonlarında ölçülmüşdür. BAK-lar üzərində kəhran, antrasen və benzolajpiren ilə üstünlük təşkil etməsi, Saraxanda benzolajpiren 1.8-5.6 mq/kq səviyyəsində çatmışdır. Lokal çirklənmə lokallaşmış bəzi xəttlər arasında yüksək piklər vermiş, areal çirklənmə külək-sot axımı ilə geniş yayılma göstərmişdir.
+
+Ağır metalların paylanması
+
+ICP-AES nəticələrinə əsasən torpaqlarda Pb 110-450 mq/kq, Ni 95-630 mq/kq, Cr 75-420 mg/kq, Cu 60-830 mg/kq, Zn 100-740 mg/kq, Cd 0.6-4.2 mg/kq, As 8-38 mg/kq, Hg 0.15-1.21 mg/kq diapazonlarında göstənmişdir: Ramanda bu göstəricilər orta hesabla 1.3 -2.1 dəfə aşağidir. Səthi profildə üst horizontlarda (0-5 sm) biotlu fraksiyaya (DTPF-A ekstraktda bitən) daha yüksək nisbətlərdə qeyd edilmişdir, böyük konsentrasiyalarda isə mineral tərkiblə tamponlanmanın təsiri ilə immobilizasiyaya meyl müşahidə edilmişdir. PCA analizi ağır metalların iki əsas komponentdə izah oluna bildiyini göstərmişdir: PC1 karbohidrogen co-vəmlanması ilə (Cu, Ni, Zn), PC2 geogen- karbonat forma ilə (Cr, As).
+
+Mikrobiotik göstəricilər
+
+Alətə görə torpaqlarda ət nöü göbələk sertifikasıyaya alınmışdır; Ascomycota (Penicillium, Aspergillus, Fusarium, Trichoderma), Basidiomycota (Coprinellus, Trametes) və Micromycota (Mucor, Rhizopus) dominantlığı müəyyən edilmişdir. Trichoderma harzianum və Aspergillus niger TPH yüklənmiş səthlərdə daha çox rast gəlmiş, biosürfaktant sintezi və metal mobilizasiyası ilə bioaugmentasiya/bioremediasiya potensiali nümayiş etdirmişdir. Mikrobiota müxtəlifliyi Saraxanda daha zəifləmiş və stress-adaptiv kompozisiyaya göstərmişdir.
+
+===== Abşeronda Torpaq Çirklənməsi Ağır Metallar və Geotermal İnteqrasiya Ramanı Suraxan.pdf | Page 5/9 =====
+Geotermal sular və səthəyə axınlar
+
+Geotermal sular karbonatlı süxurlardan əmələ gələn kimi yerin dərinliklərində toplanır, yüksək temperatur və təzyiqi səviyyəsinə malikdir və bölgədə istilik pompası, aşağı entalpiyalı istilik təchizatı və hatta kiçik ölçülü ORC (organik Rankine çevrəsi) qurğuları üçün yararlıdır. Bakı şəhər Zavadani 2,780–24,720 m dərinliyində neft-qaz hasilatı üçün qazılan quyuların analizi göstərir ki, dərin sularda bor, arsen, civə, ammonyak, xlorid və sülfid kimi komponentlərin mövcudluğu ekoloji problemlər yaradır: miqyaslanma (silika çöküntüləri), korroziya, toksiklik və qaz emissiyaları (H2S). Rəslərin idarə edilməsi üçün flüedin əvvəlcədən kondisionerləşdirilməsi, membran texnologiyaları və mineral barajı kimi həllər araşdırılır.
+
+Mühitə təsirlər
+
+Çirklənmə mexanizmi və yaranılma mexanizmləri
+Rəqəmi—Səthə çıxarılan ağır metalların karbonhidrogenlərlə ko-emulsiya profili həftəmədən və emal zəncirinin çoxmərhələli təsirindən təsirlənir. Lokal səthə sızmaların yaratdığı yüksək piklər anlıq səth axını ilə birlikdə relyefin topoqrafik xüsusiyyətlərində dəyişmə yaradır. Torpağın karbonatlı strukturu və qəliz mineralların ağır metalların (xüsusən Cu, Ni, Zn) kompleksləşdirilməsinə müvafiq olaraq immobilizasiyaya və ya, mövsümi nəmlik dəyişiklikləri və analitlərin artımı ilə remobilizasiyaya bağlılıq yaradır. 0–5 sm konsentrasiyada yüksək bioloji aktivlik (mikrob–göbələk konsorsiumları) PAH-ların bir hissəsinin parçalanmasına gətirərək də, yüksək molekullu fraksiyalardakı dəyişikliklərə gətirib çıxarır.
+
+===== Abşeronda Torpaq Çirklənməsi Ağır Metallar və Geotermal İnteqrasiya Ramanı Suraxan.pdf | Page 6/9 =====
+Sajlamliq ve ekoloji risklar
+
+Uşaq akosporisiya səhərəsində qara torpaq təzahən inhalasiyasən və oral qəbul ilə HQ cami bəzi səhalərdə 1-dən yuxarı qiymət almış, Zn və Pb üçün spesifik səhayə lokaləndə HL1.2-2.8 analizinə yüksələndir. 
+TəhqıbaTəqibə görə EÇKR 1000-1004 dərəcəsində alınmattən çirkləndirir. Bəlli materiallarında kək-gövdə transfer faktorları N və Zn üçün >1 hallar göstərmiş, yem bitkilər üçün potensial məhdudiyyət səslənən yaranmışdır. 
+Dib çöküntülərdə Hg və As piklər su-biosenozlarda trofik ötürülmə riskini artırır.
+
+İntegrasiya olunan remadiya ssenari
+- Bioremadiasiya: yerli mikrobiota (Trichoderma, Aspergillus) və bakterial konsorsiumlarda ko-kulturasiya, biosurfaktant dəstəyi və nutrient optimallaşdırılması ilə TPH-də 6-12 ayda 30-60% azalma perspektiv.
+- Fitoremadiasiya: hiperakkumlyasiya və metal-tolerant növlər (Amplex, Phragmites, Halianthus) ilə fassad və buffer zonalarda metal çixami və evapotranspirasiyaya dəstəyin.
+- Elektrokimyəvi remadiya: karbonelli təhəllüclərdə selektiv kation migrasiyalarının stimullaşdırılması, xüsusən Cd və Pb  üçün təzə təmponlanmış rejimdə.
+- Torpaq yuyulması və stabilizasiya: səthlərdə və fosfat əsnas. bəziçilərində daxilolmaların immobilizasiyası; nəhili “qaynar nöqtələrdə” mexaniki qarışma.
+- Geotermal inteqrasiya: Aşağı temperaturlu geotermal sularla torpaq və su ekosistemlərinin biostimulyasiyası (30-45°C) ssenarilər; ehzji-enerji EÇİ/CO2 azaldır səviyyə.
+
+===== Abşeronda Torpaq Çirklənməsi Ağır Metallar və Geotermal İnteqrasiya Ramanı Suraxan.pdf | Page 7/9 =====
+Geotermal suların perspektivli və ekoloji cəhətdən təhlükəsiz istifadəsi geotermal enerjinin elektrik istehsalı və istilik məqsədləri ilə istifadəsi Azərbaycanın sahilyanı və kommunal sektorlarında karbon izini azaltmağa kömək edir. Bununla belə, suda təhlükəli kimyəvi maddələrin olması ekoloji təhlükə yaradır: H2S tərkibi, silisium çökməsi, bor/arsen selektiv membranları və reaktivlərdə mineral çirklənmə. Geotermal suların “çirkli qazıntı” texnologiyaları ilə neftlə çirklənmiş torpaqlarda VOC (Uçucu Ürganik Birləşmələr) təmizlənməsi, həmçinin aşağı temperaturlu bioloji aktivliyin artırılması üçün tətbiqi mümkün görünür. Dünya təcrübəsi göstərir ki, perspektivli geotermal suların ekoloji problemlərin həllinə yönəldilməsi çox yaxşı nəticələr verir və bu, Abşeron üçün də aktualdır.
+
+İdarəetmə və səylərin cəlb edilməsi
+- Monitorinq və inteqrasiya: Çirklənmiş 38,500 ha-lıq sahə üçün vahid GIS platforması, real vaxt rejimində və məsafədən zondlama məlumatlarının inteqrasiyası.
+- Prioritetləşdirmə: Risk səviyyəsi üzrə (Hİ, ELCR, TPH) və sosial həssaslıq xəritələri ilə də müxtəlif sahələrin prioritetləşdirilməsi.
+- Təsərrüfatlaşdırma: SOCAR balansındakı 7,500 ha-lıq “yüksək təsir – aşağı dərəcədə çirklənmə” kateqoriyasındakı torpaqların (Bakı Ədədiyyə Zavodu) dayanıqlı təmizlənmə ssenarilərinin standartlaşdırılması (2,980–24,720 m² intervalında optimal planlaşdırılması).
+- Ekosistem xidmətləri: Təbiətin qorunması və bərpası, dayanıqlı yaşayış və geoturizm üçün ekosistem xidmətlərinin dəyəri müəyyən edilməsi.
+
+Elmi yeniliklər və metodologiya
+Tədqiqat sahəsi üzrə demonetizasiya və torpaq-mikrobioloji tədqiqatların nəticələri ilə tədqiqatların bio-geo-kimyəvi və fiziki-kimyəvi təhlili, həmçinin geotermal suların remediativ xüsusiyyətlərinin konseptual qiymətləndirilməsi kimi innovativ yanaşmalar araşdırılır. Mövcud dinamikaların təhlili, bəzi parametrlərin müəyyən edilməsi və gələcəkdə monitorinqin təmin edilməsi də nəzərdə tutulur.
+
+===== Abşeronda Torpaq Çirklənməsi Ağır Metallar və Geotermal İnteqrasiya Ramanı Suraxan.pdf | Page 8/9 =====
+Nəticə
+
+Abşeron yanmadasın kimyəvi yükək antropogenikaya və səhayə yükəsinə malik sistemlərdə torpaqda biogeokimyəvi səhədən fərql elementlərin miqrasiyasınının  araşdırılması ekoloji təhlükəsizlik və iqtisadi dayanıqlıq üçün  əhəmiyyətliir. 0-5, 5-25, 25-60 sm horizontları üzrə aparılan analizlər  Rəsmi və Sumqayıt şəhərlərində  neft və ağır metal səthələmsəsinin həm lokal, həm də areal xarakterli təzahürlərə “Sumqayıt”də daha yüksək yüklənmə əlamətlərinə  malik olması müəyyən edilmişdir. Ağır metalların torpaq, bitki və ət gölüntülərində toplanması, ətraf mühitin təşkil etdiyi mikrobiotanın adaptiv potensialı və geotermal suların enerji resursları kim mövğeyi yahan olan inteqrasiya olnmuş  enerji-eneqrji-idarəetmə trekinin yaradılması əsasdır. Bəzi yerlərdə kimyəvi obyektlərdə təmizlənmə komplekslərinin optimalaşdırılması, SOCAR balansındakı səhələrdə pilot reabilitasiya proqramları və geotermal texnologiyaların ekoloji risklər nəzarət alınmaqla təbii  Azərbaycanda ərroziyanın azaldılması və torpaq resurslarının bərpası üçün praktikal yol xəritəsi formalaşdırılıb.
+
+Tövsiyələr
+- Samaxı üçün qısa müddətli: qayan hövzələrin mexaniki xəriltməsi və stabilləşdirmə; orta müddətli: bio/fitoremediasiya konsepsiyaları; uzun müddətli: geotermal süluk dəstəyilə SVE biostimulyasiyaya.
+- Ramani üçün  ağır lokalda torpaq yumrulaşma və fitorstabilizasiya kombinasiyası; gil-karbonat zonalarında elektrokinektik üsullər.
+- Ağır metal mötərizəsində bioyararlılıq əsaslı indikator (DTPA, Əlfəzəya qradientləri) standartlaşdırılması.
+- Mikrobiota bankının yaradılması və yerli ştammların bioteknoloji tətbiqi.
+- Geotermal süluklərin səthərdən təmizlənməsi üçün membran və kimyəvi kondisionlaşdırma xəttinin pilot tərtibi.
+- Məlumatların əlçat platforması ilə paylaşılması, elmi və təhsil proqramlarının dəstəyi.
+
+===== Abşeronda Torpaq Çirklənməsi Ağır Metallar və Geotermal İnteqrasiya Ramanı Suraxan.pdf | Page 9/9 =====
+Gələcək və gələcək illər
+Gələcək tədqiqatlar mövsumi dövrlərdə əhəmiyyətli monitorinq, 3D geostatistik modellər. in-situ sensor qabacalan və əhəmiyyətli dərəcədə inteqrasiyalamp həyata davam etdirilməsinə çalışılmalıdırır. Torpaq - su - hava intefeysin idarə olunması üçün çoxsahəli tədqiqatların mexanizmin strategiyası əhəmiyyat daşıyır.
+
+İstifadə olunan ədəbiyyat
+1. Ekosistem Davamlılığını və Ağır Metalların Dinamikası: Abşeron Fəaliyyəsi; RegionalTədqiqat Seriyası, 2021.
+2. Kürdəmirgendə çirklənmiş torpaqların bioremediasiya: metodlar və tədqiqlar; Bakı Elmi Məruzələr Toplum, 2020.
+3. Geotermal sulardan kimya və ekoloji idarəetmə, Ehayi və Ətraf Mühit Anlayışları, 2019.
+4. Urban torpaqlarda HƏYVI və ELCR maddələr: metodlaji yanaşmalar, Xəzər Ətraf Mühit Jurnal, 2022.
+5. Abşeron mikrobiotanın biotexnologiyan və bioteknoloji potensials, Mikologiya Xəbərlər, 2023.
+
+Təşəkkür
+Tədqiqatın həyata keçirilməsində yardim olan, laboratoriya mütexəssislərinin və saha mühəndislərinin dəstəyi yüksək qiymətləndirilir. Geotermal suların hər təhki məsələlərinə görə müvafiq əhayi mütexəssislərinə minnətdarlığ bildirmək.

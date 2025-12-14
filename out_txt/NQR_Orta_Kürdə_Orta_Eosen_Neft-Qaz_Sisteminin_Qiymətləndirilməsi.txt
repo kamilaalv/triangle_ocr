@@ -1,0 +1,223 @@
+===== NQR Orta Kürdə Orta Eosen Neft-Qaz Sisteminin Qiymətləndirilməsi.pdf | Page 1/11 =====
+Xülasə
+
+Bu tədqiqat NQR-nin Orta Kür çökəkliyində daxilində yerləşən tektonik səka kimi geoloji quruluşunu, 
+litostratiqrafik pillələ­n­mə­sini, kollek­tor və təb­lo süxurların petrofiziki -geokimyəvi xassələrini, seysmik-
+struk­tur plan­­­laş­dır­ma­sını və neft- qaz sis­te­minin regional miq­yas­da is­tə­mə mex­a­nizm­ni kərtorofli qiymətləndirir.
+Araşdır­ma 1930-cu illərdən bəri təp­lan­mış səka və labo­ra­tor məlumatlarının sin­te­zinə, 2D/3D seysmik 
+prof­fil­lərin rein­ter­pre­tasiy­asına, qazma və süxur nü­mu­nə­lərinin pet­ro­fiziki ana­li­z­lə­ri­nə, həm­çinin Orta Eosen 
+daxil ol­maq­la Mezozoydan Neogenə qədər olan çöküntü komp­lek­si­nin müq­ayisəli təd­qi­qi­nə əs­as­lan­ır. Nəticələr 
+göstərir ki, NQ­R Yu­ra­ya qə­dər for­ma­laş­mış re­gional dərin qırıl­mal­arla bir-birin­dən ayrılan tek­tonik blok­lar­dan 
+ibarət olub, 34 lo­kal struk­tur səviy­yə­sin­də ay­dın­laş­dırıl­mış antikli­nal və kom­bin­ləş­miş tələ­lər möv­cud­dur. Səka­də 
+Maykop, Tər­tar, Ço­rak, Kara­qan, Konk, Sar­mat, Si­rak, Meo­tis, Pont və Moh­sul­dar qatı­ları li­to­strat­iq­rafik 
+sütunun əsas ele­ment­lərini təşkil edir. Kol­lek­tor xü­susiy­yət­ləri ətra­f­lı apa­rıl­mış pet­ro­fiziki qiymətləndirmə 
+göstərir ki, çö­kül­mə­n­in müx­tə­lif mərhə­lə­lə­ri­nə a­id pa­ra­metr­lər əmələ gəl­miş; bu­nun­la belə, Orta Eo­sen - 
+Dəmir­gap­-U­dal­bo səka­sı is­ti­na­də ol­maq­la - yuxa­rı kol­lek­tor xü­susiy­yət­ləri dəqiqləş­diril­miş, bir sıra axtarış 
+səhalərində Orta Eo­sen­dən son­ra­ya şa­mil olu­n­an neft axın­ları ol­du­ğu ed­ilmiş­dir. Ost Eosen kar­bo­na­t­la­rı­nın 
+kar­bo­na­t­lıq medi­anı 63.7-70.0% in­ter­va­lı­n­da də­yi­şir ki, bu da kar­bo­nat ske­let­li kol­lek­tor­la­rın di­a­ge­netik 
+tari­xi­ni və key­fi­y­yə­ti­ni müəy­yən edir. Qi­ra­q­sə­mən, Bö­yük Pa­lan­tokan və Qərbi Gür­dənd­ağ struk­tur­la­rın­da 
+mə­s­a­məlilik ən yük­sək qiymətlərə çatır; şimal-qərbdən cə­nub-şərqə doğru ko­mi-sü­zülmə xas­sə­lə­rinin artımı 
+fa­siyəs keçid­ləri və bas­dırıl­ma dərin­li­yi
+
+===== NQR Orta Kürdə Orta Eosen Neft-Qaz Sisteminin Qiymətləndirilməsi.pdf | Page 2/11 =====
+Giriş
+NQR-da geoloji tədqiqatların tarixi 1930-cu illərdən başlanmış, ərdıçiliyə regional geologiyaya, mühəndis-geologiyaya, seysmik kəşfiyyat, struktur geoloji xarakterizə və qazma işləri ilə zənginləşdirilmişdir. İlk mərhələdə axtarış-konseptual yanmaşa Mesosöy yaşlı öchüntülərin potensialına fokuslanmış, lakin daha sonra regional geokimyə və seysmik sübutlar Orta Eosen öchüntülərinin həm mənbə, həm də kollektor kimi rolunu aktuallaşdırır. Axtarış quyu sinaqları Orta Eosendən bir neçə sahədə sabit neft axınlarını təsdiq etmişdir ki, bu da təkcə litoloji kollektorların deyil, həm də tektonik- fazalarla əlaqədar strukturların olması ilə əlaqədardır.
+
+Regional geoloji-tektоnik proses
+
+NQR Orta Kür çökəklıyinin daxili tektonik sahəsidir. S̈ahənin tektonik arxitekturasını formalaşdıran əsas elementlər Yürəyə qədər aktiv olmuş regional derin qırılmalar sistemidir. Bu qırılmalar nəticəsində sahə blok-tektonik mozaikaya parçalanmış, bloklar üzrö differensial hərəkətlərə və sonrakı qaldırılma mərhələlərində tölölərin polifazal genişlənməsinə səbəb olmuşdur. Qırılmaların ümumi-striki Simal-Qərb-Cənub-Şərq və Simal-Şərq-Cənub-Qərb istiqamətlərində kəsişmə destəkləri ilə təmsil olunan, brekçiyalarında listrik xarakterli normal komponent, brekçiyalarında isə sağa-solärişmə və ya sola-sarıışma törəbilən qırılma komponentləri müşahidə edilir. Bu struktur dislokasiyası 34 lokal strukturun formalaşmasına səbəb yaratmış, antiklinal, blok-monofaz və stratigrafik-kombinə tölölərin spektrini genişləndirmişdir.
+
+===== NQR Orta Kürdə Orta Eosen Neft-Qaz Sisteminin Qiymətləndirilməsi.pdf | Page 3/11 =====
+LİTOLOGİYAYA VƏ FASIƏS PƏRGƏNƏLƏRİ
+
+Şəhrin litostratrafik sütunu Paleogendon Neogenə qədər bir neçə regionda geniş yayılmış komplekslərlə təmsil olunanur:
+
+- Maykop kompleksi (Oligosen-Aşağı Miosen): əsasən gil, mergellər, yerli silt və nazik qumta arakeşiklərla; reqional mənbə şixsuru kimi xüxusi əhəmiyyət daşıyır.
+
+- Tərzən-Çökrak-Qaraqan-Konk məq.yəsinə dayisən karbonat-terrigen əridiciliyklər; karbonatlı laylarda ikinci dərəcəli dolomitləşmə nə mikrobiofritalanma anudə alınır.
+
+- Sarmat-Şirak: dayaz dəniz karbonatları, bəzi zonalarda yüksək bioklastik tərkibli tobasirəli yataqlar; kollektor potensiali lokal olaraq yüksəkdir.
+
+- Meotis-Pont: dayazsublitoral terrigen əridiciliyklər, kanal və barmagı delta facies keidiləri; selektiv kollektor zonaları əmələ gətirir.
+
+- Məhsuldar qatlər (PS): qalın mə/- qumsal əridiciliyk, çoxtərəfli kollektor pakətləri; üst ortik kimi gillər effektivdir.
+
+Bu əridiciliyk nəzərində Orta və Üst Eosenin karbonat-terrigen kompleksləri ayrıca vurğulanmalıdır, çünki Orta Eosen kollektor və mənbə rolunun üst-üstə düşməsi baxımından strategiya əhəmiyyət kəsb edir.
+
+Material və metodlar
+
+Tədqiqat aşağıdakı material toplunsuna əsaslanmışdır:
+
+- 20 Seysmik profiller (təqribən 4200 xotti-km) və məhdud 3D bloklar; spektral dekompozisiya, AVO və amplitud atribut analizləri aparılmışdır.
+
+- 37 quyu üzər karotaj (GR, SP, dərinlik rezistivlikləri, akustik DT, sıxlıq RHOB, neytron NPHI, nitrat maqnit rezonansı 12 spektrləri) və 12 quyu arası karotaj korelyasiya.
+
+- 148 nümun siltindri üzər petrofiziki tədqiqatlar (məsaməlilik, keçiricilik, kapilyar təzyiq, MICP, nazikşəlayd petroqrafiyası, XRD).
+
+- 56 üzər geokimyəvi nümunəsi üzər 700, piroliz (S1-S2-Tmax), kərgən FTIR və Rock-Eval gostəriciləri, Ro# ölçmələri.
+
+- PVT analizləri və formasiya testləri (DST) ilə alınmış axın göstəriciləri.
+
+Metodoloji olaraq petrofiziki parametr inversiyası, elektro-facies təsnifatı, çoxdəyişən klasterləşdirmə (k-orta, HCA), Gassmann maye əvəzlənməsi modelləşdirilməsi və ehtimal əsaslı (Bayes) rezervuar xassələri proqnozu tətbiq edilmişdir.
+
+===== NQR Orta Kürdə Orta Eosen Neft-Qaz Sisteminin Qiymətləndirilməsi.pdf | Page 4/11 =====
+Seysmik və struktur interpretasiya
+
+Seysmik kəsilişlərdə Orta-Üst Eosen sərhədlərinin güclü reflektorları izlənilir; onlarla bağlı amplitud anomaliyaları lokal olub qaz süxurlarının kontaktına yaxınlığında AVO sinif Iip yanamasını nümayiş etdirir. 34 lokal struktur aşağıdakı tipologiyada qruplaşdırılmışdır:
+- Səda antiklinalar: Qaraçəsəmə, Böyük Palantökən, Qərbi Gürzundağ - yüksək amplitudlu, yaxşı bağlanan örtük qülləri ilə.
+- Qırılma ilə məhdudlaşan blok tələlər: Dəmirli-Düdəno, Səmayıl-Çalabirdağ, Sıxanlı-Qobustan - lateral sızma riskləri mövcuddur.
+- Stratiqrafik-kombinə tələlər: Mədit-Pont keçirici klınallarında qumluq pıng-açıq zonaları.
+
+Struktur xəritələrdə şimal-qərbdə dərinliyi artan, cənub-şərq tərəf isə dayazlaşan struktur yüksəkliklər müşahidə edilmişdir. Bu gradient keçmiş-süxurların xassələrinin və neftin termal təsirinin regional dəyişimini izləməyə imkan verir.
+
+Petrofiziki və kollektor xassələri
+
+Ötən illərdə karbohidratlarla karbohidratlı quyuların 83.7-100% intervalında qaz (keşiyyatiya XRD üzrə), təktəbəq baxımından sparit-mikrit matrisi, bioklastik komponentlər və səmt dolomitləşmə üstünlük təşkil edir.
+
+Məsaməlilik:
+- Qaraçəsəmə: 14-18% (orta 15.6%), effektiv mD 5-38 (orta 17 mD).
+- Böyük Palantökən: 12-17% (orta 14.2%), mD 4-26 (orta 12 mD).
+- Qərbi Gürzundağ: 13-19% (orta 15.7%), mD 6-41 (orta 19 mD).
+- Dəmirli-Düdəno (üstünə səthə): 6-10% (orta 7.8%), mD 0.1-2.3 (orta 0.7 mD).
+
+Orta Eosen terrigen kollektorlarında, rassitlərin şimal-qərbdən cənub-şərqə dəyişmə məsaməliliyi 10-18% diapazonunda sabitləşir, keçiricilik isə 3-25 mD aralığında dəyişir. NMR ¹H spektrləri iki modal piki göstərir. 2-8 ms (kapilyarlar bağlı mikro-məsamələr) və 25-80 ms (intergranulyar məsamələr) olmaqla başlıca fraksiyaların həcmi ilə bağlıdır.
+
+Hərəkətli maye həcminin (FFI) 0.45-0.62 səviyyəsinə çatdığını göstərir. Kapilyar təzyiq əyriləri (MICP) giriş təzyiqi 0.8-2.1 MPa arasında olub, effektiv məsamə boğazları 0.15-0.45 mikron intervalında qiymətləndirilir.
+
+===== NQR Orta Kürdə Orta Eosen Neft-Qaz Sisteminin Qiymətləndirilməsi.pdf | Page 5/11 =====
+Üst Eosen karbonatlarında petrofisiki qeyri-bircinslilik diagenetik dəyişikliklərlə əlaqədardır; sementləşmiş zonalar (kalsit-sement), qismən çökmə və mikro-dolomit mozaikləşməsi məsamə olaqəliyini lokal gücləndirir. Kərtiklik indeksi (Eshelby əsaslı elastiklik modulundan qiyətləndirilmiş) 0.52–0.63 aralığında olub, hidravlik çatlatma üçün zəruri mexaniki pərçələnmə əsasıdır.
+
+Regional qeyri-bərabərlik trendləri
+
+Simal-qərb kəsədən cənub-qərb doğru kollektor xassələrinin artımı üç amillə izah olunur:
+
+1) Facies keçidi: proksimal rampdan distala keçid zamanı bioklastik karbonatların daha az gil pərçələnməsi və artan mikrofrakturalanma.
+
+2) Basdırılma anizotrop stress: cənub-qərbdə nisbi dayaz basdırılma sementasiyaya dəvəcosini azaldır, məsamə olaqəliliyini qoruyur.
+
+3) Tektonik mikrofraktura səviyyə: kəsiyin qırılma dərəcləri ilə bağlı mikrofrakturalanma kollektorların effektiv keçiriciliyini artırar.
+
+Bu trənd seysmik atributlarla (sweetness və koseritmə atributları) və quyu məlumatları ilə uyğunluq nümayiş etdirir.
+
+Geokimyəvi və məsamə sıxlıqlar
+
+Maykop kompleksinin TOC dəyərları 1.4–3.2% (orta 2.7%), kerogen tipi II–III aralığadır. Tmax göstəriciləri 430–446°C, vitrinitlərin refleksiyası Ro 0.62–0.85% olub, yağ pəncərəsini aşağı-orta hissəsinə uyğun gəlir.
+
+Orta Eosenin gil-marş paketlərində TOC 0.9–1.8%, kerogen tipi II–III, termal yetismə Ro 0.58–0.75% səviyyəsindədir. Ekstrakların GC-MS profilində Pr/Ph 1.4–1.8 steran paylanmasında C27/C29 nisbəti 0.9–1.1 bu da qərisiq (deniz-self) üzvi maddə mənbəyini göstərir. Sist karbohidrogen xammal baxımından Paleogenin perspektivli özf keçiriciliyə görə təzələnir; brittlik indeksi yüksək olan Üst Eosen karbonat-marş intervalları çoxazlı çatlatma ilə müsbət reaksiya verməyə meyllidir.
+
+===== NQR Orta Kürdə Orta Eosen Neft-Qaz Sisteminin Qiymətləndirilməsi.pdf | Page 6/11 =====
+Neftin  analoqalmasi  və  miqrasiyasi
+
+Miqrasiya  modeli  iki  mərhələni  əhatə  edir:
+- Erkən mərhələ (Miosen  əvvəli):  diffuz  lateral  miqrasiya,  lokal  təbəqələrdə  qazın  erkən  akkumulyasiyasi.
+- Gec  mərhələ  (Miosen-Pliosen):  regional  kompaksiyalasma  və  ortiq  gillərin  boşlanmasi  ilə  həm  lateral,  həm  də  şaquli  miqrasiya  intensivləşir;  dərin  qırılmalar  boyunca  kanallarnınlərarası  miqrasiya  müşahıdə  edilir.
+
+Süxurların  effektivliyi  Maykop  gilləri,  Üst  Eosen  mərzləri  və  Məhsuldar  qatların  inco  gilləri  ilə  təmin  olunur.  Qaz-su  və  neft-su  kontaktları  seysmik  reffektik  və  quyu  təstlərinə  uyğunluq  təşkil  edir.
+
+Qazın  təstəri  və  azan  geologiyası
+
+Orta  Eosen  intervallarından  aparılmış  DST  və  perforasiya  sınaqları  bir  sıra  sahələrdə  sənaye  əhəmiyyətli  axınları  təsdikləmişdir.
+- Qaraqkəsəm-3:  14-18  t/gün  neft,  GOR  80-120  m3/m3,  API  34°,  su  kəsiri  <5%.
+- Bəlyuk  Palantıken-2:  9-12  t/gün  neft,  GOR  150-200  m3/m3,  API32°,  su  kəsiri  7-10%.
+- Qərbi  Gürədəndi-1:  11-16  t/gün  neft,  qazınlıq  qaz  20-40  min  m3/gün.
+
+Dəmirtape-Ulabanda  sahəsində  zonf  keçiricilik  səbəti  ilə  axınlar  qeyri-sabit  olmuş,  stiming  və  mikro-qatlatma  talab  etmişdir.
+
+Hesablamalar  və  risk
+
+Struktur  xəritələr  və  net  -  gross  payları  nəzərə  alınmaqla  aparılmış  ilkin  komsi  qiymətləndirmə  (STOIIP)  seçilmiş  3  struktur  üçün  aşağıdakı  kimidir:
+- Qaraqkəsəmən:  Pmean  18.6  MMtəq.,  P90  10.2,  P10  29.4;  PoS  (geoloq)  0.37
+- Bəlyuk  Palantıken:  Pmean  12.1  MMtəq.;  PoS  0.32.
+- Qərbi  Gürədəndi:  Pmean  15.4  MMtəq.;  PoS  0.38
+
+Risk  komponentləri:  yığlanma  və  zamanlama  (0.75),  kollektor  dərəmliyi  (0.8),  suxurmadlıq  (0.8),  təbəqə  bağlantısı  (0.7).  Dəmirtape-Ulabanda  kollektor  riskinin  0.4  səviyyəsində  olması  ümumi  PoS-u  azaldır.
+
+===== NQR Orta Kürdə Orta Eosen Neft-Qaz Sisteminin Qiymətləndirilməsi.pdf | Page 7/11 =====
+Rezervuar modelləşdirilməsi və onun simulyasiyası
+
+Petrofiziki kəsiyin xüsusiliyilə ko-krinqi ilə qurulan statik modeldə elektrofasiyas əsaslı bədənlər (kanal-barmaq delta qumları, bioklastik karbonatlar, gil ötəkləri) ayrılmışdır. Dinamik simulyasiyalar (qara neft modelı) Orta Eosen karbonatlarında orta-perm kollektorların təbii enerji mexanizmini həmdəki hossas su paylanması ilə korrelyasiya etməsidir. Su vurulmasi ssenariləri göstərir ki:
+- Qarabağarəm üçün 5-kulminasiyalı qazla 12 illik dövrdə 24-28% əməli əmələ mümükündür.
+- Bəyiik Palantıken üçün şaquli heterogenlik səbəbi ilə seçməli su vurulması tələb olunur, ərza 18-27%.
+- Qərbi Günəşli üçün ərzan qaz əvəzli nezeratı ilə 21-25% ərpa.
+
+Sist karbohidrogen pançerosində, çoxazlı çatlatma dizayni (klaster intervalları 12-15 m, prop pant yüklenməsi 1.2-1.8 t/m) ilə başlanğıc istehsal 25-45 bbl/gün, 12 ay yarıanma müddəti ilə proqnozlaşdırılır.
+
+Diaqnetik və meəaniki xassələr
+
+Karbonat kollektorlarında məsamə sistemlərinin inkişafı üçün əsas diogenetik mexanizmlər:
+- Selektiv çözünmə: bioklastik komponentlərin selektiv çöünməsi ikincil məsaməli artırar.
+- Dolomitləşmə: inçə kristalli dolomit mozaikası ilə mikro-məsamə səbəbəsi.
+- Sementasiyanıa: kalasit-sement ortukları məsamə keçidlərini daraldır; mikrofrakturalanma bu effektin bir hissəsini kompensasiya edir.
+
+Mekanik baxımdan dinamik Young modulu 27-34 GPa, Poisson əmsalı 0.22-0.28 aralığında qiymətləndirilib; bu da kəvrak zonaların seçmə perforasiyası üçün əsas verir.
+
+Paleogen sistarinin perspektivliliyi
+
+Paleogen gil-sist komplekslərinin keçiriciliyi 10-4-10-3 mD səviyyəsindədir. Bu səbəbdən perspektivlik iki sərtə bağlıdır:
+- Kəvıraklik və təbii frakturalanma: karbonatlıq medianının 63.7-70.0% olması qırılk komponentlərin üstünlüyünə işarə edir.
+- Termal yetişmə: Ro 0.7-0.9% diapazonunun hədəflənməsi sıxma sonrasında axın üçün optimaldır. Bununla belə, istehsal texnologı intensivli yuksək həssasdır və iqtisadi səmərəlilik faktura səbəbəsinin davamlılığına bağlıdır.
+
+===== NQR Orta Kürdə Orta Eosen Neft-Qaz Sisteminin Qiymətləndirilməsi.pdf | Page 8/11 =====
+Migrasiya yolları və təbəqələrarası
+
+Dərin qırılmaların kəsildiyi zonaları boyunca şaquli miqrasiya kanalları formalaşmış, lateral miqrasiya isə Cənub-Şərq və Şimal-Şərq istiqamətlərində davamlı maili və gil örtükləri altında stabilləşmişdir. Təbi arxitekurası aşağıdakı kimidir:
+
+- Domanik tipli karbonat bədənlər üzorində ortak gilləri ilə bağlı kamərələtməyin həcmlər.
+- Qırılma blokları qonşılarında yastan ping-aut zonalarında toplanması.
+- Meotis-Pont səthbodi komplekslərində lateral suzümdəliklə kombinə olunmuş stratiqrafik təbəqələr.
+
+Regional tendensiyaların interpretasiyası
+
+Cənub-qərbdən şimal-şərqə hərəkət-süzülmənin artımı neft keyfiyyətinə də əks olunur: API 32-38° aralığında dəyişir, cənub-qərbdə viskozite yüksək, şimal-şərqdə isə viskozite aşağıdır, bükür 0.7-1%, cənub-qərbdə isə viskozite asfal, bükür 0.4-0.8%-ə enir. QOR da uyğun tendensiya göstərir (80-220 m3/m3). Bu gradient qaz-kondensat yataqlarında və facies-litologiya fərqləri ilə izah edilir.
+
+Axtarış strategiyası və prioritet hədəflər
+
+- Orta Eosen karbohidratlarının yüksək karbohidratlı akkumlyasiyaları: Qarabağ, Bəylik Palantökən, Qərbi Gərandər;
+- Üst kəsif qazmaları üçün prioritet.
+- Stratiqrafik kombinə təbəqələr: Pont-Meotis qumluq ping-autları, amplitud anomaliyaları ilə tutarlı səthlərdə
+- Domirtaş-Udalmı: kollektor indeksləri zəif olduğundan seysmik-atribut inteqrasiyası çərçivəsində axtarışlar və pilot stimulyasiya proqramı ilə məhsuldarlığı qiymətləndirmək;
+- Paleogen sistləri: yüksək karbonatlı, kiçik altlaylarda qarşılıqlı əlaqə ilə sinaq quyuları; mikroseysmik monitoring aparılır.
+
+Məhdudiyyətlər və qeyri-müəyyənliklər
+
+Seysmik kollektor qabiliyyəti 25–30 m-dan kiçik kollektor linslərinin aşkarlanmasını çətinləşdirir. Qamma-qamma səthlərində gil fraksiyasının sıxılması riskləri mövcuddur; bu səbəbdən NMR və quru nüvə analizi ilə kalibrasiya əsas şərtdir. Geokimyəvi göstəricilərdə lateral heterogenlik TOC və kerogen tiplərinin sahə üzrə dəyişkənliyini artırır. Risklərin idarəsi üçün inteqrasiya olunmuş geostatistik yanaşma və mərhələli qərar ağacı tərtib edilməlidir.
+
+===== NQR Orta Kürdə Orta Eosen Neft-Qaz Sisteminin Qiymətləndirilməsi.pdf | Page 9/11 =====
+Məqalə
+
+MQR-nin tektonik bloklanması və Yerə qədər formalaşmış dərin qırılmaların sonrakı reaksiyasıyası nəfəqaz sisteminin zamanlamasına birbaşa təsir etmişdir. Maykop tipli neftlərin geniş panarəsində yetişməsi də Orta Eosen kollektorlarının inkişafı paralelləşmiş, təbəqələrin baslənmə vaxtı ilə yüksəlmə vaxtı arasında uzunmüddətli çöküntü toplanması şimal-qərb zonasında, daha sürətlə olmuşdur. Kollektor xüsusiyyətləri sahə üzrə ümumən əif olsa da, miqrasiyanın miqyasında və selektivlik dərəcəsində fərqlənirlər və bu parametrlərin əks seyismik atributlarda əks olunduğu müəyyən edilmişdir. Oks Eosen karbonatlığının 63.7-70.0% median interals kollektor məsaməkanının optimalaşdırılmasına imkan verir, bu xüsusilə qaz karbohidrogen sənəntələrində mühüm meyardır.
+
+===== NQR Orta Kürdə Orta Eosen Neft-Qaz Sisteminin Qiymətləndirilməsi.pdf | Page 10/11 =====
+Məlumatlar
+
+- NOR Orta Kür çökəkliyinin cənub-şərq qıraq hissələrinin karbonik bloklu sahəsidir. Yura yaşlı çökmə kompleksinin şimal-qərb cinahında yerləşən antiklinal strukturların cənub-şərq periklinal hissələrində və sinklinal strukturların cənub-qərb qanadlarında geniş yayılmışdır.
+
+- 34 lokal struktur müəyyən edilmiş, onların bir qismi sadə antiklinal, bir qismi qırılma- blok və bir qismi stratiqrafik- kombinə tiplidir.
+
+- Litostratiqrafik şituf Maykop, Tərtər, Çobrak, Karagan, Konk, Sarmat, Şirak, Məotis, Pont və Məhsuldar qatlarından ibarətdir. Orta-Üst Eosen çöküntüləri kollektor və mənbə süxur rolunu oynayır.
+
+- Orta Eosen də süxur toplanmasının sonrakı mərhələlərində sənaye əhəmiyyətli neft və qaz yataqlarının aşkarlanması mümkündür, bu fakt kollektorların effektivliyini və təkolorın  toplanmasını təsdiq edir.
+
+- Çökmələrin əksəriyyətində keçmişdəki qalxma hərəkatləri əksidir, lakin Orta Eosen çöküntülərində (Dəmirli- tapa-Udabno istisna) yaza kollektor xüsusiyyətləri qeydə alınmışdır.
+
+- Üst Eosen karbonatlarında karbonatlıq mediani 63,7-70,0% olub, karbohidrogenlərlə stimullaşdırma üçün yararlı olduğunu artırır.
+
+- Qarağakəsəmən, Böyük Palantıkan və Qərbi Gürzalıdağ strukturlarda məsaməlilik və keçiricilik ən yüksək göstəricilərinə malikdir.
+
+- Şimal-qərbdən cənub-şərqə doğru kollektor xüsusiyyətlərinin artımı facies və diagenetik nöqsanlarla uyğundur.
+
+- Paleogen çöküntülərinin perspektivliyi əhəngiçiciliklə məhdudlaşır, lakin tektonik stimullaşdırma ilə milyon potensial saxlayır.
+
+- Tədqiqat nəticələri rayonun neft-qaz perspektivliyinin dəqiqləşdirilməsi və prioritet kəşf iştiqamətlərinin seçilməsi üçün praktiki əsas verir.
+
+===== NQR Orta Kürdə Orta Eosen Neft-Qaz Sisteminin Qiymətləndirilməsi.pdf | Page 11/11 =====
+Tədqiqatlar
+- Orta Eosen karbonat kollektorlarında hədəflənmiş yüksək dəqiqlikli 3D seysmik çəkilişlər və quyuların laylara tabeet edilməsi ilə seysmik atribut inteqrasiyası.
+- NMR məlumatları ilə kalibrlasiya edilmiş petrofiziki tədqiqatlar, elektro-facies əsaslı kollektor xarakterizə edilməsi.
+- Quraqçəmən, Böyük Palçıqton və Qərbi Gürgən-dənizdə erkən mərhələli pilot su vurulmasi ssenarilərinin sınağı; qaz örtüsü nəzarəti üçün ağızlı quyular.
+- Dəmirqapı-Udulluda çoxmərhələli çatlatma ilə pilot sınaq, mikroseysmik monitoring və fiber-optik cihazlarla quyuların proppant ilə dolu olmasının qiymətləndirilməsi.
+- Paleogen süxurları üçün bərk-lik xüsusiyyətləri, mineralogiya (XRD) və elastik modul kubu əsasında qırıl-ma nəticələrinin seçilməsi; səfəli stimullaşdırma dizaynları.
+- Geoloji qeyri-müəyyənliklərin azaldılması üçün mərhələli qərar ağacı və Bayes yenilənməsi; hövzə miqyaslı qiymətləndirmədə P10-P90 dəqiqliklərinin daraldılması.
+
+Yekun
+NQR-də 1930-cu illərdən bəri aparılan ardıcıl geoloji-geofiziki və petrofiziki tədqiqatların sintezi süxurların tektonik, litoloji və diagenetik xüsusiyyətlərini aydınlaşdırmışdır. Orta Eosen kollektorlarının təsdiqlənmiş axınları, Üst Eosen karbonatlarının yüksək karbonatlı medianı, həmçinin şimal-cənub-qərb-şərq kollektor zəssellərinin yayılmasının NQR-nin yazınmüddəti axtarış və istismar perspektivlərini gücləndirir. Bununla belə, hövzə-sıçılma əvifliyində, lateral heterogenlik və süxur-müəyyən-lik riskləri inteqrasiya olunmuş seysmik-petrofiziki-geokimyəvi yanaşma, pilot texnoloji sınaqlar və mərhələli investisiya qərarları ilə idarə olunmalıdır. Təklif edilən metodologiya cənub-in neft- qaz sisteminin daha dəqiq modelləşdirilməsinə və praktiki kəşfiyyat strategiyalarının optimallaşd-rılmasına şərait yaradır, bələdiyyə ilə, rayonun neft-qaz perspektivliyinin dəqiqləşdirilməsinə bilavasitə xidmət edir.

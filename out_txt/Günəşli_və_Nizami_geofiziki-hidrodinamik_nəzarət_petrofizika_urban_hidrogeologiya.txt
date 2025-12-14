@@ -1,0 +1,214 @@
+===== Günəşli və Nizami geofiziki-hidrodinamik nəzarət, petrofizika, urban hidrogeologiya.pdf | Page 1/15 =====
+Neft-qaz yataqlarının geofiziki və hidrodinamiki nəzəriyyəti, petrofiziki modelləşdirmə və urban hidrogeologiyası: Günəşli yatağı və Bakı şəhəri Nizami rayonu üzrə kompleks tədqiqat
+
+===== Günəşli və Nizami geofiziki-hidrodinamik nəzarət, petrofizika, urban hidrogeologiya.pdf | Page 2/15 =====
+Xülasə
+
+Bu tədqiqatda neft-qaz yataqlarının geofiziki və 
+hidrodinamiki üsullarla işlənməsində sistemli yanaşmanın 
+əhəmiyyəti, geofiziki məlumatların emalı və 
+interpretasiyası, hasilat həcminin laylar üzrə bölgüsü, lay 
+qalınlığının və neftlə doyumluq parametrinin təyini, 
+həmininin su basma proseslərinin idarə edilməsi kontekstində 
+tədqiqat şəbəkəsinin təşkili göstərilir. Dənizdə yerləşən 
+Günəşli yatağı üzrə petrofiziki xarakteristikaların 
+paylanmasının geomodelləşdirilməsi nəticələri təqdim edilir. 
+Paralel olaraq, Bakı şəhərinin Abşeron yarımadasının 
+cənubunda yerləşən Nizami rayonu üçün urban hidrogeoloji 
+şərait – təzyiqli (artezian) və az təzyiqli qrunt 
+sularının mənbələri, paylanması, minerallaşması və 
+infrastruktur dayanıqlığına təsiri – sistemli monitoring 
+veriləri əsasında dəyərləndirilir. Nəhayət, palçıq 
+vulkanizminin genezisi barədə üç əsas konsepsiya (endogen 
+mənşə, tektonik əlaqəlilik, karbohidrogen qazlarının 
+yaratdığı izafi təzyiq) regional neft-qaz sistemləri ilə 
+əlaqədə müzakirə olunur. Nəticələr göstərir ki, inteqrə 
+edilmiş geofiziki-hidrodinamik nəzarət həm yataq 
+səmərəliliyinin yüksəldilməsi, həm də urban təhlükəsizliyi 
+və risklərin idarə edilməsi üçün kritik əhəmiyyət daşıyır.
+
+===== Günəşli və Nizami geofiziki-hidrodinamik nəzarət, petrofizika, urban hidrogeologiya.pdf | Page 3/15 =====
+Açar sözlər: geofizika, hidrodinamika, petrofizika, geomodellaşdir­mə, Günəşli, Nizami rayonu, artezian suları, palçıq vulkanizmi
+
+Giriş
+Neftqaz yataqlarının işlənməsində informasiya qeyri-müəyyənliyinin azaldılması birbaşa hasilat səmərəliliyi, su basma rejiminin optimallaşdırılması və quyu şəbəkəsinin idarə edilməsi ilə əlaqəlidir. Bunun üçün geofiziki və hidrodinamik tədqiqatların sistemli aparılması, yəni daimi (planlı) monitorinq, vahid məlumat bazası, standartlaşdırılmış emal alqoritmləri və obyekt səviyyəli interpretasiya tələbolunur. Xüsusilə, işlənmə obyektlərindən çıxarılan hasilatın laylar üzrə bölüşü, layların effektiv qalınlığının və məsaməlilik-keçiricilik spektrinin təyini, sulanma və su həcmi balansının təhlili, neftlə doyumluluq (S_o) və su doyumluluğunun (S_w) dinamik izlənməsi kimi məsələlərin inteqrə həlli son nəticədə ehtiyatların səmərəli olunma dərəcəsinə təsir göstərir.
+
+===== Günəşli və Nizami geofiziki-hidrodinamik nəzarət, petrofizika, urban hidrogeologiya.pdf | Page 4/15 =====
+Bununla yanaşı, Abşeron yarımadasının urbanizasiya olunmuş hissələrində, o cümlədən Bakı şəhəri Nizami rayonunda yeraltı suların (artezian və qrunt) rejimi, mənbələri və paylanması infrastrukturun dayanıqlığı üçün kritik faktorlardır. Artezian sularının yüksək minerallaşması, təzyiq zonalarının lokal dəyişkənliyi və qrunt sularının mövsümü qalxıb-enməsi təhlükəli tikinti meydanlarında geotekniki risklər yaradır. Regional geodinamika və palçıq vulkanizmi isə həm yataq geologiyası, həm də urban hidrogeologiyası üçün əlverişli şəraitini müəyyənləşdirir.
+
+Tədqiqat sahəsi və məlumatlar
+Dənizdə yerləşən Günəşli yatağı, çoxlaylı paylanma, dəyişkən litologiya (qumlu-alevrolitli paketlər), şəxələnmiş su basma sistemi və uzunmüddətli istismar tarixi ilə monitoring üçün ideal poliqondur. Nizami rayonu Abşeron yarımadasının cənub hissəsində, şix təhlükəli ilə səciyyələnən, 1560-a yaxın qazılmış nəzarət və texniki quyuya malik urban sahədir; quyu dərinlikləri 10-120 m intervalında dəyişir.
+
+===== Günəşli və Nizami geofiziki-hidrodinamik nəzarət, petrofizika, urban hidrogeologiya.pdf | Page 5/15 =====
+Metodologiya
+
+1. Tədqiqat şəbəkəsinin təşkili və geofiziki məlumatların emalı
+
+- Sistemli nəzarət üçün seçilmiş istehsal və təzyiq müşahidə quyuları şəbəkəsi quruldu; hər klaster üzrə ən azı bir PLT (Production Log Test) və illik spektral gamma, sıxlıq-neytron, rezistivlik və səs sürəti karlotajı planlaşdırıldı.
+
+- Geofiziki məlumatların emalı mərhələləri: dərinlik uyğunlaşdırılması, mühit (borehole) düzəlişləri, ehtimal olunan alət driflərinin korreksiyası, litoloji markerlərin korrelyasiyası, palçıq filtrinin təsirinin və şaxələnmiş dəliklərin təsirinin qiymətləndirilməsi.
+
+- Vahid məlumat bazası: bütün quyulardan (100% əhatə məqsədi) geofiziki tədqiqat materiallarının rəqəmsallaşdırılması, metadata (alət tipi, kalibrasiya tarixi), keyfiyyət indikatorları və interpretasiya səviyyələrini ehtiva edən struktur quruldu.
+
+2. İşlənmə obyektindən çıxarılan hasilat həcminin bölgüsü
+
+- Laylar üzrə hasilat bölgüsü üçün PLT, temperatur profili, spinner, su kəsri (water cut) logları və səthdə çoxfazalı axın ölçərlərindən (MPFM) əldə olunan paylar birləşdirildi.
+
+- Marker-tracer tədqiqatları (nəzarətli polimer və ya kimyəvi izotoplar) vasitəsilə injektor-istehsalçı əlaqəsi xəritələndi.
+
+- Axın diaqnostikası (streamline və material balansı) ilə lay səviyyəli paylar kalibrasiya edildi.
+
+===== Günəşli və Nizami geofiziki-hidrodinamik nəzarət, petrofizika, urban hidrogeologiya.pdf | Page 6/15 =====
+3. Lay qalınlığının və petrofiziki parametrlerin təyini
+- Effektiv qalınlıq (h eff) net-to-gross (NTG) meyarı əsasında müəyyən edildi; kəsım meyarları: Vsh<0.4,  φ>0.12, k>1 mD.
+- Məsaməlik φ: sıxlıq-neutron karotasi və NMR T2 paylanması ilə; keçiricilik k: Timur-Coates və SDR (NMR) empirik asılılıqları, nüvə (core) analizləri ilə kalibrlənib.
+- Neftlə doyumluluq S_o: Archie (m,n kalibrlənmiş), shaly-sand modelləri (Dual Water) və kapilyar təzyiqdən çıxarılan doyumluluq-hündürlük funksiyaları.
+- Məsamə quruluşu, gözenə ölçülü paylanma və kapilyarlıq üçün J-funksiyaya normallaşdırılması tətbiq olundu.
+
+4. Sulaşma, su həcmi bölgüsü və qarşılıqlı əlaqə
+- Vezifə quyuları üzrə təzyiq-sərf testləri (build-up, interference) və impuls testləri ilə əlaqəlilik (connectivity) qiymətləndirildi.
+- Su həcmi balansı: injeksiya-hasilat mass-balance, su izotopları (δ18O, δ2H) və xloridlər üzrə tracing, Böyük Şor gölünün potensial hidroloji təsirinin ayrılması.
+- Sulaşma öncənin forması və sürəti streamline simulyasiya və 4D seysmik amplitud anomaliyaları ilə təyin edildi.
+
+===== Günəşli və Nizami geofiziki-hidrodinamik nəzarət, petrofizika, urban hidrogeologiya.pdf | Page 7/15 =====
+5. Güneşli yatağında geomodeller
+- 3D tor quruluşu (10–25 m horizontal, 0.5–1.0 m şaquli 
+addim), fəsilərilərin çoxnoqtəli statistik (MPS) 
+simulyasiyası.
+- Petrofiziki xassələrin krigingi, variogram modelləri, 
+anizotropiya; dinamik tarix uyğunluğu (history match) ilə 
+kalibrasiya.
+- Upskalinq və axın funksiyalarının (reqib keçirmələr, 
+kapilyar təzyiq əyriləri) təsnifatı.
+
+6. Nizami rayonunda hidrogeoloji tədqiqat
+- 1560 quyu üzrə sathətrafi və artezian sularının 
+səviyyələri, minerallaşma (TDS), sərtlik, mikroelementlər 
+(Fe, Mn), pH və EC (elektrik keçiriciliyi) 
+xarakteristikaları toplandı.
+- Elektrik tomoqrafiyası (ERT) və şaquli elektrik zondlaması 
+(ŞEZ) ilə su paylanması və keçirim zonalarının 
+xəritələndirilməsi.
+- Piezometrik xərritələr, mövsümi variasiyalar, yağıs-suvarma 
+balansı və Böyük Şor gölü səviyyə dinamikası ilə 
+korelyasiya.
+- Pompalama testləri ilə akuifer parametrləri (T, S) təyin 
+edildi; təzyiqli artezian linslərinin şimal-qərbdə 
+lokallaşması tədqiqlandı.
+
+===== Günəşli və Nizami geofiziki-hidrodinamik nəzarət, petrofizika, urban hidrogeologiya.pdf | Page 8/15 =====
+7. Palçıq vulkanizmi və yataq əlaqəsi
+- Regional palçıq vulkanlarının kataloqu, çıxış qazlarının (metan, etan, CO2) kimyavi-faz tərkibi.
+- Vulkan konuslarının aktivliyi ilə qırılma zonalarının (tektonik xəttlər) üst-üstə düşməsi.
+- Karbohidrogenlərlə doymuş dərin çöküntülərdə izafi təzyiqin izostatik boşalması mexanizminin modelləşdirilməsi.
+
+Palçıq Vulkanizmi və Yanacaq əlaqəsi
+
+there is a picture
+
+Tektonik qırılma zonaları
+CH4 Metan qazı
+C2H6 Etan
+CO2 Karbon dioksid
+Dərin çöküntülər
+Regional palçıq vulkanların kataloqu
+
+===== Günəşli və Nizami geofiziki-hidrodinamik nəzarət, petrofizika, urban hidrogeologiya.pdf | Page 9/15 =====
+Noticeler
+
+- Bütün quyularda geofiziki tədqiqat məlumatlarının araşdırılması və məlumat bazasının yaradılması: 100% quyularda GR; 92%-də rezistivlik; 87%-də sıxlıq-neutron; 34%-də NMR məlumatları mövcudlaşdırıldı. Dərinlik kalibrlənməsi səhvləri orta hesabla ±0.6 m-dən ±0.2 m-ə endirildi. Vahid məlumat bazası ilə lay markerlərinin korelyasiya dəqiqliyi 18% yaxşılaşdı.
+
+- Hasilat həcminin bölgüsü: PIT əsasında orta lay-pay göstəriciləri göstərdi ki, üst qumlu paket (Q1) istehsalın 46%-ni, orta paket (Q2) 39%-ni, aşağı paket (Q3) isə 15%-ni təmin edir. Su kəsri Q3-də daha aşağıdır (42%), Q1-də sulaşma sürətli (68%). Traser nəticələri 0.65-0.8 əlaqə əmsalı ilə injektor-istehsalçı cütlərini təsdiqlədi; kənar süzülmə dəhlizləri identifikasiya olundu.
+
+- Layların qalınlığı: Effektiv qalınlıq xərritələri Q1 üçün 8-18 m, Q2 üçün 5-12 m, Q3 üçün 3-9 m diapazonunda dəyişir; NTG orta 0.54. Variasiya şimal-cənubə doğru azalır, bu istiqamətdə incəlmə və gil tərkibinin artması müşahidə olunur.
+
+- Məsaməlik və neftlə doyumluluq: φ orta 0.18 (IQR 0.12-0.24), k geometriya ortası 25 mD (IQR 5-120 mD). Archie m=1.95, n=2.05 kalibr edilib. Başlanğıc S_o 0.62-0.78 intervalında; qatı qum səthələrdə shaly-sand korreksiyası ilə S_o 0.55-ə qədər enir. Effektiv qalınlıq-məsaməlik inteqralı (Kh) üzrə xərritələr dinamik semərəliliklə korrelyasiya göstərir (R=0.72).
+
+- Sulaşma və su həcmi bölgüsü: Su balansı injeksiya-hasilat nisbətini 0.93-1.07 diapazonunda saxladığımızı göstərdi; buna baxmayaraq, mikro-kanallarda seçmə axın (thief zone) səbəbindən lokal sulaşma anomaliyaları formalaşır. Streamline diaqnostikasi üzrə süpürmə semərəliliyi Q1 üçün 0.61, Q2 üçün 0.54, Q3 üçün 0.47-dir. 4D seysmikdə zəif amplitud zonaları sulu doymaların artımı ilə üst-üstə düşür.
+
+===== Günəşli və Nizami geofiziki-hidrodinamik nəzarət, petrofizika, urban hidrogeologiya.pdf | Page 10/15 =====
+- Güneşli geomodelleri: Dinamik uyğunluğunda esas meyarlar (su kesri, lay təzyiqi, qaz faktoru) 10 illik tarix üçün RMSE 7-12% aralığında saxlanıldı. Model göstəriciləri yeni quyu yerləşdirməsində 1P əlavə çıxarılma potensialının 3.8% artırdığını proqnozlaşdırdı, su basmanın yenidən yönləndirilməsi ilə Q2-də 9-14% nisbətən artımı gözlənilir.
+
+- Nizami rayonunda yeraltı sular: İki növ yeraltı sular təsnifləndi: (a) təzyiqli (artezian) sular – əsasən şimal-qərbdə, piezometrik səviyyə yer səthindən 1.5–3.0 m yuxarıya qədər qalxma meyilli, TDS 10–28 g/L; (b) az qalınlıqlı qrunt suları – 2–6 m dərinliklərdə, mövsümü amplituda 0.8–1.6 m, TDS 1–5 g/L. Böyük Şor gölünə yaxın sahələrdə xlorid-ion konsentrasiyası ilə səth sərviyyəsi dəyişkənliyi arasında güclü korelyasiya (R=0.81) müşahidə olundu. Suvarma intensivliyi yüksək ərazilərdə EC dəyərları 15–25% artmışdır.
+
+- Qeyri-bərabər paylanma: Şimalı-şərq təkinti sahələrində yeraltı suların paylanması heterogendir; ERT kəsiklərı linsevari yüksək keçiricilik zonaları və gil baryerləri göstərir. Bu heterogenlik lokal su yığılmaları və bünövrə altında udulmaları yaradılmasına səbəb olur.
+
+- Artezian sularının təhlükəsi: Şimal-qərb linsensiyalarında təzyiq daşınması bünövrəaltı yüksəldici qüvvələr yaradır; yüksək minerallaşma betonun sulfat korroziyasını sürətləndirir. Seizmik risklə birləşəndə torpaq-bünövrə qarşılıqlı təsiri zəifləyir, uzunmüddətli dayanıqlıq azalır.
+
+- Palçıq vulkanizmi: Aktiv konuslar əsas qırılma zonaları ilə səmtlənir; qaz çıxışı əsasən metan üstünlüyündədir (85–95%), CO2 2–8%, ağır homologlar 3–7%. Vulkan aktivliyi episodu ilə lay təzyiqində qısa-müddətli anomaliyalar arasında əlaqəsi qeyd olunur; karbohidrogenlərlə zəngin dərin çöküntülərdə izafi təzyiq palçıq kanallarından boşalması yataq-ölçülü stress paylanmasına təsir edir.
+
+===== Günəşli və Nizami geofiziki-hidrodinamik nəzarət, petrofizika, urban hidrogeologiya.pdf | Page 11/15 =====
+Müzakirə
+
+Geofiziki və hidrodinamiki nəzarətin sistemləşdirilməsi
+iğlənmə ssenarilərinin dəqiq tənzimlənməsi üçün birmenalı
+vacibdir. Tədqiqat şəbəkəsinə daxil edilən quyularda
+geofiziki məlumatların emalı, dərinlik korreksiyası və mühit 
+düzəliğləri aparılmadıqda lay-səviyyəli pay bölgsündə 
+sehvler süretlə yığılır. Bizim yanaşma hər bir quyu üçün 
+vahid emal protokol və lay markerlərinin regional 
+korelyasiyası ilə nəticə etibarilə daha sabit petrofiziki 
+həcmələr (φ, k, S_o) və effektiv qalınlıq xeriteleri təqdim 
+etdi. PLT və izotop/tracer məlumatlarının inteqrasiyası 
+hasilat həcmmin bölgüsünü yalnız statistik deyil, fiziki 
+əsaslar üzərində qurmağı mümkün etdi.
+
+Sulama idareetmesinde esas problem seçme axın dehlizləri və 
+heterogenlikdir. Streamline diaqnostikasi ilə identifikasiya 
+olunan thief zonaların izolyasiyası (gel, mikroşar, yaxud 
+diverter tətbiqi) və injeksiya profilinin düzəldilməsi su 
+süpürməsinin daha vəhid paylanmasına xidmet edəcək. Qapalı-
+gəpər sinmələri (baffle) və qırıq-kanal sistemləri 
+hidrodinamik testlerle tanınmalı, uyğun qəpələmə və ya su 
+basma trayektoriyası optimallaşdırılmalıdır.
+
+===== Günəşli və Nizami geofiziki-hidrodinamik nəzarət, petrofizika, urban hidrogeologiya.pdf | Page 12/15 =====
+Güneşli üçün geomodel nəticələri göstərir ki, dinamik tarixlə zənginləşdirilmiş petrofiziki paylanmalar (xüsusilə NTG və Kh xərritələri) yeni quyuların hədəflənməsi və laylar üzrə tamamlama strategiyasını dəqiqləşdirir. Shaly-sand korreksiyası aparılmadıqda S_o həddindən artıq qiymətləndirilir və su kəsri proqnozu təhrif olunur; bu, suyun erkən gəlməsinə gətirib çıxaran tamamlama qərarlarına səbəb ola bilər.
+
+Urban hidrogeoloji blok göstərir ki, Nizami rayonunda ikigət akvifer sistemi mövcuddur; təzyiqli artezian suları qərbdə lokallaşdır və yüksək minerallaşma ilə seçilir. Bu sular qruntlara infiltrasiyadan kimyəvi aqressivlik yaradır, beton-armatur sistemlərində korroziyanı sürətləndirir, həmçinin təzyiq daşınması vasitəsilə bünövrələrdə yuxarı itələmə qüvvəsi formalaşdırır. Şimali-şərq tikinti sahələrində qeyri-bərabər paylanma isə layihələndirmədə vahid dərinlikli drenaj həllərinin qeyri-kafi olduğunu göstərir; burada adaptiv, linse-korrelyasiyalı drenaj, qat-qat üzrə izolyasiya və yerli su toplama hovuzları tələb olunur. Böyük Şor gölünün sulu-duz təsiri ilə suvarma rejiminin üst-üstə düşməsi hidrogeokimyəvi mühitdə duzlaşma riskini artırır; bu isə torpaq mexanikası parametrlerinde (çəkilmə-şişmə) dəyişmələr doğurur.
+
+===== Günəşli və Nizami geofiziki-hidrodinamik nəzarət, petrofizika, urban hidrogeologiya.pdf | Page 13/15 =====
+Palçıq vulkanizminin genezisi ilə bağlı üç fikir inteqrativ şəkildə işləyir: (1) endogen mənşə – dərin çöküntü qatlarında su-palçıq qarışığının termobarik şəraitdə dehidratasiyası və qazla yüklənməsi; (2) tektonik əlaqəlilik – qırılma-sürüşmə zonaları boyunca sıxur mexanizması zəiflə­yir, maye-maddə miqrasiyası kanalları açılır; (3) karbohidrogen qazlarının yaratdığı izafi təzyiq – şist və gil qatlarında həddən artıq gözenə təzyiqi kanallarını aktivləşdirir. Bu proseslər birlikdə regional stress sahəsini modullaşdırır, həm yataq təzyiq paylanmasına, həm də urban sahələrdə seysmogeotektoniki risklərə təsir göstərir. Vulkan aktivliyinin artdığı dövrlərdə qaz axınının səthi-yaxın layları qızdırması və qaz sızmaları qrunt sularının kimyasını dəyişə bilər ki, bu da Nizami kimi sıx tikintili rayonlarda monitoring tələb edir.
+
+===== Günəşli və Nizami geofiziki-hidrodinamik nəzarət, petrofizika, urban hidrogeologiya.pdf | Page 14/15 =====
+Tövsiyələr
+
+- Bütün quyularda geofiziki tədqiqat məlumatlarının təmliiliyğini 95%+ səviyyəsində saxlamaq üçün illik audit və re-kalibrasiya proqramı tətbiq edilməlidir; məlumat bazasında sürətli QC flaqları, avtomatik anomaliya detektoru olmalıdır.
+
+- Hasilat həcmminin laylar üzrə bölgüsü üçün PLT dövrü 2-3 il intervallı ilə, injektorlar üçün tracer kampaniyaları 4-5 ildən bir təkrarlanmalıdırır; nəticələr dinamik modeldə müntəzəm yenilənməlidir.
+
+- Effektiv qalınlıq və məsaməlik parametrələrinin qeyri-müəyyənliyi Monte-Karlo simulyasiyaları ilə qiymətləndirilməli, qərar dəstək sistemlərində risk çərçivəsi nəzərə alınmalıdır.
+
+- Sulaşmaya qarşı selektiv izolyasiya, diverterləşdirilmiş su basma və zonalıq təmamlama texnologiyaları tətbiq olunmalı; injeksiya xətləri üzrə profilometrik nəzarət gücləndirilməlidir.
+
+- Nizami rayonda şimal-qərb artezian linesləri üzərində tikintidə: pre-drenaj (sıxma quyu sistemləri), katodik mühafizə, sulfat-ağır beton tərkibi, qatlı hidroizolyasiya və real-time piezometriya sistemləri məcburi olsun.
+
+- Şimal-şərqdə heterogen qrunt suları üçün ERT əsaslı layihə-layihələndirmə protokolu, adaptiv drenaj və yerli səviyyə tənzimləmə hovuzları planlaşdırılsın; Böyük şor gölü rejimi ilə koordinasiyalı suvarma cədvəlləri tətbiq edilsin.
+
+- Palçıq vulkanizmi risk xəritələndirilsin; quyu planlaşdırılması və urban planlaşdırmada tektonik xətlərdən təhlükəsiz məsafələr saxlanılsın; qaz sızmalarına qarşı geokimyəvi sensor şəbəkəsi quraşdırılsın.
+
+===== Günəşli və Nizami geofiziki-hidrodinamik nəzarət, petrofizika, urban hidrogeologiya.pdf | Page 15/15 =====
+Notice
+Tədqiqat göstərdi ki, neftqaz yataqlarının geofiziki və 
+hidrodinamiki üsullarla işlənməsində sistemli yanaşma – 
+genişləndirilmiş tədqiqat şəbəkəsi, standartlaşdırılmış geofiziki 
+emal, laylar üzrə hasilat bölgüsünün çoxmənbəli 
+kalibrlənməsi, petrofiziki parametr və effektiv qalınlıq 
+xəritələrinin dəqiq tərtibi – hasilatın optimallaşdırılması və 
+səmərəli su idarəçiliyi üçün fundamental şərtdir. Günəşli 
+yatağında qurulan geomodel dinamik tarixlə 
+uyğunlaşdırılaraq əlavə hasilat potensialı açmış, sulama 
+risklərini lokallaşdırılmışdır. Bakı şəhəri Nizami rayonunda 
+ikiqat hidrogeoloji sistemin – təzyiqli artezian və az 
+qalınlıqlı qrunt sularının – mənbə və paylanma 
+xüsusiyyətləri infrastruktur dayanıqlılığına birbaşa təsir 
+edir; qeyri-bərabər paylanma və yüksək minerallaşma 
+şəraitində geotekniki təhlükəsizlik ancaq davamlı 
+monitorinq və mühəndisi tədbirlərlə təmin oluna bilər. 
+Palçıq vulkanizminin endogen təbiəti, tektonik 
+xətlərlə əlaqəsi və karbohidrogen izafi təzyiq 
+mexanizmi regionun həm yataq sistemləri, həm də urban 
+mühiti üçün kəskin risk və fürsətlər yaradır. 
+İnterdisiplinar, inteqrə edilmiş nəzarət 
+yanaşması bu kompleks problemlərin idarə 
+olunmasında əsas açardır.

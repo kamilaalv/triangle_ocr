@@ -1,0 +1,191 @@
+===== Qarabağlıda inteqrasiyalı petrofizik seysmoloji qiymətləndirmə və seysmik dayanıqlıq.pdf | Page 1/12 =====
+Qarabağlı yatağında lay sular və kollektor xassələrinin inteqrasiyali petrofizik-seysmolojı qiymətləndirilməsi: modellər, nəticələr və dəniz infrastrukturunun seysmik dayanıqlığı
+
+===== Qarabağlıda inteqrasiyalı petrofizik seysmoloji qiymətləndirmə və seysmik dayanıqlıq.pdf | Page 2/12 =====
+Xəlasə
+
+Bu tədqiqat Cənubi-Xəzər hövzəsinin Şimal-qərb hissəsində yerləşən Qarabağlı neft yatağında kollektor xassələrinin sistemli qiymətləndirilməsi, lay sularının tip-mineralizasiya xüsusiyyətlərinin təhlili və neftlə doyma modellərinin qurulması məqsədilə aparılmışdır. 301 quyu üzrə koordinat və yüksəklik məlumatları, 31 quyu üzrə lay suyu analizləri, eləcə də dərin quyulardan götürülmüş nüvə nümunələrinin laborator nəticələri toplanmış və karotaj məlumatları ilə inteqrasiya edilmişdir. Litostratiqrafik baxımdan ərazi Pliosen və IV dövr çöküntüləri ilə yanaşı, Üst Tobaşir kaslilişinə aid karbonat və vulkanogen-çökmə süxurlarla təmsil olunur. Məhsuldar Qatın (MQ) aşağı hissəsi və alt şöbənin üst kaslilişindən götürülən nümunələrdə məsaməlilik 10-20% intervalında, laborator qaz permeametriyasına ekvivalent keçiricilik 22,3-132 mD (cəmi 0,02-0,13 μm2) diapazonunda qeydə alınmışdır. Karotaj məlumatlarının böyük hissəsi kollektor xassələrinin zəif və dəyişkən olduğunu göstərir; şist tərkibi SP metodikasi ilə qiymətləndirilmiş, məsaməlilik nüvə-karotaj kalibrasiyası ilə modelləşdirilmiş, keçiricilik isə məsaməlilik və su ilə geri dönmə doyma parametrləri ilə əlaqələndirilmişdir. Lay suyu resistivliyi müxtəlif temperaturlarda ölçülmüş Rw(T) üçün empirik eksponensial korrelyasiya qurulmuşdur; suyun kimyəvi tipi əsasən Na-Cl, mineralizasiya dərəcəsi 35–120 q/L intervalında qiymətləndirilmişdir. Qarabağlı yatağında neftlə doyma hesablamalarında Archie, Simandoux və Waxman–Smits yanaşmaları sınaqdan keçirilmiş, Rw-nin qeyri-müəyyənliyinin Sw nəticələrinə təsiri Monte-Karlo üsulu ilə qiymətləndirilmişdir. Seysmik baxımdan Xəzər dənizində mümkün güclü zəlzələlərin maksimal maqnitudasının 6,6–7,1 arasında dəyişməsi nəzərə alınmış, “Günəşli” sahəsindəki dərinlik platformaları üçün seysmik mühafizə hallarının analitik qiymətləndirilməsi təqdim edilmiş və normativ bazanın yenilanması tövsiyə edilmişdir. Nəticələr göstərir ki, MQ-nin aşağı hissəsində heterogen və şistləşmiş qumlu intervalda orta məsaməli, lakin yüksək kapilyar tutuculuğa malik rezervuar şərtləri mövcuddur; neftlə doyma modellərinə Rw-nin temperatur və mineralizasiyaya görə korreksiyası daxil edilmədikdə Sw 6–12% sistemat səhvlərlə təhrif olunur. Həmçinin seysmik risklər nəzərə alınaraq dəniz hidrotexniki qurğularında enerjiyə qənaət edən qurğular və spektral uyğunlaşdırılmış layihələndirmə meyarları zəruri hesab edilmişdir.
+
+===== Qarabağlıda inteqrasiyalı petrofizik seysmoloji qiymətləndirmə və seysmik dayanıqlıq.pdf | Page 3/12 =====
+Agar sözlər: Qarabağlı yatağı, Mahsuldar Qat, lay suyu, Rw, məsaməlilik, keçiricilik, neftlə doyma, SP metodu, South Caspian Basin, seysmik təhlilə, dəniz platforması.
+
+Giriş
+Cənubi-Xəzər hövzəsi dünya miqyasında dərin çöküntü hövzələri arasında ən yüksək çöküntü sürətləri və qalın Pliosen-IV dövr çöküntü paketləri ilə seçilir. Hövzənin Şimal-qərb seqmentində yerləşən Qarabağlı neft yatağı müxtəlif yaşlı litoloji komplekslərindən (Pliosen və IV dövr çöküntüləri, Üst Tabaşir karbonatları və vulkanogen-çökmə süxurları) kontaktında formalaşmış mürəkkəb kollektor tiplərini əhatə edir. Yatağın uzunmüddətli səmərəli işlənməsi üçün kollektor xassələrinin (məsaməlilik, keçiricilik, şist tərkibi, kapilyar davranış) və doymaların (xüsusən neftlə doyma, Sw) etibarlı qiymətləndirilməsi həlledici rol oynayır. Bu kontekstdə lay suyu parametrləri, xüsusilə Rw-nin temperatur və minerallaşmaya ilə dəyişməsi petrofizik interpretasiyanın əsas determinantıdır. Bu işdə Qarabağlı yatağında 301 quyu üzrə məkan məlumatları, 31 quyu üzrə lay suyu analizləri, neft-qazlaq inteqrasiyası və seysmoloji risk qiymətləndirməsi bir sistemdə birləşdirilmişdir.
+
+Geoloji quruluş və litostratigrafiya
+Hövzənin Şimal-qərb hissəsində Pliosen və IV dövr çöküntüləri yatımın əsas rezervuar potensialını təşkil edir. Məhsuldar Qatın aşağı hissəsi (sulu-çınqıllı qumlar, aralıq gillər) yüksək ritmikliyi, qalınlığı və fasiyal dəyişkənliyi ilə səciyyələnir. Üst Tabaşir kasigi karbonatı (dolospazit, mikrit) və vulkanogen-çökmə (tufalar, tufogen qumlar) süxurlarla təmsil olunur; bu kompleks hidrogeodinamiki baxımdan MQ ilə təm tərcid olunmasına da, yerli səviyyədə zəif su mübadiləsi ehtimalını saxlayır. Aşağı Kür çökəkliyinin dərin quyularından götürülmüş nüvə nümunələri MQ-nin aşağı hissəsi və alt şöbənin üst kəsilişinə aiddir; bu nümunələrdə diagenetik sementləşmə (kalsit, dolomit, yerli hallarda siderit), gil mineralları (illit, xlorit, kaolinit), feldşpat alterasiyası və üzvi maddə qalıqları petrofizik heterogenliyin əsas mənbələridir.
+
+===== Qarabağlıda inteqrasiyalı petrofizik seysmoloji qiymətləndirmə və seysmik dayanıqlıq.pdf | Page 4/12 =====
+Məlumat bazası və sahə təsviri
+- 301 quyu: koordinat və yüksəklik məlumatları geodeziya şəbəkəsi üzrə harmonizə edilmiş, vertikal referens AltıQ-2020 sisteminə transformasiya edilmişdir. Məkan paylanma modeli interpolasiyalə üçün variasiya analizi ilə yoxlanılmışdır.
+- 31 quyu: lay suyu nümunələri qazma və istismar mərhələlərində götürülmüş, səthdən laboratoriyaya izotermik konteynerlərdə daşınmış, elektrik keçiricilik, temperatur, ion tərkibi (Na+, K+, Ca2+, Mg2+, Cl-, SO4 2-, HCO3 -), ümumi sərtlik, TDS və pH ölçülmüşdür.
+- Nüvə: seçmə interval 18 quyu üzrə 124 planka, MICP (civə intruziyası), qaz permeametriyası, Helium porozimetriyası, quru və suda doymuş kütlə sıxlıqları.
+- Karotaj: GR.SP. dərin və orta məsafəli rezistivlik (ILD, LLS), neytron-porozimetr, sıxlıq (RHOB), səsi yayılma vaxtı (DT), yerli hallarda NMR T2 paylanması.
+- Seismik kontekst: sahə regional seysmoaktiv qırılmaların üzərində yerləşsə də, Xəzər dənizində maksimal gözlənilən Mmax=6,6-7,1 diapazonunda zəlzələ ehtimalı mövcuddur.
+
+Metodologiya
+Sıst tərkibinin hesablanması
+SP metodundan istifadə edilərək Vsh modelləşdirilmişdir. SP anomaliyaları üçün baza xətti su ilə qalin gil qatlarında qurulmuş, qumlu intervallarda SP defleksiyası temperatur və suyun mineralizasiyası üçün korreksiya edildikdən sonra Vsh nisbi indikatoru kimi kalibrlənmişdir. Yüksək mineralizasiyali lay suları şəraitində SP amplitudalarında azalma nəzərə alınaraq, Vsh hesablanmış regional SPmax-SPmin normalizasiyası istifadə edilmişdir. Kalibrləmə üçün GR ilə ikili atribut yanaşması (SP-GR krosplotu) tətbiq edilmişdir.
+
+===== Qarabağlıda inteqrasiyalı petrofizik seysmoloji qiymətləndirmə və seysmik dayanıqlıq.pdf | Page 5/12 =====
+Məsaməlilik modelinin qurulması
+
+Məsaməlilik RHOB-NPHI-DT üsulu ilə və onların növə nəticələri ilə korrelyasiyası əsasında qiymətləndirilmişdir. Nəva-karotaj əyriləşdirilməsi üçün 0,5 m vertikal pəncərə istifadə olunmuş, keyfiyyətə nəzarət üçün statistik ayrımlar (z-skora görə ±2,5 səviyyədə) atılmışdır. Litoloji üzrə ayrı-ayrı çoxamilli (multi-repressiva) modellər qurulmuş:
+
+- Qumlu intervallar: PHIT = a0 + a1*RHOB + a2*NPHI + a3*DT
+
+- Qum-gil qarışıq fasiyalar: PHIT = 60 + 61*RHOB + 62*NPHI + 63*DT + 64*Vsh
+
+R2 0,72-0,86 diapazonunda alınmış, orta kvadrat səhv 1,5-2,2 faiz-band təşkil etmişdir.
+
+Keçiricilik modelinin qurulması
+
+Keçiricilik k üçün iki üsul sınanmışdan keçirilmişdir:
+
+- Timur-Coates tipli əlaqə: k = C * PHIE^m * (Swi)^-n, burada PHIE effektiv məsaməlilik, Swi geri dönməz su doymasının qiymətidir. Kalibrləmə nəticəsində m≈3,1, n≈2,2, C isə litologiyadan asılı olaraq 2-8 aralığında dəyişmişdir.
+
+- Hidrodinamik axın zonaları (FZI): RAI = 0,0314*sqrt(k/PHI), FZI = RAI/PHIZ, burada PHIZ = PHI/(1-PHI). FZI klasterləri üzrə log-normal k paylanmaları yaxşı uyğunlaşma göstərmişdir.
+
+Doyumluğun hesablanması
+
+Lay suyunun müqaviməti Rw doyma modellərinin əsas parametri kimi qəbul edilmişdir. Üç petrofizik model tətbiq edilmişdir:
+
+- Archie (sistəzsiz qumlar): Sw^n = (a*Rw)/(Rt*PHI^m)
+
+- Simandoux (sist korreksiyalı): 1/Rt = Vsh/Rsh + PHI^m *Sw^n/Rw
+
+- Waxman-Smits (ion-mübadilə nəzəri alınmaqla): 1/Rt = (B*Qv*Sw + PHI^m *Sw^n/Rw), burada B temperaturdan asılı brin keçiricilik əmsalı, Qv isə gil səth yükü parametridir.
+
+Hər quyu üzrə m, n, a parametrləri nəva-karotaj uyğunlaşması ilə kalibrlənmişdir (m=1,85±0,15; n=1,95±0,20; a≈1).
+
+===== Qarabağlıda inteqrasiyalı petrofizik seysmoloji qiymətləndirmə və seysmik dayanıqlıq.pdf | Page 6/12 =====
+Çay suyu tədqiqi və Rw(T) korreksiyası
+
+31 quyu üzrə lay suyu nümunələrində:
+- Kimyəvi tip: 83% Na-Cl, 11% Ca-Cl, 6% Na-HCO3 qarışıq tip.
+- TDS: 35-120 q/L, mediana 74 q/L.
+- pH: 6,2–7,8 intervalı.
+- Temperatur: 28-87°C (rezervuar şəraiti).
+Laboratoriyada müxtəlif temperaturlarda (20°C-dən 90°C-yə) elektrik müqaviməti ölçülmüş, Rw(T) asılılığı üçün log Rw ilə 1/T (Kelvin) arasında xətti əlaqə alınmışdır. Aps tipli düsturla uyğunlaşdırma R2=0,94–0,98 göstərmiş, 25°C-ə ekstropolyasiya olunmuş Rw(25°C) dəyərləri 0,12–0,45 ohm*m intervalında qiymətləndirilmişdir. Temperatur korreksiyası S w-da orta hesabla 6–12% nisbətdə dəyişiklik doğurur; yüksək TDS hallarda təsir daha zəifdir.
+
+Karotaj məlumatlarının keyfiyyətinə nəzarət
+
+Şaquli ekvivalent ananavi kompozit loglar üzrə GR-SP uyğunluğu, darin-orta rezistivlik kanallarının divergensiyası, çarpazplot analizləri (RHOB-NPHI, NPHI-DT) və NMR T2 spektrlərinin porozite və mobil məye fraksiyası ilə uyğunluğu yoxlanılmışdır. Yüksək sist tərkibli (Vsh>0,35) intervalda Archie parametrləşməsindən istifadə edilməsinin yolverilməzliyi qeyd edilərək Simandoux və Waxman-Smits üs­tün tutulmuşdur.
+
+Noticələr
+
+Məsaməlik və keçiricilik
+- Məsaməlik: MQ-nin aşağı hissəsində PHIT 10-20% arası, mediana 15,6%. Qum bədənlərinin mərkəzində 18-20%, kənarlarda 10-14%.
+- Keçiricilik: Laborator k 22,3-132 mD, mediana 54 mD. FZI=1,2-2,7 klasterləri üzrə k artım qeydə alınmışdır. NMR mobil porozite payı 0,06–0,12 arası, bu da kapilyar təxəcin nəzarəçarpa­caq olduğunu göstərir.
+- Kapilyar xüsusiyyətlər: MICP nəticələrində pik boğaz radiusu 0,25–1,2 µm, Swanson parametri ilə k korelyasiyada R2≈0,78.
+
+Şist tərkibi
+
+SP metodikasi ilə Vsh orta 0,28; GR ilə kroskalibrləmədən sonra Vsh düzəlişi 0,03–0,05 vahid ilə azaldılmışdır. Şistliyin artdığı intervalda RT–Sw krossensitivlik güclənir.
+
+===== Qarabağlıda inteqrasiyalı petrofizik seysmoloji qiymətləndirmə və seysmik dayanıqlıq.pdf | Page 7/12 =====
+Lay sular
+Piper diaqramlarında Na-Cl üstünlük təşkil edir, Ca-Cl tərkibli sular daha dərin, temperaturu yüksək qatlarda müşahidə olunur. Sulfat konsentrasiyası aşağı (aksər hallarda <1 g/L), bu da barit çökməsi riskinin az olduğunu göstərir. Ru səthə miqyasında yüksəkliklə artan temperatur fonunda azalır; izo-Rw xarakterlərində 0,15–0,25 ohm.m zonaları, əsas hasilat bloklarına uyğun gəlir.
+
+Neftlə doyma
+Archie modeli ilə sıxsız intervalda Sw mediana 0,34; Simandoux ilə sıxlı intervalda Sw mediana 0,47; Waxman–Smits tətbiqində isə ion-mübadilə qəbul edildikdə Sw 0,42–0,50 diapazonunda doymuşdur. Rw-nin 10% qeyri-müəyyənliyi Sw-də təxminən 6–8% nisbətində dəyişiklik doğurur. Sw xarakterləri üzərində yüksək doyma (Sw<0,35) zonaları strukturun antiklinal hissələrində cəmlənmişdir.
+
+Net-to-gross və effektiv qalınlıq
+Vsh<0,35, PHIT>12%, k>20 mD Sw<0,5 meyarları ilə net-kriteriya tətbiq edildikdə net/gross 0,28–0,46 diapazonunda, effektiv qalınlıq 6–18 m arası dəyişir. Paylanma kriging ilə xəritələndirilib; variogram modelləri sferik (əsas istiqamətlərdə 1,3–2,1 km korrelyasiya radiusu) uyğunlaşma göstərmişdir.
+
+Karotaj göstəriciləri və zəif kollektor xassələri
+Aksariyyət quyularda GR yüksək, SP amplitudası nisbətən zəif, RT isə orta səviyyədədir ki, bu da gil fazasının üstünlüyünü və gövdə boyunca incə laylaşmış qumlu-gilli ardıcıllığı təsdiq edir. Nüvə-log müqayisəsi göstərir ki, incə laminasiyalı fasiyalarda log-ölçək effektiv porozite və keçiricilik qiymətləndirməsində aşağı yönlü qərəz yaranır; düzəliş üçün anizotropiya əmsalı (0,8–0,9) tətbiq edilmişdir.
+
+Müzakirə
+Litofasiyalarn rolu
+Qarabağlıda MQ-nin aşağı hissəsi deltuvik-allyuvial mənşəli qumlu paketlərlə təmsil olunur. Fasiyal keçidlər (kanal-lap-sahil düzənliyi) miqyasında gil maddəsinin artım kapilyar təzyiqi yüksəldərək mobil neft həcmini azaldır. Bu səbəbdən eyni məsaməliqlikdə keçiricilik geniş diapozonda dəyişir. FZI yanaşması bu heterogenliyi “akin imzaları”na bölərək daha stabil k proqnozları verir.
+
+===== Qarabağlıda inteqrasiyalı petrofizik seysmoloji qiymətləndirmə və seysmik dayanıqlıq.pdf | Page 8/12 =====
+Ru-nin temperatur və mineralizasiya təsiri
+
+Lay suyu tipinin Na-Cl olması Ru-nin temperaturdan asılılığını klassik eksponensial (Arps) davranışa 
+yaxınlaşdırır. Dərin qatlarda Rw aşağı dəyərlərə enir ki, Simandoux modelində bu, eyni RT fonunda 
+Sw-in yüksəlməsi ilə nəticələnir. Temperatur korreksiyası edilmədikdə Sw 6–12% nisbi səhvla 
+qiymətləndirilir, bu isə ehtiyat hesablamalarında 5–9% həcmdə fərqlərə gətirə bilər.
+
+Şist korreksiyaları və seçilmiş modellər
+
+Şist fazasının keçiricilik xüsüiyyətləri (Rsh) interval üzrə dəyişkəndir. Rsh-in sabit qəbul 
+edilməsi bəzi quyularda Simandoux nəticələrində yayılma artırır. Waxman–Smits modeli, xüsusən Ca-Cl 
+komponenti yüksək olan sularda və illit tərkibli gillərdə, daha real nəticələr verir; lakin B və Qv 
+parametrlarının laborator kalibrləməsi tələb olunur. Qarabağlı üçün orta B 0,6–0,8 Sm2/eqv 
+intervalında, Qv isə 0,05–0,12 eqv/L diapazonunda uyğun gəlmişdir.
+
+Model qeyri-müəyyənliyi və risk
+
+Monte-Karlo simulyasiyası (10 000 iterasiya) PHI, Vsh, Rw, m, n parametrlarının paylanmalarını 
+nəzərə alaraq Sw üçün 90% etibar intervalını 0,31–0,54 kimi vermişdir. Əsas həssaslıq Rw və m 
+parametrlarına aiddir. Bu lay sularında Rw-nin yerində (in-situ) temperaturda ölçülməsinin və m 
+üçün litoloji-spesifik kalibrlərin vacibliyini göstərir.
+
+Məkan modelləşdirməsi və xəritələndirmə
+
+301 quyu üzrə koordinat və yüksəkliklər əsasında struktur səthləri yenilənmiş, ekvivalent qalınlıq 
+xəritələri ilə Sw-PHIT-k atributları birləşdirilərək rezervuar keyfiyyətinin inteqral indeksi (RQI-
+Map) tərtib edilmişdir. RQI-Map yüksək qiymətlərini antiklinal baş və şimal-qərb qanadında 
+göstərmişdir. Məkan qeyri-müəyyənlik xəritələrində məlumat sıxlığının yüksək olduğu cənub-şərq 
+sektorunda əlavə kəşfiyyat quyularına ehtiyac aşkar edilmişdir.
+
+===== Qarabağlıda inteqrasiyalı petrofizik seysmoloji qiymətləndirmə və seysmik dayanıqlıq.pdf | Page 9/12 =====
+İstehsalat göstəriciləri ilə əlaqə
+
+Erkən istismar mərhələsində seçilmiş 12 quyu üzrə ilkin debiti k və PHI ilə müqayisədə zəif-orta korrelyasiya (R=0.45-0.58) göstərmişdir. Bu, kapilyar-relativ keçiricilik effektləri, su-neft kontaktsız zonalarda təbii qaz şapkası təsiri və quyu tamamlanma parametrleri ilə bağlıdır. NMR T2cutoff>33 ms ilə mobil porozite göstəricisi debiti daha yaxşı proqnozlaşdırmışdır (R=0,66).
+
+Seismik təhlilə və dəniz hidrotexniki qurğularının dayanıqlığı
+
+Xəzər dənizində mümkün güçlü zəlzələlərin maksimal maqnitudası 6,6-7,1 arasında qiymətləndirilir. “Günəşli” yatağının dərinlik platformaları üçün aparılan analitik qiymətləndirmələr göstərir:
+- Zəlzələ yüklərinin təhlili: Spektral sürətləndirmə səviyyələri qaya əsaslı ehtimal seysmik təsir spektrlərinə uyğunlaşdırılıb, hidroinamik əlavə kütlə və Morison yükü daxil edilib.
+- Struktur cavabı: Polad cargalı dayaqlarda əsas ton tezliyi 0,7-1,3 Hz, gövdə-üst quruluş qarşılıqlı təsiri nəzərə alınaraq modellərin suxurüdə müğahidə olunub. Qeyri-xətti qovşaq modelləşdirilməsi plastik menteşəyə yaranma ardıcıllığının göstərir.
+- Təhlükəsizlik halları: Enerjijuədu damperlər (viskoz), izolyasiyəedici dayaqlama sistemləri, tənlanmiş kütlə damperləri ilə spektral uyğunlaşdırma; kritik avadanlıqlar üçün seysmik dayaqlama və çevrilmə təhlükəsinə qarşı mərkəzləşdirilmiş ağırlıq optimizasiyası.
+- Su altında torpaq-struktur qarşılıqlı təsiri: Qranulometrik tərkibə əsasən laxtalanma və mayeləşmə riski aşağı-orta qiymətləndirilib; lakin uzunmüddətli təkarlanan yüklər üçün qanad dayaqlarda oturma monitorinqi tövsiyə olunur.
+- Normativ baza: Mövcud regional normaların EN 1998 və API RP 2A-WSD/ISO 19902 ilə harmonizasiyası, seysmik təsir üçün dizayn caviyyələrinin (DBE, MCE) ayrıca tərif edilməsi vacibdir.
+
+===== Qarabağlıda inteqrasiyalı petrofizik seysmoloji qiymətləndirmə və seysmik dayanıqlıq.pdf | Page 10/12 =====
+Təvsiyələr
+- Lay suları üzərə: Ru-nin in-situ temperaturda yerində ölçmə protokolları tətbiq edilsin; hər boru kəməri seqmentində elektrod kalibrlənməsi və ion tərkibinin dövri təqiibi aparılsın. Na-Cl tiplərində temperatur korreksiyası məcburi qəbul edilsin.
+- Petrofizik interpretasiya: Sistli intervallarda Waxman-Smits parametrininin sayəyəxas kalibrləri (B, Qv) üçün laborator bazası genişləndirilsin; Vsh-in SP əsasında hesablında mineralizasiya-temperatur düzəlişləri rutin edilsin.
+- Nüvə proqramı: MICP genişləndirilsin; NMR T2 paylanmaları ilə əlaqələndirilsin; nisbi keçiricilik və kapilyar təzyiq əyriləri faza axını modelləşdirməsi üçün yenilənsin.
+- Məkan modelləşdirmə: RQI-Map qeyri-müəyyənlik yüksək olan sahələrdə iki əlavə kəşfiyyat quyusu planlaşdırılsın; geostatistik variogramlar fasiyalara görə ayrılaraq yenilənsin.
+- İstehsalat: Tamamlama strategiyaları mobil porozite və FZI xarakterləri əsasında optimallaşdırılsın; su kəsiminin artımını gecikdirmək üçün selektiv tamamlamalar və su izolyasiyası tədbirləri nəzərdə tutulsun.
+- Seysmik dayanıqlıq: "Günəş" və oxşar dərinlik platformalarında seysmik reabilitasiya proqramı hazırlansın və tətbiq edilsin; real vaxtlı seysmoloji məşğidə səbəkəsi şaxələndirilsin; normativ sənədlərdə spektral uyğunlaşdırma, hidrodinamik kütlə və qeyri-xətti qovşaq modelləşdirilməsi məcburi bəndlər kimi daxil edilsin.
+- Tədqiqat və normativlər: Seysmoloji və geofiziki tədqiqatlar planlı şəkildə aparılsın, müvafiq normativ sənədlər hazırlanaraq mərhələli şəkildə qüvvəyə mindirilsin.
+
+Məhdudiyyətlər
+- SP metodunun Vsh üçün istifadəsi yüksək mineralizasiya və temperatur variasiyasında qeyri-müəyyənliyi artırır; bu, GR və XRD ilə paralel kalibrləməni tələb edir.
+- Rw ölçmələri seçmə məntəqələrdə aparıldığından bütün sahə üzrə ekstrapolyasiya qeyri-müəyyənlik daşıyır; lakin kriging və trend modelləri ilə azaldılmışdır.
+- Nüvə-log miqyas uyğunsuzluğu inca laminali fasiyalarda qalıq qaz səbəb ola bilər; bu, modellərdə anizotropiya düzəlişləri ilə qismən kompensə edilib.
+
+===== Qarabağlıda inteqrasiyalı petrofizik seysmoloji qiymətləndirmə və seysmik dayanıqlıq.pdf | Page 11/12 =====
+**Notica**
+
+Qarabağlı neft yatağında aparılan kompleks petrofizik, hidrogeokimyəvi və seysmoloji tədqiqatlar göstərdi ki:
+- MƏ-nin aşağı hissəsində məsaməlilik orta (10-20%), keçiricilik aşağı-orta (22,3-132 mD), şist tərkibi xeyli yüksəkdir (Vsh ~ 0,28); bu, kollektor xassələrinin loglarda “izəf” görünməsinə səbəb olur.
+- Lay suları əsasən Na-Cl tipindədir, TDS 35-120 g/L; Rw temperaturdan asılı olaraq mühüm dəyişir və doyma modellərində əsas qeyri-müəyyənlik mənbəyidir.
+- Şistli intervallarda Simandoux və Waxman-Smits modelləri Archie-dən daha etibarlı nəticələr verərək Su paylanmasını realist göstəir.
+- Makan modelləri (RQI-Map) rezervuar keyfiyyətinin antiklinal baş hissəyə fokuslandığını, qeyri-müəyyənlik yüksək olan sahələrdə əlavə kəşfiyyatın məqsədəuyğun olduğunu göstərir.
+- Xəzər dənizində Mmax=6,6-7,1 diapazonunda seysmik təhlükə dəniz hidrotexniki qurğularında enerjiyığucu və izolyasiyadıcı həllərin, eləcə də normativ yenilənmələrin zəruriliyini əsaslandırır.
+
+Gələcək işlər üçün sahədə önləyici Rw monitorinqi, NMR ilə genişləndirilmiş nüvə-log inteqrasiyası, elektrofasiyaların maşın öyrənməsi ilə ayrılması, seysmik-struktur modellərin birləşdirilməsi və dəniz platformalarının sayısal qeyri-xətti dinamik analizi prioritet istiqamətlər kimi tövsiyə olunur.
+
+**Praktiki nəticələr**
+- Hasilat strategiyası: Yüksək RQI zonalarında ilkin qazcaplı süxurlarda təzyiq idarəetməsi; su kəsimi sürətli artan quyularda selektiv su izolyasiyası
+- Qazma və tamamlanma: Şistli intervalda qırılma riskinə qarşı quyu filtr kolonlarında qaba filtrasiya materialları; laminali fasiyalarda çoxfazalı gel sistemi.
+- Monitoring: Real vaxtlı mikro-seysmik və vibrasiya sensor şəbəkələri, boru kəmərlərində korroziya-keçiricilik sensorları; platforma dayaq qovsaqlarında strain-gage sistemləri.
+
+===== Qarabağlıda inteqrasiyalı petrofizik seysmoloji qiymətləndirmə və seysmik dayanıqlıq.pdf | Page 12/12 =====
+Seysmoloji tadqiqatlar və normativ sənədlər əsasında təkliflər
+
+- Regional seysmoloji stansiyaların sıxlığının artırılması, dərinlikdə əsil stress-rejim maddələrinin yenilanmasi.
+
+- Dəniz qurguları üçün zəlzələ təhlükəsi xarakterinin periodik (5 illik) yenilanmasi, hərəyəxas cavab spektrlərinin (site-specific) tətbiqi.
+
+- Normativ baza: “Seysmik təsir altında dəniz hidrotexniki qurgularin layihalandirilmasi” üzrə milli standartin hazırlanmasi; beynəlxalq standartlarla (ISO 19902, API RP 2A) uyğunlaşdırma; yoxlama ssenariləri üçün qeyri-xetti zaman-tarixçə analizinin məcburiliyi.
+
+**Ümumi yekun**
+
+Bu iş Qarabağlı yatağında kollektor xassələrinin “zəif” görünməsinə baxmayaraq, doğru kalibrlənmiş Rü, sist korreksiyalı Sü modelləri və fasiyaya-həssas k yanaşmaları ilə iqtisadi cəhətdən səmərəli hasilat pancarələrinin mövcudluğuna göstərdi. Seysmik risklərin nəzərə alınması isə dəniz infrastrukturunun dayanıqlığını təmin etmək üçün strateji əhəmiyyət daşıyır. İnteqrasiyalı yanaşma – lay suyu kimyası, petrofizik model və seysmoloji təhlükə – yatağın işlənməsinin daha etibarlı və optimallaşdırılmış planlanmasına imkan verir.

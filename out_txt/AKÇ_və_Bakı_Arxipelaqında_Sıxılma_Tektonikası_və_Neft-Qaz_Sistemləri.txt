@@ -1,0 +1,275 @@
+===== AKÇ və Bakı Arxipelaqında Sıxılma Tektonikası və Neft-Qaz Sistemləri.pdf | Page 1/12 =====
+Xülasa
+
+Bu tədqiqat Aşağı Kər çökəkliyi (AKÇ) və Bakı arxipelaqı (BA) daxil olmaqla Cənubi Xəzər çökəkliyi
+sistemində faydalı qazıntıların mənşəyinin paleotektik, paleocoğrafi şərait və geodinamik rejimlə 
+nəca əlaqələndiyini, eləcə də Gec Miosendən etibarən Ərəbistan plitasinin təsiri ilə formalaşən 
+kollizion proseslərin bəlgənin struktur-morfoloji və termal inkişafına nə dərəcədə yönəldici rol 
+oynadığını kompleks şəkildə qiymətləndirir. Seismotektonik göstəricilərin, fəlünititəplanmə 
+sürətlərinin, geotemperatur xarakteristikaların və palaq vulkanizmi indikatorlarının inteqrasiyası 
+göstərir ki, Cənubi Xəzər megaçökəkliyinin qərb periklinal zonasının morfotektonik şəkli sıxılma 
+görüntülərini təşəbbüskə olaraq, AKÇ və BA-nin intensiv deformasiyaya məruzlaşması isə antiklinal 
+zonallaşmanın, yerli qazımların və qırıcı şəbəkəsinin hidtudlani müəyyənləşdirmişdir. Nəticələrə 
+görə, AKÇ-da antiklinal qatılar şimal-qərbdən cənub-şərqə uzanır və şimal-şərq-cənub-qərb 
+istiqaməli maksimal sıxılma gərginliklərinə perpendikulyar struktur elementlərin üstünlüyün təsdiqləyir. AKÇ-nin şimal-şərq seqmentində sıxılma gərginliklərinin intensivliyi yüksək dəyərlərə 
+çatar, buradakı lokal qazımlar həm seysmik kəsiklərdə, həm də səth-self morfologiyasında 
+asimmetrik, “flower structure” tipli transpressiv motivlərlə ifadə olunur.
+
+===== AKÇ və Bakı Arxipelaqında Sıxılma Tektonikası və Neft-Qaz Sistemləri.pdf | Page 2/12 =====
+Çökmüntülolunma sürətinin məkanca və zamanca dəyişkənliyi, xüsusən Cənubi Xəzərin mərkəzində 0.4 mm/il, şelfdə 3-4 mm/il və Kür çayıng mənbəsində 6 mm/il-ə çatan göstəricilər, akkumulyasiya rejiminin geodinamik yüklənməyə həssas olduğunu göstərir. Çökmüntü qalınlığının AKÇ mərkəzinə doğru 6-7 km-ə qədər artması subsidensiya-sıxılma balansının uzunmüddətli kinematikasi ilə izah olunur. Geotemperatur modelləşdirmə və xaritalaşdırma neftamtalogiyanın baş zonalarını AKÇ və BA üçün ayrı-ayrı şəkildə müəyyən etmiş, BA-da 3000-4000 m intervalında neft, 8000-8500 m intervalında isə qaz əmələgəlməsinin pik zonalarını təşkil etmişdir. Paleo vulkanizmi mərcləri boyunca temperatur anomaliyalarının müşahidəsi, yerli termal axının artması və süxur kompleksləri daxilində müxtəlif fazalı qarışıqların dərinlikdən qətirilməsi ilə əlaqələndirilmişdir. Nəticə olaraq, AKÇ və BA-nın neft-qazlilik potensialının formaləşmasi birbaşa sıxılma gərginlikləri, qatıalma-qırılma kinematikasi və çökmüntülolunma rejiminin sinxronlaşdırılması ilə bağlı olub, Pliosen dövrü üçün hər iki struktur domen üzərə inklyazif sürətlənmə, akkumulyasiya-tektonika qarşılıqlı təsirinin ən yüksək səviyyəsini aks etdirir.
+
+Aparılan işlər
+Cənubi Xəzər çökəkliyi; Aşağı Kür çökəkliyi; Bakı arxipelaqı; sıxılma gərginlikləri; paleotektonika; paleocoğrafiya; geodinamik rejim; paleo vulkanizm; çökmüntülolunma; neftamtalogiya; qazamalaliya; geotemperatur modelləşdirmə.
+
+===== AKÇ və Bakı Arxipelaqında Sıxılma Tektonikası və Neft-Qaz Sistemləri.pdf | Page 3/12 =====
+Giriş
+
+Faydalı qazıntıların regional paylanması və genezisi oksar hallarda goodinamik şəraitə, 
+paleotektik epizodlar və paleocoğrafi təkamüllə sux bağlıdır. Qafqaz orogenı və Cənubi Xəzər 
+meqaçökəkliyi arasında yerləşən Aşağı Kür çökəkliyi (AKÇ) və Bakı arxipelaqı (BA) bu baxımdan unikal 
+laboratoriyadır, burada Geç Miosendən bəri davam edən Ərəbistan-Avrasiya kolliziyası nəticəsində 
+yaranmış sıxılma rejimi həm struktur-morfooji, həm də  polik-karbonhidrogen sistemlərinin 
+inkişafını güclü şəkildə yönləndirir. Bu işdə məqsəd 
+- AKÇ və BA ərazilərində sıxılma gərginliklərinin oriyentasiyası, intensivliyi və zamanca 
+dəyişkənliyini qiymətləndirmək;
+- qatlanma-qırılma şəbəkəsinin geomitiyasını paleostress sahəsi ilə əlaqələndirmək;
+- çöküntütoplanma sürətlərinin məkan-zaman variasiyalarını və onların subsidonsiya balansına 
+təsirini göstərmək;
+- geotemperatur xarakterləri əsasında neft və qaz yataqlarının baş zonalarını müəyyənləşdirmək;
+- paleo vulkanizminin termal və hidrogeodinamik siqnallarını, kəmiyyətin sıxlıq komplekslərinin 
+temperatur rejimində təsirini izah etmək;
+- mineral resursların (karbohidrogen şistlərinin) struktur-paleocoğrafi formada 
+inteqrasiya etmək.
+
+Regional goodinamik fon
+
+Gec Miosendən etibarən Ərəbistan plitəsinin şimala doğru hərəkəti Qafqaz kollizyon zonasını 
+aktivləşdirmiş, Cənubi Xəzər megaçökəkliyinin qərb kənarında transpressiv-sıxılmalı deformasiya 
+rejimi yaratmışdır. Bu proses, Cənubi Xəzər dərin çökəkliyi altında yüksək sıxlıqlı litosfer 
+blokunun səthi şəkildə udulması (subduksiya- vari təlaffüz olunan udulma) ilə nəticələnmiş, qərb 
+yamac boyunca pillənmiş itələnmələr, şaquli komponentli qırılmalar və ön zonada sıxılmalı 
+qatlanma kameraları əmələ gətirmişdir. Regional stress sahəsinin maksimum üfüqi komponenti (SHmax) 
+şimal-şərq-cənub-qərb istiqamətəldir, bu istiqamətdə sıxılma gərginliklərinin yüksəkliyi AKÇ-nin 
+şimal-şərq seqmentində ən aydın şəkildə izlənir. Nəticə etibarilə, antiklinal oxlar və qırılma 
+zonalarının dominant uzanma istiqaməti şimal-qərbdən cənub-şərqə doğru dəyişir, bu da SHmax-ün 
+oriyentasiyasını əks etdirir.
+
+===== AKÇ və Bakı Arxipelaqında Sıxılma Tektonikası və Neft-Qaz Sistemləri.pdf | Page 4/12 =====
+Paleotektonik və paleocoğrafi kontekst
+
+Paleocoğrafı rekonstruksiyalar göstərir ki, Neogen boyu Kür hovzesi-dəla kompleksı, Abşeron 
+şelfi və inteqrasiya olunmuş arxipelaq sistemində çöküntü fasiyaları deltaik-allyuvial, predelta-
+dəniz və dayaz dəniz karbonat-şilis biogenləri arasında paylanmışdır. Gec Miosen-Pleystosen 
+dəvründə tektono-eustatik səviyyə dalğalanmaları ilə sinxron proqradasiya-reqressiya mərhələləri 
+pəkiltili litofasiyasını zonalaşdırmış, BA xattı üzrə ritmik qalınlar isə lokal akkumulyasiya 
+hövzələri yaratmışdır. Paleotektonik tokamli, Ərəbistan plitosinin şimal sərhəddindəki dayişmələrlə 
+birlikdə transqressiv komponentin, qüdnəməsinə və qatlanma cəhətinin qərbə doğru miqrasiyasına yol 
+açmışdır. AKC-da antiklinal məhalələrin ardıcıl aktivləşməsi ilə müşayiət olunmuşdur.
+
+Material və metodlar
+
+Material baza
+- Regional və yüksək ayrımlılıqlı seysmik kəsiklərdən əxzlanan struktur xəritələr;
+- Quyu geofizikası (temperabur, qazlıq, vitrinik oksidlənmə, akustik səthət);
+- Palçıq vulkanlarının termal-fluid kimyası, qaz-izotop tərkibi və vent temperatur ölçələri;
+- Çöküntü fasiyalarının nitqinə və onların litoloji-stratigrafik kalibrlənməsinə dair toplanmış statistik və çöküntülopaqma sürətlərinin 
+stratigrafik kalibrlənməsi;
+- Geodeziya-GNSS əsaslı müasir deformasiya sürətləri.
+
+Paleostress rekonstruksiyası
+
+Qırılma müstəviləri, sürüşmə vektorları və qatlanma oxlarının istiqamətlərinə əsaslanan kinematik 
+inversiya alqoritmi tətbiq edilmişdir. SHmax azimutu, sıxılma dərəcəsi və transpressiv komponentin 
+nisbi payı səhv kvadratlar metodu ilə kalibr olunmuşdur.
+
+Çökmə-subsidensiya modelləşdirilməsi
+
+1D və 2D hövzə modelləri vasitəsilə çöküntüləmə sürətləri, istilik axını və kompaksiya qanunları 
+(ekzotermik və yuxarı boşluq perezite azalması) tətbiq edilmişdir. Darınlaşma tarixi, su dərinliyi 
+dəyişmələri və dəniz səviyyəsinin dəyişmələri və dəniz səviyyəsinin dəyişmələri daxil edilmişdir.
+
+Geotemperatur modelləşdirilməsi
+
+İstilik axını xəritələri, termal keçiricilik, radioaktiv istilik istehsalı və maye axını ilə bağlı 
+sadələşdirilmiş kuplaj modelləri istifadə olunmuşdur. Neftəmələgəlmə (60-120°C; bəzi üzvi maddə 
+tiplərində 140°C-yə qədər), qazəmələgəlmə (120-200°C) intervalları, BA üçün quyu ölçələri ilə kalibr 
+olunmuşdur.
+
+===== AKÇ və Bakı Arxipelaqında Sıxılma Tektonikası və Neft-Qaz Sistemləri.pdf | Page 5/12 =====
+Palça vulkanizmi indikatorları
+
+Vulkan konuslarında vent temperaturu, suların xlorid-bor tərkibi, C1-C5 qaz paylanması və izotop fraksiyalanması öyrənilmiş, temperatur anomal zonalarının lateral təsir radiusu empirik funksiya ilə (R = 0.8-1.5 km) təxmini qiymətləndirilmişdir.
+
+Neftcillər
+
+Sıxılma gərginliklərinin məkanca paylanması və intensivliyi
+
+- AKÇ-nin şimal-qərb seqmentində SHmax ~35-45° azimutlu, mürəkkəb zonalarda effektiv sıxılma 12-18 MPa aralığındadır, cənub-qərb dərya 7-10 MPa-a enir.
+
+- BA boyunça transpressiv zonada kəsavi sağ-yanal komponentli itələmələr müşahidə olunur, qırılma müstəviləri 310-320° trendlidir.
+
+- Qırılmaların uzanma istiqaməti SHmax-a perpendikulyardır, dominant NW-SE uzanmalı tərs qırılmalar və onları kəsən NE-SW istiqamətli köçdürmə qırılmaları ikinci dərəcəli zonaları təşkil edir.
+
+Struktur formaları: antiklinal zonalarının və lokal qazmələr
+
+- AKÇ-da şimal-qərbdən cənub-şərqə uzanan antiklinal komplekslər mərhələlə şəkildə bir-birə paralel düzülür, fold-propagasiya tili qatlanmaların ön kəsiyində sıxışma qırılmaları ilə birlikdə “fault-bend” mexanikası izlənir.
+
+- Lokal qazmılar (məsələn, AKÇ-NE-1, AKÇ-NE-3 sintiklin strukturları) morfoloji baxımdan asimmetrikdir; şimal-şərq qanadında kaskin, cənub-qərb qanadında isə daha yastı yamaclarla məhdudlaşır. Bu, sıxılma vektorunun yönü ilə uyğundur.
+
+- BA zonasında pozitiv “flower structure” motivləri müşahidə olunur; bu strukturların mərkəzində palçıq vulkanları və fluid ventləri yerləşir.
+
+Çökmətoplanma dinamikası və qalınlığı
+
+- Cənubi Xəzərin mərkəz hissəsində çökmətoplanma sürəti 0.4 mm/il olaraq qiymətləndirilmişdir; bu göstərici termal rejimin nisbı “soyuq” tendensiyası ilə uzlaşır.
+
+- Şəldə 3-4 mm/il və Kür çayının mənsəbində 6 mm/il-ə çatan sürətlər fraqmentasiya qanallarında yüksək akkumulyasiya potensialını göstərir.
+
+- Çökmüntülərin qalınlığı AKÇ mərkəzinə doğru 6-7 km-ə çatır; bu artım, Pliosen dövründə (Cüssonun əvvəli-orta Pliosendə) sürətlənən subsidenziya ilə əlaqədardır.
+
+- AKÇ və BA-da inkişaf sürəti eyni deyildir; BA boyunça struktur yüksəkləmələri erkən Miosendən başlayaraq, Pliosendə isə kaskin intensivləşmişdir; AKÇ-da isə Geç Miosen-Pliosen aralığında tədricən artan, lakin Pliosenin ortasında sıçrayış xarakterli mərhələlər müşahidə olunur.
+
+===== AKÇ və Bakı Arxipelaqında Sıxılma Tektonikası və Neft-Qaz Sistemləri.pdf | Page 6/12 =====
+Termal rejim və hidrokarbon yataqları
+
+- Geotemperatur xəritələrinin analizi AKÇ-də neftqazlılığın baş zonalarının 2.8-4.2 km intervalında ayrılır; bu, lito-fasiyal müxtəliflikdən asılı olaraq lokal 2.6–2.8 km-lik dəyəzləşmə göstərə bilir.
+
+- BA-da 3000-4000 m intervalı neftamalagilma baş zonasını, 8000-8500 m intervalı isə qazamalagilma baş zonasını əhatə edir. Vitrinit oksidlənmə (Re) dəyərləri BA üçün müvafiq olaraq 0.7-1.0% (neft şoranərası) və 1.3-2.0% (qaz panarəsi) diapazonuna uyğun gəlir.
+
+- İstilik axını dəyərləri şəltədə 44-52 mW/m2, AKÇ markazi boyuça 28-36 mW/m2 olaraq təxmini qiymətləndirilmişdir; palçıq vulkanlarının yaxunlığında 5-9 mW/m2-lik lokal artımlar qeydə alınmışdır.
+
+- Palçıq vulkanizmi sıxur komplekslərinin temperaturunu lokallaşdırılmış şəkildə artırır: vent kanarında 8-15°C, 0.8-1.2 km lateral məsafədə 2-5°C artım müşahidə olunur; bu artımlar karagenin termal yetişməsinə birbaşa təsir edən regional faktor olmasa da, maye köçürülməsini sürətləndirərək lokal “overmature” linzalar yarada bilər.
+
+Palçıq vulkanizmi və fluid sistemləri
+
+- Palçıq vulkanlarının paylanması antiklinal qırışıq kəsilməsinə və/ və ya dərin kök zonaları pex vaxt tərslər qırılmaların kəsişmə nöqtələrinə bağlayır.
+
+- Qaz tərkibi asasan metandır (C1/C2+ >100), lakin qazamalagilma pəncərəsinin dərin kanarlarında C2-C5 fraksiyalarının nisbı payı artır; CH4 dəyərləri –44% ilə –34% arasında dəyişir.
+
+- Vulkanların püskürmə dövrləri Pliosen-Kvater çöküntülərinin sürüşmə səviyyələri ilə uyğundur və çoxtekamlı vent sistemləri termal anomalliyaları stasionar saxlayır.
+
+Mineral resursların genetik zonalığı
+
+- Faydalı qazıntılar (hidrokarbonlar başta olmaqla) paleotektonik zonalılığa tabedir. NW-SE uzanmalı antiklinal komalar boyunca təbəqələr sıxlaşır; qırılma-örtülü və qalxanma-örtülü qalxaların sinxronluğu ən yüksək ehtiyat sıxlığını təmin edir.
+
+- Qeyri-hidrokarbon resurslar (gil sıxurları, tikinti materialları, yerli karbonatınzaları) dəlalik kanarlarda və reqressiv sekansların yuxarı kəsələrində cəmlənir.
+
+- Maykop tipli (Oliqosen-Aşağı Miosen) orqanik zəngin sistlər potensial mənbə süxurları rolunu oynayır, üstündəki Pliosen pelit kompleksi effektiv örtük sistemi yaradır.
+
+===== AKÇ və Bakı Arxipelaqında Sıxılma Tektonikası və Neft-Qaz Sistemləri.pdf | Page 7/12 =====
+Məazəkirə
+
+Kolliziya kinematikasi və struktur mirası
+
+Arabistan plitosinin şimal-qərət sərhatinin 15-20 mm/il diapazonunda dəyişməsi Qafqaz Kolliziya kamarinda basqı yaratmış, Cənubi Xəzərin qərb yamacı boyunca transpressiv bükülmələri induksiya etmişdir. Cənubi Xəzər məqəmçəkəliyi altına “udulma” effekti, litostfer miyqyasinda sıxliq kontrastlarının və kömogen plita sərhəddi geometriyasının nəticəsi kimi şərq əmələgəlmə AKÇ və BA-da aşagıdakılara gətirib çıxarmışdır.
+
+- Sıxılma gərginliklərinin şimal-şərq istiqamətdə intensivləşməsi, antiklinal qırışıqların NW-SE istiqamətdə ritmik sıralanması;
+
+- Qırılma-sındırma sistemlərin SHmax-a perpendikulyar şəkildə düzlülməsi və lokal “til-block” dinamikarın yaranması;
+
+- Ön zonada qatıalma-çökmə çökəkliklərinin mərkəzli qərbə irəliləməsi.
+
+AKÇ və BA-nın fərqli inkişaf trayektoriyaları
+
+AKÇ və BA inkişaf sürəti və rejimi baxımından fərqli davranış nümayiş etdirir. AKÇ, kolliziya yükü kəsas olaraq Pliosendən əvvalindən ortalamadak məhəlli artım göstərir, BA isə Pliosenin əvvələrində daha kəskin struktur yuksəlmələrinə səhnədir. Bu asinxronluq, ehtimal ki, BA boyunca sağ-yanal komponentli transpressiyanın mövcudluğu kontrastı tədricən rəqəmlərinə bağlıdır.
+
+Bəbilədə,
+
+- AKÇ-da antiklinal zonalar boyunca təbəqələr üzründəki akkumulyasiya-qatlanma sinxronluğu ilə “inkişaf etmiş təbəqə” məhəllisinə gətir;
+
+- BA-da isə gedışət “gec yetişmə-sürətli təbəqə formalşması” ssenarisi ilə uyğun gəlir.
+
+Çökmətoplama-subsidensiya-istilik əlaqələri
+
+Mərkəzi hövzədə 0.4 mm/il-lik akkumulyasiya fənda sabit, lakin şelf və dölgə kanarlarında 3-6 mm/il-ə çatan yüksək sürətlər, istilik axının inversiyada olmaq mozaika yaratmasına səbəb olur.
+
+Sürətli “sükan” yığılması mikaqan və səhrələrdə istilik diffuziyasının azalaraq daha yüksək yeraltı temperatur gradientlərini çox çəldik formalşdırıb bılar, lakin Cənubi Xəzərin dərin zonalarında ümumi istilik axını kəsibi aşağı dəyərlər göstərir. Bunun nəticəsi olaraq;
+
+- BA üçün 3000-4000 m intervalında neft pəncərəsi sabit izlənilir, 8000-8500 m intervalında isə qaz pəncərəsi səciyyəvi olur;
+
+- AKÇ-də isə neft pəncərəsi 2.6-4.2 km aralığında olsa da, lokal yüksək konduktiv zonalarda 2.6 km-ə dayazlaşır.
+
+===== AKÇ və Bakı Arxipelaqında Sıxılma Tektonikası və Neft-Qaz Sistemləri.pdf | Page 8/12 =====
+Palçıq vulkanizmi və termal təsirlar
+Palçıq vulkanizmi dərin maye sistemləri üçün "sürətli magistral" funksiyası daşıyır. Vulkan kanallarından keçən isti kütlələrin gətirdiyi əlavə istilik, ətraf süxurlarda 10^-3-10^-4 
+id° termal anomaliyalar yaradır. Bu anomaliyalar karbohidrogenlərin termodinamik yetişməsi üçün regional mana daşıyır, ancaq:
+- Göc karbohidrogen migrasiyası kadaslərini sürətləndirir;
+- Yüksək məsaməliliyi, məsamd konduktiv laylarda "şirin nöqtələr"in (sweet spot) lokal inkişafına səbəb olur;
+- Vulkan konusları yaxınlığında səthi istilik axınının qiymətləri 5-9 mW/m2 artım səviyyəsində yayılır.
+
+Neft-qaz sistemi elementlərinin sinxronluğu
+- Mənbə süxuru. Oliqosen-Aşağı Miosen Maykop kompleksləri, yüksək TOC (0.5-4.5%), keregen tipleri II-III üstünlük təşkil edir.
+- Örtük süxuru. Pliosen politlər və mərlər, aşağı permeablilik və qalın arduçıllıq səviyyəsində effektiv sızdırmazlıq təmin edir.
+- Kollektor layları: Doltak qumlar, dayaz-dəniz qumkarbonat paketləri; təsirli porozite 18-26%, keçiricilik 20-600 mD.
+- Təfalər. Antiklinal-örtülü təfalər, tərs qırılma segmentləri ilə güdərilmiş qatlanma təfaləri; BA boyunça qalxım qanadlarında lateral örtüklə ilə kombinə olunmuş miks tip.
+
+Risklər və qeyri-müəyyənlik
+- Sızılma gorgünlülərinin zamana dəyişməsi nəticəsində qırılma şəbəkəsinin reaktivasiya oxtimali yüksəkdir; təfalərdə sızma riskini artırır.
+- Palçıq vulkanizmi ilə bağlı epizodik "şok boşalmalar" təfalərdəki təzyiq rejimini dəyişərək lokal dekompressiya yarada bilər.
+- Geotemperatur modellərinin kalibrlənməsi istilik axını xarakterlərinin soyroklüyü səbəbindən qeyri-müəyyənlik daşıyır; əlavə ölçmələr tələb olunur.
+
+Alternativ modellər
+- Dərin kök zonalarında litosferik miqyası "roll-back" mexanizminə bənzər arxitektonik yenidənqurulma ehtimalı, qərb yamacdaki asimmetrik qazkmları izah edə bilər.
+- Transpressiv zonalarda sağ-yanal komponentin payının artması, "fold-thrust sistemlərin "en echelon" tutunda markaləli təşkili ilə nəticələnmiş ola bilər; bu, BA xətti üzrə müşahidə olunan "flower structure" fəaliyyətini gücləndirir.
+
+===== AKÇ və Bakı Arxipelaqında Sıxılma Tektonikası və Neft-Qaz Sistemləri.pdf | Page 9/12 =====
+Təhlükələr və proqnoz
+- Qaz pəncərəsi dərinliklərinin (8-8.5 km) BA üçün tədqiqi ultra-dərin həddəflərin (HP/HT rejim) texnoloji planlaşmasını tələb edir, bəzi tədqiqatlar 170–210°C intervalı üçün risk qiymətləndirilməsi aparılmalıdır. 
+- AKÇ-də neft pəncərəsinin 2.8-4.2 km intervalında sabit izlənməsi, antiklinal kameralar boyunca orta dərinlikli qızma dizaymı üçün əlverişli pəncərə yaradır; kollektor layları proqnozu üçün seysmik atribut analizinə üstünlük verilməlidir.
+- Palçıq vulkanizmi yaxınlığında yerləşən strukturlar üçün qaz sızması və geohazards risk modelləri hazırlanmalı, vent zonalarından müəyyənlik kriteriyası kimi ən azı 1.5-2.0 km radius səltənməlidir.
+
+Mühəkkəm tədqiqlər
+- Çökmətoplama süretinin mərkəzi hissədə 0.4 mm/il olması, qalan ərazilərdə isə formalaşması üçün uzunmüddətli zaman pəncərəsinin (10 Myr) zəruriliyini göstədir, bu, subsidensiyanın tektonik komponentinin əkamiyyatini vurğulayır.
+- Sıxılma rejiminin AKÇ-nin şimal-şərqində intensivləşməsi, ehtimal ki, yerli litosfer qalınlaşması və qabığın rift-mirası ilə (qırılma zonalarının irsi zəiflətmələri) bağlıdır; bu, antiklinal oxların paralellik dərəcesini artırır.
+
+Konseptual model
+- Gec Miosen Ərəbistan–Avrasiya kolliziyası aktivləşir, qərb yamac boyunca transpressiv stresslər, ilk qatlanma-qırılma cəbhəsi formalaşır.
+- Erkən Pliosendə Proqradasiya sürətlənir, Kür mənbəbi boyunca 6 mm/il-ə çatan akkumulyasiya; antiklinal zonalar aktivləşir, təbəqələrin ilkin doldurulması başlayır.
+- Orta Pliosendə BA çökəkləri boyunca lokal qabarmalar kəskinləşir; palçıq vulkanizmi epizodları artır; neft pəncərəsi geniş miqyasda aktivdir.
+- Gec Pliosendə–Erkən Kvaternerdə Qaz pəncərəsi dərin hüdudlarda maksimum fəalliyyət göstərir; dərin kollektorlar qazla yüklənir; termal rejim sabitləşir.
+
+Gələcək işlər üçün çərçivə
+- Yüksək ayırdetmə qabiliyyətli 3D seysmik-geomexanik kupleyt modelləri ilə SHmax dinamizminin zaman içində izlənməsi;
+- Palçıq vulkanizmi ventlərinin termal-maye axını simulyasiyası və geotemperatur xəritələrində lokal düzəlişlər;
+- Çökmətoplama süretlərinin paleomühit proksiləri (palinologiya, diatomit markerləri) ilə kalibrasiyası.
+
+===== AKÇ və Bakı Arxipelaqında Sıxılma Tektonikası və Neft-Qaz Sistemləri.pdf | Page 10/12 =====
+Nəticələr
+1) AKÇ və BA daxil olmaqla Cənubi Xəzər çökəkliyi sistemində faydalı qazıntilar, xüsusilə neft-qaz sistemləri paleotektonik və paleocoğrafi şəraitin birgə məhsuludur. Gec Miosen çökəliyyatı ilə induksiya olunmuş sıxılma rejimi burada əsas idarəedici rol oynamışdır.
+2) Ərəbistan plitəsinin təsiri altında Qafqaz çökəliyyalarının inkişafı Cənubi Xəzər meqaçökəkliyinin əmələ gəlmə mexanizmi ilə yoldaş olmuş, qərb yamacın formalaşmasında sıxılma gorgüntüları həlledici olmuşdur.
+3) AKÇ və Baki arxipelaqı intensiv sıxılma gorginliklərindən təsirlənmiş, şimal-qərbdən cənub-şərqə uzanan antiklinal zonallaşma və SHmax-a perpendikulyar qırılma şəbəkəsi ilə xarakterizə olunmuşdur.
+4) AKÇ-nin lokal qabırğaları morfoloji olaraq sıxılma gorginliklərinin təsirini əks etdirir; şimal-şərq seqmentində bu təsir yüksək intensivliklidir.
+5) Çökmətoplanma sürəti məkanca və zamanca dəyişir. Cənubi Xəzərin mərkəzində 0.4 mm/il, şelfdə 3-4 mm/il, Kür dənizində 6 mm/il, ətəkkönlüklü çökəklikdə isə 7-8 km-ə çatır.
+6) Geotemperatur xarakterləri AKÇ və BA üçün neftamalaqılma və qazəmələgəlmənin baş zonalarını ayırmışdır: BA-da 3000-4000 m (neft), 8000-8500 m (qaz); AKÇ-də isə neft sənərarası 2.8-4.2 km intervalında sabit izlənilir.
+7) Palçıq vulkanizmi yerli termal rejimi yüksəldir və maye miqrasiyasını sürətləndirir; ancaq regional miqyasda termal yollaşmanın əsas sürətləndirici tektonik-sedimentoloji balansdır.
+8) AKÇ və BA-nın inkişaf sürətləri eyni deyil; Pliosen dövründə hər iki bölgədə artım müşahidə olunsa da, BA daha kəskin struktur yüksəlimləri ilə fərqlənir.
+9) Neft-qazlılıq potensialı sıxılma gorginlikləri, qatlanma-qırılma morfo-dinamikası və akkumulyasiya rejiminin uyğunlaşması ilə maksimal səviyyəyə çatır, antiklinal-tələlə üstülük təşkil edir.
+
+===== AKÇ və Bakı Arxipelaqında Sıxılma Tektonikası və Neft-Qaz Sistemləri.pdf | Page 11/12 =====
+Tövsiyələr
+
+- AKÇ-nin şimal-qərg seqmentinda NW-SE uzanmalı antiklinal kamarlar üzərində 3D seysmik atribut analizlari genislandirilmali, qirilmə-öntilik təlalərin komurlari dəqiqləşdirilməlidir.
+
+- BA boyunca ultra-dərin qaz hasilatı üçün HP/HT mühandislik protokollari (geomexaniki pancərə, quyu seyutma-rejim planlamasi) nəzərdə tutulmalıdır.
+
+- Palaq vulkanlarina yaxin strukturlarin risk xarakterinda 2 km-lik təhlükəsizlik bufffer zonası nəzərə alınmalı, vent aktivliyinin seysmik mikromonitarinqi aparılmalıdır.
+
+- Geotemperatur xarakterlarinin kalibrlenmesi üçün əlavə istilik axin ölçmələri və fiber-optik quyu temperatur profilleri təbiq olunmalıdırir.
+
+- Çökmə hövzələrdə Karbon qazı reaktivliyinin iqlim- hidroloji dəyişmələrə həssaslığı inteqrasiya olunmalıdırir.
+
+Əlavə məlumatlər və sintetik göstəricilər
+
+- SHmax azimuthu 035-045°, Smin azimuthu 125-135°, qırılma düzənlikləri: 310-320° trend.
+
+- Qatlanma amplitudları 120-650 m; dalğa uzunluğu: 2.5-7.8 km; asimmetriya əmsalı: 1.2-1.8.
+
+- Termal qradiyent: şelfdə 26-31°C/km; AKÇ mərkəzində 17-22°C/km; BA dərin zonalarında 15-19°C/km.
+
+- Kollektor porozitesi: 18-26%; keçiricilik: 20-600 mD; kapilyar giris təzyiqi: 0.3-11 MPa.
+
+- Palaq vulkanı vent temperaturu: 24-58°C; lateral termal təsir radiusu: 0.8-1.5 km.
+
+===== AKÇ və Bakı Arxipelaqında Sıxılma Tektonikası və Neft-Qaz Sistemləri.pdf | Page 12/12 =====
+Yekun
+
+Bu tədqiqat göstərir ki, Cənubi Xəzər çökəkliliyi sistemində faydalı qazıntıların mənşə mexanizmləri paleotektonik və paleocoğrafi amillərin inteqrasiyasına həssasdır. Ərəbistan litosinin kollizyon təsiri ilə yaranmış çökmə rejimi, AKÇ və BA üzərə antiklinal zonallaşması, qırılma səbəkoləri və lokal qalxmalar: formalaşaraq neft-qaz sistemlərinin bütün komponentlərinin sinxron fəaliyyətini təmin etmişdir. Çökmətoplama süxurlarının dəyişkənliyi, termal rejimin region üzrə mozaik xarakter almasına səbəb olmuş, geotemperaturlar xaritələri isə neft və qaz yataqlarının baş zonalarını əks etdirir. Palçıq vulkanizmi, hər nə qədər regional termogenozis üçün ikincil faktor olsa da, lokal istilik və maye axını anomaliyaları ilə təzahürlərin doldurulmasına dinamika qatmışdır. Pliosen-Pleistosen mərhələdə olan inkişaf sıçrayışları, akkimulyasiya tektonika kəsilməsinin pik mərhələsi kimi şərh olunan və bu mərhələnin izləri bu gün də struktur-morfoloji xüsusiyyətlərdə, termal xəritələrdə və palçıq vulkanizminin fəaliyyətində özünü göstərir. Bu xüsusədə aparılacaq istiqamətlərdə, AKÇ və BA-nın neft-qazlıliq potensialından daha effektiv istifadəsinə imkan verəcək.

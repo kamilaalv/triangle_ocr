@@ -1,0 +1,171 @@
+===== Cənubi Xəzər Hövzəsi Neo-geologiya və Dərin Kəşfiyyat Paradigması.pdf | Page 1/13 =====
+Cənubi Xəzər Neftli-Qazlı Hövzəsi: Neo-geoloji təkamül, tektonik zonallaşma və dərin kəsilişin yeni paradiqması
+
+===== Cənubi Xəzər Hövzəsi Neo-geologiya və Dərin Kəşfiyyat Paradigması.pdf | Page 2/13 =====
+Xülasa
+
+Cənubi Xəzər neftli-qazlı hövzəsi Xəzər dənizinin ən yüksək məhsuldarlığı və mürəkkəb geodinamik quruluşuna malik regionlarından biridir. Hövzə Kiçik və Böyük Qafqaz, Böyük Balxan, Kopet-dağ və Elbors dağ sistemləri arasında yerləşərək, qlobal miqyasda neft-qaz sənayesi üçün “qlobal poliqon” statusu qazanmışdır. Neogeologiya baxımından burada müasir neft-qaz sisteminin formalaşması dərin subsidensiya, güclü çökmə yığılması və geisminiqaslı tektono-termal hadisələrin qarşılıqlı təsiri ilə təyin olunur. 1980-ci illərdə Yusifzəde tərəfindən hövzə dörd əsas perspektivli hissəyə ayrılmış, D.A. Afanasyev və P.Z. Məmmədov isə iki əsas tektonik-sərait zonası fərqləndirmişdir. Dərin Cənubi Xəzər depressiyası (DCXD) 25 km-dən artıq çoxmə qalınlığı, Pliosen-Pleyistosenin üstün fasiyaləri və ehtimal olunan “şimali rift zonası” ilə seçilir; aşağı hissələrdə isə müstəqil təhamili yer qabığı strukturu - yüksək sıxlıqlı bazaltik-ufaqrafit qatları ilə təqdim olunan qeyri-adi litometamorf geoblok - hipotezi güclənməkdədir. Hövzə KH fluidlərinin (karbohidrogen) qeyri-adi faza davranışı, yüksək anomalı məsaməlilik/keçiricilik kontrastları və xüsusilə dərin qatlarda aktiv generasiya-migrasiya mexanizmləri ilə xarakterizə olunur. Bu işdə inteqrativ geofiziki, geokimyəvi və geomekaniki sübutlar sintezi əsasında dərin kəsiyin yeni konseptual çərçivə irəli sürülür və Azərbaycan sektorunda ehtiyatların tükənməsi tezisinin əsassızlığı həm səha müşahidələri, həm də modelləşdirmə nəticələri ilə əsaslandırılır.
+
+===== Cənubi Xəzər Hövzəsi Neo-geologiya və Dərin Kəşfiyyat Paradigması.pdf | Page 3/13 =====
+giriş
+
+Cənubi Xəzər hövzəsi uzun illərdir səhilyanı və dəniz strukturlarında intensiv istismar şəraitindədir. Pliosen “Məhsuldar Qat” kompleksi və üstünün regional örtüklərlə bağlanması bu regionu zəngin super-nəhəng yataqların məkanı etmişdir. Lakin yeni dövrdə sübut olunur ki, hövzənin enerji potensialının mühüm hissəsi dərin struktur mərtəbələrdə - pre-Pliosen və hətta Mezozoy səviyyələrdə - reallaşır. Bu, həm tektonik mozaikanın yenidən qiymətləndirilməsini, həm də fluidlərin faza-termal davranışının qeyri-xətti təbiətinin nəzərə alınmasını tələb edir.
+
+Regional geoloji-tektonik çərçivə
+
+Cənubi Xəzər hövzəsi şimal-qərbdən Böyük Qafqaz, qərbdən Kiçik Qafqaz, cənubdan  Elburs və Talış zonaları, şərqdən isə Böyük Bəlsən və Kopet-dağ sistemləri ilə məhdudlanır. Bu orogen çərçivə daxilində DCXD ən dərin subsidensiya məkanı kimi seçilir və yüksək sürətli qabıq-mantiya keçidi (Moho) üzərində qeyri-adi dərəcədə qalın çökünə paketi formalaşmışdır. Regionda seysmik sürət modelləri 7.2-7.6 km/s diapazonunda bazaltik alt qabıq göstəriciləri təqdim edərək, bəzi seqmentlərdə əhəngitləşmə və mantiya əltlənməsi ehtimalını gücləndirir. Qravimetrik anomaliyalarla uyğun, maqnito-tellurik kəsilişlər DCXD-nin şimal hissəsinə və NE-SW uzanımlı yüksək keçiricilik zonalarını aşkarlayır; bu zonalar “şimal rift zonasının” varlığına dair dolayı sübutlar verir.
+
+===== Cənubi Xəzər Hövzəsi Neo-geologiya və Dərin Kəşfiyyat Paradigması.pdf | Page 4/13 =====
+Struktural zonallaşma və klassifikasiyalar
+
+Yusifzadənin (1980-ci illər) bölgüsü əsasında Cənubi Xəzər
+hövzasi dörd əsas perspektiv hissəyə ayrılır: (1) Abşeron-
+Pribalkhan qousü və arxipelaq sahəsi; (2) Markazi DCXD
+subsidensiya sahasi; (3) Cənub kanarı - Lankəran-Talış
+önlükləri; (4) Şərq seqmenti - Böyük Balxan önlüyü və
+Türkmən selfi. Hər bir hissə litofasiya ardıcıllığı, örtük-
+örtücü sistemlər və təla tipologiyaları baxımından fərqli
+kəşfiyyat strategiyaları talab edir.
+
+Afanasyev və Məmmədovun taksonomiyası hövzani iki asas
+zonaya ayırır: (A) daxili rift-subsidensiya zonası - darin
+akkumuliyasiya, yüksək istilik axını və overbasüra
+(overpressure) şartlari; (B) kanar kompressiya-çökma zonası -
+qalıxım bükülmələri, itələnmə -üstlüyə strukturları və kombina
+tətalər. Bu ikili model darin və dayaz paylanmanın kəsis SIDƏ
+bölgələrində hibrid təla komplekslərinin (rollover
+antiklinalları, itələnmə ilə bağlı stratigrafik
+klinallar, laterallaşan turbidit dillənmələri) yüksək
+ehtimalını vurğulayır.
+
+===== Cənubi Xəzər Hövzəsi Neo-geologiya və Dərin Kəşfiyyat Paradigması.pdf | Page 5/13 =====
+Stratigrafiya və çökmə ardıcıllığı
+DCXD-nin çökmə qalınlığı 25-28 km-a çatır. Pliosen-Pleyistosen "Məhsuldar Qat" kompleksi dominant mövqedədir. Bu kompleks 50-120-dən çox sıxlıq ritmları - kanal barmaqları, deltaya yaxın proksimal qumdaşları, distallarda isə laminalı lil-daşı və gil örtükləri - təmsil olunur. Pre-Pliosen ardıcıllığında üst Miosen-Oliqosen pelagial sistlər, yerli kirəçdaşlı ritmlər və kömürlü laylar, daha dərində isə Mezozoyk (Yura-Tabaşir) sist-karbonat ardıcıllığı izlanir.
+Geokimyəvi markerlər (Pr/Ph, CPJ, hopan/steran nisbətləri) pre-Pliosen sistlərinin yağ üstün tip JJ/JJ kerogenlə zəngin olduğunu göstərir. Termal modellər sürətli gec Senozoy subsidensiyasının isti axınını 48-62 mW/m2 intervalına qaldırdığını və HAF (hidrodinamik anomalıı faza) boyunca zəif konvektiv istilik mübadiləsi yaratdığını göstərir.
+
+===== Cənubi Xəzər Hövzəsi Neo-geologiya və Dərin Kəşfiyyat Paradigması.pdf | Page 6/13 =====
+Neo-geologlya va KH generasiya-miqrasiya mexanizmlari
+
+Müasir neft-qaz formalaşma prosesi regional neo-geoloji
+fəallıqla bilavasitə bağlıdır. Sürətli çökmə nəticəsində
+yaranan alt-örtük kompaksiyası, gil minerallarında
+smeektit/illit transformasiyası və üzvi maddənin termal
+pirolizi ilə paralel gedir. 3.5-8.5 km intervallarında
+KH generasiyasını gücləndirir. Pore təzyiqinin qradyenti
+12.5-16.5 kPa/m dərinliyə qədər yüksələrək normal
+hidrostatik hissəcik təzyiqindən 20-60% artıq ola bilər; bu
+da laydaxili çatların açılmasını, şaquli flüid yollarının
+formalaşmasını və seysmik kəsiklərdə "chimney"
+anomaliyalarinin yaranmasını izah edir. Qlobal baxışla
+Cənubi Xəzər "müasir generasiya-köç-təlayə toplanma"
+dövrünün hələ aktiv fazasında qalmış nadir hövzələrdəndir.
+
+Şimali rift zonası və dərin qabıq quruluşu
+
+DCXD çərçivəsində NE-SW uzanan normal-fay paketləri,
+uzunmüddətli seysmik aktivlik və fay kanarlarında lokal
+istilik axını anomaliyaları "şimali rift zonası" hipotezini
+dəstəkləyir. Sathi və dərin seysmik refraksiya profillərində
+10-14 km dərinlikdə aşağı sürətli kanal (LVZ) və onun
+altında yüksək sürətli bazaltik qat müşahidə olunur. Bu,
+müstəqil təhəmüllü qabıq hissəsinin - ehtimalan çox incəldilmiş
+kontinental qabıq üzərində bazaltik altlanma və ya lokal
+okeanlaşma - mövcudluğunu ehtimal edir. Nəticə etibarilə
+subsideniyanın yalniz yüka bağlı olmadığı, həm də
+densifikasiya və mantiyaya batma ilə sürətləndiyi qənaəti
+formalaşır.
+
+===== Cənubi Xəzər Hövzəsi Neo-geologiya və Dərin Kəşfiyyat Paradigması.pdf | Page 7/13 =====
+# Karbohidrogenlərin qaz-neft-qaz tərkibi və davranışı
+
+Qanunauyğunluğu Xəzərdə HƏ fliudlari yuksak təzyiq-yuksak temperatur (HPT) şəraitində qeyri-adi faza davranışı göstərir. Qaz-kondensat sistemlərində retroqrad kondensasiyaya həddi 90-130°C və 45-75 MPa aralığında müşahidə olunur; çoxkomponentli qarışıqlarda kritik xəttin "çakilməsi" nəticəsində lay boyunca fazaların dövri dəyişimi baş verir. Bu, qazkondensat qapaqlarının dinamizmini artırır və məhsuldarlığında sıxlıq dəyişkənlik yaradır. N2 (2-8%), CO2 (0.5-3.5%), H2S (əsasən <0.2%, lokal olaraq 0.6%-ə qədər) və soyuq izotoplara məlik He izləri (R/Ra 0.1-0.4) qeydə alınmışdır. Ağır fraksiyalar (C7+) asfaltln-rezin nisbəti 0.6-1.4 diapazonunda dəyişir və layın təzyiq-sxemi dəyişdikcə kolloid stabilliyin pozulması ilə çökmə riskini artırır. Su-neft-qaz üçfazalı sistemlərində qeyri-dengevi kapillyar davranış AVO/AVOA imzalarında anomal təsvir yaradır ki, bu da dərinədən gələn zəif kontrastlı təbəqələrin tanınmasını çətinləşdirir.
+
+===== Cənubi Xəzər Hövzəsi Neo-geologiya və Dərin Kəşfiyyat Paradigması.pdf | Page 8/13 =====
+Kəşfiyyat metodologiyası və dərin hədəflər
+
+Kəşfiyyatın ağırlıq mərkəzi dərin qatların təhlilinə yönəldilməlidir. Uzun offsetli 3D seysmik (OBN/OBX) məlumatları, tam dalğa sahəsinin tərs çevrilməsi (FWI) və anizotrop sürət modelləşdirməsi ilə 8–12 km dərinliyə qədər struktur dəqiqliyi artırmaq mümkündür. Potensial sahə metodları (qravitasiya, maqnit) regional MT səsdirmələri ilə birləşdirildikdə rift kinematikasını, altlanma linzalarını və bazaltik sill/dəyke sistemlərini xarakterlandırır. Quyu geofizikası (DTS/DAS, quru-seysmik mikrosismika) və geokimyəvi profilaktika (termogen qaz izotop ları, biomarker analizi) pre-Pliosen təlatərə yönəlik riskləri azaldır. Geomekanik modellər (poroelastiklik, qırılma qradiyenti 1.6-2.0 SG ekv.) MPD (idarə olunan təzyiqli qazma) və qapalı dövriyə sistemləri ilə birgə HÖPƏT şəraitində təhlükəsiz qazmanı təmin edir.
+
+Perspektiv tələtipologiyaları:
+
+- Dərin rollover antiklinal ları: normal-fayla çərçivələnmiş, örtük rollu və çoxaklik tərəflərində stratigrafik klinalla tamamlanan hibrid təlatlar.
+
+- Bazal turbidit paketləri: Miosen-Oliqosen bazasında yüksək keyfiyyətli qumdaş dillenmələri; AVO sinfi IIIp- IIIJ anomaliyaları ilə seçilə bilər.
+
+- Karbonat “sweet-spot”ları: Yura-Tabaşir kirəcdaşlarında dolomitləşmə ocaqları və mikrofraqment çatl şəbəkələri ilə kolonlaşdırılmış təlatlar.
+
+- Fayla bağlı kombinasiya təlatları: Rasman örtük (regional gil) ilə yanası, lateral litoloji keçidlərin sinxron bağlantısı.
+
+===== Cənubi Xəzər Hövzəsi Neo-geologiya və Dərin Kəşfiyyat Paradigması.pdf | Page 9/13 =====
+ДCXD və "qlobal polliqon" konsepti
+
+Cənubi Xəzər, yüksək sürətli subsidentasiya, anomallı overpressure, aktiv diapiroz və palçıq vulkanizmi, eləcə də HƏPƏT fluıdlarında retrograd zonaların birlikdə müşahidə olunduğu dünya miqyasında nadir hövzələrdəndir. Bu səbəbdən region yalnıız hasilat baxımından deyil, həm də fundamental hövzə modeli sınaqları üçün qlobal poliqon kimi dəyərləndirilir. Qeyd zaman miqyasında (10-5-10-6 il) lay sularının kimyası, gil transformasiyası və KН köç yolları arasında tərəs əlaqələrin izlənməsi "canlı hövzə" anlayışını praktiyaya gətirir.
+
+Azərbaycan sektorunda ehtiyatların tükənməsi tezisinin qıymətləndirilməsi
+
+Son illərdə dərin horizontlarda yeni yataqların kəşfi Azərbaycan sektorunda uzunmüddətli resurs bazasının möhkəmliyini təsdiqləyir. Pre-Pliosen hədəflərdə qaz-kondensat və yağ qazfləri, Məhsuldar Qatın daha dərin və distal fəsilələrində isə yüksək keyfiyyətli kollektor zonalarının aşkarlanması "tükənmə" narrativini inkar edir. Hövzə modelləri göstərir ki, generasiya mərkəzləri hələ də aktivdir; termal yetkinlik pəncərəsi 0.8-1.3 Ro diapazonunda genişlənərək, yağ və kondensat üçün optimal şərtlər yaradır. Dərin təlaslərin nisbi təmizliyi (qapaq qalınlığı >300 m gil örtüyüü, kapillyar giriş təzyiqi >0.7 mPa) suzmalari məhdudlaşdırır və uzunömürlü yığımlara şərait yaradır.
+
+===== Cənubi Xəzər Hövzəsi Neo-geologiya və Dərin Kəşfiyyat Paradigması.pdf | Page 10/13 =====
+Saha müşahidələri və sintetik nəticələr
+- Seismik "chimney" və "bright spot" koinsidensiyası: DCXD 
+markazında dərin köç kanalları ilə üst Pliosen tala 
+kontaktları üst-üsta düşdükdə yüksək ehtimal tala-siynal 
+korelyasiyası yaranır.
+- Qravimetrik kənar kasimlər: şimal rift zonasl boyınca 
+Bouguer anomaliyasının -60--85 mQal diapazonunda uzanan xətti 
+azalmaları altlanma interpretasiyasını gücləndirir.
+- Quyu sınaqlari: HƏPİT horizontlarda məhsuldarlıq indeksi 
+0.8-2.1 m3/d/kPa, kondensat çıxarımı 150-320 g/m3 aralığında 
+qeyd edilir; asfaltın çökmə həddi lay təzyiqinin 12-18% 
+azalması ilə təhrik olunur.
+- Geokimya: δ13C1 -38..-44‰, δD CH4 -150…-180‰; C1/(C2+C3) 
+nisbəti 5-25 aralığında, dərin generasiya zonalarında 
+ağırlaşma müşahidə olunur.
+
+Müzakirə
+
+Hövzənin dərin tektonik quruluşu ilə KH sisteminin davranışı 
+arasında birbaşa əlaqə mövcuddur. Şimali rift zonası boyunca 
+normal-fayların seqmentləşməsi talaların parçalanmasına 
+səbəb ola bil sə də, fay uclarında stress köşələri yüksək 
+effektiv "drainage point'lar yaradır. Müstəqil tektonik 
+qabıq seqmentləri altındakı yüksək sıxlıqlı cisimlər 
+subsidensiya kinetikasını sürətləndirir və generasiya-
+toplanma sinxronizasiyasını optimallaşdırır. Bu 
+sinxronizasiya, Pliosen-Pleyistosen örtüyünün böyük 
+qalınlığı ilə birlikdə, regionda müasir dövrdə də yığımın 
+replenishment (yenilənmə) ehtimalını artırır.
+
+===== Cənubi Xəzər Hövzəsi Neo-geologiya və Dərin Kəşfiyyat Paradigması.pdf | Page 11/13 =====
+Risklar və idarəetmə
+- Geomexaniki risklər: zonal dəyişkən qırılma qradiyenti, kataklastik zonalarda qafil dövriyəyə ehtiyəsi; mƏD və real-vaxd geomexanika ilə idarə.
+- Faza riskləri: retroqrad kondensasiya və asfaltın çökməsi; səhra şəraitində anti-solvent injeksiyası, sahədə diferensial depressiya strategiyası.
+- Sızma riskləri: palçıq vulkanizmi və mikro-sızıntılar; sızma izləri ilə seysmik chimney-ların üst-üstə gətirilməsi, diagenetik sementasiya modelləri.
+
+Tövsiyələr
+- Dərin horizontlar üçün ОБН əsaslı geniş zonalı seysmik və FWJ-in rutin tətbiqi.
+- Pre-Pliosen kollektorların litofasiya proqnozu üçün çoxölçülü maşın öyrənməsi və avadanmalı geokimya inteqrasiyası.
+- HPHT quyusu üçün geomekanik-izotermik birgə planlama, qapalı dövriyyə və yüksək performanslı su-əsaslı şlamların tətbiqi.
+- Yataqdan sonrakı mərhələdə qaz reinjeksiyası və hibrid EOR (CO2 zənginləşdirilmiş qaz) sınaqları.
+
+===== Cənubi Xəzər Hövzəsi Neo-geologiya və Dərin Kəşfiyyat Paradigması.pdf | Page 12/13 =====
+Naticalar
+
+Cənubi Xəzər neftli-qazlı hövzəsi geodinamik mürəkkəbliyinə baxmayaraq, müasir generasiya-akkumulasiya proseslərinin hələ də fəal olduğu, КH fluidlərinin qeyri-adi faza davranışları ilə seçilən və dərin kəşfiyyatın yüksək alava dəyər yaratdığı unikal regiondur. DCXD-nin 25 km-dən artıq çökmə qalınlığı, Pliosen-Pleyistosen örtüyünün üstünlüyü, şimalıq rif zonasıın izləri və aşağı mərtəbələrdə müstəqil tekamüllü qabıq strukturu hipotezi, hövzənin tektonik-mozaik obrazını tamlayır. Kəşfiyyat strategiyasının dərin qatların çoxçeşidli təhlilinə yönəldilməsi, Azərbaycan sektorunda ehtiyatların təkinməsi iddialarını təxrib edir və yeni yataqların aşkarlanması üçün elmi-metodoloji zəmin yaradır.
+
+===== Cənubi Xəzər Hövzəsi Neo-geologiya və Dərin Kəşfiyyat Paradigması.pdf | Page 13/13 =====
+ӘDƏBİYYAT
+[1] Yusifzada, X. (1986). Cənubi Xəzər hövzəsinin perspektiv hissələrinin geoloji-geofiziki əsasları. Bakı Neft Məcmuəsi. 3, 5-28.
+
+[2] Afanasyev, D.A., Məmmədov, P.Z. (1991). Cənubi Xəzər hövzəsinin tektonik zonallaşması və karotiyyat istiqamətləri. Xəzər Geologiyası, 12, 41-59.
+
+[3] Alekperov, R., et al. (2002). South Caspian Basin: HPHT Systems and Overpressure Architecture. Journal of Petroleum Geology, 25, 113-139.
+
+[4] İsmayılov, F., Qasımov, R. (2010). Məhsuldar Qatın fasiyələri və kollektor keyfiyyətinin proqnozu. Azərbaycan Geologiyası, 2, 7-22.
+
+[5] Jackson, J., Priestley, K. (2015). The South Caspian: Crustal Structure and Rapid Subsidence. Geophysical Research Letters, 42, 1-9.
+
+[6] Aliyev, A., et al. (2018). Mud Volcanism and Hydrocarbon Migration in the South Caspian. Marine and Petroleum Geology, 96, 300-318.
+
+[7] Məmmədli, N., Hüseynov, M. (2021). DCXD-də dərin karotiyyatın risk idarətməsi. Enerji və Resurslar, 14, 55-74.
+
+[8] Regional Konsorsium Həsabəti (2024). Cənubi Xəzər dərin strukturlarının inteqrativ seysmik-geoelektrik modeli. Bakı: Enerji Araşdırmaları Mərkəzi.

@@ -1,0 +1,181 @@
+===== Pirallahı Tektonostratigrafiyası Kollektorlar və CO2 Saxlanması Perspektivləri.pdf | Page 1/11 =====
+Pirallahı strukturunun tektonostratigrafik quruluşu, kollektor xassəiyyatlari və CO2 saxlanmasi perspеktivləri: Abşeron arxipelaqının şimal-qərb akvatoriyasında çoxəsaslı tədqiqat
+
+Xülasə
+
+Abşeron arxipelaqinin şimal-qərb akvatoriyasinda yerlaşən Pirallahı strukturu üzrə aparılmış inteqrа geoloji-geofiziki və geokimyəvi tədqiqatlar sübut edir ki, belə alt Pliosen-Miosen kontaktinda qeyri-üzügun alaqalar, Məhsuldar Qat (MQ) daxilində kəskin litofasial dəyişkənlik və intensiv kollektor heterogenliyi ilə xarakterizə olunur. 1253 Nö-li quyudan götürülmüş 26 kern nümunəsinin oksid tərkibinin təhlili SiO2-nin sistemli artımı və CaO-nun tərs mütənasib dəyişimi ilə nəticələnmiş, bu da kvartsitləşmə dərəcəsi və karbonat sementləşmə rejimi arasında məkan-zaman əlaqəsinə işarə edir. Selektiv qumdaş1-qum-alevrolit-gil pаkеtlərinin dəsvi təkrarlanması, MQ-nin (Miosen çöküntüləri ilə qeyri-üzügun yerləşməsi və fazial keçidlərin asililigi Pirallahıda kollektorların qalınlığının və keyfiyyətinin yüksək latеrаl dəyişkənliyini formalaşdırır. Orta Miosendən müasir Xəzər çöküntülərinədək ümumi qalınlıq təqribən 1500 m təşkil edir. Regionda tökənmiş neft-qaz yataqlarında CO2 tutulub-yığılması üçün geoloji  əlverişlilik dəyərləndirilib; sizdirməz örtüklərin dayanıqlığı, təzyiq idarəetməsi və uzunmüddətli mineral immobilizasiya mexanizmləri nəzərdən keçirililib. Xara-Zira adası yatağının 3950–4000 m-ə çatan qalınlıq parametrları müqayisəli kontekstdə təhlil olunaraq, Pirallahı üçün analoji litodinamiki və geomekanik ssenarilər təklif edilmişdir. Nəticələr CO2 saxlanmasının ekоlоgiya-iqtisadi effektivliyini və sahə üzrə kollektorların axtarış-kəşfiyyat mərhələlərində petrofiziki parametrlərin rolunu vurğulayır.
+
+Açar sözlər: Pirallahı strukturu, Abşeron arxipelaqı, alt Pliosen, Miosen, Məhsuldar Qat, QLD, QALD, petrofizika, CO2 saxlanmasi, Xara-Zira adası yatağı, geokimya, oksid tərkibi
+
+===== Pirallahı Tektonostratigrafiyası Kollektorlar və CO2 Saxlanması Perspektivləri.pdf | Page 2/11 =====
+1. Giriş
+
+Abşeron yarımadası və onun akvatoriyası çoxkomponentli neft-qaz sistemləri ilə tanınır və Bakı arxipelağının şimal-şərq və şimal-qərb periferik zonalarında miosen-pliosen yaşlı çöküntülər üzərində təşkil edir. Pirallahı strukturu bu kontekstdə Abşeron arxipelaqının şimal-qərb akvatoriyası strukturlarından biri kimi seçilir, burada Tabasir-Antropogen yaşlı çöküntülər, əsasən qazılmış quyular vasitəsilə öyrənilmişdir. Məqsədimiz stratigrafik-tektonik quruluşun, litofasial dəyişkənliyin, kollektor xassələrinin və CO2 tutma-saxlama potensialının inteqrasiyasının qiymətləndirilməsidir. Xüsusi diqqət alt Pliosen çöküntülərinin Miosen üzərində yerləşmə xüsusiyyətlərinə, MQ-nin qeyri-uyğun kontaktına və buna bağlı qalınlıq-anizotropiya problematikasına yönəldilmişdir.
+
+2. Regional-geoloji fon
+
+Abşeron arxipelağı boyuncə tektonik çatlaklıqlar və antiklinal yüksəkliklər neotektonik hərəkətlər və çökmə rejiminin ritmikasına uyğun formalaşmışdır. Pirallahı sahəsi şimal-qərb istiqamətli uzanmış antiklinal zonaya daxildir; burada çatlq sistemi əsasən Şimal-Şərq-Cənub-Qərb və Şimal-Qərb-Cənub-Şərq istiqamətlidir. Alt Miosen-Orta Miosen basinalakustrin və dərin şelf məhəllərinin məhsulu olan gillər, alevrolitlər və incə qumlar ilə təmsil olunur. Alt Pliosen dövründə hövzə dolma sürətinin artması nəticəsində MQ çöküntüləri lay dəstələri şəkildə ardıcıl-klinoform paketlər kimi yığılmış və azsaylı paleorelief üzərində lokallaşmışdır. Alt Pliosenin Miosen üzərinə qeyri-uyğun yerləşməsi (regional unconformity) təkcə stratigrafik diskordans deyil, həm də eroziya səthləri boyunca litofasial kəskin kontrastların yaranması ilə müşayiət olunur.
+
+===== Pirallahı Tektonostratigrafiyası Kollektorlar və CO2 Saxlanması Perspektivləri.pdf | Page 3/11 =====
+3. Material və metodlar
+
+Quyuilar: 1253 No-li kəşfiyyat-quyusundan 26 ədəd kern götürülmüş, əlavə olaraq yaxın strukturlardan analoji fəsilələrdə 9 sondaj kəsiyi mövcuddur.
+
+Qarışıq metodologiya: quyuda geofizika (GR, RT, İLD/LLD, NPHİ, RHOB), petrofizika (Core plug poro-perm, kapillyar təzyiq), geokimya (XRF ilə əsas oksidlər, XRD ilə mineroloji fazalar), geomekanika (UCS, Young modulu, Poissin nisbəti).
+
+Qatlaşdırma: MQ daxilində Qumlu Lay Dastasi (QLD) və Qalın Alevrolit Lay Dastasi (QALD) operativ səviyyədə ayrılmış, lay sərhədləri (litologiya, GR spektri və rezistivlik kontrastlarına əsaslanmışdır.
+
+Məlumatların emalı: porozite və su doyma modelləşdirilməsi Archie və m-variantı asaslanan kombinasiya edilmiş yanaşma ilə aparılmış; mineral tərkibinin porozite/permeabillyə təsiri çoxparametrli reqressiya ilə qiymətləndirilmişdir. Geostatistika üçün variogram analizi və sekvans modelləşdirilməsi tətbiq edilmişdir.
+
+4. Stratigrafiya və litofasiyalər
+
+Alt Pliosen çöküntləri Miosen çöküntülari üzərində yerləşir və MQ daxilində qeyri-uyğun kontakt üzərində qalınlıq yüksək lateral dəyişkənlik göstərir. QLD intervallarında mavi-yaşıl GR amplitudlarının azalması və yüksək rezistivlik dəyərləri müşahidə edilir, bu da qumdaşı və qum dominantlığını göstərir. QALD paketlərində isə alevrolit-gil ritmikliyi hakimdir. Qazılan litofasial kəsilişdə qumdaşı-qum-alevrolit-gil siklərinin dövri təkrarlanması (5-20 m qalınlığa) transqressiv-regressiv sekansları əks etdirir. Tuf materialları və vulkanogen klastitlər lokal interkalasiyalar şəklində qeyd olunur, bu da SiO2-nin artım trendləri ilə uyğunlaşır.
+
+5. Pirallahı strukturunun geoloji-kəsilişi və qalınlıqlar
+
+Pirallahı strukturunda Orta (Miosen-Moasir) Xəzər çöküntoləri kompleksi təqribən 1500 m qalınlığa malikdir. Alt Miosen podçtutuğu 200-350 m arası dəyişir, üstündə isə MQ-nin qalınlığı qeyri-uyğunluq sərhəddinə 300 m-dan 900 m-a qədər variasiya edir. Lokal antiklinal qövsvün qərb periklinalında (MQ nazikləşir, şərq cinahda isə qalınlaşır. Qatlıqda ikinci təsiri göstərən normal atılmış xırda qırılmalar lay bloklarını 5-30 m nisbi dözmələrə məruz qoyur, bu da kollektorların lateral davamlılığını parçalayır.
+
+===== Pirallahı Tektonostratigrafiyası Kollektorlar və CO2 Saxlanması Perspektivləri.pdf | Page 4/11 =====
+6. Tektonik və struktur skelet
+
+Struktur xəritələr antiklinalın şimal-qərb uzanımlı olduğunu göstərir; domalazma amplitudası 120-180 m, bağlanma sahəsi isə 18-26 km2 diapazonundadır. Qırılma zonaları boyunca kataklazit və brekçialanma dərəcəsi nümunələrdə müşahidə olunmuş, qatplanmış gillər üçün litologiyaları üçün mühüm sizdırmazlıq roluu oynayır. Qeyri-uyğun səthlər boyunca eroziya kanalları və paleovadi quruluşları QLD daxilində yüksək permeablilik anomaliyaları yaradır.
+
+7. Petrofiziki xassələr
+
+- Porozite: QLD nümunələrində helim porozimetriyası üzrə 14-26% (orta 19.8%), QALD intervallarında 6-14% (orta 10.7%).
+
+- Permeabilik: QLD üçün 15-850 mD (orta 210 mD), QALD üçün 0.1-8 mD (orta 2.3 mD).
+
+- Su doyumu: Archie parametrlərini m=19, n=20 fərziyyəsi ilə S_w 0.28-0.62 diapazonu (QLD) və 0.55-0.85 (QALD).
+
+- Net-to-gross: QLD-da 0.42-0.58, QALD-da 0.18-0.32.
+
+- Kapilyar təzyiq: MICP təcrübələrində giriş təzyiqi QALD üçün 0.35-0.85 MPa, QLD üçün 0.08-0.25 MPa; bu təq CO2 plomunun ilkin saxlanmasında QALD paketlərinin üstün kimi funskional roluu təsdıqlaıyır.
+
+- Geomekanika: QLD üçün UCS 18-46 MPa, Young moduli 8-21 GPa, QALD üçün UCS 9-22 MPa, Young moduli 5-13 GPa; əhəng gillari üçün UCS 11-28 MPa, lakin yüksək plastiklik indeksinə görə fraktura yayılması riski məhduddur.
+
+===== Pirallahı Tektonostratigrafiyası Kollektorlar və CO2 Saxlanması Perspektivləri.pdf | Page 5/11 =====
+8. Geokimyəvi tərkib və oksidlər arasında korrelyasiya
+
+1253 No-li quyudan alınan 26 kəskin nümunəsinin XRF analizi əsasında əsas oksidlərin paylanması aşağıdakı ümumi trendlari göstərir:
+
+- Si02: 52-84% aralığında, QLD qumdaşlarında daha yüksək (72%), QALD-larda 48-65%.
+- Al203: 7-16%, gil mineralları ilə alaqəli.
+- CaO: 0.8-9.5%, karbonat sementlənmə zonalarında yüksəlir.
+- Fe203(t): 1.5-6.8%, hematit-limonit ləkələnmələri və klorit varlığı ilə bağlı.
+- K20/Na20 nisbəti: 0.7-1.6; feldispatların diferensial parçalanma dərəcasini aks etdirir.
+
+Si02 ilə CaO arasında gücə mənfi korrelyasiya (r = -0.74) qeydə alınmışdır; bu, kvarsın payının artdığı dəniz-şelf proksimal paketlərində karbonat sementlənmənin daha zəif olmasını göstərir. XRD nəticələri kaolinit-illit dominantlığını, lokal xlorit və montmorillonit interlaylarını təsdıq layır. Karbonat fazaları əsasan kaltsit və əhəngta təmsil olunur. By mineralogiya CO2-in geokimyəvi təbəqə düşmə mexanizmlərinin (həllolma, karbonatlaşma) mərhələli rejimini dəstəkləyir.
+
+9. Məhsuldar Qatın (MQ) lay dəstələri: QLD və QALD dərə yanqasma
+
+Regional təcrübədə MQ-nin operativ zonalaşdırılması üçün QLD (Qumlu Lay Dəstəsi) - yüksək kollektor potensialı qumdaşı topluluğu və QALD (Qalın Alevrolit Lay Dəstəsi) - örtük rolunu gücləndirən alevrolit-gil paketləri ayrılır. Pirallahıda QLD paketləri 6-18 m qalınlığda çoxsaylı kəsili bədənlərdən ibarətdir, tərkibcə sublitərenit-litarenit spektrində dəyişir. QALD blokları isə 15-40 m qalınlıqda, laminar strukturlu, yüksək su doymulu və aşağı keçirimliliyi qatları birləşdirir. Bu alternasiya, MQ-nin Miosenlə qeyri-uyğun kontakti fonunda, qalınlıq və kollektor parametrlarında mozaik heterogenliyə gətirib çıxarır.
+
+===== Pirallahı Tektonostratigrafiyası Kollektorlar və CO2 Saxlanması Perspektivləri.pdf | Page 6/11 =====
+10. Neft-qaz sisteminin elementlari
+- Yığım: MQ daxilinda QLD layları asas yığım horizontlarıdır; sərğulanmış quyularda neft doym zonaları 0.35-0.55, qaz neft nisbati orta hesabla 65-120 m3/m3.
+- Məhzən: PVT ölçmələri 32-38° API, g/s 0.78-0.83; qaz üçün 0.65-0.75 srel. grav.
+- Ortük: QALD və ətrafındakı üst pliosen-məəsir gillər sızdırmazlığı təmin edir; qalın ortük paketinin effektiv qalınlığı 120-240 m.
+- Təla: Antiklinal quruluş və litoloji linzalar; qırılmalar boyunca bağlanma lokal-mexanik ortük gillərinin qalınlaşması hesabına sabitdir.
+
+II. C02 tutulması və saxlanması ələn uyğunluq
+
+Karbon qazının (C02) tutulub-yığılması iqlim dəyişikliyi risklərinin azaldılması üçün prioritet yönəşimdir. Abşeron yarımadasında tükənmiş neft-qaz yataqlarında yeraltı karbon qazı anbarları yaradılması həm ekoligiyaya, həm də iqtisadi səmərəlilik baxımından şərfəlidir. Pirallahı strukturunda potensial aşağıdakı parametrlərə ilə qiymətləndirilib:
+
+- Saxlama həcmi: QLD daxilində effektiv məsamə həcmi Es = A x hnet x Øeff x S_eff; tipik qiymətlər A=20 km2, hnet=120 m, Øeff=0.17, S_eff=0.25 ilə nəzərə alındıqda Es = 102 Mm3 məsamə həcmi, sıxılmış C02 ekvivalenti ≈ 70-90 Mt (T,p şərtlərindən asılı).
+- İnjeksiýa ssenarisi: 0.5-15 Mt/il gücündə 3-5 injektor, 2-3 ədəd basqı-relef quyusu ilə təzyiq idarəetməsi. Lay təzyiqinin frakturasiya təzyiqindən (σmin + T) 15-25% aşağı saxlanması məqsədəuyğundur.
+- Saxlanma mexanizmləri: Struktur tələdə fiziki saxlanma (qısa-orta müddət), həllolunma tələsi (10-100 illik şkalada), mineral tələ (karbonatlaşma, 100-1000 illik şkalada). SіO2 yüksək, CaO aşağı sahələrdə ilkin həllolma effektləri üstün ikən, karbonat zəngin zonalarda karbonatlaşma potensiali yüksəkdir.
+- Təhlükəsizlik: QALD və üst gillər sızdırmazlığı; köhnə quyuların tamamlanma bütövlüyü (sement, kanar korroziya) üzrə audit; mikro-seysmik və 4D seysmik monitoring; izotop və izləyici qazlarla kütlə balansı.
+
+===== Pirallahı Tektonostratigrafiyası Kollektorlar və CO2 Saxlanması Perspektivləri.pdf | Page 7/11 =====
+12. Risklərin qiymətləndirilməsi
+
+- Geomekanik risk: İnjeksiya təzyiqinin həddən artıq artırılması qırılma aktivləşməsinə səbəb ola bilər; elastoplastik model göstərir ki, 1.4-1.6 SG ekvivalent sütun təzyiqindən sonra risk yüksəlir. Təzyiqin mərhələli artımı və intermitent injeksiya rejimi tövsiyə olunur.
+
+- Sızma riskləri: Qayna quyular boyunca mikrosizinti ehtimalı; sement sirəsi kanallaşmasına qarşı remediativ suxlaşdırma və pulsed CO2-brine injeksiyası strategiyası.
+
+- Kimyəvi qarşılıqlı təsir: CO2-in turşusu feldispatların hidrolizini sürətləndirir, gil mineralogiyasını dəyişə bilər; lay suyu ion gücü və pH stabilizasiyası üçün tampon məhlulların pilot olaraq tətbiqi nəzərdən keçirilə bilər.
+
+- İqtisadi risk: CO2 təchizatının (CCUS) logistikası; kompressor stansiyalarının enerji yoxluğu; karbon qiymət mexanizmləri ilə sinxronlaşdırma.
+
+13. Xərə-Zira adası yatağı: məqsədli baxış
+
+Bakı arxipelaqının şimalında yerləşən Xərə-Zira adası yatağı kompleks qalınlığın 3950-4000 m dərinliyə seçilir və regionun ən güclü çəkmə mərkəzlərindən biridir. Burada MQ-nin qatlaşması və fasiyal konturların kəskinləşməsi nəticəsində kollektorların vertikal zonallığı daha ifadəlidir. QLD layları 20-30 m qalınlığa qədər davamlılıq nümayiş etdirir, QALD isə 40-60 m qalınlıqda ümumi sıxdırmaqlıq paketini formalaşdırır. Bu sahənin təcrübəsi göstərir ki, yüksək qalınlıqlı örtük və çoxqatlı kollektor sistemi CO2 saxlanması üçün əlverişli bufer yaradır. Pirallahı üçün bu təcrübənin transferi injektorların laylararası paylanılması və basqı-relef strategiyasının optimallaşdırılmasını təmin edir.
+
+===== Pirallahı Tektonostratigrafiyası Kollektorlar və CO2 Saxlanması Perspektivləri.pdf | Page 8/11 =====
+14. Qazılmış quyuların geoloji-kəşfiyyat nəticələri və kollektorların öyrənilməsi
+Şahada qazılmış quyuların geofiziki karotajları (GR, SP, darin/iki sondalı (ILD/LLD), akustik) QLD/QALD səthələrinin aydın izlənməsinə imkan verir. Qrannometriya analizi QLD qumlarının orta dənəcikli (0.25–0.5 mm), yaxşı-mötədil çeşidlənmiş, subyvarlıq dənənin formasiyasına malik olduğunu göstərir. QALD alevrolitləri incə dənəli, laminat teksturalıdır. Petroqrafik QFL diaqramında Q=68–82%, F=6–14%, L=8–18% diapazonları qeyd olunur; ağır mineral kompleksi rutil, zirkon, turmalin ilə təmsil olunur, bu da mənbə süxurların metamorfik-felsik komponentini əks etdirir. Kollektor xüsusiyyətlərində sement növü həlledici əhəmiyyət daşıyır: silisli incə əhəng kollektor keçiriciliyini azaldır, kaltsit-ankrit sementlənməsi isə keçiriciliyi 30–60% azalda bilər.
+
+15. QLD və QALD üzrə axın mexanizmi və injektəbiliyi
+Relativ permeablilik əyriləri göstərir ki, su-vurma rejimində QLD üçün krw və kro əyrilərinin kəsişmə nöqtəsi S_w ≈ 0.55-dir, bu da CO2-sudan sonra injeksiya (WAG) sxeminin effektivliyini artırır. QALD üçün krCO2 minimaldır, bu isə əntük rolunu məhdudlaşdırır. CO2-in həqiqi sıxlığı və viskozluğu lay temperaturu 60–85°C və təzyiq 12–18 MPa şəraitində seçilmişdir; superkritik rejimdə mobilite nisbəti qumdaşılardakı heterogenliyi fonunda fingering riskini doğursa da, WAG dövriyyəsi və köpüklandırıcı surfaktantların seçmə üsulu ilə idarəolunandır.
+
+16. Ekologiya və iqtisadi səmərəlilik
+CO2-nin atmosferdən tutulması və geoloji saxlanması həm emissiya kvotalarının optimallaşdırılmasına, həm də sənaye müəssisələrinin dekarbonizasiyasına xidmət edir. Pirallahı kimi strukturlarda ildə 1 Mt CO2 saxlanması 25 illik horizontda 25 Mt net azalma deməkdir; karbonun sosial dəyəri ilə diskontlu hesablamalarda 35–60 $/tCO2 intervalında iqtisadi dayanıqlıq mümkün görünür. Regionda mövcud neft-qaz infrastrukturunun (boru kəmərləri, platformalar) adaptasiyası ilkin kapital xərclərini əhəmiyyətli dərəcədə azaldır.
+
+===== Pirallahı Tektonostratigrafiyası Kollektorlar və CO2 Saxlanması Perspektivləri.pdf | Page 9/11 =====
+17. Monitoring, nəzarət və təsdiqləmə (MMV)
+
+- 4D seysmik: CO2 plümənin yayılması və sasimpedans kontrastlarının dinamikası.
+- VSP və DAS: quyuaxını boyunca dispersiya və qalpa hadisələrinin yüksək həssaslıqla izlənməsi.
+
+- Basqi-impuls testləri: alaqalılıq və transmissivlik xarakterlərinin real vaxtda yenilanmasi.
+
+- Geokimyəvi izleyicilər: SF6, Kr və 13C izotopları ilə sizma ehtimalının təsdiqlənməsi.
+
+- Sath deformasiyasi: InSAR və tiltmetrlərlə mikrosubsidensiyanın ölçülməsi.
+kəhər qеylərının sement halgalərının botovıye üçün CBL/VDL logları və selektiv tamin proqramı planlaşdırılmalıdır.
+
+18. Müzakirə
+
+SiO2-nin artma trendləri və CaO-nun tərs mütənasibliyi Pirallahıda kollektor
+keyfiyyətlərinin litogenetik determinantıdır: yüksək silisifikasiya və zəif karbonat
+sementianması daha sabit poro-perm sahələri yaradır, CO2-in injektivliyini artırır və
+mineral talaqə keçidi gеçidır; karbonat zəngin zonalarda isə ilkin injektivlik
+aşağı ola bilər, lakin uzunmuddəti karbonatlaşma ilə təhrikətsiz immobilizasiyaya
+güclənir. (MQ-nin Miosenə qeyri-uyğunluğu və qalınlığın dəyişkənliyi geoloji
+modelləşdirmədə lokal grid incəltməsi və sэxsəaviyylə təla mexanizmlərinin
+inteqrasiyəsini tələb edir. Antiklinal bağlanma ilə litoloji təlatlərin
+superpozisiyası CO2 saxlanmasında redundans yaradır. Xara-Zira ilə müqayisə
+Pirallahıda ortoq qalınlığın nisbi azlığına baxmayaraq, çoxqatlı ortuk
+konsepsiyasının həyata keçirilə biləcəyini göstərir.
+
+===== Pirallahı Tektonostratigrafiyası Kollektorlar və CO2 Saxlanması Perspektivləri.pdf | Page 10/11 =====
+19. Praktik tövsiyələr
+- Qatlaşdırmanın dəqiqləşdirilməsi üçün GR spektral analiz və rezistivlik 
+anizotropiyası tətbiq olunmalı, QLD/QALD sərhədləri üzrə qeyri-müəyyənlik 
+azaldılmalıdır.
+- Core-log inteqrasiyasında NMR porozimetriyası alava edilməklə mikro-porlu 
+komponentin payı qiymətləndirilməlidir.
+- CO2 inyeksiyası öncəsi pilot: 1-2 quyu ilə 6-12 aylıq sınaq, bəsqi idarətməli və 
+izleyici ilə.
+- Geomekanik model: 3D poroelastik simulyasiya ilə frakturasiya pəncərəsinin 
+daraldılması, təzyiq limitlərinin sahəvi xarakterizə edilməsi.
+- Köhnə quyuların remediativ sementlənməsi: mikroannulus riskinin azaldılması üçün 
+sizdırmaz əlavələr.
+- MMV proqramı: 4D seysmik dövrüylə 18-24 ay, VSP illik, InSAR aylıq, hasilat suyu 
+kimyasinda pH və qələvilik monitorinqi.
+
+20. Nəticə
+Pirallahı strukturu Abşeron yarımadasının şimal-qərb akvatoriyasında tipik alt 
+Plios-en-Miosen çökəklənməsi, MQ-nin qeyri-üzvi yerləşməsi nəticəsində yaranan 
+qalınlıq dəyişkənliyi və qumdasi-qum-alevrolit-gil litmiksliyinin dominantliyi ilə 
+xarakterizə olunur. Orta Miosen-Məasir kompleksin təqribən 1500 m qalınlığı, QLD/QALD 
+lay dəstələrinin ardıcılığı və petrofiziki heterogenliyi neft-qaz yığımına və CO2 
+saxlanmasına alverişli şərait yaradır. 1253 №-li quyudan alınmış 26 kern nümunəsinin 
+geokimyəvi analizi SiO2-nin artımı və CaO-nun azalması arasında stabil tərs 
+mütənasiblik göstərərək kollektor keyfiyyətlərinin və mineral tələbsəmə potensialının 
+litogenetik əsasını təşdiqləyir. Xəzər-Dəniz adası yatağı ilə müqayisədə daha qalın örtük 
+sistemlərinin üstümlüyünü göstərərək də, Pirallahıda çoxqatlı sizdırmazlıq və təzyiq 
+idarəetməsi ilə təhlükəsiz və uzunmüddətli CO2 saxlanmasının həyata keçirilməsi 
+realdır. Neft-qaz axtarışı və kəşfiyyatında petrolizə parametrlərin (poro-perm, 
+N/G, kapilyar təzyiq) yüksək dəqiqliklə öyrənilməsi, eləcə də CGCS təqdim 
+parametrlarının bu məlumatlarla kalibrovkası sahənin gələcək enerji keçidində 
+strateji rolunu məhkəmləndirir.
+
+===== Pirallahı Tektonostratigrafiyası Kollektorlar və CO2 Saxlanması Perspektivləri.pdf | Page 11/11 =====
+İstifadə notları
+
+Bu işdə istifadə olunan konseptual çərçivə regional Abşeron geologiyası, MQ lay 
+dastalarınınin əmələgəlmə şəraiti, petrofiziki metodologiyalar və geoloji CO2 
+saxlanmasının sibə formalaqda deqonasiya praktikasına şalışdırılmışdır, təhqiqat 
+parametrları sahəvi interpretasiya məqsədləri üçün kalibrlanmışdır.

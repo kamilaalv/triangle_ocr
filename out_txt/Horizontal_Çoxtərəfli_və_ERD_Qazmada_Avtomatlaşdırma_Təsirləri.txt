@@ -1,0 +1,171 @@
+===== Horizontal Çoxtərəfli və ERD Qazmada Avtomatlaşdırma Təsirləri.pdf | Page 1/15 =====
+Yenı Qamma və Təsnıfləmə Texnologıyalarının Enerjı 
+Texızatına Təsırı: Horızontal, Çoxfazı və 
+Avtomatlaşdırılmış Qamma Paradıgması
+
+===== Horizontal Çoxtərəfli və ERD Qazmada Avtomatlaşdırma Təsirləri.pdf | Page 2/15 =====
+Xülase
+
+Bu tədqiqatda neft və qaz qaynaqlarına çıxışı asanlaşdıran müasir qazma və tamamlanma texnologiyalarının istehsal, çeviklik və ekoloji dayanıqlılıq baxımından çoxşaxəli təsirləri araşdırılmışdır. Horizontal və çoxterefli qazma yanaşmaları, genişlənmiş çatımlı quyular və qazma prosesinin ardıcıl avtomatlaşdırılması enerji tələbatını ödəmək üçün daha az quyu sayı ilə daha çox karbohidrogen hasilatını mümkün etmişdir. Qazma məhlullarının seçimi və iki mərhələli kimyəvi işlənməsi, həmçinin qazma ucu yuxınlığında yerləşdirilən ölçü və idarə mexanizmləri ilə inteqrasiya nəticəsində mexaniki qazma sürəti, quyu stabilliyi və əməliyyat təhlükəsizliyi yeni səviyyəyə daşınmışdır. Modullaşdırılmış səha məlumatları və sintetik ssenarilər əsasında aparılan qiymətləndirmələrə görə, 2:1 və daha yüksək ölçülmüş dərinlik/şaquli dərinlik (MD/TVD) nisbətinə malik genişlənmiş quyularda eyni səha izi üçün hasilat 28-63% artmış, eyni zamanda qazma tullantıları 17-34% azalmışdır. Avtomatlaşdırmanın üç pilləsi – avadanlığın mexanizasiyası, qazma ucuında parametrlerin idarəsi və qazma məhlulunun avtomatlaşdırılması – birlikdə tətbiq edildikdə, əməliyyatın dayanıqlı ritmi və xərclərin proqnozlaşdırılması əhəmiyyətli dərəcədə yaxşılaşır. Nəticələr göstərir ki, müxtəlif geoloji şəraitlərdə optimallaşdırılmış texnoloji paketlər enerji təhlükəsizliyini artırır, quyu sayını azaldır və karbon izini kiçildir.
+
+===== Horizontal Çoxtərəfli və ERD Qazmada Avtomatlaşdırma Təsirləri.pdf | Page 3/15 =====
+Giriş
+
+Qlobal enerji telebatinin yüksalmesi fonunda hidrokarbon ehtiyatlarina süretli, serfeli va tahlükesiz çıxış günümüzda prioritetdir. Qazma va tamamlanma texnologiyalari bu kontekstde yalniz resurslarin çıxarilmasini temin etmir, hem da yeraltı melumat axininin zanginlasdirerek qarar qabulaetmeni takmillasdirir. Bu is, xüsusen horizontal va çoxterefli qazma texnikalarinin, genislanmis çatimli quyularin, hemçinin qazmanin asas mexaniki prinsipleri ila yanaşi avtomatlasdirmanin ardicil merhelelerinin sinerjisini sistematik sekilde tahlil edir. Merkezi tezis beledir: daha az quyu ila daha çox hasilat - düzgün seqilmis texnoloji inteqrasiya va qazma mehlullarinin semerali idaresi neticesinde - hem iqtisadi, hem da ekoloji baximdan üstünlük yaradir.
+
+===== Horizontal Çoxtərəfli və ERD Qazmada Avtomatlaşdırma Təsirləri.pdf | Page 4/15 =====
+Ədəbiyyat İcmalı
+
+Dünya təcrübəsində horizontal qazma vasitəsilə rezervuarla əlaqə səviyyəsi artırılmış, xüsusilə aşağı keçiricilikli laylarda xetti quyu seqmentinin uzadılması ilə effektiv drenaj sahəsi genişləndirilmişdir. Çoxtərəfli qazma isə eyni şaquli bəzi hallarda müxtəlif stratigrafik səviyyələrə çatma imkanı verərək, təbəqələrarsı heterogenliyin təsirini balanslaşdırır. Genişlənmiş quyu anlayışı, ölçülmüş dərinliklə (MD) şaquli dərinlik (TVD) nisbətinin ən azı 2:1 olduğu halları əhatə edir və bunu asan dizaynlarda quyu trayektoriyası mühüm geomekanik sınaqlarla tələb edir.
+
+Avtomatlaşdırmanın birinci dalğası mexanizasiya ilə başlayaraq işçi təhlükəsizliyini artırır; ikinci mərhələ, qazma ucundakı parametrlərin (çəki, moment, dönmə sürəti, hidravlik enerji) dinamik idarəsi ilə ROP-u optimallaşdırır; üçüncü mərhələ isə qazma palçığının (reologiya, sıxlıq, filtrasiya) real vaxt tənzimlənməsini təmin edir. Qazma məhlulları üzrə klassik təsnifat – su, neft və hava/qaz əsaslı sistemlər – müxtəlif geoloji risklərə cavab verən seçim palitrası yaradır.
+
+===== Horizontal Çoxtərəfli və ERD Qazmada Avtomatlaşdırma Təsirləri.pdf | Page 5/15 =====
+Metodologiya
+
+- Sintetik saha modeli: Qumdaşı-şist ardıcıllıqlarından ibarət, orta dərinlik 2 100-3 400 m, təzyiq gradienti 0,78-0,92 psi/ft aralığında olan hipotez rezervuar.
+
+- Quyu dəstələri: A) Şaquli baza quyuları; B) Horizontal (1 200-2 000 m lateral); C) Çoxtərəfli (iki və dörd qol); D) Genişlənmiş çatımlı (MD/TVD ≥ 2:1, lateral 2 500-3 800 m).
+
+- Avtomatlaşdırma səviyyələri: 0 (əvvəli) (mexanizasiya), 2 (uc parametrləri idarəsi), 3 (palçıq avtomatlaşdırması). Hər səviyyə üçün uyğun sensor dəsti və idarə alqoritmi (klassik PID və hibrid öyrənən idarəçi).
+
+- Qazma məhlulu variantları: su əsaslı (polimerləşdirilmiş), neft əsaslı (EMUL invert), hava/qaz əsaslı (underbalanced rejim). İki mərhələli kimyəvi işləmə: mərhələ-1 (sistem qurulması: viskozifier, inhibitor, duz), mərhələ-2 (xüsusi optimizasiya: sürtkü, yüksək temperatur stabilizatoru, antifoam, filtr reduktor).
+
+- Qiymətləndirmə meyarları: mexaniki qazma sürəti (ROP), çəki üzər sürülmə (WOB) səyrəsi, tork dalğalanması, standpipe təzyiqi, qazma tullantıları (kg/m), quyu divarının stabilliyi, su-kəsilməsi, hasilat profili (qısa və orta müddət), işçi təhlükəsizliyi göstəriciləri, karbon izləri (CO2e/boe).
+
+- Hesablamalar: çoxölçülü həssaslıq analizi, Monte Karlo ssenarileri (N=10 000), geomekanik məhdudiyyətləri (poroelastiklik) nəzərə alan trayektoriya optimizasiyası, palçıq hidravlikası üçün qeyri-nyuton modelləşdirmə.
+
+===== Horizontal Çoxtərəfli və ERD Qazmada Avtomatlaşdırma Təsirləri.pdf | Page 6/15 =====
+Qazma Prosesi və Əsas Prinsiplər
+
+Qazma, quyunun dibindeki süxurların mexaniki məhvi ilə həyata keçirilən, fərdi əməliyyatlar silsiləsidir. Quyu trayektoriyasının formalaşdırılarkən aşağıdakı əsas əməliyyatlar icra olunur:
+- Qazma borularının endirilib qaldırılması (tripping), BHA konfiqurasiyasının dəyişdirilməsi;
+- Divarların çökməsinin qarşısının alınması üçün aralqq və istehsal kəmiklərinin endirilməsi və sementləmə;
+- Dibdən nümunələrin və real vaxt ölçmələrinin (MWD/LWD) toplanması;
+- Hidravlik sistemin idarəsi: nasos dəbiti, palçıq reologiyası, hidrostatik sütun və ECD balansı.
+
+Mechanical Specific Energy (MSE) və ROP-un idarəsi üçün yük, dönmə sürəti və hidravlik enerji triadasının balanslaşdırılması tələb olunur. ROP-un praktiki ifadəsi – dərinlik dəyişimi üzrə zamanın törəməsi – sahə reallığında vibrasiya, slide/rotate rejimlərinin payı və bit dizayni kimi amillərlə çərçivələnir.
+
+===== Horizontal Çoxtərəfli və ERD Qazmada Avtomatlaşdırma Təsirləri.pdf | Page 7/15 =====
+Horizontal və Çoxterefli Qazmanın İntegrasiyası
+
+Horizontal quyunun əsas üstünlüyü rezervuarla təmas səthini artırmaqdır. Aşağı keçiricilikli laylarda lateral uzunluq və fraktura stimulyasiyası sinerji yaradır. Çoxterefli (ML) quyular isə eyni dik baza üzərindən müxtəlif təbəqələrə yönələn qollar vasitəsilə hər təbəqənin təkli sürülmə mexanizmələrini (sıxdırma, qaz qapağı, hətta kapilyar kontrastlar) optimallaşdırır. Sintetik modelləşdirməmiz göstərir:
+
+- İki qollu ML: eyni rezervuar həcmi üçün ilkin hasilat sürəti 21-29% artır.
+
+- Dörd qollu ML: təmas sahəsi 1,8-2,4 dəfə böyüyür, lakin quyu müdaxilələri və idarəetmə kompleksliyi də yüksəlir; buna baxmayaraq, optimallaşdırılmış klapan nəzəriyyəsi ilə su-kəsilməsi 7-12% azaldıla bilir.
+
+Genişləndirilmiş Çatımlı Quyular (HRD)
+
+MD/TVD nisbəti 2:1-dən az olmayan ERD dizaynları dərin lateral hissələrdə kəskin sürtünmə artımı və kəsik daşıma riskləri ilə xarakterizə olunur. Bu çətinliklər aşağıdakı vasitələrlə təqdimləşdirilmişdir:
+
+- Rotasiya ilə yönləndirmə (RSS) və yüksək moment dayanıqlı BHA dizaynı;
+
+- Aşağı ECD rejimi üçün densite optimizasiyası və sürtkü əlavələrinin merhelo-2 dozalanması;
+
+- Drill pipe harmoniklərinin yumşaldılması üçün aktiv tork və sürət modulyasiyası.
+
+Nəticədə ERD-lərdə qazma dövrü 11-16% qısalmış, quyu divarı sabitliyi göstəriciləri isə 0,3–0,6 MPa ekvivalentlə yaxşılaşmışdır.
+
+===== Horizontal Çoxtərəfli və ERD Qazmada Avtomatlaşdırma Təsirləri.pdf | Page 8/15 =====
+Avtomatlaşdırmanın Üç Mərhələsi
+
+1) Qazma avadanlığının mexanizasiyası: Avtomatik boru manipulyasiyası, dəzgahın təhlükəsiz iş rejimləri, vibrasiya monitorinqi. Əməliyyat risklərinin azaldılması və ekipaj yüklənməsinin balanslaşdırılması məqsədi daşıyır.
+
+2) Qazma ucundakı parametrlərin idarə edilməsi: Bit yaxınlığında yerləşən sensor dəsti (tenzimetr sensor stabilizatorlar, aşağıqapılı tork modulları) ilə WOB, RPM, tork və hidravlik enerji real vaxtda tənzimlənir. Nəticə olaraq MSE azalır, ROP sabitləşir və tıxac riski aşağı düşür.
+
+3) Qazma palçığının avtomatlaşdırılması: Onlayn reometrlər, sıxlıq ölçənlər və filtrasiya monitorları palçıığın reologiyasını dinamik saxlayır. Qaynar dövrə nəzarətinə uyğun dozaj nasosları ilə kimyəvi reagentlərin iki mərhələli verilməsi həyata keçirilir.
+
+Qazma Məhlullarının Seçimi və İki Mərhələli Kimyəvi İşləmə Şərtlərindən asılı olaraq:
+- Su əsaslı məhlullar (WBM): gil şişməsinin inhibəsi üçün KCl, polimer viskozifierlər, filtr reduktorlar. Ətraf mühit baxımından üstün.
+- Neft əsaslı məhlullar (OBM): yüksək temperatur və stress altında sabit, sürtünmə azdır, lakin tullantıların idarəsi daha ciddi rejim tələb edir.
+- Hava/qaz əsaslı (ABM/UBD): qaz-köpük rejimleri, balanssız təzyiq altında qaz-kəsilməsini azaltmaq və formasiya zədələnməsini minimuma endirmək üçün uyğundur.
+
+===== Horizontal Çoxtərəfli və ERD Qazmada Avtomatlaşdırma Təsirləri.pdf | Page 9/15 =====
+İki mərhələli işləmə:
+- Mərhələ-1 (baza qurulması): əsas reologiya və densitenin formalaşdırılması, ion mübadiləsinin kontrolu.
+- Mərhələ-2 (dinamik optimizasiya): sürtkü, HT/HP stabilizatorları, antifoam, emulsiya gücləndiricilər. Real vaxt analitikası ilə geri-bəsləmə.
+
+Əməliyyatlar Silsiləsi və Quyu İnkişafı
+Qazma prosesinin tipik seqmentləri: səthdə təchizatın hazırlanması, kəşfiyyat hissəsinin açılması, aral.ı.ıq kəmiklər və sementləmə, hədəf zona horizontal/ML yönləndirilməsi, loglama, perforasiya və stimullaşdırma, son olaraq tamamlanma and.ı.mı. Divar çökmələrinin qarşısını almaq üçün geomekanik pəncərə (poro-tərsdirən təzyiqlər) daxilində ECD idarəsi əsas şərtdir. Bəzi ssenarilərdə sürətli triplərdə kəsik daşıma qatı.ılığ.ına uyğun "süpürmə" dizay.ı.nı tətbiq edilir.
+
+===== Horizontal Çoxtərəfli və ERD Qazmada Avtomatlaşdırma Təsirləri.pdf | Page 10/15 =====
+Nəticələr
+- Hasilat göstəriciləri: Horizontal və ERD-lərdə ilkin hasilat sürəti şaquli bəzaya nisbətən 35% (median) artmış, ML-dizaynlarla 2 qollu konfiqurasiya 24%, 4 qollu isə 46% artım müğahidə olunmuşdur.
+- Qazma səmərəliliyi: Avtomatlaşdırmanın 0-dan 3-cü səviyyəyə keçidi ROP-un dəyişkənliyini 38% azaltmış, quruluşdan dolayı dayanmaları 22% aşağı salmış, tïmumi dövri 12-19% qısaltmışdır.
+- Ekoloji təsir: Eyni rezervuar həcmi üçün quyu sayının azalması nəticəsində material istehlakında 18-27% azalma, qazma tullantılarının 17-34% aşağı düşməsi, co2e/boe göstəricisi orta hesabla 14% yaxşılaşmışdır.
+- Qazma məhlulu performansı: İki mərhələli işləmə ilə filtrasiya dəyəri 22-31% azalmış, ECD pikləri 0,1-0,2 ppg aşağı çəkilmiş, tork-vibrasiya amplitudasi 15-23% azalmışdır.
+- Təhlükəsizlik: Mexanizasiya ilə əl əməyinin payı 41% azalmış, insident tezliyi göstəricilərində 0,12-dən 0,07-ə enmə qeydə alınmışdır.
+
+===== Horizontal Çoxtərəfli və ERD Qazmada Avtomatlaşdırma Təsirləri.pdf | Page 11/15 =====
+Müzakire
+
+Nəticələr texnologiyaların kombine olunmasının faydasını göstərir. Horizontal quyu rezervuarla əlaqəni artırsa da, ERD rejimində sürtünmə və kəsik daşıma spesifik risklər yaradır; bu risklər avtomatlaşdırılmış palçıq idarəsi və aşağı frikisya əlavələri ilə idarə edilir. Çoxterefli konfiqurasiyalar heterojen rezervuarlarda tədrici drenaj və kontaminasiya risklərinin balanslaşdırılması üçün elverişlidir; lakin klapan və axın nəzarət sistemlərinin kalibrlənməsi vacibdir. Avtomatlaşdırma yalnız ROP-u artır-mır; o, torkun qeyri-sabitliyini yumşaldaraq BHA inteqrasiyasını qoruyur, enejinin idarə payını optimallaşdırır. Sensorlardan gələn real vaxt məlumatlarının keyfiyyəti və model kalibrlənməsi kritiki-dir: yanlış oxunuşlar palçıq dozajında reverberasiya effekti yarada bilər.
+
+MSE məntiqi vurğulayır ki, mexaniki igin hər vahid metr üçün paylanması azaldıqda həm bit aşınması, həm də enerji israfı minimuma enir. Bu isə WOB-RPM-hidravlika üçbucağının adaptiv idarəsini tələb edir. Palçıq reologiyasının real vaxt tənzimlənməsi ilə ECD dalğalanmaları kiçildikdə, geomexaniki pəncərə daxilində qalmaq asanlaşır və divar gökməsi daha az rastlanır.
+
+===== Horizontal Çoxtərəfli və ERD Qazmada Avtomatlaşdırma Təsirləri.pdf | Page 12/15 =====
+Qazma mehlulunun seçimi şertlere uyğun olmalıdır: gil minerologiyası üstünlük təşkil edən laylərdə WBM-in inhibeedicı paketləri semere verir; HT/HP şəraitində OBM daha perspektivlidir; suqazlı kəsilmə riski yüksək olan ssenarilərdə ABM/UBD formasiya zədələnməsini minimuma endirir. İki mərhələli kimyəvi işləmə yanaşması bu adaptivliyi institusional hala gətirir: baza parametrlər müəyyənləşir, ince tənzim isə real vaxtda edilir.
+
+**Sahə Tətbiq Ssenariləri**
+- Ssenari A (orta dərinlikli qumdağı): 1 600 m lateral horizontal quyu, WBM + mərhələ-2 sürtkü. ROP 18% artım, ECD pikleri 0,12 ppg azalma, tullantı 21% azalma.
+- Ssenari B (HT/HP şist-qırışıq): ERD 3 000 m lateral, OBM, avtomatlaşdırma səviyyəsi 3. Dövr 15% qısalma, tork dalğalanma 20% azalma, ilkin hasilat 32% artım.
+- Ssenari C (heterogen laylar): Çoxterofli 4 qol, selektiv tamamlanma. Su-kəsilməsi 9% azalma, tümumi drenaj sahəsi 2,1 dəfə artım.
+
+**Risklərin İdarəsi**
+- Vibrasiya və stick-slip: aktiv tork modulyasiyası və bit geometrisinin uyğunlaşdırılması.
+- Kəsik daşıma: reologiyanın aşağı kəsik sürətində qaldırıcı qabiliyyətinin artırılması üçün mərhələ-2 polimer optimizasiyası.
+- Qüsurlu loglama: redundant sensor konfiqurasiyası, anomaliya aşkarlayan alqoritmlər.
+- Qaz-kəsilməsi: ABM-də köpük stabilizasiyası, OBM-də qazdan təmizləmə protokollarının optimallaşdırılması.
+
+===== Horizontal Çoxtərəfli və ERD Qazmada Avtomatlaşdırma Təsirləri.pdf | Page 13/15 =====
+İqtisadi Qiymətləndirmə
+
+Kapital xərclərinin 6-11% artması (sensor, mexanizasiya, nəzarət) əməliyyat xərclərinin 14-22% azalması və hasilat artımı ilə kompensasiya olunur. Net present value (NPV) modellərində texnologiya pakətlərinin daxili gəlirlilik norması (IRR) 2,8-5,3 bənd yaxşllaşmışdır. Quyu sayının azaldılması həm platforma, həm də yerüstü infrastruktur yükünü yüngülləşdirir.
+
+Ekoloji və Sosial Təsirlər
+
+Daha az quyu, daha az səhə izi deməkdir. Tullantıların azalması, palçıq idarəçiliyinin optimallaşdırılması və sızmaların riskinin aşağı düşməsi yerli ekosistemlərə təsiri yumşaldır. Mexanizasiya işçi təhlükəsizliyini artırır və qabiliyyət təleblərini rəqəmsal bacarıqlara yönəldir.
+
+Məhdudiyyətlər
+
+- Sintetik modelləşdirmə səhə heterogenliyinin tam spektrini əhatə etmir.
+- Sensor kalibrləməsindəki sapmaların təsiri təxmini dəyərləndirilmişdir.
+- Geopolitik və logistika riskləri modellərə daxil edilməmişdir.
+
+Gələcək İşlər
+
+- Fizika-məlumat inteqrasiyallı idarə algoritmlərinin inkişafı (physics-informed learning).
+- Çoxfazlı axın və selektiv tamamlanma qərarlarının birgə optimallaşdırılması.
+- Aşağı karbonlu enerji sistemləri ilə inteqrasiya (CCUS-in ERD/ML ilə sinerjileri).
+
+===== Horizontal Çoxtərəfli və ERD Qazmada Avtomatlaşdırma Təsirləri.pdf | Page 14/15 =====
+Notice
+
+Bu araşdırma göstərir ki, horizontal, çoxtorefli və genişlənmiş çatımlı qazma strategiyalarının avtomatlaşdırmanın üç mərhələsi və iki mərhələli qazma məhlulu ilə inteqrasiyası enerji tələbatini daha az quyu ilə daha çox hasilatla qarşılamağa imkan verir. Mexaniki qazma üsullarına əsaslanan proseslərin rəqəmsal nəzarəti ROP-u stabilləşdirir, riskləri azaldır və ekoloji təsiri yumşaldır. MD/TVD ≥ 2:1 olan ERD-lərin məqsəduyğun dizayını və ML konfiqurasiyaların ağıllı idarəsi, ehtiyatların çoxseviyyəli sərbərliyinə şərait yaradır. Nəticə etibarilə, optimallaşdırılmış texnologiya paketi enerji təhlükəsizliyini gücləndirir, əməliyyat xərclərini aşağı salır və dayanıqlı hasilatla sosial-lisenziaya ehtiyaclarını dəstəkləyir.
+
+Tövsiyələr
+
+- Layın heterogenlik xarakterinə uyğun ML qol sayının seçilməsi.
+- ERD layihələrində sürtkü və reologiyanı real vaxt idarə edə bilən mərhələ-2 dozaj sistemlərinin məcburi tətbiqi.
+- Avtomatlaşdırmanın 2 və 3-cü səviyyələrinə keçid üçün sensor redundansı və kiber-fiziki təhlükəsizlik çərçivəsinin qurulması.
+- Qazma məhlulunda bazal parametrlərin laboratoriya kalibrlemesi və səhə geri-beslemesi ilə periodik tənzim, 
+- Ətraf mühit idarə planlarına tullantıların seqreqasiyası və yenidən istifadə mexanizmlərinin daxil edilməsi.
+
+===== Horizontal Çoxtərəfli və ERD Qazmada Avtomatlaşdırma Təsirləri.pdf | Page 15/15 =====
+Terminler ve Qısa İzahlı Qeydler
+- Horizontal qazma: rezervuarla uzanan lateral quyu seqmenti vasitesile temasin artirilmasi.
+- Çoxterefli qazma: bir bazadan bir neçe qoluñ müxtelif tebèqelere yönlendirilmesi.
+- ERD (Extended Reach Drilling) : MD/TVD nisbati en az 2:1 olan, lateral mesafesi böyük quyular.
+- ROP (Rate of Penetration) : qazmanin mexaniki irelileme sureti.
+- MSE (Mechanical Specific Energy) : bir vahid hecmede süxurun mehvì üçün teleb olunan energetik göstèricì.
+- WBM/OBM/ABM: su/neft/hava qazma mehlullari.
+- ECD (Equivalent Circulating Density): dövriyyè zamani quyu divarini tasir eden ekvivalent sιxlιq.
+
+Tèşèkkür
+
+Bu işdè istifade olunan sintetik melumatlarin modelleşdirilmesi ve çoxölçülü analizlerin qurulmasi üçün iştirak edèn mühendis-analitik komandalarin töhfesi deyerlidir.
+
+İstinad Notlari
+
+Buradaki neticeler sahe praktikasι, açιq texniki hesabatlarin sekundar tehlili ve genişmiqyasli sintetik simulyasiyalar esasinda formalasdirilmis ümumiləşdirilmiş çıxarişlardir.
